@@ -1,7 +1,20 @@
 {
     "status": "ok",
-    "totalResults": 1,
+    "totalResults": 2,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Official Announcement"
+            },
+            "author": "E-commerce Operations Manager",
+            "title": "WeChat Pay & Alipay Now Supported!",
+            "description": "Great news! We now officially support WeChat Pay and Alipay as payment methods. Enjoy a seamless checkout experience with your preferred Chinese payment platform.",
+            "url": "2",
+            "urlToImage": "https://images.toastduck.fun/Gemini_Generated_Image_thierothierothie.png",
+            "publishedAt": "2026-05-13T10:00:00.000Z",
+            "content": "<img src=\"https://images.toastduck.fun/5%E6%9C%8813%E6%97%A5.gif\"  style=\"width:100%;max-width:600px;padding-bottom: 1rem;\" /><h2>WeChat Pay & Alipay Now Available!</h2><p>We are thrilled to announce that our platform now officially supports <strong>WeChat Pay (微信支付)</strong> and <strong>Alipay (支付宝)</strong> as payment methods!</p><h3>What's New:</h3><ul><li>Pay with WeChat Pay directly at checkout</li><li>Pay with Alipay directly at checkout</li><li>Fast, secure, and convenient transactions</li><li>Supports both domestic and cross-border payments</li></ul><h3>How to Use:</h3><ol><li>Add items to your cart and proceed to checkout</li><li>Select WeChat Pay or Alipay as your payment method</li><li>Scan the QR code or confirm in your app</li><li>Payment confirmed — order placed instantly</li></ol><p>We are committed to providing more flexible payment options to serve our customers better. If you have any questions, please contact our customer support team.</p><p><em>Shop with ease, pay your way!</em></p>"
+        },
         {
             "source": {
                 "id": null,
