@@ -7,7 +7,7 @@ const Team = () => {
       name: "Ferris",
       position: "CEO, Founder",
       socialLinks: [
-        { icon: "fa-facebook", href: "https://www.facebook.com/share/1Ds7AwLaNN/" },
+        { icon: "fa-facebook", href: "https://www.facebook.com/profile.php?id=61572340576005" },
         ...socialLinks,
       ],
     },
@@ -30,7 +30,7 @@ const Team = () => {
       name: "Cassie",
       position: "Marketing Manager",
       socialLinks: [
-        { icon: "fa-facebook", href: "https://www.facebook.com/share/1KY6spaFtr/" },
+        { icon: "fa-facebook", href: "https://www.facebook.com/profile.php?id=61588692832933" },
         { icon: "fa-facebook", href: "https://www.facebook.com/share/1GdhtaFmfF/?mibextid=wwXIfr" },
         { icon: "fa-linkedin", href: "https://www.linkedin.com/in/cassie-huang-791537323/" },
         { icon: "fa-whatsapp", href: "https://wa.me/8613859190905" },
