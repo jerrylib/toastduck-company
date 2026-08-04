@@ -8,7 +8,8 @@ import {
   NewsDetail,
   Footer,
   Modal,
-  ProductList
+  ProductList,
+  Tmax
 } from './components';
 import './App.css';
 
@@ -38,6 +39,7 @@ function App() {
           <Route path="/news" element={<NewsList />} />
           <Route path="/news/:id" element={<NewsDetail />} />
           <Route path="/products" element={<ProductList />} />
+          <Route path="/products/tmax" element={<Tmax />} />
         </Routes>
         <Footer />
       </div>
