@@ -39,7 +39,7 @@ function App() {
           <Route path="/news" element={<NewsList />} />
           <Route path="/news/:id" element={<NewsDetail />} />
           <Route path="/products" element={<ProductList />} />
-          <Route path="/products/tmax" element={<Tmax />} />
+          <Route path="/products/:type" element={<Tmax />} />
         </Routes>
         <Footer />
       </div>

@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import {useNavigate } from 'react-router-dom';
+import PRODUCTS from '../config/products';
 
 const ProductList = () => {
   const [activeTab, setActiveTab] = useState('ABB');
@@ -23,8 +24,9 @@ const ProductList = () => {
       { model: 'OTM 20D / DPT / ATS', type: 'ATS' },
       { model: 'OTM 12D / 21D / 8D / 3D / 10D / 11D', type: 'ATS' },
       { model: 'DSP', type: 'Molded case circuit breaker' },
-      { model: 'XTmax', type: 'Molded case circuit breaker' },
-      { model: 'Tmax', type: 'Molded case circuit breaker', linkUrl: '/products/tmax' },
+      { model: 'TmaxXT', type: 'Molded case circuit breaker' },
+      { model: 'Tmax', type: 'Molded case circuit breaker'  },
+      { model: 'csv', type: 'Molded case circuit breaker' },
       { model: 'SH200', type: 'Miniature circuit breaker' },
       { model: 'SF200', type: 'Miniature circuit breaker' },
       { model: 'SE200', type: 'Miniature circuit breaker' },
@@ -155,7 +157,7 @@ const ProductList = () => {
                     index % 2 === 0 ? 'bg-gray-50' : 'bg-white'
                   } hover:bg-sky-50 transition-colors duration-150`}
                 >
-                  <td className={`px-4 py-3 text-sm md:text-base font-medium ${product.linkUrl ? 'text-blue-600 cursor-pointer underline' : 'text-gray-800'}`} onClick={() => handleClick(product.linkUrl)}>
+                  <td className={`px-4 py-3 text-sm md:text-base font-medium ${!!PRODUCTS[product.model] ? 'text-blue-600 cursor-pointer underline' : 'text-gray-800'}`} onClick={() => handleClick(product.model)}>
                     {product.model}
                   </td>
                   <td className="px-4 py-3 text-sm md:text-base text-gray-600">
