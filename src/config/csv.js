@@ -1,1193 +1,301 @@
-const csv = [
-  {
-    model: "CVS100F TM50D 3P3D",
-    price: "780.02",
-  },
-  {
-    model: "CVS100F TM100D 3P3D",
-    price: "780.02",
-  },
-  {
-    model: "CVS160F TM160D 3P3D",
-    price: "1024.49",
-  },
-  {
-    model: "CVS250F TM250D 3P3D",
-    price: "1843.78",
-  },
-  {
-    model: "CVS100N TM100D 3P3D",
-    price: "897.86",
-  },
-  {
-    model: "CVS100F TM80D 3P3D",
-    price: "780.02",
-  },
-  {
-    model: "CVS100F TM63D 3P3D",
-    price: "780.02",
-  },
-  {
-    model: "CVS160F TM125D 3P3D",
-    price: "1024.49",
-  },
-  {
-    model: "CVS100F TM100D 4P3D",
-    price: "1084.14",
-  },
-  {
-    model: "CVS160N TM160D 3P3D",
-    price: "1089.98",
-  },
-  {
-    model: "CVS250F TM200D 3P3D",
-    price: "1843.78",
-  },
-  {
-    model: "CVS100F TM25D 4P3D",
-    price: "1084.14",
-  },
-  {
-    model: "CVS400F TM400D 3P3D",
-    price: "3156.72",
-  },
-  {
-    model: "CVS250N TM250D 3P3D",
-    price: "2174.49",
-  },
-  {
-    model: "CVS250N TM200D 3P3D",
-    price: "2174.49",
-  },
-  {
-    model: "CVS400F TM320D 3P3D",
-    price: "3156.72",
-  },
-  {
-    model: "CVS100F TM25D 3P3D",
-    price: "780.02",
-  },
-  {
-    model: "CVS100F TM40D 3P3D",
-    price: "780.02",
-  },
-  {
-    model: "CVS250F TM200D 4P3D",
-    price: "2628.17",
-  },
-  {
-    model: "CVS100BS TM100 3P3D",
-    price: "640.29",
-  },
-  {
-    model: "CVS100N TM63D 3P3D",
-    price: "897.86",
-  },
-  {
-    model: "CVS100F TM16D 3P3D",
-    price: "780.02",
-  },
-  {
-    model: "CVS100F TM32D 3P3D",
-    price: "780.02",
-  },
-  {
-    model: "CVS100F TM50D 4P3D",
-    price: "1084.14",
-  },
-  {
-    model: "CVS100F TM32D 4P3D",
-    price: "1084.14",
-  },
-  {
-    model: "CVS100F TM63D 4P3D",
-    price: "1084.14",
-  },
-  {
-    model: "CVS100N TM32D 3P3D",
-    price: "897.86",
-  },
-  {
-    model: "CVS160B TM125D 3P3D",
-    price: "907.37",
-  },
-  {
-    model: "CVS100B TM100D 3P3D",
-    price: "725.41",
-  },
-  {
-    model: "CVS100BS TM80 3P3D",
-    price: "640.29",
-  },
-  {
-    model: "CVS400F MA320 3P3D",
-    price: "3463.19",
-  },
-  {
-    model: "CVS400F ETS 2.3 400A 3P3D",
-    price: "3417.61",
-  },
-  {
-    model: "CVS630F ETS 2.3 630A 3P3D",
-    price: "5989.15",
-  },
-  {
-    model: "CVS160F TM160D 4P3D",
-    price: "1322.79",
-  },
-  {
-    model: "CVS160F TM125D 4P3D",
-    price: "1322.79",
-  },
-  {
-    model: "CVS160N TM125D 3P3D",
-    price: "1089.98",
-  },
-  {
-    model: "CVS400N TM400D 3P3D",
-    price: "3678.26",
-  },
-  {
-    model: "CVS100N TM40D 3P3D",
-    price: "897.86",
-  },
-  {
-    model: "CVS250N MA220 3P3D",
-    price: "2327.31",
-  },
-  {
-    model: "CVS160F MA150 3P3D",
-    price: "1189.88",
-  },
-  {
-    model: "CVS100F MA50 3P3D",
-    price: "836.78",
-  },
-  {
-    model: "CVS250F MA220 3P3D",
-    price: "2024.49",
-  },
-  {
-    model: "CVS160B TM160D 3P3D",
-    price: "952.77",
-  },
-  {
-    model: "CVS250B TM200D 3P3D",
-    price: "1659.41",
-  },
-  {
-    model: "CVS630H TM600D 3P3D",
-    price: "6613.37",
-  },
-  {
-    model: "CVS100B TM80D 3P3D",
-    price: "725.41",
-  },
-  {
-    model: "CVS250B TM250D 3P3D",
-    price: "1659.41",
-  },
-  {
-    model: "CVS100F TM40D 3P3D P",
-    price: "1530.46",
-  },
-  {
-    model: "CVS250H TM200D 3P3D",
-    price: "2510.84",
-  },
-  {
-    model: "CVS400N TM320D 3P3D",
-    price: "3678.26",
-  },
-  {
-    model: "CVS250N TM250D 4P3D",
-    price: "2978.14",
-  },
-  {
-    model: "CVS400H TM320D 3P3D",
-    price: "3972.66",
-  },
-  {
-    model: "CVS400F ETS 2.3 400A 4P4D",
-    price: "4729.62",
-  },
-  {
-    model: "CVS100H TM32D 3P3D P",
-    price: "2454.44",
-  },
-  {
-    model: "CVS100N MA25 3P3D",
-    price: "978.49",
-  },
-  {
-    model: "CVS160H MA150 3P3D P",
-    price: "3110.35",
-  },
-  {
-    model: "CVS400N TM400D 3P3D P",
-    price: "5753.10",
-  },
-  {
-    model: "CVS160H TM100D 4P3D",
-    price: "2402.23",
-  },
-  {
-    model: "CVS100N TM40D 3P3D P",
-    price: "1646.04",
-  },
-  {
-    model: "CVS630H ETS 2.3 630A 4P4D",
-    price: "9394.36",
-  },
-  {
-    model: "CVS100B TM100D 3P3D P",
-    price: "1300.90",
-  },
-  {
-    model: "CVS100H TM25D 4P3D",
-    price: "2020.97",
-  },
-  {
-    model: "CVS100H TM16D 3P3D P",
-    price: "2454.44",
-  },
-  {
-    model: "CVS100B TM16D 3P3D P",
-    price: "1300.90",
-  },
-  {
-    model: "CVS630H TM600D 4P3D",
-    price: "8454.92",
-  },
-  {
-    model: "CVS100B TM32D 4P3D",
-    price: "877.63",
-  },
-  {
-    model: "CVS100N TM50D 3P3D P",
-    price: "1646.04",
-  },
-  {
-    model: "CVS250F TM200D 4P3D P",
-    price: "3840.37",
-  },
-  {
-    model: "CVS100E TM30D 3P3D P",
-    price: "1295.79",
-  },
-  {
-    model: "CVS100H TM100D 3P3D P",
-    price: "2454.44",
-  },
-  {
-    model: "CVS100N TM25D 4P3D",
-    price: "1180.18",
-  },
-  {
-    model: "CVS100H TM80D 3P3D",
-    price: "1403.20",
-  },
-  {
-    model: "CVS630H TM600D 3P3D P",
-    price: "8916.86",
-  },
-  {
-    model: "CVS100N TM80D 3P3D",
-    price: "897.86",
-  },
-  {
-    model: "CVS630H MA500 3P3D",
-    price: "5345.44",
-  },
-  {
-    model: "CVS160F TM100D 3P3D P",
-    price: "1812.10",
-  },
-  {
-    model: "CVS630N TM500D 3P3D",
-    price: "5535.94",
-  },
-  {
-    model: "CVS160N TM100D 3P3D",
-    price: "1089.98",
-  },
-  {
-    model: "CVS100B TM16D 3P3D",
-    price: "725.41",
-  },
-  {
-    model: "CVS100B TM100D 4P3D",
-    price: "877.63",
-  },
-  {
-    model: "CVS100B TM100D 4P3D P",
-    price: "1645.12",
-  },
-  {
-    model: "CVS100H MA6,3 3P3D",
-    price: "1142.19",
-  },
-  {
-    model: "CVS100E TM50D 3P3D",
-    price: "640.29",
-  },
-  {
-    model: "CVS160H TM100D 3P3D",
-    price: "1645.46",
-  },
-  {
-    model: "CVS400H TM320D 4P3D",
-    price: "5557.41",
-  },
-  {
-    model: "CVS100N TM80D 3P3D P",
-    price: "1646.04",
-  },
-  {
-    model: "CVS630N TM500D 4P3D",
-    price: "7533.92",
-  },
-  {
-    model: "CVS160N MA100 3P3D P",
-    price: "2505.59",
-  },
-  {
-    model: "CVS630F TM600D 3P3D P",
-    price: "7863.39",
-  },
-  {
-    model: "CVS100E TM30D 4P3D",
-    price: "845.40",
-  },
-  {
-    model: "CVS160B TM125D 4P3D",
-    price: "1171.60",
-  },
-  {
-    model: "CVS100H MA50 3P3D",
-    price: "1228.45",
-  },
-  {
-    model: "CVS100N MA50 3P3D P",
-    price: "2126.76",
-  },
-  {
-    model: "CVS160F MA100 3P3D P",
-    price: "2453.37",
-  },
-  {
-    model: "CVS100B TM50D 4P3D",
-    price: "877.63",
-  },
-  {
-    model: "CVS100E TM40D 3P3D",
-    price: "640.29",
-  },
-  {
-    model: "CVS250N TM250D 3P3D P",
-    price: "2965.74",
-  },
-  {
-    model: "CVS100H MA12,5 3P3D",
-    price: "1131.12",
-  },
-  {
-    model: "CVS630F ETS 2.3 630A 4P4D P",
-    price: "10645.99",
-  },
-  {
-    model: "CVS100E TM75D 3P3D",
-    price: "640.29",
-  },
-  {
-    model: "CVS100B TM40D 3P3D",
-    price: "725.41",
-  },
-  {
-    model: "LV510151",
-    price: "687.14",
-  },
-  {
-    model: "CVS100N MA25 3P3D P",
-    price: "2081.04",
-  },
-  {
-    model: "CVS100B TM32D 3P3D P",
-    price: "1300.90",
-  },
-  {
-    model: "CVS160N TM125D 3P3D P",
-    price: "1877.47",
-  },
-  {
-    model: "CVS630H ETS 2.3 630A 3P3D",
-    price: "7085.76",
-  },
-  {
-    model: "CVS100F TM16D 3P3D P",
-    price: "1530.46",
-  },
-  {
-    model: "CVS160F TM160D 4P3D P",
-    price: "2370.77",
-  },
-  {
-    model: "CVS160H TM125D 4P3D",
-    price: "2402.23",
-  },
-  {
-    model: "CVS630N TM600D 3P3D P",
-    price: "8184.78",
-  },
-  {
-    model: "CVS630N ETS 2.3 630A 4P4D P",
-    price: "11198.80",
-  },
-  {
-    model: "CVS100F MA50 3P3D P",
-    price: "1983.06",
-  },
-  {
-    model: "CVS100H TM32D 4P3D",
-    price: "2020.97",
-  },
-  {
-    model: "CVS100N MA2,5 3P3D",
-    price: "978.49",
-  },
-  {
-    model: "CVS400N TM400D 4P3D",
-    price: "5093.73",
-  },
-  {
-    model: "CVS160F TM100D 4P3D",
-    price: "1322.79",
-  },
-  {
-    model: "CVS630F TM500D 4P3D P",
-    price: "10619.38",
-  },
-  {
-    model: "CVS160F TM100D 3P3D",
-    price: "1024.49",
-  },
-  {
-    model: "CVS100F MA25 3P3D P",
-    price: "1943.86",
-  },
-  {
-    model: "CVS100F TM100D 3P3D P",
-    price: "1530.46",
-  },
-  {
-    model: "CVS160H TM160D 3P3D",
-    price: "1645.46",
-  },
-  {
-    model: "CVS630F TM600D 4P3D",
-    price: "7372.29",
-  },
-  {
-    model: "CVS250B TM200D 4P3D",
-    price: "2365.34",
-  },
-  {
-    model: "CVS400H ETS 2.3 400A 3P3D P",
-    price: "6145.86",
-  },
-  {
-    model: "CVS400H TM400D 3P3D",
-    price: "3972.66",
-  },
-  {
-    model: "CVS100H TM63D 3P3D",
-    price: "1403.20",
-  },
-  {
-    model: "CVS400N MA320 3P3D",
-    price: "3531.91",
-  },
-  {
-    model: "CVS160N MA100 3P3D",
-    price: "1399.91",
-  },
-  {
-    model: "CVS100H TM80D 4P3D",
-    price: "2020.97",
-  },
-  {
-    model: "CVS100N TM32D 4P3D",
-    price: "1180.18",
-  },
-  {
-    model: "CVS250H TM250D 4P3D",
-    price: "3582.54",
-  },
-  {
-    model: "CVS100N TM63D 3P3D P",
-    price: "1646.04",
-  },
-  {
-    model: "CVS100N MA50 3P3D",
-    price: "978.49",
-  },
-  {
-    model: "CVS630N ETS 2.3 630A 4P4D",
-    price: "8609.65",
-  },
-  {
-    model: "CVS160H MA100 3P3D",
-    price: "1567.36",
-  },
-  {
-    model: "CVS100N TM80D 4P3D",
-    price: "1180.18",
-  },
-  {
-    model: "CVS100H TM25D 3P3D",
-    price: "1403.20",
-  },
-  {
-    model: "CVS100B TM25D 3P3D P",
-    price: "1300.90",
-  },
-  {
-    model: "CVS250H TM250D 3P3D P",
-    price: "3327.94",
-  },
-  {
-    model: "CVS100B TM16D 4P3D",
-    price: "877.63",
-  },
-  {
-    model: "CVS250B TM200D 3P3D P",
-    price: "2425.58",
-  },
-  {
-    model: "CVS250F MA220 3P3D P",
-    price: "2806.77",
-  },
-  {
-    model: "CVS100F MA25 3P3D",
-    price: "836.78",
-  },
-  {
-    model: "CVS100N TM32D 3P3D P",
-    price: "1646.04",
-  },
-  {
-    model: "CVS100E TM20D 4P3D",
-    price: "845.40",
-  },
-  {
-    model: "CVS400N ETS 2.3 400A 3P3D",
-    price: "3871.83",
-  },
-  {
-    model: "CVS630H TM500D 3P3D",
-    price: "6298.45",
-  },
-  {
-    model: "CVS100E TM80D 4P3D",
-    price: "845.40",
-  },
-  {
-    model: "CVS160N TM100D 4P3D",
-    price: "1478.47",
-  },
-  {
-    model: "CVS100B TM80D 3P3D P",
-    price: "1300.90",
-  },
-  {
-    model: "CVS630F ETS 2.3 630A 4P4D",
-    price: "8172.17",
-  },
-  {
-    model: "CVS400N TM320D 3P3D P",
-    price: "5753.10",
-  },
-  {
-    model: "CVS100B TM63D 3P3D",
-    price: "725.41",
-  },
-  {
-    model: "CVS400F ETS 2.3 400A 3P3D P",
-    price: "5418.06",
-  },
-  {
-    model: "CVS100E TM15D 4P3D",
-    price: "845.40",
-  },
-  {
-    model: "CVS250F TM250D 4P3D",
-    price: "2628.17",
-  },
-  {
-    model: "CVS250H MA220 3P3D",
-    price: "2587.46",
-  },
-  {
-    model: "CVS400F TM320D 3P3D P",
-    price: "5464.54",
-  },
-  {
-    model: "CVS400F MA320 3P3D P",
-    price: "5240.21",
-  },
-  {
-    model: "CVS100N TM25D 3P3D",
-    price: "897.86",
-  },
-  {
-    model: "CVS250F TM250D 4P3D P",
-    price: "3840.37",
-  },
-  {
-    model: "CVS100N TM40D 4P3D P",
-    price: "2041.71",
-  },
-  {
-    model: "CVS100E TM50D 4P3D",
-    price: "845.40",
-  },
-  {
-    model: "CVS100B TM40D 4P3D",
-    price: "877.63",
-  },
-  {
-    model: "CVS100E TM20D 3P3D",
-    price: "640.29",
-  },
-  {
-    model: "CVS630F MA500 3P3D",
-    price: "5046.75",
-  },
-  {
-    model: "CVS250N TM200D 3P3D P",
-    price: "2965.74",
-  },
-  {
-    model: "CVS100E TM100D 3P3D P",
-    price: "1295.79",
-  },
-  {
-    model: "CVS100N MA12,5 3P3D P",
-    price: "2081.04",
-  },
-  {
-    model: "CVS630N MA500 3P3D P",
-    price: "6643.26",
-  },
-  {
-    model: "CVS100B TM50D 3P3D",
-    price: "725.41",
-  },
-  {
-    model: "CVS100H MA100 3P3D",
-    price: "1228.45",
-  },
-  {
-    model: "CVS100E TM25D 4P3D",
-    price: "845.40",
-  },
-  {
-    model: "CVS160B TM160D 4P3D",
-    price: "1230.20",
-  },
-  {
-    model: "CVS100N MA100 3P3D P",
-    price: "2126.76",
-  },
-  {
-    model: "CVS630F TM500D 4P3D",
-    price: "7021.22",
-  },
-  {
-    model: "CVS250H TM250D 3P3D",
-    price: "2510.84",
-  },
-  {
-    model: "CVS250N MA220 3P3D P",
-    price: "3156.49",
-  },
-  {
-    model: "CVS100H TM63D 4P3D",
-    price: "2020.97",
-  },
-  {
-    model: "CVS100F TM80D 3P3D P",
-    price: "1530.46",
-  },
-
-  {
-    model: "CVS400F TM400D 4P3D",
-    price: "4742.77",
-  },
-  {
-    model: "CVS400H MA320 3P3D P",
-    price: "5514.97",
-  },
-  {
-    model: "CVS100H TM32D 3P3D",
-    price: "1403.20",
-  },
-  {
-    model: "CVS100F MA12,5 3P3D P",
-    price: "1943.86",
-  },
-  {
-    model: "CVS100F MA100 3P3D P",
-    price: "1983.06",
-  },
-  {
-    model: "CVS100N TM63D 4P3D",
-    price: "1180.18",
-  },
-  {
-    model: "CVS100F MA2,5 3P3D",
-    price: "836.78",
-  },
-  {
-    model: "CVS100F TM25D 3P3D P",
-    price: "1530.46",
-  },
-  {
-    model: "CVS630F TM600D 4P3D P",
-    price: "10619.38",
-  },
-  {
-    model: "CVS100E TM75D 4P3D",
-    price: "845.40",
-  },
-  {
-    model: "CVS250B TM250D 3P3D P",
-    price: "2425.58",
-  },
-  {
-    model: "CVS160N TM160D 3P3D P",
-    price: "1877.47",
-  },
-  {
-    model: "CVS630H TM500D 3P3D P",
-    price: "8916.86",
-  },
-  {
-    model: "CVS160N TM160D 4P3D",
-    price: "1478.47",
-  },
-  {
-    model: "CVS100F TM80D 4P3D",
-    price: "1084.14",
-  },
-  {
-    model: "CVS100B TM63D 4P3D",
-    price: "877.63",
-  },
-  {
-    model: "CVS400H ETS 2.3 400A 3P3D",
-    price: "4148.81",
-  },
-  {
-    model: "CVS630N ETS 2.3 630A 3P3D P",
-    price: "8205.29",
-  },
-  {
-    model: "CVS100E TM15D 3P3D",
-    price: "640.29",
-  },
-  {
-    model: "CVS160N MA150 3P3D P",
-    price: "2766.88",
-  },
-  {
-    model: "CVS630N TM600D 4P3D",
-    price: "7910.64",
-  },
-  {
-    model: "CVS100N TM100D 3P3D P",
-    price: "1646.04",
-  },
-  {
-    model: "CVS100B TM40D 3P3D P",
-    price: "1300.90",
-  },
-  {
-    model: "CVS100B TM63D 3P3D P",
-    price: "1300.90",
-  },
-  {
-    model: "CVS100N TM50D 3P3D",
-    price: "897.86",
-  },
-  {
-    model: "CVS630F TM500D 3P3D",
-    price: "5030.90",
-  },
-  {
-    model: "CVS400N ETS 2.3 400A 3P3D P",
-    price: "5705.48",
-  },
-  {
-    model: "CVS250N TM200D 4P3D",
-    price: "2978.14",
-  },
-  {
-    model: "CVS100B TM32D 3P3D",
-    price: "725.41",
-  },
-  {
-    model: "CVS100H MA25 3P3D",
-    price: "1142.19",
-  },
-  {
-    model: "CVS100N TM16D 3P3D P",
-    price: "1646.04",
-  },
-  {
-    model: "CVS100B TM50D 3P3D P",
-    price: "1300.90",
-  },
-  {
-    model: "CVS400F TM400D 4P3D P",
-    price: "7472.93",
-  },
-  {
-    model: "CVS400N TM320D 4P3D",
-    price: "5093.73",
-  },
-  {
-    model: "CVS100H TM40D 4P3D",
-    price: "2020.97",
-  },
-  {
-    model: "CVS160H TM160D 4P3D",
-    price: "2522.34",
-  },
-  {
-    model: "CVS400N MA320 3P3D P",
-    price: "5308.92",
-  },
-  {
-    model: "CVS250H TM200D 4P3D",
-    price: "3582.54",
-  },
-  {
-    model: "CVS100N TM40D 4P3D",
-    price: "1180.18",
-  },
-  {
-    model: "CVS100N MA6,3 3P3D",
-    price: "978.49",
-  },
-  {
-    model: "CVS160F TM125D 3P3D P",
-    price: "1812.10",
-  },
-  {
-    model: "CVS100F TM16D 4P3D",
-    price: "1084.14",
-  },
-  {
-    model: "CVS160N MA150 3P3D",
-    price: "1469.89",
-  },
-  {
-    model: "CVS100H TM50D 3P3D",
-    price: "1403.20",
-  },
-  {
-    model: "CVS100N TM25D 4P3D P",
-    price: "2041.71",
-  },
-  {
-    model: "CVS160F TM160D 3P3D P",
-    price: "1812.10",
-  },
-  {
-    model: "CVS100H TM16D 4P3D",
-    price: "2020.97",
-  },
-  {
-    model: "CVS160N TM160D 4P3D P",
-    price: "2494.31",
-  },
-  {
-    model: "CVS160B TM125D 3P3D P",
-    price: "1652.98",
-  },
-  {
-    model: "CVS630F MA500 3P3D P",
-    price: "6569.92",
-  },
-  {
-    model: "CVS630F ETS 2.3 630A 3P3D P",
-    price: "7883.13",
-  },
-  {
-    model: "CVS250B TM250D 4P3D",
-    price: "2365.34",
-  },
-  {
-    model: "CVS400H MA320 3P3D",
-    price: "3698.59",
-  },
-  {
-    model: "CVS100N MA12,5 3P3D",
-    price: "978.49",
-  },
-  {
-    model: "CVS100F TM40D 4P3D",
-    price: "1084.14",
-  },
-  {
-    model: "CVS100N TM16D 4P3D",
-    price: "1180.18",
-  },
-  {
-    model: "CVS100H TM100D 3P3D",
-    price: "1403.20",
-  },
-  {
-    model: "CVS630F TM500D 3P3D P",
-    price: "7863.39",
-  },
-  {
-    model: "CVS630H TM500D 4P3D",
-    price: "8454.92",
-  },
-  {
-    model: "CVS100H TM50D 4P3D",
-    price: "2020.97",
-  },
-
-  {
-    model: "CVS400F TM400D 3P3D P",
-    price: "5464.54",
-  },
-  {
-    model: "CVS100F MA100 3P3D",
-    price: "836.78",
-  },
-  {
-    model: "CVS160H TM160D 3P3D P",
-    price: "2802.31",
-  },
-  {
-    model: "CVS160B TM100D 3P3D",
-    price: "907.37",
-  },
-  {
-    model: "CVS400H ETS 2.3 400A 4P4D",
-    price: "5961.52",
-  },
-  {
-    model: "CVS630H ETS 2.3 630A 3P3D P",
-    price: "9157.95",
-  },
-  {
-    model: "CVS100F TM50D 3P3D P",
-    price: "1530.46",
-  },
-  {
-    model: "CVS250F TM250D 3P3D P",
-    price: "2695.10",
-  },
-  {
-    model: "CVS100B TM80D 4P3D",
-    price: "877.63",
-  },
-  {
-    model: "CVS160H TM125D 3P3D",
-    price: "1645.46",
-  },
-  {
-    model: "CVS100E TM60D 3P3D",
-    price: "640.29",
-  },
-  {
-    model: "CVS160N TM100D 3P3D P",
-    price: "1877.47",
-  },
-  {
-    model: "CVS100E TM25D 3P3D",
-    price: "640.29",
-  },
-  {
-    model: "CVS100H MA2,5 3P3D",
-    price: "1142.19",
-  },
-  {
-    model: "CVS100B TM25D 3P3D",
-    price: "725.41",
-  },
-  {
-    model: "CVS630N TM500D 3P3D P",
-    price: "8184.78",
-  },
-  {
-    model: "CVS400H TM400D 4P3D",
-    price: "5557.41",
-  },
-  {
-    model: "CVS630F TM600D 3P3D",
-    price: "5030.90",
-  },
-  {
-    model: "CVS100N TM100D 4P3D P",
-    price: "2041.71",
-  },
-  {
-    model: "CVS160F MA150 3P3D P",
-    price: "2527.84",
-  },
-  {
-    model: "CVS100F MA6,3 3P3D",
-    price: "836.78",
-  },
-  {
-    model: "CVS100F TM100D 4P3D P",
-    price: "1935.46",
-  },
-  {
-    model: "CVS400F TM320D 4P3D",
-    price: "4742.77",
-  },
-  {
-    model: "CVS100N TM25D 3P3D P",
-    price: "1646.04",
-  },
-  {
-    model: "CVS100H TM40D 3P3D",
-    price: "1403.20",
-  },
-  {
-    model: "CVS400F ETS 2.3 400A 4P4D P",
-    price: "7097.34",
-  },
-  {
-    model: "CVS100N TM50D 4P3D",
-    price: "1180.18",
-  },
-  {
-    model: "CVS100E TM60D 3P3D P",
-    price: "1295.79",
-  },
-  {
-    model: "CVS100N MA100 3P3D",
-    price: "978.49",
-  },
-  {
-    model: "CVS630N ETS 2.3 630A 3P3D",
-    price: "6761.34",
-  },
-  {
-    model: "CVS100E TM60D 4P3D",
-    price: "845.40",
-  },
-  {
-    model: "CVS100H TM100D 4P3D",
-    price: "2020.97",
-  },
-  {
-    model: "CVS100BS TM100 4P3D",
-    price: "845.40",
-  },
-  {
-    model: "CVS100N TM100D 4P3D",
-    price: "1180.18",
-  },
-  {
-    model: "CVS100F MA12,5 3P3D",
-    price: "878.63",
-  },
-  {
-    model: "CVS100H TM16D 3P3D",
-    price: "1403.20",
-  },
-  {
-    model: "CVS100N MA6,3 3P3D P",
-    price: "2081.04",
-  },
-  {
-    model: "CVS160F MA100 3P3D",
-    price: "1189.88",
-  },
-  {
-    model: "CVS160B TM160D 3P3D P",
-    price: "1652.98",
-  },
-  {
-    model: "CVS630N TM600D 3P3D",
-    price: "5812.74",
-  },
-  {
-    model: "CVS100E TM30D 3P3D",
-    price: "640.29",
-  },
-  {
-    model: "CVS100N TM16D 3P3D",
-    price: "897.86",
-  },
-  {
-    model: "CVS250F TM200D 3P3D P",
-    price: "2695.10",
-  },
-  {
-    model: "CVS100F TM32D 3P3D P",
-    price: "1530.46",
-  },
-  {
-    model: "CVS160H MA150 3P3D",
-    price: "1645.74",
-  },
-  {
-    model: "CVS630N MA500 3P3D",
-    price: "5120.10",
-  },
-  {
-    model: "CVS400N ETS 2.3 400A 4P4D",
-    price: "5079.64",
-  },
-  {
-    model: "CVS160N TM125D 4P3D",
-    price: "1478.47",
-  },
-  {
-    model: "CVS100B TM25D 4P3D",
-    price: "877.63",
-  },
-  {
-    model: "CVS100F TM63D 3P3D P",
-    price: "1530.46",
-  },
-  {
-    model: "CVS160B TM160D 4P3D P",
-    price: "1851.72",
-  },
-  {
-    model: "CVS400H TM400D 3P3D P",
-    price: "6130.49",
-  },
-  {
-    model: "CVS160B TM100D 4P3D",
-    price: "1171.60",
-  },
-  {
-    model: "CVS100F MA6,3 3P3D P",
-    price: "1943.86",
-  },
-  {
-    model: "CVS100E TM40D 4P3D",
-    price: "845.40",
-  },
-  {
-    model: "LV563317",
-    price: "5987.14",
-  },
-  {
-    model: "LV530358",
-    price: "975.74",
-  },
+const csv = [{"orderId":"LV525333","model":"CVS250F TM250D 3P3D","price":"1843.78","showPrice":"1843.78","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A"},
+{"orderId":"LV510334","model":"CVS100F TM50D 3P3D","price":"780.02","showPrice":"780.02","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV510337","model":"CVS100F TM100D 3P3D","price":"780.02","showPrice":"780.02","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV516333","model":"CVS160F TM160D 3P3D","price":"1024.49","showPrice":"1024.49","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV510336","model":"CVS100F TM80D 3P3D","price":"780.02","showPrice":"780.02","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A"},
+{"orderId":"LV510335","model":"CVS100F TM63D 3P3D","price":"780.02","showPrice":"780.02","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A"},
+{"orderId":"LV540306","model":"CVS400F TM400D 3P3D","price":"3156.72","showPrice":"3156.72","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV510477","model":"CVS100N TM100D 3P3D","price":"897.86","showPrice":"897.86","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV516332","model":"CVS160F TM125D 3P3D","price":"1024.49","showPrice":"1024.49","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A"},
+{"orderId":"LV525453","model":"CVS250N TM250D 3P3D","price":"2174.49","showPrice":"2174.49","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A"},
+{"orderId":"LV525332","model":"CVS250F TM200D 3P3D","price":"1843.78","showPrice":"1843.78","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A"},
+{"orderId":"LV510347","model":"CVS100F TM100D 4P3D","price":"1084.14","showPrice":"1084.14","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV516343","model":"CVS160F TM160D 4P3D","price":"1322.79","showPrice":"1322.79","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV540305","model":"CVS400F TM320D 3P3D","price":"3156.72","showPrice":"3156.72","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A"},
+{"orderId":"LV516463","model":"CVS160N TM160D 3P3D","price":"1089.98","showPrice":"1089.98","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV510332","model":"CVS100F TM32D 3P3D","price":"780.02","showPrice":"780.02","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A"},
+{"orderId":"LV510307","model":"CVS100B TM100D 3P3D","price":"725.41","showPrice":"725.41","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV510330","model":"CVS100F TM16D 3P3D","price":"780.02","showPrice":"780.02","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A"},
+{"orderId":"LV510331","model":"CVS100F TM25D 3P3D","price":"780.02","showPrice":"780.02","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV510845","model":"CVS100BS TM100 3P3D","price":"640.29","showPrice":"640.29","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV525452","model":"CVS250N TM200D 3P3D","price":"2174.49","showPrice":"2174.49","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A"},
+{"orderId":"LV510344","model":"CVS100F TM50D 4P3D","price":"1084.14","showPrice":"1084.14","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV510475","model":"CVS100N TM63D 3P3D","price":"897.86","showPrice":"897.86","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A"},
+{"orderId":"LV510333","model":"CVS100F TM40D 3P3D","price":"780.02","showPrice":"780.02","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A"},
+{"orderId":"LV510445","model":"CVS100F MA100 3P3D","price":"836.78","showPrice":"836.78","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV510472","model":"CVS100N TM32D 3P3D","price":"897.86","showPrice":"897.86","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A"},
+{"orderId":"LV510476","model":"CVS100N TM80D 3P3D","price":"897.86","showPrice":"897.86","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A"},
+{"orderId":"LV516461","model":"CVS160N TM100D 3P3D","price":"1089.98","showPrice":"1089.98","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV510443","model":"CVS100F MA25 3P3D","price":"836.78","showPrice":"836.78","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV510844","model":"CVS100BS TM80 3P3D","price":"640.29","showPrice":"640.29","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A"},
+{"orderId":"LV540309","model":"CVS400F TM400D 4P3D","price":"4742.77","showPrice":"4742.77","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV563305","model":"CVS630F TM500D 3P3D","price":"5030.9","showPrice":"5030.9","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV540550","model":"CVS400F MA320 3P3D","price":"3463.19","showPrice":"3463.19","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A"},
+{"orderId":"LV563510","model":"CVS630N ETS 2.3 630A 3P3D","price":"6761.34","showPrice":"6761.34","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A"},
+{"orderId":"LV540505","model":"CVS400F ETS 2.3 400A 3P3D","price":"3417.61","showPrice":"3417.61","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV516303","model":"CVS160B TM160D 3P3D","price":"952.77","showPrice":"952.77","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV510841","model":"CVS100BS TM60D 3P3D","price":"640.29","showPrice":"640.29","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：60A"},
+{"orderId":"LV563505","model":"CVS630F ETS 2.3 630A 3P3D","price":"5989.15","showPrice":"5989.15","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A"},
+{"orderId":"LV510341","model":"CVS100F TM25D 4P3D","price":"1084.14","showPrice":"1084.14","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV525302","model":"CVS250B TM200D 3P3D","price":"1659.41","showPrice":"1659.41","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A"},
+{"orderId":"LV516342","model":"CVS160F TM125D 4P3D","price":"1322.79","showPrice":"1322.79","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A"},
+{"orderId":"LV525342","model":"CVS250F TM200D 4P3D","price":"2628.17","showPrice":"2628.17","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A"},
+{"orderId":"LV510313","model":"CVS100B TM40D 4P3D","price":"877.63","showPrice":"877.63","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A"},
+{"orderId":"LV510300","model":"CVS100B TM16D 3P3D","price":"725.41","showPrice":"725.41","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A"},
+{"orderId":"LV516462","model":"CVS160N TM125D 3P3D","price":"1089.98","showPrice":"1089.98","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A"},
+{"orderId":"LV540316","model":"CVS400N TM400D 3P3D","price":"3678.26","showPrice":"3678.26","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV516440","model":"CVS160F MA150 3P3D","price":"1189.88","showPrice":"1189.88","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：150A"},
+{"orderId":"LV510302","model":"CVS100B TM32D 3P3D","price":"725.41","showPrice":"725.41","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A"},
+{"orderId":"LV510444","model":"CVS100F MA50 3P3D","price":"836.78","showPrice":"836.78","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV510342","model":"CVS100F TM32D 4P3D","price":"1084.14","showPrice":"1084.14","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A"},
+{"orderId":"LV510304","model":"CVS100B TM50D 3P3D","price":"725.41","showPrice":"725.41","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV510346","model":"CVS100F TM80D 4P3D","price":"1084.14","showPrice":"1084.14","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A"},
+{"orderId":"LV516302","model":"CVS160B TM125D 3P3D","price":"907.37","showPrice":"907.37","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A"},
+{"orderId":"LV510473","model":"CVS100N TM40D 3P3D","price":"897.86","showPrice":"897.86","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A"},
+{"orderId":"LV525439","model":"CVS250F MA220 3P3D","price":"2024.49","showPrice":"2024.49","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：220A"},
+{"orderId":"LV510305","model":"CVS100B TM63D 3P3D","price":"725.41","showPrice":"725.41","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A"},
+{"orderId":"LV525303","model":"CVS250B TM250D 3P3D","price":"1659.41","showPrice":"1659.41","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A"},
+{"orderId":"LV510474","model":"CVS100N TM50D 3P3D","price":"897.86","showPrice":"897.86","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV510306","model":"CVS100B TM80D 3P3D","price":"725.41","showPrice":"725.41","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A"},
+{"orderId":"LV510345","model":"CVS100F TM63D 4P3D","price":"1084.14","showPrice":"1084.14","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A"},
+{"orderId":"LV510834","model":"CVS100E TM20D 3P3D","price":"640.29","showPrice":"640.29","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：20A"},
+{"orderId":"LV510485","model":"CVS100N TM63D 4P3D","price":"1180.18","showPrice":"1180.18","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A"},
+{"orderId":"LV510333P","model":"CVS100F TM40D 3P3D P","price":"1530.46","showPrice":"1530.46","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：40A"},
+{"orderId":"LV525467","model":"CVS250H TM200D 3P3D","price":"2510.84","showPrice":"2510.84","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A"},
+{"orderId":"LV510502P","model":"CVS100H TM32D 3P3D P","price":"2454.44","showPrice":"2454.44","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：32A"},
+{"orderId":"LV540325","model":"CVS400H TM320D 3P3D","price":"3972.66","showPrice":"3972.66","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A"},
+{"orderId":"LV540506","model":"CVS400F ETS 2.3 400A 4P4D","price":"4729.62","showPrice":"4729.62","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV563516","model":"CVS630H ETS 2.3 630A 4P4D","price":"9394.36","showPrice":"9394.36","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A"},
+{"orderId":"LV510473P","model":"CVS100N TM40D 3P3D P","price":"1646.04","showPrice":"1646.04","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：40A"},
+{"orderId":"LV516455P","model":"CVS160H MA150 3P3D P","price":"3110.35","showPrice":"3110.35","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：150A"},
+{"orderId":"LV540316P","model":"CVS400N TM400D 3P3D P","price":"5753.1","showPrice":"5753.1","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV510453","model":"CVS100N MA25 3P3D","price":"978.49","showPrice":"978.49","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV516481","model":"CVS160H TM100D 4P3D","price":"2402.23","showPrice":"2402.23","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV510307P","model":"CVS100B TM100D 3P3D P","price":"1300.9","showPrice":"1300.9","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV510511","model":"CVS100H TM25D 4P3D","price":"2020.97","showPrice":"2020.97","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV510500P","model":"CVS100H TM16D 3P3D P","price":"2454.44","showPrice":"2454.44","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：16A"},
+{"orderId":"LV510312","model":"CVS100B TM32D 4P3D","price":"877.63","showPrice":"877.63","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A"},
+{"orderId":"LV510300P","model":"CVS100B TM16D 3P3D P","price":"1300.9","showPrice":"1300.9","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：16A"},
+{"orderId":"LV563329","model":"CVS630H TM600D 4P3D","price":"8454.92","showPrice":"8454.92","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：600A"},
+{"orderId":"LV510836P","model":"CVS100E TM30D 3P3D P","price":"1295.79","showPrice":"1295.79","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：30A"},
+{"orderId":"LV563326P","model":"CVS630H TM600D 3P3D P","price":"8916.86","showPrice":"8916.86","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：600A"},
+{"orderId":"LV510481","model":"CVS100N TM25D 4P3D","price":"1180.18","showPrice":"1180.18","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV510507P","model":"CVS100H TM100D 3P3D P","price":"2454.44","showPrice":"2454.44","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV510474P","model":"CVS100N TM50D 3P3D P","price":"1646.04","showPrice":"1646.04","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV510506","model":"CVS100H TM80D 3P3D","price":"1403.2","showPrice":"1403.2","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A"},
+{"orderId":"LV525342P","model":"CVS250F TM200D 4P3D P","price":"3840.37","showPrice":"3840.37","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A"},
+{"orderId":"LV525442","model":"CVS250N MA220 3P3D","price":"2327.31","showPrice":"2327.31","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：220A"},
+{"orderId":"LV563554","model":"CVS630H MA500 3P3D","price":"5345.44","showPrice":"5345.44","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV563315","model":"CVS630N TM500D 3P3D","price":"5535.94","showPrice":"5535.94","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV516331P","model":"CVS160F TM100D 3P3D P","price":"1812.1","showPrice":"1812.1","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV510317P","model":"CVS100B TM100D 4P3D P","price":"1645.12","showPrice":"1645.12","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV510317","model":"CVS100B TM100D 4P3D","price":"877.63","showPrice":"877.63","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV510461","model":"CVS100H MA6,3 3P3D","price":"1142.19","showPrice":"1142.19","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：6.3A"},
+{"orderId":"LV510840","model":"CVS100E TM50D 3P3D","price":"640.29","showPrice":"640.29","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV516476","model":"CVS160H TM100D 3P3D","price":"1645.46","showPrice":"1645.46","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV540328","model":"CVS400H TM320D 4P3D","price":"5557.41","showPrice":"5557.41","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A"},
+{"orderId":"LV563318","model":"CVS630N TM500D 4P3D","price":"7533.92","showPrice":"7533.92","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV510476P","model":"CVS100N TM80D 3P3D P","price":"1646.04","showPrice":"1646.04","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：80A"},
+{"orderId":"LV510464","model":"CVS100H MA50 3P3D","price":"1228.45","showPrice":"1228.45","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV510454P","model":"CVS100N MA50 3P3D P","price":"2126.76","showPrice":"2126.76","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV510314","model":"CVS100B TM50D 4P3D","price":"877.63","showPrice":"877.63","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV563306P","model":"CVS630F TM600D 3P3D P","price":"7863.39","showPrice":"7863.39","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：600A"},
+{"orderId":"LV516439P","model":"CVS160F MA100 3P3D P","price":"2453.37","showPrice":"2453.37","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV516450P","model":"CVS160N MA100 3P3D P","price":"2505.59","showPrice":"2505.59","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV510854","model":"CVS100E TM30D 4P3D","price":"845.4","showPrice":"845.4","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：30A"},
+{"orderId":"LV510838","model":"CVS100E TM40D 3P3D","price":"640.29","showPrice":"640.29","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A"},
+{"orderId":"LV516312","model":"CVS160B TM125D 4P3D","price":"1171.6","showPrice":"1171.6","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A"},
+{"orderId":"LV525453P","model":"CVS250N TM250D 3P3D P","price":"2965.74","showPrice":"2965.74","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A"},
+{"orderId":"LV510462","model":"CVS100H MA12,5 3P3D","price":"1131.12","showPrice":"1131.12","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：12.5A"},
+{"orderId":"LV510843","model":"CVS100E TM75D 3P3D","price":"640.29","showPrice":"640.29","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：75A"},
+{"orderId":"LV563506P","model":"CVS630F ETS 2.3 630A 4P4D P","price":"10645.99","showPrice":"10645.99","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：630A"},
+{"orderId":"LV510151","model":"LV510151","price":"687.14","showPrice":"687.14","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：底板安装 | 额定电流：125A | 额定电压：AC440V"},
+{"orderId":"LV510303","model":"CVS100B TM40D 3P3D","price":"725.41","showPrice":"725.41","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A"},
+{"orderId":"LV510302P","model":"CVS100B TM32D 3P3D P","price":"1300.9","showPrice":"1300.9","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：32A"},
+{"orderId":"LV510453P","model":"CVS100N MA25 3P3D P","price":"2081.04","showPrice":"2081.04","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV516482","model":"CVS160H TM125D 4P3D","price":"2402.23","showPrice":"2402.23","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A"},
+{"orderId":"LV510330P","model":"CVS100F TM16D 3P3D P","price":"1530.46","showPrice":"1530.46","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：16A"},
+{"orderId":"LV510450","model":"CVS100N MA2,5 3P3D","price":"978.49","showPrice":"978.49","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：2.5A"},
+{"orderId":"LV510512","model":"CVS100H TM32D 4P3D","price":"2020.97","showPrice":"2020.97","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A"},
+{"orderId":"LV516341","model":"CVS160F TM100D 4P3D","price":"1322.79","showPrice":"1322.79","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV540319","model":"CVS400N TM400D 4P3D","price":"5093.73","showPrice":"5093.73","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV516462P","model":"CVS160N TM125D 3P3D P","price":"1877.47","showPrice":"1877.47","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：125A"},
+{"orderId":"LV510444P","model":"CVS100F MA50 3P3D P","price":"1983.06","showPrice":"1983.06","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV563515","model":"CVS630H ETS 2.3 630A 3P3D","price":"7085.76","showPrice":"7085.76","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A"},
+{"orderId":"LV563316P","model":"CVS630N TM600D 3P3D P","price":"8184.78","showPrice":"8184.78","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：600A"},
+{"orderId":"LV563511P","model":"CVS630N ETS 2.3 630A 4P4D P","price":"11198.8","showPrice":"11198.8","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：630A"},
+{"orderId":"LV516343P","model":"CVS160F TM160D 4P3D P","price":"2370.77","showPrice":"2370.77","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV563309","model":"CVS630F TM600D 4P3D","price":"7372.29","showPrice":"7372.29","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：600A"},
+{"orderId":"LV510337P","model":"CVS100F TM100D 3P3D P","price":"1530.46","showPrice":"1530.46","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV516478","model":"CVS160H TM160D 3P3D","price":"1645.46","showPrice":"1645.46","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV510443P","model":"CVS100F MA25 3P3D P","price":"1943.86","showPrice":"1943.86","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV516331","model":"CVS160F TM100D 3P3D","price":"1024.49","showPrice":"1024.49","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV563308P","model":"CVS630F TM500D 4P3D P","price":"10619.38","showPrice":"10619.38","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV525312","model":"CVS250B TM200D 4P3D","price":"2365.34","showPrice":"2365.34","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A"},
+{"orderId":"LV510482","model":"CVS100N TM32D 4P3D","price":"1180.18","showPrice":"1180.18","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A"},
+{"orderId":"LV510516","model":"CVS100H TM80D 4P3D","price":"2020.97","showPrice":"2020.97","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A"},
+{"orderId":"LV516450","model":"CVS160N MA100 3P3D","price":"1399.91","showPrice":"1399.91","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV510505","model":"CVS100H TM63D 3P3D","price":"1403.2","showPrice":"1403.2","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A"},
+{"orderId":"LV525473","model":"CVS250H TM250D 4P3D","price":"3582.54","showPrice":"3582.54","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A"},
+{"orderId":"LV540326","model":"CVS400H TM400D 3P3D","price":"3972.66","showPrice":"3972.66","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV540515P","model":"CVS400H ETS 2.3 400A 3P3D P","price":"6145.86","showPrice":"6145.86","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV540552","model":"CVS400N MA320 3P3D","price":"3531.91","showPrice":"3531.91","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A"},
+{"orderId":"LV510454","model":"CVS100N MA50 3P3D","price":"978.49","showPrice":"978.49","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV510301P","model":"CVS100B TM25D 3P3D P","price":"1300.9","showPrice":"1300.9","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV516454","model":"CVS160H MA100 3P3D","price":"1567.36","showPrice":"1567.36","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV510486","model":"CVS100N TM80D 4P3D","price":"1180.18","showPrice":"1180.18","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A"},
+{"orderId":"LV510475P","model":"CVS100N TM63D 3P3D P","price":"1646.04","showPrice":"1646.04","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：63A"},
+{"orderId":"LV510852","model":"CVS100E TM20D 4P3D","price":"845.4","showPrice":"845.4","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：20A"},
+{"orderId":"LV510501","model":"CVS100H TM25D 3P3D","price":"1403.2","showPrice":"1403.2","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV563511","model":"CVS630N ETS 2.3 630A 4P4D","price":"8609.65","showPrice":"8609.65","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A"},
+{"orderId":"LV540315P","model":"CVS400N TM320D 3P3D P","price":"5753.1","showPrice":"5753.1","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：320A"},
+{"orderId":"LV510862","model":"CVS100E TM80D 4P3D","price":"845.4","showPrice":"845.4","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A"},
+{"orderId":"LV510310","model":"CVS100B TM16D 4P3D","price":"877.63","showPrice":"877.63","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A"},
+{"orderId":"LV563506","model":"CVS630F ETS 2.3 630A 4P4D","price":"8172.17","showPrice":"8172.17","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A"},
+{"orderId":"LV510472P","model":"CVS100N TM32D 3P3D P","price":"1646.04","showPrice":"1646.04","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：32A"},
+{"orderId":"LV563325","model":"CVS630H TM500D 3P3D","price":"6298.45","showPrice":"6298.45","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV525302P","model":"CVS250B TM200D 3P3D P","price":"2425.58","showPrice":"2425.58","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A"},
+{"orderId":"LV525439P","model":"CVS250F MA220 3P3D P","price":"2806.77","showPrice":"2806.77","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：220A"},
+{"orderId":"LV525468P","model":"CVS250H TM250D 3P3D P","price":"3327.94","showPrice":"3327.94","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A"},
+{"orderId":"LV516466","model":"CVS160N TM100D 4P3D","price":"1478.47","showPrice":"1478.47","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV540510","model":"CVS400N ETS 2.3 400A 3P3D","price":"3871.83","showPrice":"3871.83","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV525445","model":"CVS250H MA220 3P3D","price":"2587.46","showPrice":"2587.46","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：220A"},
+{"orderId":"LV510306P","model":"CVS100B TM80D 3P3D P","price":"1300.9","showPrice":"1300.9","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：80A"},
+{"orderId":"LV510471","model":"CVS100N TM25D 3P3D","price":"897.86","showPrice":"897.86","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV540505P","model":"CVS400F ETS 2.3 400A 3P3D P","price":"5418.06","showPrice":"5418.06","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV525343","model":"CVS250F TM250D 4P3D","price":"2628.17","showPrice":"2628.17","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A"},
+{"orderId":"LV510850","model":"CVS100E TM15D 4P3D","price":"845.4","showPrice":"845.4","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：15A"},
+{"orderId":"LV540550P","model":"CVS400F MA320 3P3D P","price":"5240.21","showPrice":"5240.21","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：320A"},
+{"orderId":"LV510483P","model":"CVS100N TM40D 4P3D P","price":"2041.71","showPrice":"2041.71","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：40A"},
+{"orderId":"LV525343P","model":"CVS250F TM250D 4P3D P","price":"3840.37","showPrice":"3840.37","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A"},
+{"orderId":"LV510452P","model":"CVS100N MA12,5 3P3D P","price":"2081.04","showPrice":"2081.04","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：12.5A"},
+{"orderId":"LV510858","model":"CVS100E TM50D 4P3D","price":"845.4","showPrice":"845.4","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV563552P","model":"CVS630N MA500 3P3D P","price":"6643.26","showPrice":"6643.26","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV510845P","model":"CVS100E TM100D 3P3D P","price":"1295.79","showPrice":"1295.79","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV563550","model":"CVS630F MA500 3P3D","price":"5046.75","showPrice":"5046.75","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV525452P","model":"CVS250N TM200D 3P3D P","price":"2965.74","showPrice":"2965.74","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A"},
+{"orderId":"LV510455P","model":"CVS100N MA100 3P3D P","price":"2126.76","showPrice":"2126.76","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV510853","model":"CVS100E TM25D 4P3D","price":"845.4","showPrice":"845.4","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV516313","model":"CVS160B TM160D 4P3D","price":"1230.2","showPrice":"1230.2","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV510465","model":"CVS100H MA100 3P3D","price":"1228.45","showPrice":"1228.45","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV563308","model":"CVS630F TM500D 4P3D","price":"7021.22","showPrice":"7021.22","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV510515","model":"CVS100H TM63D 4P3D","price":"2020.97","showPrice":"2020.97","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A"},
+{"orderId":"LV525442P","model":"CVS250N MA220 3P3D P","price":"3156.49","showPrice":"3156.49","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：220A"},
+{"orderId":"LV540315","model":"CVS400N TM320D 3P3D","price":"3678.26","showPrice":"3678.26","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A"},
+{"orderId":"LV525468","model":"CVS250H TM250D 3P3D","price":"2510.84","showPrice":"2510.84","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A"},
+{"orderId":"LV510336P","model":"CVS100F TM80D 3P3D P","price":"1530.46","showPrice":"1530.46","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：80A"},
+{"orderId":"LV510442P","model":"CVS100F MA12,5 3P3D P","price":"1943.86","showPrice":"1943.86","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：12.5A"},
+{"orderId":"LV540515","model":"CVS400H ETS 2.3 400A 3P3D","price":"4148.81","showPrice":"4148.81","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV510331P","model":"CVS100F TM25D 3P3D P","price":"1530.46","showPrice":"1530.46","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV510502","model":"CVS100H TM32D 3P3D","price":"1403.2","showPrice":"1403.2","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A"},
+{"orderId":"LV563309P","model":"CVS630F TM600D 4P3D P","price":"10619.38","showPrice":"10619.38","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：600A"},
+{"orderId":"LV510861","model":"CVS100E TM75D 4P3D","price":"845.4","showPrice":"845.4","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：75A"},
+{"orderId":"LV516463P","model":"CVS160N TM160D 3P3D P","price":"1877.47","showPrice":"1877.47","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV540554P","model":"CVS400H MA320 3P3D P","price":"5514.97","showPrice":"5514.97","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：320A"},
+{"orderId":"LV563510P","model":"CVS630N ETS 2.3 630A 3P3D P","price":"8205.29","showPrice":"8205.29","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：630A"},
+{"orderId":"LV510440","model":"CVS100F MA2,5 3P3D","price":"836.78","showPrice":"836.78","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：2.5A"},
+{"orderId":"LV563326","model":"CVS630H TM600D 3P3D","price":"6613.37","showPrice":"6613.37","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：600A"},
+{"orderId":"LV510315","model":"CVS100B TM63D 4P3D","price":"877.63","showPrice":"877.63","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A"},
+{"orderId":"LV525303P","model":"CVS250B TM250D 3P3D P","price":"2425.58","showPrice":"2425.58","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A"},
+{"orderId":"LV510305P","model":"CVS100B TM63D 3P3D P","price":"1300.9","showPrice":"1300.9","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：63A"},
+{"orderId":"LV510445P","model":"CVS100F MA100 3P3D P","price":"1983.06","showPrice":"1983.06","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV516468","model":"CVS160N TM160D 4P3D","price":"1478.47","showPrice":"1478.47","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV563325P","model":"CVS630H TM500D 3P3D P","price":"8916.86","showPrice":"8916.86","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV510303P","model":"CVS100B TM40D 3P3D P","price":"1300.9","showPrice":"1300.9","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：40A"},
+{"orderId":"LV516451P","model":"CVS160N MA150 3P3D P","price":"2766.88","showPrice":"2766.88","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：150A"},
+{"orderId":"LV563319","model":"CVS630N TM600D 4P3D","price":"7910.64","showPrice":"7910.64","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：600A"},
+{"orderId":"LV525457","model":"CVS250N TM200D 4P3D","price":"2978.14","showPrice":"2978.14","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A"},
+{"orderId":"LV510477P","model":"CVS100N TM100D 3P3D P","price":"1646.04","showPrice":"1646.04","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV510832","model":"CVS100E TM15D 3P3D","price":"640.29","showPrice":"640.29","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：15A"},
+{"orderId":"LV510304P","model":"CVS100B TM50D 3P3D P","price":"1300.9","showPrice":"1300.9","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV510463","model":"CVS100H MA25 3P3D","price":"1142.19","showPrice":"1142.19","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV540510P","model":"CVS400N ETS 2.3 400A 3P3D P","price":"5705.48","showPrice":"5705.48","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV540309P","model":"CVS400F TM400D 4P3D P","price":"7472.93","showPrice":"7472.93","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV510470P","model":"CVS100N TM16D 3P3D P","price":"1646.04","showPrice":"1646.04","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：16A"},
+{"orderId":"LV540318","model":"CVS400N TM320D 4P3D","price":"5093.73","showPrice":"5093.73","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A"},
+{"orderId":"LV510513","model":"CVS100H TM40D 4P3D","price":"2020.97","showPrice":"2020.97","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A"},
+{"orderId":"LV516483","model":"CVS160H TM160D 4P3D","price":"2522.34","showPrice":"2522.34","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV540552P","model":"CVS400N MA320 3P3D P","price":"5308.92","showPrice":"5308.92","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：320A"},
+{"orderId":"LV510481P","model":"CVS100N TM25D 4P3D P","price":"2041.71","showPrice":"2041.71","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV510340","model":"CVS100F TM16D 4P3D","price":"1084.14","showPrice":"1084.14","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A"},
+{"orderId":"LV525472","model":"CVS250H TM200D 4P3D","price":"3582.54","showPrice":"3582.54","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A"},
+{"orderId":"LV510451","model":"CVS100N MA6,3 3P3D","price":"978.49","showPrice":"978.49","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：6.3A"},
+{"orderId":"LV516332P","model":"CVS160F TM125D 3P3D P","price":"1812.1","showPrice":"1812.1","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：125A"},
+{"orderId":"LV510504","model":"CVS100H TM50D 3P3D","price":"1403.2","showPrice":"1403.2","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV510483","model":"CVS100N TM40D 4P3D","price":"1180.18","showPrice":"1180.18","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A"},
+{"orderId":"LV525313","model":"CVS250B TM250D 4P3D","price":"2365.34","showPrice":"2365.34","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A"},
+{"orderId":"LV516451","model":"CVS160N MA150 3P3D","price":"1469.89","showPrice":"1469.89","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：150A"},
+{"orderId":"LV510452","model":"CVS100N MA12,5 3P3D","price":"978.49","showPrice":"978.49","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：12.5A"},
+{"orderId":"LV510510","model":"CVS100H TM16D 4P3D","price":"2020.97","showPrice":"2020.97","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A"},
+{"orderId":"LV563550P","model":"CVS630F MA500 3P3D P","price":"6569.92","showPrice":"6569.92","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV516302P","model":"CVS160B TM125D 3P3D P","price":"1652.98","showPrice":"1652.98","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：125A"},
+{"orderId":"LV516468P","model":"CVS160N TM160D 4P3D P","price":"2494.31","showPrice":"2494.31","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV563305P","model":"CVS630F TM500D 3P3D P","price":"7863.39","showPrice":"7863.39","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV510480","model":"CVS100N TM16D 4P3D","price":"1180.18","showPrice":"1180.18","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A"},
+{"orderId":"LV563328","model":"CVS630H TM500D 4P3D","price":"8454.92","showPrice":"8454.92","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV510507","model":"CVS100H TM100D 3P3D","price":"1403.2","showPrice":"1403.2","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV510514","model":"CVS100H TM50D 4P3D","price":"2020.97","showPrice":"2020.97","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV510343","model":"CVS100F TM40D 4P3D","price":"1084.14","showPrice":"1084.14","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A"},
+{"orderId":"LV510334P","model":"CVS100F TM50D 3P3D P","price":"1530.46","showPrice":"1530.46","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV510316","model":"CVS100B TM80D 4P3D","price":"877.63","showPrice":"877.63","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A"},
+{"orderId":"LV516478P","model":"CVS160H TM160D 3P3D P","price":"2802.31","showPrice":"2802.31","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV540306P","model":"CVS400F TM400D 3P3D P","price":"5464.54","showPrice":"5464.54","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV540516","model":"CVS400H ETS 2.3 400A 4P4D","price":"5961.52","showPrice":"5961.52","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV516301","model":"CVS160B TM100D 3P3D","price":"907.37","showPrice":"907.37","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV525333P","model":"CVS250F TM250D 3P3D P","price":"2695.1","showPrice":"2695.1","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A"},
+{"orderId":"LV563515P","model":"CVS630H ETS 2.3 630A 3P3D P","price":"9157.95","showPrice":"9157.95","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：630A"},
+{"orderId":"LV510301","model":"CVS100B TM25D 3P3D","price":"725.41","showPrice":"725.41","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV563315P","model":"CVS630N TM500D 3P3D P","price":"8184.78","showPrice":"8184.78","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV516477","model":"CVS160H TM125D 3P3D","price":"1645.46","showPrice":"1645.46","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A"},
+{"orderId":"LV516461P","model":"CVS160N TM100D 3P3D P","price":"1877.47","showPrice":"1877.47","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV563306","model":"CVS630F TM600D 3P3D","price":"5030.9","showPrice":"5030.9","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：600A"},
+{"orderId":"LV540329","model":"CVS400H TM400D 4P3D","price":"5557.41","showPrice":"5557.41","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV540506P","model":"CVS400F ETS 2.3 400A 4P4D P","price":"7097.34","showPrice":"7097.34","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV510441","model":"CVS100F MA6,3 3P3D","price":"836.78","showPrice":"836.78","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：6.3A"},
+{"orderId":"LV510471P","model":"CVS100N TM25D 3P3D P","price":"1646.04","showPrice":"1646.04","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV510835","model":"CVS100E TM25D 3P3D","price":"640.29","showPrice":"640.29","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV510347P","model":"CVS100F TM100D 4P3D P","price":"1935.46","showPrice":"1935.46","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV510487P","model":"CVS100N TM100D 4P3D P","price":"2041.71","showPrice":"2041.71","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV510460","model":"CVS100H MA2,5 3P3D","price":"1142.19","showPrice":"1142.19","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：2.5A"},
+{"orderId":"LV516440P","model":"CVS160F MA150 3P3D P","price":"2527.84","showPrice":"2527.84","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：150A"},
+{"orderId":"LV510841P","model":"CVS100E TM60D 3P3D P","price":"1295.79","showPrice":"1295.79","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：60A"},
+{"orderId":"LV540308","model":"CVS400F TM320D 4P3D","price":"4742.77","showPrice":"4742.77","remark":"系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A"},
+{"orderId":"LV510484","model":"CVS100N TM50D 4P3D","price":"1180.18","showPrice":"1180.18","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A"},
+{"orderId":"LV510503","model":"CVS100H TM40D 3P3D","price":"1403.2","showPrice":"1403.2","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A"},
+{"orderId":"LV510455","model":"CVS100N MA100 3P3D","price":"978.49","showPrice":"978.49","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV510859","model":"CVS100E TM60D 4P3D","price":"845.4","showPrice":"845.4","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：60A"},
+{"orderId":"LV510517","model":"CVS100H TM100D 4P3D","price":"2020.97","showPrice":"2020.97","remark":"系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV510863","model":"CVS100BS TM100 4P3D","price":"845.4","showPrice":"845.4","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV510442","model":"CVS100F MA12,5 3P3D","price":"878.63","showPrice":"878.63","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：12.5A"},
+{"orderId":"LV510451P","model":"CVS100N MA6,3 3P3D P","price":"2081.04","showPrice":"2081.04","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：6.3A"},
+{"orderId":"LV510500","model":"CVS100H TM16D 3P3D","price":"1403.2","showPrice":"1403.2","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A"},
+{"orderId":"LV510487","model":"CVS100N TM100D 4P3D","price":"1180.18","showPrice":"1180.18","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A"},
+{"orderId":"LV516303P","model":"CVS160B TM160D 3P3D P","price":"1652.98","showPrice":"1652.98","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV516439","model":"CVS160F MA100 3P3D","price":"1189.88","showPrice":"1189.88","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV510332P","model":"CVS100F TM32D 3P3D P","price":"1530.46","showPrice":"1530.46","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：32A"},
+{"orderId":"LV563552","model":"CVS630N MA500 3P3D","price":"5120.1","showPrice":"5120.1","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A"},
+{"orderId":"LV516455","model":"CVS160H MA150 3P3D","price":"1645.74","showPrice":"1645.74","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：150A"},
+{"orderId":"LV510470","model":"CVS100N TM16D 3P3D","price":"897.86","showPrice":"897.86","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A"},
+{"orderId":"LV563316","model":"CVS630N TM600D 3P3D","price":"5812.74","showPrice":"5812.74","remark":"系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：600A"},
+{"orderId":"LV510836","model":"CVS100E TM30D 3P3D","price":"640.29","showPrice":"640.29","remark":"系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：30A"},
+{"orderId":"LV525332P","model":"CVS250F TM200D 3P3D P","price":"2695.1","showPrice":"2695.1","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A"},
+{"orderId":"LV540511","model":"CVS400N ETS 2.3 400A 4P4D","price":"5079.64","showPrice":"5079.64","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV516313P","model":"CVS160B TM160D 4P3D P","price":"1851.72","showPrice":"1851.72","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV516467","model":"CVS160N TM125D 4P3D","price":"1478.47","showPrice":"1478.47","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A"},
+{"orderId":"LV510335P","model":"CVS100F TM63D 3P3D P","price":"1530.46","showPrice":"1530.46","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：63A"},
+{"orderId":"LV540326P","model":"CVS400H TM400D 3P3D P","price":"6130.49","showPrice":"6130.49","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A"},
+{"orderId":"LV510311","model":"CVS100B TM25D 4P3D","price":"877.63","showPrice":"877.63","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A"},
+{"orderId":"LV510441P","model":"CVS100F MA6,3 3P3D P","price":"1943.86","showPrice":"1943.86","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：6.3A"},
+{"orderId":"LV516311","model":"CVS160B TM100D 4P3D","price":"1171.6","showPrice":"1171.6","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A"},
+{"orderId":"LV563307","model":"LV563307","price":"5181.81","showPrice":"5181.81","remark":"系列：CVS | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 额定电流：630A | 额定电压：AC400V"},
+{"orderId":"LV510856","model":"CVS100E TM40D 4P3D","price":"845.4","showPrice":"845.4","remark":"系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A"},
+{"orderId":"LV516333P","model":"CVS160F TM160D 3P3D P","price":"1812.1","showPrice":"1812.1","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：160A"},
+{"orderId":"LV540305P","model":"CVS400F TM320D 3P3D P","price":"5464.54","showPrice":"5464.54","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：320A"},
+{"orderId":"LV540554","model":"CVS400H MA320 3P3D","price":"3698.59","showPrice":"3698.59","remark":"系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A"},
+{"orderId":"LV525458","model":"CVS250N TM250D 4P3D","price":"2978.14","showPrice":"2978.14","remark":"系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A"},
+{"orderId":"LV563505P","model":"CVS630F ETS 2.3 630A 3P3D P","price":"7883.13","showPrice":"7883.13","remark":"系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：630A"},
+{"orderId":"LV563317","model":"LV563317","price":"5987.14","showPrice":"5987.14","remark":"系列：CVS | 极数：3P"},
+{"orderId":"LV530316","model":"LV530316","price":"631.82","showPrice":"631.82","remark":"系列：CVS | 极数：3P | 额定电流：63 A"},
+{"orderId":"LV530358","model":"LV530358","price":"975.74","showPrice":"975.74","remark":"系列：CVS | 极数：4P | 额定电流：100 A"},
 ];
 export default csv;

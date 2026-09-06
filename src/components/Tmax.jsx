@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, useNavigate } from 'react-router-dom';
 import PRODUCTS from '../config/products';
 
 const formatPrice = (value) =>
@@ -7,64 +7,20 @@ const formatPrice = (value) =>
 
 const Tmax = () => {
   const { type } = useParams();
-  const items = useMemo(() => PRODUCTS[type] || [], [type]);
-  const seriesList = useMemo(
-    () => ['All', ...Array.from(new Set(items.map((i) => i.series))).sort()],
-    [items]
-  );
-
-  const [query, setQuery] = useState('');
-  const [series, setSeries] = useState('All');
-  const [sortBy, setSortBy] = useState('model');
-  const [sortDir, setSortDir] = useState('asc');
-
-  const filtered = useMemo(() => {
-    const q = query.trim().toLowerCase();
-    const list = items.filter((item) => {
-      const matchSeries = series === 'All' || item.series === series;
-      const matchQuery =
-        !q ||
-        item.model.toLowerCase().includes(q) ||
-        item.spec.toLowerCase().includes(q);
-      return matchSeries && matchQuery;
-    });
-
-    const dir = sortDir === 'asc' ? 1 : -1;
-    list.sort((a, b) => {
-      if (sortBy === 'price') return (a.price - b.price) * dir;
-      if (sortBy === 'model') return a.model.localeCompare(b.model) * dir;
-      return a.spec.localeCompare(b.spec) * dir;
-    });
-    return list;
-  }, [items, query, series, sortBy, sortDir]);
-
-  const stats = useMemo(() => {
-    if (filtered.length === 0) return { min: 0, max: 0, avg: 0 };
-    const prices = filtered.map((i) => i.price);
-    return {
-      min: Math.min(...prices),
-      max: Math.max(...prices),
-      avg: prices.reduce((s, p) => s + p, 0) / prices.length,
-    };
-  }, [filtered]);
-
-  const toggleSort = (key) => {
-    if (sortBy === key) {
-      setSortDir(sortDir === 'asc' ? 'desc' : 'asc');
-    } else {
-      setSortBy(key);
-      setSortDir('asc');
-    }
-  };
+  const navigate = useNavigate();
+  const filtered = useMemo(() => PRODUCTS[type] || [], [type]);
 
   return (
     <section className="section-lg bg-default mt-[30px]">
       <div className="container mx-auto px-4">
         {/* Header */}
-        <div className="text-center mb-8">
-          <p className="text-gray-500 text-sm md:text-base">
-            Reference price list · Unit: RMB / pcs
-          </p>
+        <div className="text-left mb-8">
+          <button className="group inline-flex items-center text-sm font-medium text-gray-500 hover:text-gray-900 transition-colors" onClick={() => navigate('/products')}>
+            <svg className="w-4 h-4 mr-1.5 transition-transform duration-200 group-hover:-translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+            </svg>
+            Back
+          </button>
         </div>
 
         {/* Table */}
@@ -72,6 +28,11 @@ const Tmax = () => {
           <table className="w-full border-collapse bg-white shadow-lg rounded-lg overflow-hidden">
             <thead>
               <tr className="bg-sky-700 text-white">
+                <th
+                  className="px-4 py-3 text-left text-sm md:text-base font-semibold cursor-pointer hover:bg-sky-800 transition-colors select-none"
+                >
+                  OrderId
+                </th>
                 <th
                   className="px-4 py-3 text-left text-sm md:text-base font-semibold cursor-pointer hover:bg-sky-800 transition-colors select-none"
                 >
@@ -85,18 +46,12 @@ const Tmax = () => {
                 <th
                   className="px-4 py-3 text-right text-sm md:text-base font-semibold cursor-pointer hover:bg-sky-800 transition-colors select-none whitespace-nowrap"
                 >
-                  Price (RMB)
+                  Price (RMB/pcs)
                 </th>
               </tr>
             </thead>
             <tbody>
-              {filtered.length === 0 ? (
-                <tr>
-                  <td colSpan={3} className="px-4 py-12 text-center text-gray-400">
-                    No matching items. Try a different keyword or series.
-                  </td>
-                </tr>
-              ) : (
+              {
                 filtered.map((item, index) => (
                   <tr
                     key={`${item.model}-${item.spec}-${index}`}
@@ -104,21 +59,27 @@ const Tmax = () => {
                       index % 2 === 0 ? 'bg-gray-50' : 'bg-white'
                     } hover:bg-sky-50 transition-colors duration-150`}
                   >
+                    <td className="px-4 py-3 text-sm md:text-base text-gray-600 font-mono">
+                      {item.orderId}
+                    </td>
                     <td className="px-4 py-3 text-sm md:text-base font-semibold text-gray-800 whitespace-nowrap">
                       {item.model}
                     </td>
                     <td className="px-4 py-3 text-sm md:text-base text-gray-600 font-mono">
-                      {item.spec}
+                      {item.remark?.split('|').map((line, idx) => (
+                        <div key={idx} className="whitespace-nowrap">
+                          {line.trim()}
+                        </div>
+                      ))}
                     </td>
                     <td className="px-4 py-3 text-sm md:text-base text-right whitespace-nowrap">
                       <span className="font-bold text-rose-600">
-                        ¥{formatPrice(item.price)}
+                        {formatPrice(item.price || item.showPrice)}
                       </span>
-                      <span className="text-xs text-gray-400 ml-1">/pcs</span>
                     </td>
                   </tr>
                 ))
-              )}
+              }
             </tbody>
           </table>
         </div>
