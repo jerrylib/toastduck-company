@@ -18,6 +18,7 @@ import CDM1 from "./cdm1";
 import CDM3S from "./cdm3s";
 import CDM3LS from "./cdm3ls";
 import CDM3E from "./cdm3e";
+import s71200 from "./s7-1200";
 
 export default {
   Tmax,
@@ -39,5 +40,6 @@ export default {
   CDM1,
   CDM3S,
   CDM3LS,
-  CDM3E
+  CDM3E,
+  'S7-1200': s71200,
 };

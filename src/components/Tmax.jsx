@@ -31,6 +31,11 @@ const Tmax = () => {
                 <th
                   className="px-4 py-3 text-left text-sm md:text-base font-semibold cursor-pointer hover:bg-sky-800 transition-colors select-none"
                 >
+                  Thumbnail
+                </th>
+                <th
+                  className="px-4 py-3 text-left text-sm md:text-base font-semibold cursor-pointer hover:bg-sky-800 transition-colors select-none"
+                >
                   OrderId
                 </th>
                 <th
@@ -59,6 +64,9 @@ const Tmax = () => {
                       index % 2 === 0 ? 'bg-gray-50' : 'bg-white'
                     } hover:bg-sky-50 transition-colors duration-150`}
                   >
+                    <td className="px-4 py-3 text-sm md:text-base text-gray-600 font-mono">
+                      <img src={item.url} alt="thumbnail" />
+                    </td>
                     <td className="px-4 py-3 text-sm md:text-base text-gray-600 font-mono">
                       {item.orderId}
                     </td>
