@@ -3,7 +3,7 @@ import {useNavigate } from 'react-router-dom';
 import PRODUCTS from '../config/products';
 
 const ProductList = () => {
-  const [activeTab, setActiveTab] = useState('Chint');
+  const [activeTab, setActiveTab] = useState('Siemens');
   const navigate = useNavigate();
 
   const brands = ['Chint', 'DELIXI', 'ABB', 'Schneider', 'Siemens'];
@@ -41,7 +41,7 @@ const ProductList = () => {
       { model: 'S7-1200', type: 'PLC' },
       { model: 'S7-1200 G2', type: 'PLC' },
       { model: 'S7-200 SMART', type: 'PLC' },
-      { model: 'S7-200 SMART G2', type: 'PLC' },
+      // { model: 'S7-200 SMART G2', type: 'PLC' },
       { model: 'S7-1500', type: 'PLC' },
       { model: 'S7-300', type: 'PLC' },
       { model: 'S7-400', type: 'PLC' },
