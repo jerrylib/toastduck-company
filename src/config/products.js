@@ -19,6 +19,12 @@ import CDM3S from "./cdm3s";
 import CDM3LS from "./cdm3ls";
 import CDM3E from "./cdm3e";
 import s71200 from "./s7-1200";
+import s71200G2 from "./s7-1200-g2";
+import s71500 from "./s7-1500";
+import plc1500 from "./plc-1500";
+import s7200smart from "./s7-200-smart";
+import s7300 from "./s7-300";
+import s7400 from "./s7-400";
 
 export default {
   Tmax,
@@ -41,5 +47,11 @@ export default {
   CDM3S,
   CDM3LS,
   CDM3E,
-  'S7-1200': s71200,
+  "S7-1200": s71200,
+  "S7-1200 G2": s71200G2,
+  "S7-1500": s71500,
+  "PLC-1500": plc1500,
+  "S7-200 SMART": s7200smart,
+  "S7-300": s7300,
+  "S7-400": s7400,
 };
