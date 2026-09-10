@@ -299,7 +299,7 @@ const list = [
     showPrice: "9369.24",
     remark:
       "系列：S7-1500 | 产品类型：输入模块 | 数字量输入点数：16 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：DC24V",
-    url: "https://image3.vipmro.net/goodsImg/0!450450.jpg",
+    url: "",
   },
   {
     orderId: "6ES75152FN030AB0",
@@ -324,7 +324,7 @@ const list = [
     showPrice: "40204.92",
     remark:
       "系列：S7-1500 | 产品类型：CPU 1515T-2 PN (运动控制型) | I/O总点数：无集成I/O | 电源电压：DC24V | 通讯接口：PROFINET IRT , PROFINET RT",
-    url: "https://image3.vipmro.net/goodsImg/0!450450.jpg",
+    url: "",
   },
   {
     orderId: "6ES75511AB010AB0",
@@ -402,7 +402,7 @@ const list = [
     price: "10774.63",
     showPrice: "10774.63",
     remark: "系列：S7-1500",
-    url: "https://image3.vipmro.net/goodsImg/0!450450.jpg",
+    url: "",
   },
   {
     orderId: "6ES75101SJ010AB0",
@@ -420,7 +420,7 @@ const list = [
     showPrice: "152751.74",
     remark:
       "系列：S7-1500 | 电源电压：DC24V | 通讯接口：PROFINET,PROFIBUS,以太网,RS485 | 最大扩展模块数量：32 | 最大扩展机架数：- | 程序容量：6MB | 数据容量：20MB",
-    url: "https://image3.vipmro.net/goodsImg/0!450450.jpg",
+    url: "",
   },
   {
     orderId: "6ES75317PF000AB0",

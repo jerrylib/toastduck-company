@@ -46,7 +46,7 @@ const list = [
     price: "959.78",
     showPrice: "959.78",
     remark: "系列：S7-1200 G2 | 数字量输入点数：8 | 数字量输出点数：8",
-    url: "https://image3.vipmro.net/goodsImg/0!450450.jpg",
+    url: "",
   },
   {
     orderId: "6ES72121AG500XB0",
