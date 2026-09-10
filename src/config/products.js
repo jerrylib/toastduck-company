@@ -25,8 +25,45 @@ import plc1500 from "./plc-1500";
 import s7200smart from "./s7-200-smart";
 import s7300 from "./s7-300";
 import s7400 from "./s7-400";
+import acs880 from "./acs880";
+import acs580 from "./acs580";
+import acs550 from "./acs550";
+import acs530 from "./acs530";
+import acs510 from "./acs510";
+import acs380 from "./acs380";
+import acs180 from "./acs180";
+import atv12 from "./atv12";
+import atv320 from "./atv320";
+import atv610 from "./atv610";
+import atv212 from "./atv212";
+import atv310a from "./atv310a";
+import atv310e from "./atv310e";
+import atv340 from "./atv340";
+import atv630 from "./atv630";
+
+import atv600 from "./atv600";
+import ATV900 from "./atv900";
+import ATV930 from "./atv930";
 
 export default {
+  ATV310A: atv310a,
+  ATV630: atv630,
+  ATV310E: atv310e,
+  ATV900,
+  ATV930,
+  ATV600: atv600,
+  ATV12: atv12,
+  ATV320: atv320,
+  ATV340: atv340,
+  ATV610: atv610,
+  ATV212: atv212,
+  ACS180: acs180,
+  ACS380: acs380,
+  ACS510: acs510,
+  ACS530: acs530,
+  ACS880: acs880,
+  ACS580: acs580,
+  ACS550: acs550,
   Tmax,
   "Tmax XT": TmaxXT,
   CVS,

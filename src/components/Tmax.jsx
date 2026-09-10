@@ -1,9 +1,19 @@
-import React, { useMemo, useState } from 'react';
+import React, { useMemo } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import PRODUCTS from '../config/products';
 
-const formatPrice = (value) =>
-  value.toLocaleString('zh-CN', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const formatPrice = (price, showPrice) => {
+  let value = price
+  if(price !== showPrice){
+    return <span className='font-bold text-rose-600'>
+      {showPrice.toLocaleString('zh-CN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}&nbsp;&nbsp;
+      <span className='text-gray-500 line-through'>{price.toLocaleString('zh-CN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+        </span>
+      </span>
+  }
+  return <span className='font-bold text-rose-600'>{value.toLocaleString('zh-CN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</span>
+}
+  
 
 const Tmax = () => {
   const { type } = useParams();
@@ -81,9 +91,7 @@ const Tmax = () => {
                       ))}
                     </td>
                     <td className="px-4 py-3 text-sm md:text-base text-right whitespace-nowrap">
-                      <span className="font-bold text-rose-600">
-                        {formatPrice(item.price || item.showPrice)}
-                      </span>
+                      {formatPrice(item.price, item.showPrice)}
                     </td>
                   </tr>
                 ))

@@ -3,7 +3,7 @@ import {useNavigate } from 'react-router-dom';
 import PRODUCTS from '../config/products';
 
 const ProductList = () => {
-  const [activeTab, setActiveTab] = useState('Siemens');
+  const [activeTab, setActiveTab] = useState('Schneider');
   const navigate = useNavigate();
 
   const brands = ['Chint', 'DELIXI', 'ABB', 'Schneider', 'Siemens'];
@@ -29,10 +29,82 @@ const ProductList = () => {
       { model: 'Tmax', type: 'Molded case circuit breaker'  },
       { model: 'Formula', type: 'Molded case circuit breaker' },
       { model: 'Formula M', type: 'Molded case circuit breaker' },
+    {
+        "model": "ACS880",
+        "type": "VFD"
+    },
+    {
+        "model": "ACS580",
+        "type": "VFD"
+    },
+    {
+        "model": "ACS550",
+        "type": "VFD"
+    },
+    {
+        "model": "ACS530",
+        "type": "VFD"
+    },
+    {
+        "model": "ACS510",
+        "type": "VFD"
+    },
+    {
+        "model": "ACS180",
+        "type": "VFD"
+    },
+    {
+        "model": "ACS380",
+        "type": "VFD"
+    }
     ],
     Schneider: [
       { model: 'CVS', type: 'Molded case circuit breaker' },
       { model: 'LC1D', type: 'AC contactor' },
+    {
+        "model": "ATV12",
+        "type": "VFD"
+    },
+    {
+        "model": "ATV610",
+        "type": "VFD"
+    },
+    {
+        "model": "ATV320",
+        "type": "VFD"
+    },
+    {
+        "model": "ATV600",
+        "type": "VFD"
+    },
+    {
+        "model": "ATV340",
+        "type": "VFD"
+    },
+    {
+        "model": "ATV900",
+        "type": "VFD"
+    },
+    {
+        "model": "ATV630",
+        "type": "VFD"
+    },
+    {
+        "model": "ATV930",
+        "type": "VFD"
+    },
+    {
+        "model": "ATV310A",
+        "type": "VFD"
+    },
+    {
+        "model": "ATV212",
+        "type": "VFD"
+    },
+    {
+        "model": "ATV310E",
+        "type": "VFD"
+    }
     ],
     Siemens: [
       { model: '3TS' },
