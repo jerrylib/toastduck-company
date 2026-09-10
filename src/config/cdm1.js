@@ -3,7 +3,7 @@ const list = [
     orderId: "CDM1100L1003",
     model: "CDM1-125L/3300 100A",
     price: "471",
-    showPrice: "471",
+    showPrice: "152.25",
     remark:
       "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
   },
@@ -11,7 +11,7 @@ const list = [
     orderId: "CDM1225L1603",
     model: "CDM1-250L/3300 160A",
     price: "761",
-    showPrice: "761",
+    showPrice: "256.9",
     remark:
       "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
   },
