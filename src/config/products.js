@@ -40,16 +40,26 @@ import atv310a from "./atv310a";
 import atv310e from "./atv310e";
 import atv340 from "./atv340";
 import atv630 from "./atv630";
-
 import atv600 from "./atv600";
 import ATV900 from "./atv900";
 import ATV930 from "./atv930";
-
 import MGM from "./mgm";
 import MHM from "./mhm";
 import MINASA6 from "./minis-a6";
+import NXB63 from "./nxb-63";
+import NB1_63 from "./nb1-63";
+import NB1_63DC from "./nb1-63dc";
+import NB7 from "./nb7";
+import NXB125 from "./nxb-125";
+import nb1_63h from "./nb1-63h";
 
 export default {
+  "NXB-63": NXB63,
+  "NB1-63": NB1_63,
+  "NB1-63DC": NB1_63DC,
+  "NXB-125": NXB125,
+  "NB1-63H": nb1_63h,
+  NB7,
   MGM,
   MHM,
   "MINAS A6": MINASA6,

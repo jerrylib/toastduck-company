@@ -16,6 +16,12 @@ const ProductList = () => {
       { model: 'DZ15', type: 'Molded case circuit breaker' },
       { model: 'DZ20', type: 'Molded case circuit breaker' },
       { model: 'NXMS', type: 'Molded case circuit breaker' },
+      { model: 'NXB-63', type: 'Miniature circuit breaker' },
+      { model: 'NB1-63', type: 'Miniature circuit breaker' },
+      { model: 'NB1-63DC', type: 'Miniature circuit breaker' },
+      { model: 'NB7', type: 'Miniature circuit breaker' },
+      { model: 'NXB-125', type: 'Miniature circuit breaker' },
+      { model: 'NB1-63H', type: 'Miniature circuit breaker' },
     ],
     DELIXI:[
       { model: 'CDM1', type: 'Molded case circuit breaker' },
