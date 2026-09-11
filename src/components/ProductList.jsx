@@ -3,10 +3,10 @@ import {useNavigate } from 'react-router-dom';
 import PRODUCTS from '../config/products';
 
 const ProductList = () => {
-  const [activeTab, setActiveTab] = useState('Schneider');
+  const [activeTab, setActiveTab] = useState('Chint');
   const navigate = useNavigate();
 
-  const brands = ['Chint', 'DELIXI', 'ABB', 'Schneider', 'Siemens'];
+  const brands = ['Chint', 'DELIXI', 'ABB', 'Schneider', 'Siemens', 'Panasonic'];
 
   const productData = {
     Chint:[
@@ -119,7 +119,11 @@ const ProductList = () => {
       { model: 'S7-400', type: 'PLC' },
       { model: 'PLC-1500', type: 'PLC' },
     ],
-    
+    Panasonic:[
+      {model: 'MINAS A6', type: 'Servo motor'},
+      {model: 'MGM', type: 'Servo motor'},
+      {model: 'MHM', type: 'Servo motor'}
+    ]
   };
 
   const handleClick = (url) => {
