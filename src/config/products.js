@@ -45,7 +45,14 @@ import atv600 from "./atv600";
 import ATV900 from "./atv900";
 import ATV930 from "./atv930";
 
+import MGM from "./mgm";
+import MHM from "./mhm";
+import MINASA6 from "./minis-a6";
+
 export default {
+  MGM,
+  MHM,
+  "MINAS A6": MINASA6,
   ATV310A: atv310a,
   ATV630: atv630,
   ATV310E: atv310e,
