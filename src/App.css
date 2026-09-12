@@ -38,4 +38,40 @@
       height: 50px;
     }
   }
+
+  .ui-to-top-whatsapp {
+    position: fixed;
+    right: 40px;
+    bottom: 155px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 20;
+    transition: 0.3s all ease;
+    color: #fff;
+    background: rgb(33, 192, 99);
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+  }
+
+  .ui-to-top-whatsapp:hover {
+    color: #fff;
+    background: rgb(33, 192, 99, 69%);
+  }
+
+  .ui-to-top-whatsapp:focus {
+    outline: 0;
+  }
+
+  @media (max-width: 575.98px) {
+    .ui-to-top-whatsapp {
+      right: 15px;
+      bottom: 75px;
+      width: 50px;
+      height: 50px;
+    }
+  }
 }
