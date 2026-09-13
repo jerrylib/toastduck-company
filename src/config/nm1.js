@@ -5,7 +5,7 @@ const list = [
     price: "450",
     showPrice: "225.24",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600006556",
@@ -13,7 +13,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710053600006674",
@@ -21,7 +21,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710053600006678",
@@ -29,7 +29,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600005591",
@@ -37,7 +37,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "710053600006555",
@@ -45,7 +45,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021161300600",
@@ -53,7 +53,7 @@ const list = [
     price: "2523",
     showPrice: "2523",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "710053600006676",
@@ -61,7 +61,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021141300400",
@@ -69,7 +69,7 @@ const list = [
     price: "1814",
     showPrice: "1814",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600006677",
@@ -77,7 +77,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：255A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 255A",
   },
   {
     orderId: "710021100001746",
@@ -85,7 +85,7 @@ const list = [
     price: "1697",
     showPrice: "1697",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600006554",
@@ -93,7 +93,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710053600005579",
@@ -101,7 +101,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "710053600007281",
@@ -109,7 +109,7 @@ const list = [
     price: "474",
     showPrice: "474",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "710053600005568",
@@ -117,7 +117,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "710053600006685",
@@ -125,7 +125,7 @@ const list = [
     price: "962",
     showPrice: "962",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710021112431100",
@@ -133,7 +133,7 @@ const list = [
     price: "664",
     showPrice: "664",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710053600005583",
@@ -141,7 +141,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "710053600006673",
@@ -149,7 +149,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021161300500",
@@ -157,7 +157,7 @@ const list = [
     price: "2523",
     showPrice: "2523",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "710021141300315",
@@ -165,7 +165,7 @@ const list = [
     price: "1814",
     showPrice: "1814",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710053600006637",
@@ -173,7 +173,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710021112431063",
@@ -181,7 +181,7 @@ const list = [
     price: "664",
     showPrice: "664",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710053600000300",
@@ -189,7 +189,7 @@ const list = [
     price: "3376",
     showPrice: "3376",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "710021122500200",
@@ -197,7 +197,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021112431032",
@@ -205,7 +205,7 @@ const list = [
     price: "664",
     showPrice: "664",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "710053600005587",
@@ -213,7 +213,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "710021100001748",
@@ -221,7 +221,7 @@ const list = [
     price: "1697",
     showPrice: "1697",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710021141300350",
@@ -229,7 +229,7 @@ const list = [
     price: "1814",
     showPrice: "1814",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "710053600006681",
@@ -237,7 +237,7 @@ const list = [
     price: "962",
     showPrice: "962",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电压：-",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | 额定电压：-",
   },
   {
     orderId: "710053600006636",
@@ -245,7 +245,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710053600006683",
@@ -253,7 +253,7 @@ const list = [
     price: "962",
     showPrice: "962",
     remark:
-      "系列：NM1 | 极数：4P | 安装方式：固定式 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 4P | 安装方式：固定式 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021141300250",
@@ -261,7 +261,7 @@ const list = [
     price: "1814",
     showPrice: "1814",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710053600006553",
@@ -269,7 +269,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710021112431080",
@@ -277,7 +277,7 @@ const list = [
     price: "664",
     showPrice: "664",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021122300200",
@@ -285,7 +285,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710053600001796",
@@ -293,7 +293,7 @@ const list = [
     price: "2460",
     showPrice: "2460",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600002756",
@@ -301,7 +301,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600007322",
@@ -309,7 +309,7 @@ const list = [
     price: "460",
     showPrice: "460",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600010892",
@@ -317,7 +317,7 @@ const list = [
     price: "2309",
     showPrice: "2309",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600010502",
@@ -325,7 +325,7 @@ const list = [
     price: "810",
     showPrice: "810",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710021182300800",
@@ -333,7 +333,7 @@ const list = [
     price: "3655",
     showPrice: "3655",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "710021162300600",
@@ -341,7 +341,7 @@ const list = [
     price: "2753",
     showPrice: "2753",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "710053600005576",
@@ -349,7 +349,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 安装方式：固定式 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: NM1 | Number of poles: 3P | 安装方式：固定式 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "710021122300160",
@@ -357,7 +357,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021122431160",
@@ -365,7 +365,7 @@ const list = [
     price: "1110",
     showPrice: "1110",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021112300100",
@@ -373,7 +373,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021122378125",
@@ -381,7 +381,7 @@ const list = [
     price: "1174",
     showPrice: "1174",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710053600006635",
@@ -389,7 +389,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710053600006377",
@@ -397,7 +397,7 @@ const list = [
     price: "435",
     showPrice: "435",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "710053600007510",
@@ -405,7 +405,7 @@ const list = [
     price: "586",
     showPrice: "586",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710053600002236",
@@ -413,7 +413,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600006684",
@@ -421,7 +421,7 @@ const list = [
     price: "962",
     showPrice: "962",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710021122300225",
@@ -429,7 +429,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710021142300250",
@@ -437,7 +437,7 @@ const list = [
     price: "2119",
     showPrice: "2119",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710021100001747",
@@ -445,7 +445,7 @@ const list = [
     price: "1697",
     showPrice: "1697",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "710021161300400",
@@ -453,7 +453,7 @@ const list = [
     price: "2523",
     showPrice: "2523",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "710053600006551",
@@ -461,7 +461,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "710021122300125",
@@ -469,7 +469,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710053600002167",
@@ -477,7 +477,7 @@ const list = [
     price: "9497",
     showPrice: "9497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "710021141700400",
@@ -485,7 +485,7 @@ const list = [
     price: "2585",
     showPrice: "2585",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710021141002400",
@@ -493,7 +493,7 @@ const list = [
     price: "2096",
     showPrice: "2096",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600006898",
@@ -501,7 +501,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "710021141700350",
@@ -509,7 +509,7 @@ const list = [
     price: "2585",
     showPrice: "2585",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "710053600001795",
@@ -517,7 +517,7 @@ const list = [
     price: "2460",
     showPrice: "2460",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710053600002210",
@@ -525,7 +525,7 @@ const list = [
     price: "594",
     showPrice: "594",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710021161700630",
@@ -533,7 +533,7 @@ const list = [
     price: "3447",
     showPrice: "3447",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "710021142300350",
@@ -541,7 +541,7 @@ const list = [
     price: "2119",
     showPrice: "2119",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "710053600002839",
@@ -549,7 +549,7 @@ const list = [
     price: "664",
     showPrice: "664",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600002166",
@@ -557,7 +557,7 @@ const list = [
     price: "9497",
     showPrice: "9497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "710053600003208",
@@ -565,7 +565,7 @@ const list = [
     price: "3658",
     showPrice: "3658",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "710053600006487",
@@ -573,7 +573,7 @@ const list = [
     price: "388",
     showPrice: "388",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600006945",
@@ -581,7 +581,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710053600006900",
@@ -589,7 +589,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "710053600006567",
@@ -597,7 +597,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600006376",
@@ -605,7 +605,7 @@ const list = [
     price: "435",
     showPrice: "435",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "710053600006675",
@@ -613,7 +613,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710053600006940",
@@ -621,7 +621,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710053600006552",
@@ -629,7 +629,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710053600007660",
@@ -637,7 +637,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710053600006918",
@@ -645,7 +645,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710053600006476",
@@ -653,7 +653,7 @@ const list = [
     price: "388",
     showPrice: "388",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710053600010460",
@@ -661,7 +661,7 @@ const list = [
     price: "968",
     showPrice: "968",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710021141340352",
@@ -669,7 +669,7 @@ const list = [
     price: "2098",
     showPrice: "2098",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "710021122500125",
@@ -677,7 +677,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021122100125",
@@ -685,7 +685,7 @@ const list = [
     price: "594",
     showPrice: "594",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021112300032",
@@ -693,7 +693,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "710021141340317",
@@ -701,7 +701,7 @@ const list = [
     price: "2098",
     showPrice: "2098",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710021112740102",
@@ -709,7 +709,7 @@ const list = [
     price: "800",
     showPrice: "800",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021141340404",
@@ -717,7 +717,7 @@ const list = [
     price: "2098",
     showPrice: "2098",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710021141340402",
@@ -725,7 +725,7 @@ const list = [
     price: "2098",
     showPrice: "2098",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710021141310317",
@@ -733,7 +733,7 @@ const list = [
     price: "2016",
     showPrice: "2016",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710053600000298",
@@ -741,7 +741,7 @@ const list = [
     price: "3376",
     showPrice: "3376",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
   },
   {
     orderId: "710021122431200",
@@ -749,7 +749,7 @@ const list = [
     price: "1110",
     showPrice: "1110",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021112340102",
@@ -757,7 +757,7 @@ const list = [
     price: "633",
     showPrice: "633",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021112500100",
@@ -765,7 +765,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710053600000296",
@@ -773,7 +773,7 @@ const list = [
     price: "4990",
     showPrice: "4990",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "710021161500500",
@@ -781,7 +781,7 @@ const list = [
     price: "2523",
     showPrice: "2523",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "710021141500350",
@@ -789,7 +789,7 @@ const list = [
     price: "1814",
     showPrice: "1814",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "710021122340162",
@@ -797,7 +797,7 @@ const list = [
     price: "952",
     showPrice: "952",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021182300700",
@@ -805,7 +805,7 @@ const list = [
     price: "3655",
     showPrice: "3655",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：700A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 700A",
   },
   {
     orderId: "710021141310252",
@@ -813,7 +813,7 @@ const list = [
     price: "2016",
     showPrice: "2016",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710021122431180",
@@ -821,7 +821,7 @@ const list = [
     price: "1110",
     showPrice: "1110",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122300180",
@@ -829,7 +829,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021100002135",
@@ -837,7 +837,7 @@ const list = [
     price: "3754",
     showPrice: "3754",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "710021142300315",
@@ -845,7 +845,7 @@ const list = [
     price: "2119",
     showPrice: "2119",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710021122431125",
@@ -853,7 +853,7 @@ const list = [
     price: "1110",
     showPrice: "1110",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021122500160",
@@ -861,7 +861,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021112500080",
@@ -869,7 +869,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021112500063",
@@ -877,7 +877,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021141700250",
@@ -885,7 +885,7 @@ const list = [
     price: "2585",
     showPrice: "2585",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710021141310403",
@@ -893,7 +893,7 @@ const list = [
     price: "2016",
     showPrice: "2016",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710021112300050",
@@ -901,7 +901,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710021161500630",
@@ -909,7 +909,7 @@ const list = [
     price: "2523",
     showPrice: "2523",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "710021141500400",
@@ -917,7 +917,7 @@ const list = [
     price: "1814",
     showPrice: "1814",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710021141500250",
@@ -925,7 +925,7 @@ const list = [
     price: "1814",
     showPrice: "1814",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710021112740082",
@@ -933,7 +933,7 @@ const list = [
     price: "800",
     showPrice: "800",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021161340502",
@@ -941,7 +941,7 @@ const list = [
     price: "2807",
     showPrice: "2807",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "710021141700315",
@@ -949,7 +949,7 @@ const list = [
     price: "2585",
     showPrice: "2585",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710021112431025",
@@ -957,7 +957,7 @@ const list = [
     price: "664",
     showPrice: "664",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "710021182300630",
@@ -965,7 +965,7 @@ const list = [
     price: "3655",
     showPrice: "3655",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
   },
   {
     orderId: "710021112500050",
@@ -973,7 +973,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710021141340252",
@@ -981,7 +981,7 @@ const list = [
     price: "2098",
     showPrice: "2098",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710021141320400",
@@ -989,7 +989,7 @@ const list = [
     price: "1896",
     showPrice: "1896",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710021141200315",
@@ -997,7 +997,7 @@ const list = [
     price: "1814",
     showPrice: "1814",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710021100001802",
@@ -1005,7 +1005,7 @@ const list = [
     price: "2002",
     showPrice: "2002",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710021122100160",
@@ -1013,7 +1013,7 @@ const list = [
     price: "594",
     showPrice: "594",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021112431050",
@@ -1021,7 +1021,7 @@ const list = [
     price: "664",
     showPrice: "664",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710021132300800",
@@ -1029,7 +1029,7 @@ const list = [
     price: "10798",
     showPrice: "10798",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：800A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 800A",
   },
   {
     orderId: "710021100000917",
@@ -1037,7 +1037,7 @@ const list = [
     price: "5356",
     showPrice: "5356",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "710021161340632",
@@ -1045,7 +1045,7 @@ const list = [
     price: "2807",
     showPrice: "2807",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "710021141310402",
@@ -1053,7 +1053,7 @@ const list = [
     price: "2016",
     showPrice: "2016",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710021162300500",
@@ -1061,7 +1061,7 @@ const list = [
     price: "2753",
     showPrice: "2753",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "710021141500315",
@@ -1069,7 +1069,7 @@ const list = [
     price: "1814",
     showPrice: "1814",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710021122100225",
@@ -1077,7 +1077,7 @@ const list = [
     price: "594",
     showPrice: "594",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710021122100200",
@@ -1085,7 +1085,7 @@ const list = [
     price: "594",
     showPrice: "594",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021132300111",
@@ -1093,7 +1093,7 @@ const list = [
     price: "10798",
     showPrice: "10798",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "710021161700500",
@@ -1101,7 +1101,7 @@ const list = [
     price: "3447",
     showPrice: "3447",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "710021161310632",
@@ -1109,7 +1109,7 @@ const list = [
     price: "2725",
     showPrice: "2725",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "710053600002321",
@@ -1117,7 +1117,7 @@ const list = [
     price: "1110",
     showPrice: "1110",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710021122500225",
@@ -1125,7 +1125,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710021161700400",
@@ -1133,7 +1133,7 @@ const list = [
     price: "3447",
     showPrice: "3447",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "710021141340400",
@@ -1141,7 +1141,7 @@ const list = [
     price: "2098",
     showPrice: "2098",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710021100001749",
@@ -1149,7 +1149,7 @@ const list = [
     price: "1697",
     showPrice: "1697",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710021100002125",
@@ -1157,7 +1157,7 @@ const list = [
     price: "2827",
     showPrice: "2827",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710021100001804",
@@ -1165,7 +1165,7 @@ const list = [
     price: "2002",
     showPrice: "2002",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710021112100025",
@@ -1173,7 +1173,7 @@ const list = [
     price: "395",
     showPrice: "395",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "710021162300400",
@@ -1181,7 +1181,7 @@ const list = [
     price: "2753",
     showPrice: "2753",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "710021112340082",
@@ -1189,7 +1189,7 @@ const list = [
     price: "633",
     showPrice: "633",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021100002127",
@@ -1197,7 +1197,7 @@ const list = [
     price: "2827",
     showPrice: "2827",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710021142300400",
@@ -1205,7 +1205,7 @@ const list = [
     price: "2119",
     showPrice: "2119",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710021122431225",
@@ -1213,7 +1213,7 @@ const list = [
     price: "1110",
     showPrice: "1110",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710021112431040",
@@ -1221,7 +1221,7 @@ const list = [
     price: "664",
     showPrice: "664",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710021112100080",
@@ -1229,7 +1229,7 @@ const list = [
     price: "395",
     showPrice: "395",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021112300080",
@@ -1237,7 +1237,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021112300063",
@@ -1245,7 +1245,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021112300040",
@@ -1253,7 +1253,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710021112300025",
@@ -1261,7 +1261,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "710021112100100",
@@ -1269,7 +1269,7 @@ const list = [
     price: "395",
     showPrice: "395",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021132300125",
@@ -1277,7 +1277,7 @@ const list = [
     price: "10798",
     showPrice: "10798",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "710021112100063",
@@ -1285,7 +1285,7 @@ const list = [
     price: "395",
     showPrice: "395",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021112003100",
@@ -1293,7 +1293,7 @@ const list = [
     price: "730",
     showPrice: "730",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021112328106",
@@ -1301,7 +1301,7 @@ const list = [
     price: "1078",
     showPrice: "1078",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021100000802",
@@ -1309,7 +1309,7 @@ const list = [
     price: "1344",
     showPrice: "1344",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710021113408080",
@@ -1317,7 +1317,7 @@ const list = [
     price: "644",
     showPrice: "644",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021113510102",
@@ -1325,7 +1325,7 @@ const list = [
     price: "698",
     showPrice: "698",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021122400225",
@@ -1333,7 +1333,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710021122428180",
@@ -1341,7 +1341,7 @@ const list = [
     price: "898",
     showPrice: "898",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021100000809",
@@ -1349,7 +1349,7 @@ const list = [
     price: "2630",
     showPrice: "2630",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122720160",
@@ -1357,7 +1357,7 @@ const list = [
     price: "1151",
     showPrice: "1151",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021122721180",
@@ -1365,7 +1365,7 @@ const list = [
     price: "1151",
     showPrice: "1151",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122728160",
@@ -1373,7 +1373,7 @@ const list = [
     price: "1192",
     showPrice: "1192",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021122730183",
@@ -1381,7 +1381,7 @@ const list = [
     price: "1386",
     showPrice: "1386",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021123360201",
@@ -1389,7 +1389,7 @@ const list = [
     price: "2485",
     showPrice: "2485",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021100000815",
@@ -1397,7 +1397,7 @@ const list = [
     price: "916",
     showPrice: "916",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "710021113508063",
@@ -1405,7 +1405,7 @@ const list = [
     price: "644",
     showPrice: "644",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021113510065",
@@ -1413,7 +1413,7 @@ const list = [
     price: "698",
     showPrice: "698",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021113530102",
@@ -1421,7 +1421,7 @@ const list = [
     price: "849",
     showPrice: "849",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021122428200",
@@ -1429,7 +1429,7 @@ const list = [
     price: "898",
     showPrice: "898",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021122003180",
@@ -1437,7 +1437,7 @@ const list = [
     price: "1069",
     showPrice: "1069",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122721125",
@@ -1445,7 +1445,7 @@ const list = [
     price: "1151",
     showPrice: "1151",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021127300201",
@@ -1453,7 +1453,7 @@ const list = [
     price: "2029",
     showPrice: "2029",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：手操操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：手操操作 | 接线方式：- | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021123003225",
@@ -1461,7 +1461,7 @@ const list = [
     price: "1642",
     showPrice: "1642",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710021112003050",
@@ -1469,7 +1469,7 @@ const list = [
     price: "730",
     showPrice: "730",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710021100000791",
@@ -1477,7 +1477,7 @@ const list = [
     price: "1344",
     showPrice: "1344",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021100000816",
@@ -1485,7 +1485,7 @@ const list = [
     price: "916",
     showPrice: "916",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710021113500100",
@@ -1493,7 +1493,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021122420200",
@@ -1501,7 +1501,7 @@ const list = [
     price: "857",
     showPrice: "857",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021122428160",
@@ -1509,7 +1509,7 @@ const list = [
     price: "898",
     showPrice: "898",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021122003160",
@@ -1517,7 +1517,7 @@ const list = [
     price: "1069",
     showPrice: "1069",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021100000705",
@@ -1525,7 +1525,7 @@ const list = [
     price: "1110",
     showPrice: "1110",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021122378180",
@@ -1533,7 +1533,7 @@ const list = [
     price: "1174",
     showPrice: "1174",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122730128",
@@ -1541,7 +1541,7 @@ const list = [
     price: "1386",
     showPrice: "1386",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021123003125",
@@ -1549,7 +1549,7 @@ const list = [
     price: "1642",
     showPrice: "1642",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021112003032",
@@ -1557,7 +1557,7 @@ const list = [
     price: "730",
     showPrice: "730",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "710021112003063",
@@ -1565,7 +1565,7 @@ const list = [
     price: "730",
     showPrice: "730",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021100000503",
@@ -1573,7 +1573,7 @@ const list = [
     price: "771",
     showPrice: "771",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021113500080",
@@ -1581,7 +1581,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021122408200",
@@ -1589,7 +1589,7 @@ const list = [
     price: "857",
     showPrice: "857",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021122729180",
@@ -1597,7 +1597,7 @@ const list = [
     price: "1192",
     showPrice: "1192",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122729125",
@@ -1605,7 +1605,7 @@ const list = [
     price: "1192",
     showPrice: "1192",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021112004040",
@@ -1613,7 +1613,7 @@ const list = [
     price: "996",
     showPrice: "996",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710021112320106",
@@ -1621,7 +1621,7 @@ const list = [
     price: "1037",
     showPrice: "1037",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021100000803",
@@ -1629,7 +1629,7 @@ const list = [
     price: "1344",
     showPrice: "1344",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710021100000804",
@@ -1637,7 +1637,7 @@ const list = [
     price: "1344",
     showPrice: "1344",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021100000062",
@@ -1645,7 +1645,7 @@ const list = [
     price: "1912",
     showPrice: "1912",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122729160",
@@ -1653,7 +1653,7 @@ const list = [
     price: "1192",
     showPrice: "1192",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021122731183",
@@ -1661,7 +1661,7 @@ const list = [
     price: "1386",
     showPrice: "1386",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021112004050",
@@ -1669,7 +1669,7 @@ const list = [
     price: "996",
     showPrice: "996",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710021100000818",
@@ -1677,7 +1677,7 @@ const list = [
     price: "916",
     showPrice: "916",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021113004040",
@@ -1685,7 +1685,7 @@ const list = [
     price: "1102",
     showPrice: "1102",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710021113508080",
@@ -1693,7 +1693,7 @@ const list = [
     price: "644",
     showPrice: "644",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021122328186",
@@ -1701,7 +1701,7 @@ const list = [
     price: "1912",
     showPrice: "1912",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122711229",
@@ -1709,7 +1709,7 @@ const list = [
     price: "1205",
     showPrice: "1205",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710021122721160",
@@ -1717,7 +1717,7 @@ const list = [
     price: "1151",
     showPrice: "1151",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021100000502",
@@ -1725,7 +1725,7 @@ const list = [
     price: "771",
     showPrice: "771",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710021100000257",
@@ -1733,7 +1733,7 @@ const list = [
     price: "1078",
     showPrice: "1078",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710021113400100",
@@ -1741,7 +1741,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021113003040",
@@ -1749,7 +1749,7 @@ const list = [
     price: "836",
     showPrice: "836",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710021100000150",
@@ -1757,7 +1757,7 @@ const list = [
     price: "1830",
     showPrice: "1830",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122730163",
@@ -1765,7 +1765,7 @@ const list = [
     price: "1386",
     showPrice: "1386",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021127300181",
@@ -1773,7 +1773,7 @@ const list = [
     price: "2029",
     showPrice: "2029",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：手操操作 | 接线方式：- | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：手操操作 | 接线方式：- | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021123003200",
@@ -1781,7 +1781,7 @@ const list = [
     price: "1642",
     showPrice: "1642",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021123004200",
@@ -1789,7 +1789,7 @@ const list = [
     price: "2403",
     showPrice: "2403",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710303600000022",
@@ -1797,7 +1797,7 @@ const list = [
     price: "1037",
     showPrice: "1037",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021100000817",
@@ -1805,7 +1805,7 @@ const list = [
     price: "916",
     showPrice: "916",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710021113460100",
@@ -1813,7 +1813,7 @@ const list = [
     price: "685",
     showPrice: "685",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021113520025",
@@ -1821,7 +1821,7 @@ const list = [
     price: "644",
     showPrice: "644",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "710021122420160",
@@ -1829,7 +1829,7 @@ const list = [
     price: "857",
     showPrice: "857",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021122004200",
@@ -1837,7 +1837,7 @@ const list = [
     price: "1830",
     showPrice: "1830",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021122378160",
@@ -1845,7 +1845,7 @@ const list = [
     price: "1174",
     showPrice: "1174",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021122720125",
@@ -1853,7 +1853,7 @@ const list = [
     price: "1151",
     showPrice: "1151",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021122730182",
@@ -1861,7 +1861,7 @@ const list = [
     price: "1386",
     showPrice: "1386",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021112440050",
@@ -1869,7 +1869,7 @@ const list = [
     price: "633",
     showPrice: "633",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710021112003040",
@@ -1877,7 +1877,7 @@ const list = [
     price: "730",
     showPrice: "730",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710021100000500",
@@ -1885,7 +1885,7 @@ const list = [
     price: "771",
     showPrice: "771",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "710021113420063",
@@ -1893,7 +1893,7 @@ const list = [
     price: "644",
     showPrice: "644",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021113530065",
@@ -1901,7 +1901,7 @@ const list = [
     price: "849",
     showPrice: "849",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021122400200",
@@ -1909,7 +1909,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021122400160",
@@ -1917,7 +1917,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021122400125",
@@ -1925,7 +1925,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021122408180",
@@ -1933,7 +1933,7 @@ const list = [
     price: "857",
     showPrice: "857",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021100000151",
@@ -1941,7 +1941,7 @@ const list = [
     price: "1830",
     showPrice: "1830",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021100000808",
@@ -1949,7 +1949,7 @@ const list = [
     price: "2630",
     showPrice: "2630",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021100000811",
@@ -1957,7 +1957,7 @@ const list = [
     price: "2630",
     showPrice: "2630",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710021100000616",
@@ -1965,7 +1965,7 @@ const list = [
     price: "2671",
     showPrice: "2671",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021112004100",
@@ -1973,7 +1973,7 @@ const list = [
     price: "996",
     showPrice: "996",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021100000253",
@@ -1981,7 +1981,7 @@ const list = [
     price: "1078",
     showPrice: "1078",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021113003080",
@@ -1989,7 +1989,7 @@ const list = [
     price: "836",
     showPrice: "836",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021113508100",
@@ -1997,7 +1997,7 @@ const list = [
     price: "644",
     showPrice: "644",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021122420180",
@@ -2005,7 +2005,7 @@ const list = [
     price: "857",
     showPrice: "857",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122004160",
@@ -2013,7 +2013,7 @@ const list = [
     price: "1830",
     showPrice: "1830",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021122004180",
@@ -2021,7 +2021,7 @@ const list = [
     price: "1830",
     showPrice: "1830",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122721225",
@@ -2029,7 +2029,7 @@ const list = [
     price: "1151",
     showPrice: "1151",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710303600000015",
@@ -2037,7 +2037,7 @@ const list = [
     price: "1037",
     showPrice: "1037",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021100000501",
@@ -2045,7 +2045,7 @@ const list = [
     price: "771",
     showPrice: "771",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710021113500063",
@@ -2053,7 +2053,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021113510100",
@@ -2061,7 +2061,7 @@ const list = [
     price: "698",
     showPrice: "698",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021122420125",
@@ -2069,7 +2069,7 @@ const list = [
     price: "857",
     showPrice: "857",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021100000704",
@@ -2077,7 +2077,7 @@ const list = [
     price: "1110",
     showPrice: "1110",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021100000061",
@@ -2085,7 +2085,7 @@ const list = [
     price: "1912",
     showPrice: "1912",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021122378182",
@@ -2093,7 +2093,7 @@ const list = [
     price: "1174",
     showPrice: "1174",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122378162",
@@ -2101,7 +2101,7 @@ const list = [
     price: "1174",
     showPrice: "1174",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021122729225",
@@ -2109,7 +2109,7 @@ const list = [
     price: "1192",
     showPrice: "1192",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710303600000019",
@@ -2117,7 +2117,7 @@ const list = [
     price: "1037",
     showPrice: "1037",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710021100000505",
@@ -2125,7 +2125,7 @@ const list = [
     price: "771",
     showPrice: "771",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021113400063",
@@ -2133,7 +2133,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021113408100",
@@ -2141,7 +2141,7 @@ const list = [
     price: "644",
     showPrice: "644",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021113520080",
@@ -2149,7 +2149,7 @@ const list = [
     price: "644",
     showPrice: "644",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021122420225",
@@ -2157,7 +2157,7 @@ const list = [
     price: "857",
     showPrice: "857",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710021100000810",
@@ -2165,7 +2165,7 @@ const list = [
     price: "2630",
     showPrice: "2630",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021122729200",
@@ -2173,7 +2173,7 @@ const list = [
     price: "1192",
     showPrice: "1192",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021122731128",
@@ -2181,7 +2181,7 @@ const list = [
     price: "1386",
     showPrice: "1386",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021100000819",
@@ -2189,7 +2189,7 @@ const list = [
     price: "916",
     showPrice: "916",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021113003063",
@@ -2197,7 +2197,7 @@ const list = [
     price: "836",
     showPrice: "836",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021113510080",
@@ -2205,7 +2205,7 @@ const list = [
     price: "698",
     showPrice: "698",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021122428125",
@@ -2213,7 +2213,7 @@ const list = [
     price: "898",
     showPrice: "898",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021100000703",
@@ -2221,7 +2221,7 @@ const list = [
     price: "1110",
     showPrice: "1110",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021122320206",
@@ -2229,7 +2229,7 @@ const list = [
     price: "1871",
     showPrice: "1871",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021122728180",
@@ -2237,7 +2237,7 @@ const list = [
     price: "1192",
     showPrice: "1192",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021112328046",
@@ -2245,7 +2245,7 @@ const list = [
     price: "1078",
     showPrice: "1078",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710021100000805",
@@ -2253,7 +2253,7 @@ const list = [
     price: "1344",
     showPrice: "1344",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021113460080",
@@ -2261,7 +2261,7 @@ const list = [
     price: "685",
     showPrice: "685",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021122428225",
@@ -2269,7 +2269,7 @@ const list = [
     price: "898",
     showPrice: "898",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710021122720180",
@@ -2277,7 +2277,7 @@ const list = [
     price: "1151",
     showPrice: "1151",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021100000617",
@@ -2285,7 +2285,7 @@ const list = [
     price: "2671",
     showPrice: "2671",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122731127",
@@ -2293,7 +2293,7 @@ const list = [
     price: "1386",
     showPrice: "1386",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021123003160",
@@ -2301,7 +2301,7 @@ const list = [
     price: "1642",
     showPrice: "1642",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021100000254",
@@ -2309,7 +2309,7 @@ const list = [
     price: "1078",
     showPrice: "1078",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021100000794",
@@ -2317,7 +2317,7 @@ const list = [
     price: "1344",
     showPrice: "1344",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "710021122400180",
@@ -2325,7 +2325,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122320186",
@@ -2333,7 +2333,7 @@ const list = [
     price: "1871",
     showPrice: "1871",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710021122721200",
@@ -2341,7 +2341,7 @@ const list = [
     price: "1151",
     showPrice: "1151",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021127300161",
@@ -2349,7 +2349,7 @@ const list = [
     price: "2029",
     showPrice: "2029",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：手操操作 | 接线方式：- | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：手操操作 | 接线方式：- | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710303600000020",
@@ -2357,7 +2357,7 @@ const list = [
     price: "1037",
     showPrice: "1037",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710021112328086",
@@ -2365,7 +2365,7 @@ const list = [
     price: "1078",
     showPrice: "1078",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021113510063",
@@ -2373,7 +2373,7 @@ const list = [
     price: "698",
     showPrice: "698",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021113530080",
@@ -2381,7 +2381,7 @@ const list = [
     price: "849",
     showPrice: "849",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021113530082",
@@ -2389,7 +2389,7 @@ const list = [
     price: "849",
     showPrice: "849",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021113530063",
@@ -2397,7 +2397,7 @@ const list = [
     price: "849",
     showPrice: "849",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021122378127",
@@ -2405,7 +2405,7 @@ const list = [
     price: "1174",
     showPrice: "1174",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021122730127",
@@ -2413,7 +2413,7 @@ const list = [
     price: "1386",
     showPrice: "1386",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021122731202",
@@ -2421,7 +2421,7 @@ const list = [
     price: "1386",
     showPrice: "1386",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021122731163",
@@ -2429,7 +2429,7 @@ const list = [
     price: "1386",
     showPrice: "1386",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021100000499",
@@ -2437,7 +2437,7 @@ const list = [
     price: "771",
     showPrice: "771",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "710021100000504",
@@ -2445,7 +2445,7 @@ const list = [
     price: "771",
     showPrice: "771",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021113420080",
@@ -2453,7 +2453,7 @@ const list = [
     price: "644",
     showPrice: "644",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021113003100",
@@ -2461,7 +2461,7 @@ const list = [
     price: "836",
     showPrice: "836",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021113004100",
@@ -2469,7 +2469,7 @@ const list = [
     price: "1102",
     showPrice: "1102",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021113520100",
@@ -2477,7 +2477,7 @@ const list = [
     price: "644",
     showPrice: "644",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021122408160",
@@ -2485,7 +2485,7 @@ const list = [
     price: "857",
     showPrice: "857",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021122003125",
@@ -2493,7 +2493,7 @@ const list = [
     price: "1069",
     showPrice: "1069",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021100000706",
@@ -2501,7 +2501,7 @@ const list = [
     price: "1110",
     showPrice: "1110",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710021100000618",
@@ -2509,7 +2509,7 @@ const list = [
     price: "2671",
     showPrice: "2671",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021112003080",
@@ -2517,7 +2517,7 @@ const list = [
     price: "730",
     showPrice: "730",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021112004080",
@@ -2525,7 +2525,7 @@ const list = [
     price: "996",
     showPrice: "996",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021113510082",
@@ -2533,7 +2533,7 @@ const list = [
     price: "698",
     showPrice: "698",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021113530100",
@@ -2541,7 +2541,7 @@ const list = [
     price: "849",
     showPrice: "849",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021122003200",
@@ -2549,7 +2549,7 @@ const list = [
     price: "1069",
     showPrice: "1069",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021122728125",
@@ -2557,7 +2557,7 @@ const list = [
     price: "1192",
     showPrice: "1192",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021122730162",
@@ -2565,7 +2565,7 @@ const list = [
     price: "1386",
     showPrice: "1386",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021112320086",
@@ -2573,7 +2573,7 @@ const list = [
     price: "1037",
     showPrice: "1037",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021113420100",
@@ -2581,7 +2581,7 @@ const list = [
     price: "644",
     showPrice: "644",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021113460063",
@@ -2589,7 +2589,7 @@ const list = [
     price: "685",
     showPrice: "685",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021113520063",
@@ -2597,7 +2597,7 @@ const list = [
     price: "644",
     showPrice: "644",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021122408125",
@@ -2605,7 +2605,7 @@ const list = [
     price: "857",
     showPrice: "857",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021122003225",
@@ -2613,7 +2613,7 @@ const list = [
     price: "1069",
     showPrice: "1069",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710021122328206",
@@ -2621,7 +2621,7 @@ const list = [
     price: "1912",
     showPrice: "1912",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021122731162",
@@ -2629,7 +2629,7 @@ const list = [
     price: "1386",
     showPrice: "1386",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021123004160",
@@ -2637,7 +2637,7 @@ const list = [
     price: "2403",
     showPrice: "2403",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021112320046",
@@ -2645,7 +2645,7 @@ const list = [
     price: "1037",
     showPrice: "1037",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710021113400080",
@@ -2653,7 +2653,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021113408063",
@@ -2661,7 +2661,7 @@ const list = [
     price: "644",
     showPrice: "644",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710021113004080",
@@ -2669,7 +2669,7 @@ const list = [
     price: "1102",
     showPrice: "1102",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021122408225",
@@ -2677,7 +2677,7 @@ const list = [
     price: "857",
     showPrice: "857",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710021100000702",
@@ -2685,7 +2685,7 @@ const list = [
     price: "1110",
     showPrice: "1110",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021100000807",
@@ -2693,7 +2693,7 @@ const list = [
     price: "2630",
     showPrice: "2630",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021122731182",
@@ -2701,7 +2701,7 @@ const list = [
     price: "1386",
     showPrice: "1386",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710053600002336",
@@ -2709,7 +2709,7 @@ const list = [
     price: "2671",
     showPrice: "2671",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600003200",
@@ -2717,7 +2717,7 @@ const list = [
     price: "1697",
     showPrice: "1697",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710053600003450",
@@ -2725,7 +2725,7 @@ const list = [
     price: "759",
     showPrice: "759",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "710053600003470",
@@ -2733,7 +2733,7 @@ const list = [
     price: "911",
     showPrice: "911",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710053600003479",
@@ -2741,7 +2741,7 @@ const list = [
     price: "1205",
     showPrice: "1205",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710053600003201",
@@ -2749,7 +2749,7 @@ const list = [
     price: "1697",
     showPrice: "1697",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710053600002056",
@@ -2757,7 +2757,7 @@ const list = [
     price: "5630",
     showPrice: "5630",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：手操操作 | 接线方式：- | 壳架电流：630A | 额定电流：500A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：手操操作 | 接线方式：- | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "710053600003444",
@@ -2765,7 +2765,7 @@ const list = [
     price: "592",
     showPrice: "592",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710053600002323",
@@ -2773,7 +2773,7 @@ const list = [
     price: "2630",
     showPrice: "2630",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600001794",
@@ -2781,7 +2781,7 @@ const list = [
     price: "2460",
     showPrice: "2460",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710053600003476",
@@ -2789,7 +2789,7 @@ const list = [
     price: "1205",
     showPrice: "1205",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710053600003449",
@@ -2797,7 +2797,7 @@ const list = [
     price: "759",
     showPrice: "759",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "710053600003451",
@@ -2805,7 +2805,7 @@ const list = [
     price: "759",
     showPrice: "759",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710053600003471",
@@ -2813,7 +2813,7 @@ const list = [
     price: "911",
     showPrice: "911",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710053600003454",
@@ -2821,7 +2821,7 @@ const list = [
     price: "759",
     showPrice: "759",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710053600003453",
@@ -2829,7 +2829,7 @@ const list = [
     price: "759",
     showPrice: "759",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710053600001813",
@@ -2837,7 +2837,7 @@ const list = [
     price: "996",
     showPrice: "996",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710053600003443",
@@ -2845,7 +2845,7 @@ const list = [
     price: "592",
     showPrice: "592",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710053600003473",
@@ -2853,7 +2853,7 @@ const list = [
     price: "911",
     showPrice: "911",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710053600003504",
@@ -2861,7 +2861,7 @@ const list = [
     price: "2016",
     showPrice: "2016",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600001986",
@@ -2869,7 +2869,7 @@ const list = [
     price: "2460",
     showPrice: "2460",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "710053600003505",
@@ -2877,7 +2877,7 @@ const list = [
     price: "2787",
     showPrice: "2787",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710053600001967",
@@ -2885,7 +2885,7 @@ const list = [
     price: "4374",
     showPrice: "4374",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：100kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710053600003508",
@@ -2893,7 +2893,7 @@ const list = [
     price: "2787",
     showPrice: "2787",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600003446",
@@ -2901,7 +2901,7 @@ const list = [
     price: "592",
     showPrice: "592",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710053600003445",
@@ -2909,7 +2909,7 @@ const list = [
     price: "592",
     showPrice: "592",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710053600003501",
@@ -2917,7 +2917,7 @@ const list = [
     price: "2016",
     showPrice: "2016",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710053600002238",
@@ -2925,7 +2925,7 @@ const list = [
     price: "1830",
     showPrice: "1830",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600003469",
@@ -2933,7 +2933,7 @@ const list = [
     price: "911",
     showPrice: "911",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710053600003498",
@@ -2941,7 +2941,7 @@ const list = [
     price: "2321",
     showPrice: "2321",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "710053600003496",
@@ -2949,7 +2949,7 @@ const list = [
     price: "2321",
     showPrice: "2321",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710053600003480",
@@ -2957,7 +2957,7 @@ const list = [
     price: "1205",
     showPrice: "1205",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710053600002029",
@@ -2965,7 +2965,7 @@ const list = [
     price: "5348",
     showPrice: "5348",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：500A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "710053600003439",
@@ -2973,7 +2973,7 @@ const list = [
     price: "592",
     showPrice: "592",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710053600003442",
@@ -2981,7 +2981,7 @@ const list = [
     price: "592",
     showPrice: "592",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "710053600003481",
@@ -2989,7 +2989,7 @@ const list = [
     price: "1205",
     showPrice: "1205",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600002414",
@@ -2997,7 +2997,7 @@ const list = [
     price: "2029",
     showPrice: "2029",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：手操操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：手操操作 | 接线方式：- | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600002430",
@@ -3005,7 +3005,7 @@ const list = [
     price: "2403",
     showPrice: "2403",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600002657",
@@ -3013,7 +3013,7 @@ const list = [
     price: "2444",
     showPrice: "2444",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600003452",
@@ -3021,7 +3021,7 @@ const list = [
     price: "759",
     showPrice: "759",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710053600003478",
@@ -3029,7 +3029,7 @@ const list = [
     price: "1205",
     showPrice: "1205",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710053600001977",
@@ -3037,7 +3037,7 @@ const list = [
     price: "3388",
     showPrice: "3388",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600003447",
@@ -3045,7 +3045,7 @@ const list = [
     price: "759",
     showPrice: "759",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710053600003474",
@@ -3053,7 +3053,7 @@ const list = [
     price: "911",
     showPrice: "911",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600003477",
@@ -3061,7 +3061,7 @@ const list = [
     price: "1205",
     showPrice: "1205",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710053600003506",
@@ -3069,7 +3069,7 @@ const list = [
     price: "2787",
     showPrice: "2787",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710053600003499",
@@ -3077,7 +3077,7 @@ const list = [
     price: "2321",
     showPrice: "2321",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600003497",
@@ -3085,7 +3085,7 @@ const list = [
     price: "2321",
     showPrice: "2321",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710053600003441",
@@ -3093,7 +3093,7 @@ const list = [
     price: "592",
     showPrice: "592",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "710053600003448",
@@ -3101,7 +3101,7 @@ const list = [
     price: "759",
     showPrice: "759",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600001968",
@@ -3109,7 +3109,7 @@ const list = [
     price: "3306",
     showPrice: "3306",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600003507",
@@ -3117,7 +3117,7 @@ const list = [
     price: "2787",
     showPrice: "2787",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "710053600003502",
@@ -3125,7 +3125,7 @@ const list = [
     price: "2016",
     showPrice: "2016",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710053600003503",
@@ -3133,7 +3133,7 @@ const list = [
     price: "2016",
     showPrice: "2016",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "710053600003472",
@@ -3141,7 +3141,7 @@ const list = [
     price: "911",
     showPrice: "911",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710053600003202",
@@ -3149,7 +3149,7 @@ const list = [
     price: "1697",
     showPrice: "1697",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600003440",
@@ -3157,7 +3157,7 @@ const list = [
     price: "592",
     showPrice: "592",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600002119",
@@ -3165,7 +3165,7 @@ const list = [
     price: "9716",
     showPrice: "9716",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：800A | 额定电流：800A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "710053600007769",
@@ -3173,7 +3173,7 @@ const list = [
     price: "636",
     showPrice: "636",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710053600007375",
@@ -3181,7 +3181,7 @@ const list = [
     price: "545",
     showPrice: "545",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710053600006906",
@@ -3189,7 +3189,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "710053600006647",
@@ -3197,7 +3197,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600006924",
@@ -3205,7 +3205,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710053600005450",
@@ -3213,7 +3213,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "710053600006925",
@@ -3221,7 +3221,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021112400100",
@@ -3229,7 +3229,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021122101225",
@@ -3237,7 +3237,7 @@ const list = [
     price: "594",
     showPrice: "594",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710053600007273",
@@ -3245,7 +3245,7 @@ const list = [
     price: "474",
     showPrice: "474",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "710021122340127",
@@ -3253,7 +3253,7 @@ const list = [
     price: "952",
     showPrice: "952",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710021162320500",
@@ -3261,7 +3261,7 @@ const list = [
     price: "2835",
     showPrice: "2835",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "710021112400080",
@@ -3269,7 +3269,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710053600007269",
@@ -3277,7 +3277,7 @@ const list = [
     price: "474",
     showPrice: "474",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "710053600002738",
@@ -3285,7 +3285,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600007261",
@@ -3293,7 +3293,7 @@ const list = [
     price: "474",
     showPrice: "474",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "710053600006932",
@@ -3301,7 +3301,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710053600006794",
@@ -3309,7 +3309,7 @@ const list = [
     price: "586",
     showPrice: "586",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600006914",
@@ -3317,7 +3317,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "710053600006934",
@@ -3325,7 +3325,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "710053600010611",
@@ -3333,7 +3333,7 @@ const list = [
     price: "851",
     showPrice: "851",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710053600006902",
@@ -3341,7 +3341,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "710053600010472",
@@ -3349,7 +3349,7 @@ const list = [
     price: "756",
     showPrice: "756",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710053600006943",
@@ -3357,7 +3357,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710053600007277",
@@ -3365,7 +3365,7 @@ const list = [
     price: "474",
     showPrice: "474",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "710053600010532",
@@ -3373,7 +3373,7 @@ const list = [
     price: "756",
     showPrice: "756",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710053600007265",
@@ -3381,7 +3381,7 @@ const list = [
     price: "474",
     showPrice: "474",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "710053600006938",
@@ -3389,7 +3389,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710053600007316",
@@ -3397,7 +3397,7 @@ const list = [
     price: "586",
     showPrice: "586",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600007401",
@@ -3405,7 +3405,7 @@ const list = [
     price: "545",
     showPrice: "545",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710053600006627",
@@ -3413,7 +3413,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710021161340402",
@@ -3421,7 +3421,7 @@ const list = [
     price: "2807",
     showPrice: "2807",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "710053600006856",
@@ -3429,7 +3429,7 @@ const list = [
     price: "962",
     showPrice: "962",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600007545",
@@ -3437,7 +3437,7 @@ const list = [
     price: "586",
     showPrice: "586",
     remark:
-      "系列：NM1 | 极数：3P | 脱扣器类型：热磁式 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Trip unit type: 热磁式 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710053600006457",
@@ -3445,7 +3445,7 @@ const list = [
     price: "388",
     showPrice: "388",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600008443",
@@ -3453,7 +3453,7 @@ const list = [
     price: "457",
     showPrice: "457",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "710053600008447",
@@ -3461,7 +3461,7 @@ const list = [
     price: "554",
     showPrice: "554",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "710053600008442",
@@ -3469,7 +3469,7 @@ const list = [
     price: "457",
     showPrice: "457",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "710053600008445",
@@ -3477,7 +3477,7 @@ const list = [
     price: "457",
     showPrice: "457",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "710053600008448",
@@ -3485,7 +3485,7 @@ const list = [
     price: "554",
     showPrice: "554",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "710053600008449",
@@ -3493,7 +3493,7 @@ const list = [
     price: "554",
     showPrice: "554",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "710053600008444",
@@ -3501,7 +3501,7 @@ const list = [
     price: "457",
     showPrice: "457",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "710053600008446",
@@ -3509,7 +3509,7 @@ const list = [
     price: "554",
     showPrice: "554",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "710053600006913",
@@ -3517,7 +3517,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "710021112200063",
@@ -3525,7 +3525,7 @@ const list = [
     price: "497",
     showPrice: "497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710053600010459",
@@ -3533,7 +3533,7 @@ const list = [
     price: "968",
     showPrice: "968",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710053600011105",
@@ -3541,7 +3541,7 @@ const list = [
     price: "914",
     showPrice: "914",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600007112",
@@ -3549,7 +3549,7 @@ const list = [
     price: "433",
     showPrice: "433",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "710053600010536",
@@ -3557,7 +3557,7 @@ const list = [
     price: "756",
     showPrice: "756",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600007116",
@@ -3565,7 +3565,7 @@ const list = [
     price: "433",
     showPrice: "433",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "710021182340802",
@@ -3573,7 +3573,7 @@ const list = [
     price: "4074",
     showPrice: "4074",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "710021141510350",
@@ -3581,7 +3581,7 @@ const list = [
     price: "2016",
     showPrice: "2016",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "710021161200500",
@@ -3589,7 +3589,7 @@ const list = [
     price: "2523",
     showPrice: "2523",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "710021161002500",
@@ -3597,7 +3597,7 @@ const list = [
     price: "2805",
     showPrice: "2805",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "710021161003630",
@@ -3605,7 +3605,7 @@ const list = [
     price: "3797",
     showPrice: "3797",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "710021161002630",
@@ -3613,7 +3613,7 @@ const list = [
     price: "2805",
     showPrice: "2805",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "710021122340202",
@@ -3621,7 +3621,7 @@ const list = [
     price: "952",
     showPrice: "952",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710021141740317",
@@ -3629,7 +3629,7 @@ const list = [
     price: "2869",
     showPrice: "2869",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710021161310630",
@@ -3637,7 +3637,7 @@ const list = [
     price: "2725",
     showPrice: "2725",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "710021161340634",
@@ -3645,7 +3645,7 @@ const list = [
     price: "2807",
     showPrice: "2807",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "710053600002137",
@@ -3653,7 +3653,7 @@ const list = [
     price: "3795",
     showPrice: "3795",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "710021112340052",
@@ -3661,7 +3661,7 @@ const list = [
     price: "633",
     showPrice: "633",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710021141200400",
@@ -3669,7 +3669,7 @@ const list = [
     price: "1814",
     showPrice: "1814",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600000496",
@@ -3677,7 +3677,7 @@ const list = [
     price: "5015",
     showPrice: "5015",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710021112340027",
@@ -3685,7 +3685,7 @@ const list = [
     price: "633",
     showPrice: "633",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "710053600000506",
@@ -3693,7 +3693,7 @@ const list = [
     price: "4994",
     showPrice: "4994",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600005458",
@@ -3701,7 +3701,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "710053600006372",
@@ -3709,7 +3709,7 @@ const list = [
     price: "435",
     showPrice: "435",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "710053600006467",
@@ -3717,7 +3717,7 @@ const list = [
     price: "388",
     showPrice: "388",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600006370",
@@ -3725,7 +3725,7 @@ const list = [
     price: "435",
     showPrice: "435",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "710053600006855",
@@ -3733,7 +3733,7 @@ const list = [
     price: "962",
     showPrice: "962",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600006904",
@@ -3741,7 +3741,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "710053600006375",
@@ -3749,7 +3749,7 @@ const list = [
     price: "435",
     showPrice: "435",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "710053600006907",
@@ -3757,7 +3757,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "710053600010607",
@@ -3765,7 +3765,7 @@ const list = [
     price: "851",
     showPrice: "851",
     remark:
-      "系列：NM1 | 极数：3P | 脱扣器类型：热磁式 | 安装方式：固定式 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Trip unit type: 热磁式 | 安装方式：固定式 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "710053600006371",
@@ -3773,7 +3773,7 @@ const list = [
     price: "435",
     showPrice: "435",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "710021161320400",
@@ -3781,7 +3781,7 @@ const list = [
     price: "2605",
     showPrice: "2605",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "710053600006373",
@@ -3789,7 +3789,7 @@ const list = [
     price: "435",
     showPrice: "435",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "710021100001779",
@@ -3797,7 +3797,7 @@ const list = [
     price: "1981",
     showPrice: "1981",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600010615",
@@ -3805,7 +3805,7 @@ const list = [
     price: "851",
     showPrice: "851",
     remark:
-      "系列：NM1 | 极数：3P | 脱扣器类型：热磁式 | 安装方式：固定式 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Trip unit type: 热磁式 | 安装方式：固定式 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600006617",
@@ -3813,7 +3813,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600006917",
@@ -3821,7 +3821,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710053600006905",
@@ -3829,7 +3829,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "710021162003500",
@@ -3837,7 +3837,7 @@ const list = [
     price: "4027",
     showPrice: "4027",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "710021162003630",
@@ -3845,7 +3845,7 @@ const list = [
     price: "4027",
     showPrice: "4027",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "710053600005564",
@@ -3853,7 +3853,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "710053600006549",
@@ -3861,7 +3861,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "710053600006537",
@@ -3869,7 +3869,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600005657",
@@ -3877,7 +3877,7 @@ const list = [
     price: "433",
     showPrice: "433",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "710021112340065",
@@ -3885,7 +3885,7 @@ const list = [
     price: "633",
     showPrice: "633",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "710053600002118",
@@ -3893,7 +3893,7 @@ const list = [
     price: "5356",
     showPrice: "5356",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：75kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 75kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "710053600007529",
@@ -3901,7 +3901,7 @@ const list = [
     price: "586",
     showPrice: "586",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "710053600002276",
@@ -3909,7 +3909,7 @@ const list = [
     price: "952",
     showPrice: "952",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600006908",
@@ -3917,7 +3917,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "710053600006912",
@@ -3925,7 +3925,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "710021141200250",
@@ -3933,7 +3933,7 @@ const list = [
     price: "1814",
     showPrice: "1814",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710053600006946",
@@ -3941,7 +3941,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710053600007533",
@@ -3949,7 +3949,7 @@ const list = [
     price: "586",
     showPrice: "586",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710053600006909",
@@ -3957,7 +3957,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "710053600007403",
@@ -3965,7 +3965,7 @@ const list = [
     price: "545",
     showPrice: "545",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710053600000299",
@@ -3973,7 +3973,7 @@ const list = [
     price: "3376",
     showPrice: "3376",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：700A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 700A",
   },
   {
     orderId: "710021161220630",
@@ -3981,7 +3981,7 @@ const list = [
     price: "2605",
     showPrice: "2605",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "710053600010598",
@@ -3989,7 +3989,7 @@ const list = [
     price: "851",
     showPrice: "851",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710021141310352",
@@ -3997,7 +3997,7 @@ const list = [
     price: "2016",
     showPrice: "2016",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "710053600011743",
@@ -4005,7 +4005,7 @@ const list = [
     price: "962",
     showPrice: "962",
     remark:
-      "系列：NM1 | 极数：4P | 脱扣器类型：热磁式 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 4P | Trip unit type: 热磁式 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710053600006834",
@@ -4013,7 +4013,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600005572",
@@ -4021,7 +4021,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "710053600006919",
@@ -4029,7 +4029,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710021141002350",
@@ -4037,7 +4037,7 @@ const list = [
     price: "2096",
     showPrice: "2096",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "710053600006939",
@@ -4045,7 +4045,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710053600006947",
@@ -4053,7 +4053,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710053600006933",
@@ -4061,7 +4061,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710053600006903",
@@ -4069,7 +4069,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "710053600007456",
@@ -4077,7 +4077,7 @@ const list = [
     price: "491",
     showPrice: "491",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710053600006916",
@@ -4085,7 +4085,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "710021141002250",
@@ -4093,7 +4093,7 @@ const list = [
     price: "2096",
     showPrice: "2096",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710053600000520",
@@ -4101,7 +4101,7 @@ const list = [
     price: "7267",
     showPrice: "7267",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "710053600006374",
@@ -4109,7 +4109,7 @@ const list = [
     price: "435",
     showPrice: "435",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "710053600000301",
@@ -4117,7 +4117,7 @@ const list = [
     price: "3376",
     showPrice: "3376",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "710053600000518",
@@ -4125,7 +4125,7 @@ const list = [
     price: "7130",
     showPrice: "7130",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "710053600002428",
@@ -4133,7 +4133,7 @@ const list = [
     price: "1389",
     showPrice: "1389",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600000505",
@@ -4141,7 +4141,7 @@ const list = [
     price: "4792",
     showPrice: "4792",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710021112100032",
@@ -4149,7 +4149,7 @@ const list = [
     price: "395",
     showPrice: "395",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "710053600001793",
@@ -4157,7 +4157,7 @@ const list = [
     price: "1697",
     showPrice: "1697",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600001792",
@@ -4165,7 +4165,7 @@ const list = [
     price: "1697",
     showPrice: "1697",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "710053600006894",
@@ -4173,7 +4173,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "710053600006835",
@@ -4181,7 +4181,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "710053600006477",
@@ -4189,7 +4189,7 @@ const list = [
     price: "388",
     showPrice: "388",
     remark:
-      "系列：NM1 | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600006806",
@@ -4197,7 +4197,7 @@ const list = [
     price: "702",
     showPrice: "702",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600006961",
@@ -4205,7 +4205,7 @@ const list = [
     price: "379",
     showPrice: "379",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "710053600007417",
@@ -4213,7 +4213,7 @@ const list = [
     price: "545",
     showPrice: "545",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "710053600007321",
@@ -4221,7 +4221,7 @@ const list = [
     price: "460",
     showPrice: "460",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "710053600002218",
@@ -4229,7 +4229,7 @@ const list = [
     price: "816",
     showPrice: "816",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710021141400400",
@@ -4237,7 +4237,7 @@ const list = [
     price: "1814",
     showPrice: "1814",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710053600002165",
@@ -4245,7 +4245,7 @@ const list = [
     price: "9497",
     showPrice: "9497",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：800A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 800A",
   },
   {
     orderId: "710021122240162",
@@ -4253,7 +4253,7 @@ const list = [
     price: "952",
     showPrice: "952",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "710053600002757",
@@ -4261,7 +4261,7 @@ const list = [
     price: "730",
     showPrice: "730",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710053600006682",
@@ -4269,7 +4269,7 @@ const list = [
     price: "962",
     showPrice: "962",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "710053600006548",
@@ -4277,7 +4277,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "710053600006941",
@@ -4285,7 +4285,7 @@ const list = [
     price: "715",
     showPrice: "715",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "710053600006901",
@@ -4293,7 +4293,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "710021161003500",
@@ -4301,7 +4301,7 @@ const list = [
     price: "3797",
     showPrice: "3797",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "710053600010574",
@@ -4309,7 +4309,7 @@ const list = [
     price: "991",
     showPrice: "991",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "710053600007464",
@@ -4317,7 +4317,7 @@ const list = [
     price: "491",
     showPrice: "491",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "710021141530400",
@@ -4325,7 +4325,7 @@ const list = [
     price: "2342",
     showPrice: "2342",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "710021142500250",
@@ -4333,7 +4333,7 @@ const list = [
     price: "2119",
     showPrice: "2119",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：65kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "710053600006547",
@@ -4341,7 +4341,7 @@ const list = [
     price: "450",
     showPrice: "450",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "710021145700250",
@@ -4349,7 +4349,7 @@ const list = [
     price: "2867",
     showPrice: "2867",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 额定电流：250A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Rated current: 250A",
   },
   {
     orderId: "710021123300160",
@@ -4357,7 +4357,7 @@ const list = [
     price: "1389",
     showPrice: "1389",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 额定电流：160A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: - | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Rated current: 160A",
   },
   {
     orderId: "710053600007797",
@@ -4365,7 +4365,7 @@ const list = [
     price: "731",
     showPrice: "731",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动 | 接线方式：板前接线 | 额定电流：125A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动 | 接线方式：板前接线 | Rated current: 125A",
   },
   {
     orderId: "710053600006899",
@@ -4373,7 +4373,7 @@ const list = [
     price: "338",
     showPrice: "338",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "710021161600630",
@@ -4381,7 +4381,7 @@ const list = [
     price: "3447",
     showPrice: "3447",
     remark:
-      "系列：NM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: NM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "710053600010496",
@@ -4389,7 +4389,7 @@ const list = [
     price: "810",
     showPrice: "810",
     remark:
-      "系列：NM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动 | 接线方式：板前接线 | 额定电流：200A",
+      "Series: NM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动 | 接线方式：板前接线 | Rated current: 200A",
   },
 ];
 

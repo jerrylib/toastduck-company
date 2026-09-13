@@ -5,7 +5,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S400F4003300",
@@ -13,7 +13,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S63C633300",
@@ -21,7 +21,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S630F6303300",
@@ -29,7 +29,7 @@ const list = [
     price: "2280",
     showPrice: "2280",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S63C403300",
@@ -37,7 +37,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S250S1603300",
@@ -45,7 +45,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S63C63B300",
@@ -53,7 +53,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S160S1253300",
@@ -61,7 +61,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S160S1602300",
@@ -69,7 +69,7 @@ const list = [
     price: "436",
     showPrice: "436",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S250S2253300",
@@ -77,7 +77,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250S250B300",
@@ -85,7 +85,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S160S160A300",
@@ -93,7 +93,7 @@ const list = [
     price: "824",
     showPrice: "824",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S800F8003300",
@@ -101,7 +101,7 @@ const list = [
     price: "3197",
     showPrice: "3197",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S630F5003300",
@@ -109,7 +109,7 @@ const list = [
     price: "2280",
     showPrice: "2280",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S63C503300",
@@ -117,7 +117,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S250S250A300",
@@ -125,7 +125,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S125C1002300",
@@ -133,7 +133,7 @@ const list = [
     price: "362",
     showPrice: "362",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S63C633200",
@@ -141,7 +141,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S160S160B300",
@@ -149,7 +149,7 @@ const list = [
     price: "824",
     showPrice: "824",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S250S200B300",
@@ -157,7 +157,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S400F400A300",
@@ -165,7 +165,7 @@ const list = [
     price: "2160",
     showPrice: "2160",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S63C632300",
@@ -173,7 +173,7 @@ const list = [
     price: "277",
     showPrice: "277",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S250S1803300",
@@ -181,7 +181,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S400F400B300",
@@ -189,7 +189,7 @@ const list = [
     price: "2160",
     showPrice: "2160",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S12XF12503300",
@@ -197,7 +197,7 @@ const list = [
     price: "8813.01",
     showPrice: "8813.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "M3S63C25A300",
@@ -205,7 +205,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S400F2503300",
@@ -213,7 +213,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "M3S250S2502300",
@@ -221,7 +221,7 @@ const list = [
     price: "518",
     showPrice: "518",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S630F630B300",
@@ -229,7 +229,7 @@ const list = [
     price: "3138",
     showPrice: "3138",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S250S2002300",
@@ -237,7 +237,7 @@ const list = [
     price: "518",
     showPrice: "518",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S125C1252300",
@@ -245,7 +245,7 @@ const list = [
     price: "362",
     showPrice: "362",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S250S200A300",
@@ -253,7 +253,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S63C63A300",
@@ -261,7 +261,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S250S225B300",
@@ -269,7 +269,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S400F315B300",
@@ -277,7 +277,7 @@ const list = [
     price: "2160",
     showPrice: "2160",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S63C503200",
@@ -285,7 +285,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S250F1603300",
@@ -293,7 +293,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S125BF1003300",
@@ -301,7 +301,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S160S1603200",
@@ -309,7 +309,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S250S2003300",
@@ -317,7 +317,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S63C403200",
@@ -325,7 +325,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S400F31533002",
@@ -333,7 +333,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S12XF10003300",
@@ -341,7 +341,7 @@ const list = [
     price: "6701",
     showPrice: "6701",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "M3S63C403310A",
@@ -349,7 +349,7 @@ const list = [
     price: "424",
     showPrice: "424",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S160S1003300",
@@ -357,7 +357,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S160S125B300",
@@ -365,7 +365,7 @@ const list = [
     price: "824",
     showPrice: "824",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S125BF1253300",
@@ -373,7 +373,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S63C323310A",
@@ -381,7 +381,7 @@ const list = [
     price: "424",
     showPrice: "424",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S125BS100B300",
@@ -389,7 +389,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S250S2003320",
@@ -397,7 +397,7 @@ const list = [
     price: "713",
     showPrice: "713",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S160S1403300",
@@ -405,7 +405,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S250S2503200",
@@ -413,7 +413,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S125C802300",
@@ -421,7 +421,7 @@ const list = [
     price: "362",
     showPrice: "362",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S250S2503320",
@@ -429,7 +429,7 @@ const list = [
     price: "713",
     showPrice: "713",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250F25033102A",
@@ -437,7 +437,7 @@ const list = [
     price: "867",
     showPrice: "867",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S125BS125A300",
@@ -445,7 +445,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S400F4003200",
@@ -453,7 +453,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S63C50B300",
@@ -461,7 +461,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S800F7003300",
@@ -469,7 +469,7 @@ const list = [
     price: "3197",
     showPrice: "3197",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：700A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 700A",
   },
   {
     orderId: "M3S160S1003200",
@@ -477,7 +477,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S160S16033002",
@@ -485,7 +485,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S160F1603300",
@@ -493,7 +493,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S400F4003320",
@@ -501,7 +501,7 @@ const list = [
     price: "1565",
     showPrice: "1565",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S63C323300",
@@ -509,7 +509,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S160F1253200",
@@ -517,7 +517,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S16XF16003300",
@@ -525,7 +525,7 @@ const list = [
     price: "10145",
     showPrice: "10145",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1600A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1600A",
   },
   {
     orderId: "M3S800F8003310A",
@@ -533,7 +533,7 @@ const list = [
     price: "3479",
     showPrice: "3479",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S63C203300",
@@ -541,7 +541,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S160F1403300",
@@ -549,7 +549,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S250S2253310A",
@@ -557,7 +557,7 @@ const list = [
     price: "767",
     showPrice: "767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S630F630A300",
@@ -565,7 +565,7 @@ const list = [
     price: "3138",
     showPrice: "3138",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S400F4003310A",
@@ -573,7 +573,7 @@ const list = [
     price: "1685",
     showPrice: "1685",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S125BS633300",
@@ -581,7 +581,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S250F2003300",
@@ -589,7 +589,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S400F25033002",
@@ -597,7 +597,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "M3S630F4003300",
@@ -605,7 +605,7 @@ const list = [
     price: "2280",
     showPrice: "2280",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "M3S630F40033002",
@@ -613,7 +613,7 @@ const list = [
     price: "2280",
     showPrice: "2280",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "M3S160S1603310A",
@@ -621,7 +621,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S160N100A300",
@@ -629,7 +629,7 @@ const list = [
     price: "975",
     showPrice: "975",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S250S2252300",
@@ -637,7 +637,7 @@ const list = [
     price: "518",
     showPrice: "518",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S63C502300",
@@ -645,7 +645,7 @@ const list = [
     price: "277",
     showPrice: "277",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S250S1252300",
@@ -653,7 +653,7 @@ const list = [
     price: "518",
     showPrice: "518",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S63C203208",
@@ -661,7 +661,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S63C20B2002",
@@ -669,7 +669,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S63C253320",
@@ -677,7 +677,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C3232002",
@@ -685,7 +685,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S125BS1253208",
@@ -693,7 +693,7 @@ const list = [
     price: "488",
     showPrice: "488",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BS8032002",
@@ -701,7 +701,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BS80B340A",
@@ -709,7 +709,7 @@ const list = [
     price: "739",
     showPrice: "739",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF1632202",
@@ -717,7 +717,7 @@ const list = [
     price: "522",
     showPrice: "522",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "M3S125BF4033002",
@@ -725,7 +725,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BF40A300",
@@ -733,7 +733,7 @@ const list = [
     price: "663",
     showPrice: "663",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BF503200",
@@ -741,7 +741,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S160S1003340A",
@@ -749,7 +749,7 @@ const list = [
     price: "748",
     showPrice: "748",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S160S1253310A",
@@ -757,7 +757,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S160F1003200",
@@ -765,7 +765,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S160N16033002",
@@ -773,7 +773,7 @@ const list = [
     price: "728",
     showPrice: "728",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S250S140B300",
@@ -781,7 +781,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 140A",
   },
   {
     orderId: "M3S250S180A200",
@@ -789,7 +789,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250F1603340B",
@@ -797,7 +797,7 @@ const list = [
     price: "908",
     showPrice: "908",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250F20032002",
@@ -805,7 +805,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S400F225A300",
@@ -813,7 +813,7 @@ const list = [
     price: "2160",
     showPrice: "2160",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 225A",
   },
   {
     orderId: "M3S400F350B300",
@@ -821,7 +821,7 @@ const list = [
     price: "2160",
     showPrice: "2160",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "M3S400F4003340A",
@@ -829,7 +829,7 @@ const list = [
     price: "1767",
     showPrice: "1767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S630F50033002",
@@ -837,7 +837,7 @@ const list = [
     price: "2280",
     showPrice: "2280",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S630F6303300P",
@@ -845,7 +845,7 @@ const list = [
     price: "5176",
     showPrice: "5176",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S630F6303330",
@@ -853,7 +853,7 @@ const list = [
     price: "2808",
     showPrice: "2808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S125BF8032002I",
@@ -861,7 +861,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S63C2532002",
@@ -869,7 +869,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C403208",
@@ -877,7 +877,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S63C633310B",
@@ -885,7 +885,7 @@ const list = [
     price: "424",
     showPrice: "424",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S63C63A200",
@@ -893,7 +893,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S125BS1003300",
@@ -901,7 +901,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BS100A300",
@@ -909,7 +909,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BS803340B",
@@ -917,7 +917,7 @@ const list = [
     price: "583",
     showPrice: "583",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF10033002",
@@ -925,7 +925,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BF100B300",
@@ -933,7 +933,7 @@ const list = [
     price: "663",
     showPrice: "663",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BF633310A",
@@ -941,7 +941,7 @@ const list = [
     price: "575.99",
     showPrice: "575.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S160S1003340B",
@@ -949,7 +949,7 @@ const list = [
     price: "748",
     showPrice: "748",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S160S100B300",
@@ -957,7 +957,7 @@ const list = [
     price: "824",
     showPrice: "824",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S160F1253340A",
@@ -965,7 +965,7 @@ const list = [
     price: "843",
     showPrice: "843",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S160F160A300",
@@ -973,7 +973,7 @@ const list = [
     price: "946",
     showPrice: "946",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S250S1403300",
@@ -981,7 +981,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 140A",
   },
   {
     orderId: "M3S250S1603330A",
@@ -989,7 +989,7 @@ const list = [
     price: "948",
     showPrice: "948",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250S160B300",
@@ -997,7 +997,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250F1603310A",
@@ -1005,7 +1005,7 @@ const list = [
     price: "867",
     showPrice: "867",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250F20033002",
@@ -1013,7 +1013,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250F22533002",
@@ -1021,7 +1021,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S400F2003340A",
@@ -1029,7 +1029,7 @@ const list = [
     price: "1767",
     showPrice: "1767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 200A",
   },
   {
     orderId: "M3S400F4003310B",
@@ -1037,7 +1037,7 @@ const list = [
     price: "1685",
     showPrice: "1685",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S400N2003300",
@@ -1045,7 +1045,7 @@ const list = [
     price: "1768",
     showPrice: "1768",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 200A",
   },
   {
     orderId: "M3S630F400A300",
@@ -1053,7 +1053,7 @@ const list = [
     price: "3138",
     showPrice: "3138",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "M3S630F5003200",
@@ -1061,7 +1061,7 @@ const list = [
     price: "2280",
     showPrice: "2280",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S630F5003310B",
@@ -1069,7 +1069,7 @@ const list = [
     price: "2482",
     showPrice: "2482",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S630F6303380A",
@@ -1077,7 +1077,7 @@ const list = [
     price: "2646",
     showPrice: "2646",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S63C25B300",
@@ -1085,7 +1085,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C323228",
@@ -1093,7 +1093,7 @@ const list = [
     price: "411",
     showPrice: "411",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C32B2002",
@@ -1101,7 +1101,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C4032002",
@@ -1109,7 +1109,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S63C50A300",
@@ -1117,7 +1117,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S125BS1253310B",
@@ -1125,7 +1125,7 @@ const list = [
     price: "542",
     showPrice: "542",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BS633340A",
@@ -1133,7 +1133,7 @@ const list = [
     price: "583",
     showPrice: "583",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S125BF10032002",
@@ -1141,7 +1141,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BF5033002",
@@ -1149,7 +1149,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BF633300",
@@ -1157,7 +1157,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S125BF125B300",
@@ -1165,7 +1165,7 @@ const list = [
     price: "663",
     showPrice: "663",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S160S10032002",
@@ -1173,7 +1173,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S160N1253300",
@@ -1181,7 +1181,7 @@ const list = [
     price: "728",
     showPrice: "728",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S160N1603300",
@@ -1189,7 +1189,7 @@ const list = [
     price: "728",
     showPrice: "728",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S250S16033002",
@@ -1197,7 +1197,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250S180A300",
@@ -1205,7 +1205,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250S225B200",
@@ -1213,7 +1213,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250S2503330A",
@@ -1221,7 +1221,7 @@ const list = [
     price: "948",
     showPrice: "948",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250F1003300",
@@ -1229,7 +1229,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "M3S250N200A300",
@@ -1237,7 +1237,7 @@ const list = [
     price: "1067",
     showPrice: "1067",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S400F2503310A",
@@ -1245,7 +1245,7 @@ const list = [
     price: "1685",
     showPrice: "1685",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "M3S400F3153340A",
@@ -1253,7 +1253,7 @@ const list = [
     price: "1767",
     showPrice: "1767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S400F35032002",
@@ -1261,7 +1261,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "M3S400F40033002",
@@ -1269,7 +1269,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S400N4003310A",
@@ -1277,7 +1277,7 @@ const list = [
     price: "1970",
     showPrice: "1970",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S800F800B300",
@@ -1285,7 +1285,7 @@ const list = [
     price: "4690",
     showPrice: "4690",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S63C20B300",
@@ -1293,7 +1293,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S63C3232082",
@@ -1301,7 +1301,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C323308",
@@ -1309,7 +1309,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C403228",
@@ -1317,7 +1317,7 @@ const list = [
     price: "411",
     showPrice: "411",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S63C40A200",
@@ -1325,7 +1325,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S125BS1003310A",
@@ -1333,7 +1333,7 @@ const list = [
     price: "542",
     showPrice: "542",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BF403200",
@@ -1341,7 +1341,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BF50A300",
@@ -1349,7 +1349,7 @@ const list = [
     price: "663",
     showPrice: "663",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BF6333002",
@@ -1357,7 +1357,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S125BF80B300",
@@ -1365,7 +1365,7 @@ const list = [
     price: "663",
     showPrice: "663",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S160S1403340B",
@@ -1373,7 +1373,7 @@ const list = [
     price: "748",
     showPrice: "748",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S160F140A300",
@@ -1381,7 +1381,7 @@ const list = [
     price: "946",
     showPrice: "946",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S160N1003300",
@@ -1389,7 +1389,7 @@ const list = [
     price: "728",
     showPrice: "728",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S250S1253300",
@@ -1397,7 +1397,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250S200B340A",
@@ -1405,7 +1405,7 @@ const list = [
     price: "1045",
     showPrice: "1045",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250S2253340A",
@@ -1413,7 +1413,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250S2503340A",
@@ -1421,7 +1421,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250F2503340A",
@@ -1429,7 +1429,7 @@ const list = [
     price: "908",
     showPrice: "908",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250N250A300",
@@ -1437,7 +1437,7 @@ const list = [
     price: "1067",
     showPrice: "1067",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S400F200A300",
@@ -1445,7 +1445,7 @@ const list = [
     price: "2160",
     showPrice: "2160",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 200A",
   },
   {
     orderId: "M3S400F2253340A",
@@ -1453,7 +1453,7 @@ const list = [
     price: "1767",
     showPrice: "1767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 225A",
   },
   {
     orderId: "M3S400F315B200",
@@ -1461,7 +1461,7 @@ const list = [
     price: "2160",
     showPrice: "2160",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S630F63033002",
@@ -1469,7 +1469,7 @@ const list = [
     price: "2280",
     showPrice: "2280",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S630F6303340B",
@@ -1477,7 +1477,7 @@ const list = [
     price: "2564",
     showPrice: "2564",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S63C20A3002",
@@ -1485,7 +1485,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S63C20B200",
@@ -1493,7 +1493,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S63C253228",
@@ -1501,7 +1501,7 @@ const list = [
     price: "411",
     showPrice: "411",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C25A340A",
@@ -1509,7 +1509,7 @@ const list = [
     price: "567.99",
     showPrice: "567.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C6332002",
@@ -1517,7 +1517,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S125BS100B200",
@@ -1525,7 +1525,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BS125B340A",
@@ -1533,7 +1533,7 @@ const list = [
     price: "739",
     showPrice: "739",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BS803300",
@@ -1541,7 +1541,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF403300",
@@ -1549,7 +1549,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BF503340A",
@@ -1557,7 +1557,7 @@ const list = [
     price: "617",
     showPrice: "617",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BF80A200",
@@ -1565,7 +1565,7 @@ const list = [
     price: "663",
     showPrice: "663",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF80A300",
@@ -1573,7 +1573,7 @@ const list = [
     price: "663",
     showPrice: "663",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S160S100A300",
@@ -1581,7 +1581,7 @@ const list = [
     price: "824",
     showPrice: "824",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S160S1403340A",
@@ -1589,7 +1589,7 @@ const list = [
     price: "748",
     showPrice: "748",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S160F12532002",
@@ -1597,7 +1597,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S250S1253310A",
@@ -1605,7 +1605,7 @@ const list = [
     price: "767",
     showPrice: "767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250S1253340B",
@@ -1613,7 +1613,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250S14033002",
@@ -1621,7 +1621,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 140A",
   },
   {
     orderId: "M3S250S20033002",
@@ -1629,7 +1629,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250S2503340B",
@@ -1637,7 +1637,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250F1253310A",
@@ -1645,7 +1645,7 @@ const list = [
     price: "867",
     showPrice: "867",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250F16033002",
@@ -1653,7 +1653,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250N1253300",
@@ -1661,7 +1661,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S400F3503340A",
@@ -1669,7 +1669,7 @@ const list = [
     price: "1767",
     showPrice: "1767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "M3S400F4003340B",
@@ -1677,7 +1677,7 @@ const list = [
     price: "1767",
     showPrice: "1767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S63C253200",
@@ -1685,7 +1685,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C3233002",
@@ -1693,7 +1693,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C503310B",
@@ -1701,7 +1701,7 @@ const list = [
     price: "424",
     showPrice: "424",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S125BS12532002",
@@ -1709,7 +1709,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BS1253300",
@@ -1717,7 +1717,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BF163300",
@@ -1725,7 +1725,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "M3S125BF403340A",
@@ -1733,7 +1733,7 @@ const list = [
     price: "617",
     showPrice: "617",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BF50B300",
@@ -1741,7 +1741,7 @@ const list = [
     price: "663",
     showPrice: "663",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BF633200",
@@ -1749,7 +1749,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S160S12532002",
@@ -1757,7 +1757,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S160S16032002",
@@ -1765,7 +1765,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S160F12533002",
@@ -1773,7 +1773,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S160F125A300",
@@ -1781,7 +1781,7 @@ const list = [
     price: "946",
     showPrice: "946",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S250S1003300",
@@ -1789,7 +1789,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "M3S250S1603340A",
@@ -1797,7 +1797,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250S2503310B",
@@ -1805,7 +1805,7 @@ const list = [
     price: "767",
     showPrice: "767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250F1603200",
@@ -1813,7 +1813,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250F2253340A",
@@ -1821,7 +1821,7 @@ const list = [
     price: "908",
     showPrice: "908",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250F2503310A",
@@ -1829,7 +1829,7 @@ const list = [
     price: "867",
     showPrice: "867",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250F250B300",
@@ -1837,7 +1837,7 @@ const list = [
     price: "1034",
     showPrice: "1034",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S400F3153310B",
@@ -1845,7 +1845,7 @@ const list = [
     price: "1685",
     showPrice: "1685",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S400F3503310A",
@@ -1853,7 +1853,7 @@ const list = [
     price: "1685",
     showPrice: "1685",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "M3S400N2503300",
@@ -1861,7 +1861,7 @@ const list = [
     price: "1768",
     showPrice: "1768",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "M3S630F400B300",
@@ -1869,7 +1869,7 @@ const list = [
     price: "3138",
     showPrice: "3138",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "M3S630F6303310",
@@ -1877,7 +1877,7 @@ const list = [
     price: "2482",
     showPrice: "2482",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S630BN63033002",
@@ -1885,7 +1885,7 @@ const list = [
     price: "2725",
     showPrice: "2725",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S63C103340A",
@@ -1893,7 +1893,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "M3S63C10A300",
@@ -1901,7 +1901,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "M3S63C203200",
@@ -1909,7 +1909,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S63C403340B",
@@ -1917,7 +1917,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S125BS1003200",
@@ -1925,7 +1925,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BS1253310A",
@@ -1933,7 +1933,7 @@ const list = [
     price: "542",
     showPrice: "542",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BS80B200",
@@ -1941,7 +1941,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BS80B300",
@@ -1949,7 +1949,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF5032002",
@@ -1957,7 +1957,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BF803300",
@@ -1965,7 +1965,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S160S140A200",
@@ -1973,7 +1973,7 @@ const list = [
     price: "824",
     showPrice: "824",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S160N1403300",
@@ -1981,7 +1981,7 @@ const list = [
     price: "728",
     showPrice: "728",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S250S12532002",
@@ -1989,7 +1989,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250S1803310A",
@@ -1997,7 +1997,7 @@ const list = [
     price: "767",
     showPrice: "767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250S1803310B",
@@ -2005,7 +2005,7 @@ const list = [
     price: "767",
     showPrice: "767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250S2003310B",
@@ -2013,7 +2013,7 @@ const list = [
     price: "767",
     showPrice: "767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250S200A340A",
@@ -2021,7 +2021,7 @@ const list = [
     price: "1045",
     showPrice: "1045",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250S22533002",
@@ -2029,7 +2029,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250F1253300",
@@ -2037,7 +2037,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250F1803310A",
@@ -2045,7 +2045,7 @@ const list = [
     price: "867",
     showPrice: "867",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250F2253300",
@@ -2053,7 +2053,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250F2503300",
@@ -2061,7 +2061,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250F2503340B",
@@ -2069,7 +2069,7 @@ const list = [
     price: "908",
     showPrice: "908",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250N160B300",
@@ -2077,7 +2077,7 @@ const list = [
     price: "1067",
     showPrice: "1067",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S400F31532002",
@@ -2085,7 +2085,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S400N3153300",
@@ -2093,7 +2093,7 @@ const list = [
     price: "1768",
     showPrice: "1768",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S630F4003340A",
@@ -2101,7 +2101,7 @@ const list = [
     price: "2564",
     showPrice: "2564",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "M3S630F500A300",
@@ -2109,7 +2109,7 @@ const list = [
     price: "3138",
     showPrice: "3138",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S63C163310A",
@@ -2117,7 +2117,7 @@ const list = [
     price: "424",
     showPrice: "424",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "M3S63C253310A",
@@ -2125,7 +2125,7 @@ const list = [
     price: "424",
     showPrice: "424",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C25B2002",
@@ -2133,7 +2133,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C32A300",
@@ -2141,7 +2141,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C633208",
@@ -2149,7 +2149,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S63C6332082",
@@ -2157,7 +2157,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S125BS1003340B",
@@ -2165,7 +2165,7 @@ const list = [
     price: "583",
     showPrice: "583",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BS403340A",
@@ -2173,7 +2173,7 @@ const list = [
     price: "583",
     showPrice: "583",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BS63A300",
@@ -2181,7 +2181,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S125BS803200",
@@ -2189,7 +2189,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF503310A",
@@ -2197,7 +2197,7 @@ const list = [
     price: "575.99",
     showPrice: "575.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BF8032002",
@@ -2205,7 +2205,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF803340A",
@@ -2213,7 +2213,7 @@ const list = [
     price: "617",
     showPrice: "617",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF803340B",
@@ -2221,7 +2221,7 @@ const list = [
     price: "617",
     showPrice: "617",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S160S140A300",
@@ -2229,7 +2229,7 @@ const list = [
     price: "824",
     showPrice: "824",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S160F160B300",
@@ -2237,7 +2237,7 @@ const list = [
     price: "946",
     showPrice: "946",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S160N125A300",
@@ -2245,7 +2245,7 @@ const list = [
     price: "975",
     showPrice: "975",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S250S1003200",
@@ -2253,7 +2253,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "M3S250S125A300",
@@ -2261,7 +2261,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250S1403310A",
@@ -2269,7 +2269,7 @@ const list = [
     price: "767",
     showPrice: "767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 140A",
   },
   {
     orderId: "M3S250S1603340B",
@@ -2277,7 +2277,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250S1803340B",
@@ -2285,7 +2285,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250S180B300",
@@ -2293,7 +2293,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250S2253340",
@@ -2301,7 +2301,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250S2253340B",
@@ -2309,7 +2309,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250F1403340A",
@@ -2317,7 +2317,7 @@ const list = [
     price: "908",
     showPrice: "908",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 140A",
   },
   {
     orderId: "M3S250F1603340A",
@@ -2325,7 +2325,7 @@ const list = [
     price: "908",
     showPrice: "908",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250F1803300",
@@ -2333,7 +2333,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250F180A300",
@@ -2341,7 +2341,7 @@ const list = [
     price: "1034",
     showPrice: "1034",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250F180B300",
@@ -2349,7 +2349,7 @@ const list = [
     price: "1034",
     showPrice: "1034",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250F200A300",
@@ -2357,7 +2357,7 @@ const list = [
     price: "1034",
     showPrice: "1034",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250F2503380A",
@@ -2365,7 +2365,7 @@ const list = [
     price: "949",
     showPrice: "949",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S400F2003300",
@@ -2373,7 +2373,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 200A",
   },
   {
     orderId: "M3S400F2253300",
@@ -2381,7 +2381,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 225A",
   },
   {
     orderId: "M3S400F25032002",
@@ -2389,7 +2389,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "M3S400F3153200",
@@ -2397,7 +2397,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S400F3503200",
@@ -2405,7 +2405,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "M3S630F4003200",
@@ -2413,7 +2413,7 @@ const list = [
     price: "2280",
     showPrice: "2280",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "M3S800F800B340A",
@@ -2421,7 +2421,7 @@ const list = [
     price: "5246",
     showPrice: "5246",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S800N6303300",
@@ -2429,7 +2429,7 @@ const list = [
     price: "3501",
     showPrice: "3501",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
   },
   {
     orderId: "M3S630BF4003300",
@@ -2437,7 +2437,7 @@ const list = [
     price: "2499",
     showPrice: "2499",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "M3S63C163300",
@@ -2445,7 +2445,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "M3S63C16B300",
@@ -2453,7 +2453,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "M3S63C2533002",
@@ -2461,7 +2461,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C403348A",
@@ -2469,7 +2469,7 @@ const list = [
     price: "506",
     showPrice: "506",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S63C633340A",
@@ -2477,7 +2477,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S63C63B340A",
@@ -2485,7 +2485,7 @@ const list = [
     price: "567.99",
     showPrice: "567.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S125BS10033002",
@@ -2493,7 +2493,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BS1253228",
@@ -2501,7 +2501,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S160F1603200",
@@ -2509,7 +2509,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S250S250A340A",
@@ -2517,7 +2517,7 @@ const list = [
     price: "1045",
     showPrice: "1045",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250F12533002",
@@ -2525,7 +2525,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250F125B300",
@@ -2533,7 +2533,7 @@ const list = [
     price: "1034",
     showPrice: "1034",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250F2003380A",
@@ -2541,7 +2541,7 @@ const list = [
     price: "949",
     showPrice: "949",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S400F3153310",
@@ -2549,7 +2549,7 @@ const list = [
     price: "1685",
     showPrice: "1685",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S400F3153340B",
@@ -2557,7 +2557,7 @@ const list = [
     price: "1767",
     showPrice: "1767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S400F315A300",
@@ -2565,7 +2565,7 @@ const list = [
     price: "2160",
     showPrice: "2160",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S630BF6303340A",
@@ -2573,7 +2573,7 @@ const list = [
     price: "2918",
     showPrice: "2918",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S125BF503208I",
@@ -2581,7 +2581,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S63C1632002",
@@ -2589,7 +2589,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "M3S63C203340B",
@@ -2597,7 +2597,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S63C25A3002",
@@ -2605,7 +2605,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C25B200",
@@ -2613,7 +2613,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C32B200",
@@ -2621,7 +2621,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C32B300",
@@ -2629,7 +2629,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S125BS10032002",
@@ -2637,7 +2637,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BS1003340A",
@@ -2645,7 +2645,7 @@ const list = [
     price: "583",
     showPrice: "583",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BS5033002",
@@ -2653,7 +2653,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BF1003310A",
@@ -2661,7 +2661,7 @@ const list = [
     price: "575.99",
     showPrice: "575.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BF6332002",
@@ -2669,7 +2669,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S125BF803200",
@@ -2677,7 +2677,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF1253340A",
@@ -2685,7 +2685,7 @@ const list = [
     price: "617",
     showPrice: "617",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S160S160A340A",
@@ -2693,7 +2693,7 @@ const list = [
     price: "960",
     showPrice: "960",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S160F100B300",
@@ -2701,7 +2701,7 @@ const list = [
     price: "946",
     showPrice: "946",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S250S100A300",
@@ -2709,7 +2709,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "M3S250S1403200",
@@ -2717,7 +2717,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 140A",
   },
   {
     orderId: "M3S250S2503348A",
@@ -2725,7 +2725,7 @@ const list = [
     price: "849",
     showPrice: "849",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250F1803340A",
@@ -2733,7 +2733,7 @@ const list = [
     price: "908",
     showPrice: "908",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250F200B300",
@@ -2741,7 +2741,7 @@ const list = [
     price: "1034",
     showPrice: "1034",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S400F2503200",
@@ -2749,7 +2749,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "M3S400N3503340A",
@@ -2757,7 +2757,7 @@ const list = [
     price: "2052",
     showPrice: "2052",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "M3S400N400A300",
@@ -2765,7 +2765,7 @@ const list = [
     price: "2421",
     showPrice: "2421",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S800N8003340A",
@@ -2773,7 +2773,7 @@ const list = [
     price: "4057.01",
     showPrice: "4057.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S800N800A300",
@@ -2781,7 +2781,7 @@ const list = [
     price: "5141",
     showPrice: "5141",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S125BF803208I",
@@ -2789,7 +2789,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S63C163200",
@@ -2797,7 +2797,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "M3S63C1632082",
@@ -2805,7 +2805,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "M3S63C2532082",
@@ -2813,7 +2813,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C323340A",
@@ -2821,7 +2821,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C50B200",
@@ -2829,7 +2829,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S125BS100A200",
@@ -2837,7 +2837,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BS125B300",
@@ -2845,7 +2845,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BS503340A",
@@ -2853,7 +2853,7 @@ const list = [
     price: "583",
     showPrice: "583",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BS50A300",
@@ -2861,7 +2861,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BS633200",
@@ -2869,7 +2869,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S160S1603340B",
@@ -2877,7 +2877,7 @@ const list = [
     price: "748",
     showPrice: "748",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S160F1253310A",
@@ -2885,7 +2885,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S250S125B300",
@@ -2893,7 +2893,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250F125A300",
@@ -2901,7 +2901,7 @@ const list = [
     price: "1034",
     showPrice: "1034",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250F2253200",
@@ -2909,7 +2909,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250N1253200",
@@ -2917,7 +2917,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250N200B300",
@@ -2925,7 +2925,7 @@ const list = [
     price: "1067",
     showPrice: "1067",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250N250B300",
@@ -2933,7 +2933,7 @@ const list = [
     price: "1067",
     showPrice: "1067",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S400F4003340",
@@ -2941,7 +2941,7 @@ const list = [
     price: "1767",
     showPrice: "1767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S630F4003310A",
@@ -2949,7 +2949,7 @@ const list = [
     price: "2482",
     showPrice: "2482",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "M3S800F800A300",
@@ -2957,7 +2957,7 @@ const list = [
     price: "4690",
     showPrice: "4690",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S63C103200",
@@ -2965,7 +2965,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "M3S63C103300",
@@ -2973,7 +2973,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "M3S63C163320",
@@ -2981,7 +2981,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "M3S63C20A300",
@@ -2989,7 +2989,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S63C4033002",
@@ -2997,7 +2997,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S63C40B300",
@@ -3005,7 +3005,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S63C63B200",
@@ -3013,7 +3013,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S125BS12533002",
@@ -3021,7 +3021,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BS503200",
@@ -3029,7 +3029,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BS50B300",
@@ -3037,7 +3037,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BF1003200",
@@ -3045,7 +3045,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BF2533002",
@@ -3053,7 +3053,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "M3S125BF4032002",
@@ -3061,7 +3061,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BF633340A",
@@ -3069,7 +3069,7 @@ const list = [
     price: "617",
     showPrice: "617",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S160S1253200",
@@ -3077,7 +3077,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S160S12533002",
@@ -3085,7 +3085,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S160F100A300",
@@ -3093,7 +3093,7 @@ const list = [
     price: "946",
     showPrice: "946",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S250S1253200",
@@ -3101,7 +3101,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250S1603310A",
@@ -3109,7 +3109,7 @@ const list = [
     price: "767",
     showPrice: "767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250S1603310B",
@@ -3117,7 +3117,7 @@ const list = [
     price: "767",
     showPrice: "767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250S2253310B",
@@ -3125,7 +3125,7 @@ const list = [
     price: "767",
     showPrice: "767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250F250A300",
@@ -3133,7 +3133,7 @@ const list = [
     price: "1034",
     showPrice: "1034",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250N2003300",
@@ -3141,7 +3141,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S400F2503340A",
@@ -3149,7 +3149,7 @@ const list = [
     price: "1767",
     showPrice: "1767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "M3S400F315A340A",
@@ -3157,7 +3157,7 @@ const list = [
     price: "2444",
     showPrice: "2444",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S400F40032002",
@@ -3165,7 +3165,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S125BF203208I",
@@ -3173,7 +3173,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "M3S63C1032002",
@@ -3181,7 +3181,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "M3S63C1033002",
@@ -3189,7 +3189,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "M3S63C253340B",
@@ -3197,7 +3197,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C25A200",
@@ -3205,7 +3205,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C323340B",
@@ -3213,7 +3213,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C633320",
@@ -3221,7 +3221,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S125BS1003310B",
@@ -3229,7 +3229,7 @@ const list = [
     price: "542",
     showPrice: "542",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BS63B300",
@@ -3237,7 +3237,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S160S1253208",
@@ -3245,7 +3245,7 @@ const list = [
     price: "653",
     showPrice: "653",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S160S1403200",
@@ -3253,7 +3253,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S250S10033002",
@@ -3261,7 +3261,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "M3S250S1003310A",
@@ -3269,7 +3269,7 @@ const list = [
     price: "767",
     showPrice: "767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "M3S250S1403340A",
@@ -3277,7 +3277,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 140A",
   },
   {
     orderId: "M3S250S16032002",
@@ -3285,7 +3285,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250S225B340A",
@@ -3293,7 +3293,7 @@ const list = [
     price: "1045",
     showPrice: "1045",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250S250B2002",
@@ -3301,7 +3301,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250S250B3002",
@@ -3309,7 +3309,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250F100A300",
@@ -3317,7 +3317,7 @@ const list = [
     price: "1034",
     showPrice: "1034",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "M3S250F1253340A",
@@ -3325,7 +3325,7 @@ const list = [
     price: "908",
     showPrice: "908",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250F160A300",
@@ -3333,7 +3333,7 @@ const list = [
     price: "1034",
     showPrice: "1034",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S400F35033002",
@@ -3341,7 +3341,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "M3S400F3503340B",
@@ -3349,7 +3349,7 @@ const list = [
     price: "1767",
     showPrice: "1767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "M3S630F6303200",
@@ -3357,7 +3357,7 @@ const list = [
     price: "2280",
     showPrice: "2280",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S630F63032002",
@@ -3365,7 +3365,7 @@ const list = [
     price: "2280",
     showPrice: "2280",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S630BF6303340B",
@@ -3373,7 +3373,7 @@ const list = [
     price: "2918",
     showPrice: "2918",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S63C323348A",
@@ -3381,7 +3381,7 @@ const list = [
     price: "506",
     showPrice: "506",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C32A200",
@@ -3389,7 +3389,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C403308",
@@ -3397,7 +3397,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S63C5032002",
@@ -3405,7 +3405,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S63C5032082",
@@ -3413,7 +3413,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S125BS503310A",
@@ -3421,7 +3421,7 @@ const list = [
     price: "542",
     showPrice: "542",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BS633310A",
@@ -3429,7 +3429,7 @@ const list = [
     price: "542",
     showPrice: "542",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S125BS8033002",
@@ -3437,7 +3437,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BS803340A",
@@ -3445,7 +3445,7 @@ const list = [
     price: "583",
     showPrice: "583",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S160S125A300",
@@ -3453,7 +3453,7 @@ const list = [
     price: "824",
     showPrice: "824",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S160S1603310B",
@@ -3461,7 +3461,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S160F125B300",
@@ -3469,7 +3469,7 @@ const list = [
     price: "946",
     showPrice: "946",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S160F1603310A",
@@ -3477,7 +3477,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S160F1603340A",
@@ -3485,7 +3485,7 @@ const list = [
     price: "843",
     showPrice: "843",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S160N125B300",
@@ -3493,7 +3493,7 @@ const list = [
     price: "975",
     showPrice: "975",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S250S2003200",
@@ -3501,7 +3501,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250S250A200",
@@ -3509,7 +3509,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250F2003200",
@@ -3517,7 +3517,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250F2003310A",
@@ -3525,7 +3525,7 @@ const list = [
     price: "867",
     showPrice: "867",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250N2503300",
@@ -3533,7 +3533,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S400F2253200",
@@ -3541,7 +3541,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 225A",
   },
   {
     orderId: "M3S630F5003310A",
@@ -3549,7 +3549,7 @@ const list = [
     price: "2482",
     showPrice: "2482",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S630F500B300",
@@ -3557,7 +3557,7 @@ const list = [
     price: "3138",
     showPrice: "3138",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S125BF10032002I",
@@ -3565,7 +3565,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BF803228I",
@@ -3573,7 +3573,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S63C203340A",
@@ -3581,7 +3581,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S63C253308",
@@ -3589,7 +3589,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C32A3002",
@@ -3597,7 +3597,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C40B200",
@@ -3605,7 +3605,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S63C503340B",
@@ -3613,7 +3613,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S63C633310A",
@@ -3621,7 +3621,7 @@ const list = [
     price: "424",
     showPrice: "424",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S125BS803310A",
@@ -3629,7 +3629,7 @@ const list = [
     price: "542",
     showPrice: "542",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF1003340B",
@@ -3637,7 +3637,7 @@ const list = [
     price: "617",
     showPrice: "617",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BF100A300",
@@ -3645,7 +3645,7 @@ const list = [
     price: "663",
     showPrice: "663",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S160S140B300",
@@ -3653,7 +3653,7 @@ const list = [
     price: "824",
     showPrice: "824",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S250S12533002",
@@ -3661,7 +3661,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250S1603310",
@@ -3669,7 +3669,7 @@ const list = [
     price: "767",
     showPrice: "767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250S18033002",
@@ -3677,7 +3677,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250S2003310A",
@@ -3685,7 +3685,7 @@ const list = [
     price: "767",
     showPrice: "767",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250F1403300",
@@ -3693,7 +3693,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 140A",
   },
   {
     orderId: "M3S250F2003340A",
@@ -3701,7 +3701,7 @@ const list = [
     price: "908",
     showPrice: "908",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250F225A300",
@@ -3709,7 +3709,7 @@ const list = [
     price: "1034",
     showPrice: "1034",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250F2503200",
@@ -3717,7 +3717,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S400F2003200",
@@ -3725,7 +3725,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 200A",
   },
   {
     orderId: "M3S800F8003310",
@@ -3733,7 +3733,7 @@ const list = [
     price: "3479",
     showPrice: "3479",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S63C253300",
@@ -3741,7 +3741,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C323200",
@@ -3749,7 +3749,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C403310B",
@@ -3757,7 +3757,7 @@ const list = [
     price: "424",
     showPrice: "424",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S63C6333002",
@@ -3765,7 +3765,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S125BS1253340A",
@@ -3773,7 +3773,7 @@ const list = [
     price: "583",
     showPrice: "583",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BS1253340B",
@@ -3781,7 +3781,7 @@ const list = [
     price: "583",
     showPrice: "583",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BS125A200",
@@ -3789,7 +3789,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BS125B200",
@@ -3797,7 +3797,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BS40A300",
@@ -3805,7 +3805,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BS5032002",
@@ -3813,7 +3813,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BF503300",
@@ -3821,7 +3821,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BF63B300",
@@ -3829,7 +3829,7 @@ const list = [
     price: "663",
     showPrice: "663",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S125BF8033002",
@@ -3837,7 +3837,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF125A300",
@@ -3845,7 +3845,7 @@ const list = [
     price: "663",
     showPrice: "663",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S160S1603340A",
@@ -3853,7 +3853,7 @@ const list = [
     price: "748",
     showPrice: "748",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S160F1003340A",
@@ -3861,7 +3861,7 @@ const list = [
     price: "843",
     showPrice: "843",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S160N100B300",
@@ -3869,7 +3869,7 @@ const list = [
     price: "975",
     showPrice: "975",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S250S100B300",
@@ -3877,7 +3877,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "M3S250S1253340A",
@@ -3885,7 +3885,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250S1603200",
@@ -3893,7 +3893,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250S18032002",
@@ -3901,7 +3901,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250S2253200",
@@ -3909,7 +3909,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250S22532002",
@@ -3917,7 +3917,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250F18033002",
@@ -3925,7 +3925,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250F25032002",
@@ -3933,7 +3933,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250F25033002",
@@ -3941,7 +3941,7 @@ const list = [
     price: "772",
     showPrice: "772",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S400F250A300",
@@ -3949,7 +3949,7 @@ const list = [
     price: "2160",
     showPrice: "2160",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "M3S400F250B300",
@@ -3957,7 +3957,7 @@ const list = [
     price: "2160",
     showPrice: "2160",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "M3S400F3153310A",
@@ -3965,7 +3965,7 @@ const list = [
     price: "1685",
     showPrice: "1685",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S400F350B340A",
@@ -3973,7 +3973,7 @@ const list = [
     price: "2444",
     showPrice: "2444",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "M3S400N4003340A",
@@ -3981,7 +3981,7 @@ const list = [
     price: "2052",
     showPrice: "2052",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S63C163340A",
@@ -3989,7 +3989,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "M3S63C253208",
@@ -3997,7 +3997,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C40A3002",
@@ -4005,7 +4005,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S63C503208",
@@ -4013,7 +4013,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S63C503308",
@@ -4021,7 +4021,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S63C633340",
@@ -4029,7 +4029,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S63C63A2002",
@@ -4037,7 +4037,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S125BS403300",
@@ -4045,7 +4045,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BS80A200",
@@ -4053,7 +4053,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF253300",
@@ -4061,7 +4061,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "M3S125BF803310A",
@@ -4069,7 +4069,7 @@ const list = [
     price: "575.99",
     showPrice: "575.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF1253200",
@@ -4077,7 +4077,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S160S10033002",
@@ -4085,7 +4085,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S160S14033002",
@@ -4093,7 +4093,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S160S1403310A",
@@ -4101,7 +4101,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S160F1403340A",
@@ -4109,7 +4109,7 @@ const list = [
     price: "843",
     showPrice: "843",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S160F140B300",
@@ -4117,7 +4117,7 @@ const list = [
     price: "946",
     showPrice: "946",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S250S160B340A",
@@ -4125,7 +4125,7 @@ const list = [
     price: "1045",
     showPrice: "1045",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250S25032002",
@@ -4133,7 +4133,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S250N1403300",
@@ -4141,7 +4141,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 140A",
   },
   {
     orderId: "M3S400F400A340A",
@@ -4149,7 +4149,7 @@ const list = [
     price: "2444",
     showPrice: "2444",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S400N3153340A",
@@ -4157,7 +4157,7 @@ const list = [
     price: "2052",
     showPrice: "2052",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S400N400B300",
@@ -4165,7 +4165,7 @@ const list = [
     price: "2421",
     showPrice: "2421",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S630F6303300PA",
@@ -4173,7 +4173,7 @@ const list = [
     price: "5176",
     showPrice: "5176",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S630F6303310B",
@@ -4181,7 +4181,7 @@ const list = [
     price: "2482",
     showPrice: "2482",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S63C10B300",
@@ -4189,7 +4189,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "M3S63C2032002",
@@ -4197,7 +4197,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S63C253340A",
@@ -4205,7 +4205,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C323208",
@@ -4213,7 +4213,7 @@ const list = [
     price: "370",
     showPrice: "370",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C503228",
@@ -4221,7 +4221,7 @@ const list = [
     price: "411",
     showPrice: "411",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S63C5033002",
@@ -4229,7 +4229,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S63C50A3002",
@@ -4237,7 +4237,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S63C633340B",
@@ -4245,7 +4245,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S63C63B3002",
@@ -4253,7 +4253,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S125BS125B3002",
@@ -4261,7 +4261,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BS503300",
@@ -4269,7 +4269,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BS633340B",
@@ -4277,7 +4277,7 @@ const list = [
     price: "583",
     showPrice: "583",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S160S1253340A",
@@ -4285,7 +4285,7 @@ const list = [
     price: "748",
     showPrice: "748",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S160S160B310B",
@@ -4293,7 +4293,7 @@ const list = [
     price: "919",
     showPrice: "919",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S160F1253300",
@@ -4301,7 +4301,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S160F1403310A",
@@ -4309,7 +4309,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S250S1003340A",
@@ -4317,7 +4317,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "M3S250S1803340A",
@@ -4325,7 +4325,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250S2003340B",
@@ -4333,7 +4333,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250F2253310A",
@@ -4341,7 +4341,7 @@ const list = [
     price: "867",
     showPrice: "867",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250N2253300",
@@ -4349,7 +4349,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S400F3503310B",
@@ -4357,7 +4357,7 @@ const list = [
     price: "1685",
     showPrice: "1685",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "M3S63C1633002",
@@ -4365,7 +4365,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "M3S63C16A300",
@@ -4373,7 +4373,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "M3S63C2033002",
@@ -4381,7 +4381,7 @@ const list = [
     price: "329",
     showPrice: "329",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S63C20A200",
@@ -4389,7 +4389,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S63C323310B",
@@ -4397,7 +4397,7 @@ const list = [
     price: "424",
     showPrice: "424",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C50B2002",
@@ -4405,7 +4405,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S125BS403200",
@@ -4413,7 +4413,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BS4033002",
@@ -4421,7 +4421,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BS6332002",
@@ -4429,7 +4429,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S125BS6333002",
@@ -4437,7 +4437,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S125BF323300",
@@ -4445,7 +4445,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S125BF403310A",
@@ -4453,7 +4453,7 @@ const list = [
     price: "575.99",
     showPrice: "575.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S160S1003310A",
@@ -4461,7 +4461,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S160S1253340B",
@@ -4469,7 +4469,7 @@ const list = [
     price: "748",
     showPrice: "748",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S160S160B200",
@@ -4477,7 +4477,7 @@ const list = [
     price: "824",
     showPrice: "824",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S160F16033002",
@@ -4485,7 +4485,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S250S160A200",
@@ -4493,7 +4493,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250S2003340A",
@@ -4501,7 +4501,7 @@ const list = [
     price: "808",
     showPrice: "808",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250S225A300",
@@ -4509,7 +4509,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250F225B300",
@@ -4517,7 +4517,7 @@ const list = [
     price: "1034",
     showPrice: "1034",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S250N1003300",
@@ -4525,7 +4525,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "M3S400F350A300",
@@ -4533,7 +4533,7 @@ const list = [
     price: "2160",
     showPrice: "2160",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "M3S400N3503300",
@@ -4541,7 +4541,7 @@ const list = [
     price: "1768",
     showPrice: "1768",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "M3S630F5003340B",
@@ -4549,7 +4549,7 @@ const list = [
     price: "2564",
     showPrice: "2564",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S125BF125A200I",
@@ -4557,7 +4557,7 @@ const list = [
     price: "896",
     showPrice: "896",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S63C203310A",
@@ -4565,7 +4565,7 @@ const list = [
     price: "424",
     showPrice: "424",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S63C253310B",
@@ -4573,7 +4573,7 @@ const list = [
     price: "424",
     showPrice: "424",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63C403340A",
@@ -4581,7 +4581,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S63C40A300",
@@ -4589,7 +4589,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S63C503310A",
@@ -4597,7 +4597,7 @@ const list = [
     price: "424",
     showPrice: "424",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S63C503340A",
@@ -4605,7 +4605,7 @@ const list = [
     price: "465",
     showPrice: "465",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S63C50A200",
@@ -4613,7 +4613,7 @@ const list = [
     price: "432",
     showPrice: "432",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "M3S125BS40B300",
@@ -4621,7 +4621,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BS80A300",
@@ -4629,7 +4629,7 @@ const list = [
     price: "603",
     showPrice: "603",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF1003340A",
@@ -4637,7 +4637,7 @@ const list = [
     price: "617",
     showPrice: "617",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BF253340A",
@@ -4645,7 +4645,7 @@ const list = [
     price: "617",
     showPrice: "617",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "M3S125BF323340A",
@@ -4653,7 +4653,7 @@ const list = [
     price: "617",
     showPrice: "617",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S125BF63A300",
@@ -4661,7 +4661,7 @@ const list = [
     price: "663",
     showPrice: "663",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S160S14032002",
@@ -4669,7 +4669,7 @@ const list = [
     price: "612",
     showPrice: "612",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S160F1403200",
@@ -4677,7 +4677,7 @@ const list = [
     price: "707",
     showPrice: "707",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S250S1803200",
@@ -4685,7 +4685,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250S20032002",
@@ -4693,7 +4693,7 @@ const list = [
     price: "672",
     showPrice: "672",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250F1003340A",
@@ -4701,7 +4701,7 @@ const list = [
     price: "908",
     showPrice: "908",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "M3S250F2003340B",
@@ -4709,7 +4709,7 @@ const list = [
     price: "908",
     showPrice: "908",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S250N1603300",
@@ -4717,7 +4717,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250N2253200",
@@ -4725,7 +4725,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S400F200B300",
@@ -4733,7 +4733,7 @@ const list = [
     price: "2160",
     showPrice: "2160",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 200A",
   },
   {
     orderId: "M3S400F4003310",
@@ -4741,7 +4741,7 @@ const list = [
     price: "1685",
     showPrice: "1685",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S400F400A310A",
@@ -4749,7 +4749,7 @@ const list = [
     price: "2362.01",
     showPrice: "2362.01",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S400N4003300",
@@ -4757,7 +4757,7 @@ const list = [
     price: "1768",
     showPrice: "1768",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S630F5003340A",
@@ -4765,7 +4765,7 @@ const list = [
     price: "2564",
     showPrice: "2564",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S125BF12532002I",
@@ -4773,7 +4773,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S630BF6303310A",
@@ -4781,7 +4781,7 @@ const list = [
     price: "2781",
     showPrice: "2781",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S125BF503228I",
@@ -4789,7 +4789,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BF63A200I",
@@ -4797,7 +4797,7 @@ const list = [
     price: "896",
     showPrice: "896",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S400F3153200I",
@@ -4805,7 +4805,7 @@ const list = [
     price: "1847",
     showPrice: "1847",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S400F31532002I",
@@ -4813,7 +4813,7 @@ const list = [
     price: "1847",
     showPrice: "1847",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S630BN630A300",
@@ -4821,7 +4821,7 @@ const list = [
     price: "3719",
     showPrice: "3719",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S125BF403208I",
@@ -4829,7 +4829,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BF6332002I",
@@ -4837,7 +4837,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S400F35032002I",
@@ -4845,7 +4845,7 @@ const list = [
     price: "1847",
     showPrice: "1847",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "M3S630BF4003200I",
@@ -4853,7 +4853,7 @@ const list = [
     price: "3035",
     showPrice: "3035",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "M3S630F6303310A",
@@ -4861,7 +4861,7 @@ const list = [
     price: "2482",
     showPrice: "2482",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S630BF5003300",
@@ -4869,7 +4869,7 @@ const list = [
     price: "2499",
     showPrice: "2499",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S125BF100A200I",
@@ -4877,7 +4877,7 @@ const list = [
     price: "896",
     showPrice: "896",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BF633200I",
@@ -4885,7 +4885,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S125BF1253200I",
@@ -4893,7 +4893,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S160F125A200I",
@@ -4901,7 +4901,7 @@ const list = [
     price: "1179",
     showPrice: "1179",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S400F2003200I",
@@ -4909,7 +4909,7 @@ const list = [
     price: "1847",
     showPrice: "1847",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 200A",
   },
   {
     orderId: "M3S630BN6303200I",
@@ -4917,7 +4917,7 @@ const list = [
     price: "3261",
     showPrice: "3261",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S630BN6303300",
@@ -4925,7 +4925,7 @@ const list = [
     price: "2725",
     showPrice: "2725",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S125BF2032002I",
@@ -4933,7 +4933,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "M3S160F160A200I",
@@ -4941,7 +4941,7 @@ const list = [
     price: "1179",
     showPrice: "1179",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S250F1803200I",
@@ -4949,7 +4949,7 @@ const list = [
     price: "1005",
     showPrice: "1005",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S125BF253208I",
@@ -4957,7 +4957,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "M3S125BF323208I",
@@ -4965,7 +4965,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S125BF403200I",
@@ -4973,7 +4973,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S250F1603200I",
@@ -4981,7 +4981,7 @@ const list = [
     price: "1005",
     showPrice: "1005",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S250F2503200I",
@@ -4989,7 +4989,7 @@ const list = [
     price: "1005",
     showPrice: "1005",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S630BF6303200I",
@@ -4997,7 +4997,7 @@ const list = [
     price: "3035",
     showPrice: "3035",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S16XF12503310A",
@@ -5005,7 +5005,7 @@ const list = [
     price: "10644",
     showPrice: "10644",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1250A",
   },
   {
     orderId: "M3S16XF16003340A",
@@ -5013,7 +5013,7 @@ const list = [
     price: "10918",
     showPrice: "10918",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1600A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1600A",
   },
   {
     orderId: "M3S630BF50033002",
@@ -5021,7 +5021,7 @@ const list = [
     price: "2499",
     showPrice: "2499",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S125BF1632002I",
@@ -5029,7 +5029,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "M3S125BF403228I",
@@ -5037,7 +5037,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S250F1403200I",
@@ -5045,7 +5045,7 @@ const list = [
     price: "1005",
     showPrice: "1005",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 140A",
   },
   {
     orderId: "M3S630BN5003200I",
@@ -5053,7 +5053,7 @@ const list = [
     price: "3261",
     showPrice: "3261",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S16XF10003340A",
@@ -5061,7 +5061,7 @@ const list = [
     price: "10918",
     showPrice: "10918",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1000A",
   },
   {
     orderId: "M3S16XF12503340A",
@@ -5069,7 +5069,7 @@ const list = [
     price: "10918",
     showPrice: "10918",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1250A",
   },
   {
     orderId: "M3S630F6303340A",
@@ -5077,7 +5077,7 @@ const list = [
     price: "2564",
     showPrice: "2564",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S800F8003340A",
@@ -5085,7 +5085,7 @@ const list = [
     price: "3753",
     showPrice: "3753",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S630BF500A300",
@@ -5093,7 +5093,7 @@ const list = [
     price: "3415",
     showPrice: "3415",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S630BN4003300",
@@ -5101,7 +5101,7 @@ const list = [
     price: "2725",
     showPrice: "2725",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "M3S125BF1003200I",
@@ -5109,7 +5109,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BF323228I",
@@ -5117,7 +5117,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S125BF633228I",
@@ -5125,7 +5125,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S800N8003300",
@@ -5133,7 +5133,7 @@ const list = [
     price: "3501",
     showPrice: "3501",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S630BN5003300",
@@ -5141,7 +5141,7 @@ const list = [
     price: "2725",
     showPrice: "2725",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S125BF3232002I",
@@ -5149,7 +5149,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S125BF40B200I",
@@ -5157,7 +5157,7 @@ const list = [
     price: "896",
     showPrice: "896",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S250F2503208I",
@@ -5165,7 +5165,7 @@ const list = [
     price: "1046",
     showPrice: "1046",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S400F3503200I",
@@ -5173,7 +5173,7 @@ const list = [
     price: "1847",
     showPrice: "1847",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "M3S630BN4003200I",
@@ -5181,7 +5181,7 @@ const list = [
     price: "3261",
     showPrice: "3261",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "M3S800F8003200",
@@ -5189,7 +5189,7 @@ const list = [
     price: "3197",
     showPrice: "3197",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S630BF5003200",
@@ -5197,7 +5197,7 @@ const list = [
     price: "2499",
     showPrice: "2499",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S630BF63032002",
@@ -5205,7 +5205,7 @@ const list = [
     price: "2499",
     showPrice: "2499",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S630BN5003200",
@@ -5213,7 +5213,7 @@ const list = [
     price: "2725",
     showPrice: "2725",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S125BF633208I",
@@ -5221,7 +5221,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S400F40032002I",
@@ -5229,7 +5229,7 @@ const list = [
     price: "1847",
     showPrice: "1847",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S16XF12503300",
@@ -5237,7 +5237,7 @@ const list = [
     price: "10145",
     showPrice: "10145",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1250A",
   },
   {
     orderId: "M3S630BF5003340A",
@@ -5245,7 +5245,7 @@ const list = [
     price: "2918",
     showPrice: "2918",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S630BN6303200",
@@ -5253,7 +5253,7 @@ const list = [
     price: "2725",
     showPrice: "2725",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S125BF4032002I",
@@ -5261,7 +5261,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BF63B200I",
@@ -5269,7 +5269,7 @@ const list = [
     price: "896",
     showPrice: "896",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S400F2503200I",
@@ -5277,7 +5277,7 @@ const list = [
     price: "1847",
     showPrice: "1847",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "M3S16XN16003300",
@@ -5285,7 +5285,7 @@ const list = [
     price: "10728.01",
     showPrice: "10728.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1600A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1600A",
   },
   {
     orderId: "M3S630BF6303200",
@@ -5293,7 +5293,7 @@ const list = [
     price: "2499",
     showPrice: "2499",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S125BF1003208I",
@@ -5301,7 +5301,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BF203200I",
@@ -5309,7 +5309,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "M3S125BF32B208I",
@@ -5317,7 +5317,7 @@ const list = [
     price: "937",
     showPrice: "937",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S125BF4032202I",
@@ -5325,7 +5325,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125BF80A200I",
@@ -5333,7 +5333,7 @@ const list = [
     price: "896",
     showPrice: "896",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF1253208I",
@@ -5341,7 +5341,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S400F315B200I",
@@ -5349,7 +5349,7 @@ const list = [
     price: "2524",
     showPrice: "2524",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S400F4003200I",
@@ -5357,7 +5357,7 @@ const list = [
     price: "1847",
     showPrice: "1847",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S125BS1253200",
@@ -5365,7 +5365,7 @@ const list = [
     price: "447.01",
     showPrice: "447.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S630BF500B300",
@@ -5373,7 +5373,7 @@ const list = [
     price: "3415",
     showPrice: "3415",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S630BF630B300",
@@ -5381,7 +5381,7 @@ const list = [
     price: "3415",
     showPrice: "3415",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S630BN50033002",
@@ -5389,7 +5389,7 @@ const list = [
     price: "2725",
     showPrice: "2725",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S125BF253200I",
@@ -5397,7 +5397,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "M3S16XN10003300",
@@ -5405,7 +5405,7 @@ const list = [
     price: "10728.01",
     showPrice: "10728.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1000A",
   },
   {
     orderId: "M3S125BF5032002I",
@@ -5413,7 +5413,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BF50A200I",
@@ -5421,7 +5421,7 @@ const list = [
     price: "896",
     showPrice: "896",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S630BF63033002",
@@ -5429,7 +5429,7 @@ const list = [
     price: "2499",
     showPrice: "2499",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S125BF32B200I",
@@ -5437,7 +5437,7 @@ const list = [
     price: "896",
     showPrice: "896",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S125BF40A200I",
@@ -5445,7 +5445,7 @@ const list = [
     price: "896",
     showPrice: "896",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S160F1403200I",
@@ -5453,7 +5453,7 @@ const list = [
     price: "940",
     showPrice: "940",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：140A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 140A",
   },
   {
     orderId: "M3S630BF63032002I",
@@ -5461,7 +5461,7 @@ const list = [
     price: "3035",
     showPrice: "3035",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S16XF10003300",
@@ -5469,7 +5469,7 @@ const list = [
     price: "10145",
     showPrice: "10145",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1000A",
   },
   {
     orderId: "M3S16XF16003310A",
@@ -5477,7 +5477,7 @@ const list = [
     price: "10644",
     showPrice: "10644",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1600A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1600A",
   },
   {
     orderId: "M3S800F6303310A",
@@ -5485,7 +5485,7 @@ const list = [
     price: "3479",
     showPrice: "3479",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
   },
   {
     orderId: "M3S630BN630B300",
@@ -5493,7 +5493,7 @@ const list = [
     price: "3719",
     showPrice: "3719",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S160F1603200I",
@@ -5501,7 +5501,7 @@ const list = [
     price: "940",
     showPrice: "940",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S630BF630A300",
@@ -5509,7 +5509,7 @@ const list = [
     price: "3415",
     showPrice: "3415",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S125BF323200I",
@@ -5517,7 +5517,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S400F2253200I",
@@ -5525,7 +5525,7 @@ const list = [
     price: "1847",
     showPrice: "1847",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 225A",
   },
   {
     orderId: "M3S630BF5003200I",
@@ -5533,7 +5533,7 @@ const list = [
     price: "3035",
     showPrice: "3035",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S16XF10003310A",
@@ -5541,7 +5541,7 @@ const list = [
     price: "10644",
     showPrice: "10644",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1000A",
   },
   {
     orderId: "M3S800F6303300",
@@ -5549,7 +5549,7 @@ const list = [
     price: "3197",
     showPrice: "3197",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
   },
   {
     orderId: "M3S630BF4003340A",
@@ -5557,7 +5557,7 @@ const list = [
     price: "2918",
     showPrice: "2918",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "M3S630BF400A300",
@@ -5565,7 +5565,7 @@ const list = [
     price: "3415",
     showPrice: "3415",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "M3S630BF6303380A",
@@ -5573,7 +5573,7 @@ const list = [
     price: "3055",
     showPrice: "3055",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S125BF163200I",
@@ -5581,7 +5581,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "M3S125BF803200I",
@@ -5589,7 +5589,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S160F1003200I",
@@ -5597,7 +5597,7 @@ const list = [
     price: "940",
     showPrice: "940",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S250F1253200I",
@@ -5605,7 +5605,7 @@ const list = [
     price: "1005",
     showPrice: "1005",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "M3S250F2253200I",
@@ -5613,7 +5613,7 @@ const list = [
     price: "1005",
     showPrice: "1005",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "M3S400F25032002I",
@@ -5621,7 +5621,7 @@ const list = [
     price: "1847",
     showPrice: "1847",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "M3S630BF5003340B",
@@ -5629,7 +5629,7 @@ const list = [
     price: "2918",
     showPrice: "2918",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S125BF2532002I",
@@ -5637,7 +5637,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "M3S160F1253200I",
@@ -5645,7 +5645,7 @@ const list = [
     price: "940",
     showPrice: "940",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S630BN500A300",
@@ -5653,7 +5653,7 @@ const list = [
     price: "3719",
     showPrice: "3719",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S125BF503200I",
@@ -5661,7 +5661,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BF63B208I",
@@ -5669,7 +5669,7 @@ const list = [
     price: "937",
     showPrice: "937",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S800F6303340A",
@@ -5677,7 +5677,7 @@ const list = [
     price: "3753",
     showPrice: "3753",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
   },
   {
     orderId: "M3S630BF6303300",
@@ -5685,7 +5685,7 @@ const list = [
     price: "2499",
     showPrice: "2499",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S160F12532002I",
@@ -5693,7 +5693,7 @@ const list = [
     price: "940",
     showPrice: "940",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S250F2003200I",
@@ -5701,7 +5701,7 @@ const list = [
     price: "1005",
     showPrice: "1005",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S16XN12503300",
@@ -5709,7 +5709,7 @@ const list = [
     price: "10728.01",
     showPrice: "10728.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1250A",
   },
   {
     orderId: "M3S12XN10003300",
@@ -5717,7 +5717,7 @@ const list = [
     price: "7306",
     showPrice: "7306",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "M3S125BN403300",
@@ -5725,7 +5725,7 @@ const list = [
     price: "578",
     showPrice: "578",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S16XF16003300P",
@@ -5733,7 +5733,7 @@ const list = [
     price: "13764",
     showPrice: "13764",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1600A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1600A",
   },
   {
     orderId: "M3S12XF12503340A",
@@ -5741,7 +5741,7 @@ const list = [
     price: "9586",
     showPrice: "9586",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "M3S630BF5003228I",
@@ -5749,7 +5749,7 @@ const list = [
     price: "3296",
     showPrice: "3296",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S125BN633300",
@@ -5757,7 +5757,7 @@ const list = [
     price: "578",
     showPrice: "578",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S630F6303300D",
@@ -5765,7 +5765,7 @@ const list = [
     price: "7929",
     showPrice: "7929",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S12XF1250B300",
@@ -5773,7 +5773,7 @@ const list = [
     price: "11526",
     showPrice: "11526",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "M3S12XF12503300PA",
@@ -5781,7 +5781,7 @@ const list = [
     price: "12432",
     showPrice: "12432",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "M3S125BN633320",
@@ -5789,7 +5789,7 @@ const list = [
     price: "619",
     showPrice: "619",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S12XF10003320PA",
@@ -5797,7 +5797,7 @@ const list = [
     price: "10450",
     showPrice: "10450",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "M3S125BN25B300",
@@ -5805,7 +5805,7 @@ const list = [
     price: "795.99",
     showPrice: "795.99",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "M3S125BN1253300",
@@ -5813,7 +5813,7 @@ const list = [
     price: "578",
     showPrice: "578",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S12XN12503300",
@@ -5821,7 +5821,7 @@ const list = [
     price: "9582",
     showPrice: "9582",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "M3S16XF16003320PA",
@@ -5829,7 +5829,7 @@ const list = [
     price: "14038",
     showPrice: "14038",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1600A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1600A",
   },
   {
     orderId: "M3S125BN1003300",
@@ -5837,7 +5837,7 @@ const list = [
     price: "578",
     showPrice: "578",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S400F3153228I",
@@ -5845,7 +5845,7 @@ const list = [
     price: "2011",
     showPrice: "2011",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S630F630A340A",
@@ -5853,7 +5853,7 @@ const list = [
     price: "3422",
     showPrice: "3422",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S250F2003208I",
@@ -5861,7 +5861,7 @@ const list = [
     price: "1046",
     showPrice: "1046",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "M3S125BN803320",
@@ -5869,7 +5869,7 @@ const list = [
     price: "619",
     showPrice: "619",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BN803380A",
@@ -5877,7 +5877,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BN1003320",
@@ -5885,7 +5885,7 @@ const list = [
     price: "619",
     showPrice: "619",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S250S2502300A",
@@ -5893,7 +5893,7 @@ const list = [
     price: "518",
     showPrice: "518",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "M3S12XF10003328PA",
@@ -5901,7 +5901,7 @@ const list = [
     price: "10452",
     showPrice: "10452",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "M3S800F80033102",
@@ -5909,7 +5909,7 @@ const list = [
     price: "3479",
     showPrice: "3479",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S12XF1250A300",
@@ -5917,7 +5917,7 @@ const list = [
     price: "11526",
     showPrice: "11526",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "M3S16XF12503200",
@@ -5925,7 +5925,7 @@ const list = [
     price: "10145",
     showPrice: "10145",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1250A",
   },
   {
     orderId: "M3S630BN6303340AD",
@@ -5933,7 +5933,7 @@ const list = [
     price: "11834",
     showPrice: "11834",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S125BN633340A",
@@ -5941,7 +5941,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S12XF1250A340A",
@@ -5949,7 +5949,7 @@ const list = [
     price: "12299",
     showPrice: "12299",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "M3S125BN503380A",
@@ -5957,7 +5957,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S12XF12503300Z13",
@@ -5965,7 +5965,7 @@ const list = [
     price: "9247",
     showPrice: "9247",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "M3S16XF10003300PA",
@@ -5973,7 +5973,7 @@ const list = [
     price: "13764",
     showPrice: "13764",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1000A",
   },
   {
     orderId: "M3S800F800A300Z500",
@@ -5981,7 +5981,7 @@ const list = [
     price: "5054",
     showPrice: "5054",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S12XF10003308",
@@ -5989,7 +5989,7 @@ const list = [
     price: "6825",
     showPrice: "6825",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "M3S125BN323300",
@@ -5997,7 +5997,7 @@ const list = [
     price: "578",
     showPrice: "578",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S125BN633200I",
@@ -6005,7 +6005,7 @@ const list = [
     price: "811",
     showPrice: "811",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S125BN803300",
@@ -6013,7 +6013,7 @@ const list = [
     price: "578",
     showPrice: "578",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125BF323200",
@@ -6021,7 +6021,7 @@ const list = [
     price: "481",
     showPrice: "481",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S16XF16003300PA",
@@ -6029,7 +6029,7 @@ const list = [
     price: "13764",
     showPrice: "13764",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1600A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1600A",
   },
   {
     orderId: "M3S630F5003360PA",
@@ -6037,7 +6037,7 @@ const list = [
     price: "5340",
     showPrice: "5340",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "M3S125BF20B300",
@@ -6045,7 +6045,7 @@ const list = [
     price: "663",
     showPrice: "663",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "M3S12XF1000B200",
@@ -6053,7 +6053,7 @@ const list = [
     price: "8693",
     showPrice: "8693",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "M3S12XF10003340A",
@@ -6061,7 +6061,7 @@ const list = [
     price: "7257",
     showPrice: "7257",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "M3S16XF16003330A",
@@ -6069,7 +6069,7 @@ const list = [
     price: "11423",
     showPrice: "11423",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1600A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1600A",
   },
   {
     orderId: "M3S160S1602300A",
@@ -6077,7 +6077,7 @@ const list = [
     price: "436",
     showPrice: "436",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S630BF6303228I",
@@ -6085,7 +6085,7 @@ const list = [
     price: "3296",
     showPrice: "3296",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S16XN12503300PA",
@@ -6093,7 +6093,7 @@ const list = [
     price: "14347",
     showPrice: "14347",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1250A",
   },
   {
     orderId: "M3S12XF1000B210A",
@@ -6101,7 +6101,7 @@ const list = [
     price: "8975",
     showPrice: "8975",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "M3S12XF10003330A",
@@ -6109,7 +6109,7 @@ const list = [
     price: "7335",
     showPrice: "7335",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "M3S125BN633348A",
@@ -6117,7 +6117,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S12XF12503300Z1",
@@ -6125,7 +6125,7 @@ const list = [
     price: "9247",
     showPrice: "9247",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "M3S125C1252300A",
@@ -6133,7 +6133,7 @@ const list = [
     price: "362",
     showPrice: "362",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S16XF16003200",
@@ -6141,7 +6141,7 @@ const list = [
     price: "10145",
     showPrice: "10145",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1600A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1600A",
   },
   {
     orderId: "M3S16XF16003360PA",
@@ -6149,7 +6149,7 @@ const list = [
     price: "14038",
     showPrice: "14038",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：1600A | 额定电流：1600A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1600A",
   },
   {
     orderId: "M3S125BN503300",
@@ -6157,7 +6157,7 @@ const list = [
     price: "578",
     showPrice: "578",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125BN633380A",
@@ -6165,7 +6165,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S125BN1003380A",
@@ -6173,7 +6173,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BN253300",
@@ -6181,7 +6181,7 @@ const list = [
     price: "578",
     showPrice: "578",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "M3S63C632300A",
@@ -6189,7 +6189,7 @@ const list = [
     price: "277",
     showPrice: "277",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S12XF125033002",
@@ -6197,7 +6197,7 @@ const list = [
     price: "8813.01",
     showPrice: "8813.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "M3S12XF12503320PA",
@@ -6205,7 +6205,7 @@ const list = [
     price: "12706",
     showPrice: "12706",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "M3S12XF1000B300",
@@ -6213,7 +6213,7 @@ const list = [
     price: "8693",
     showPrice: "8693",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "M3S63S323300",
@@ -6221,7 +6221,7 @@ const list = [
     price: "364",
     showPrice: "364",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：复式脱扣器 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 复式脱扣器 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63S253300",
@@ -6229,7 +6229,7 @@ const list = [
     price: "364",
     showPrice: "364",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：复式脱扣器 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 复式脱扣器 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63S253340A",
@@ -6237,7 +6237,7 @@ const list = [
     price: "500",
     showPrice: "500",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：复式脱扣器 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 复式脱扣器 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S63S403340A",
@@ -6245,7 +6245,7 @@ const list = [
     price: "500",
     showPrice: "500",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：复式脱扣器 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 复式脱扣器 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S63S203340A",
@@ -6253,7 +6253,7 @@ const list = [
     price: "500",
     showPrice: "500",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：复式脱扣器 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 复式脱扣器 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S800F80033002",
@@ -6261,7 +6261,7 @@ const list = [
     price: "3197",
     showPrice: "3197",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S63C102200",
@@ -6269,7 +6269,7 @@ const list = [
     price: "277",
     showPrice: "277",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "M3S400F400B300D",
@@ -6277,7 +6277,7 @@ const list = [
     price: "9112",
     showPrice: "9112",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "M3S250S1802300",
@@ -6285,7 +6285,7 @@ const list = [
     price: "518",
     showPrice: "518",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "M3S250S1602300",
@@ -6293,7 +6293,7 @@ const list = [
     price: "518",
     showPrice: "518",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S63C322300",
@@ -6301,7 +6301,7 @@ const list = [
     price: "277",
     showPrice: "277",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "M3S63C162208",
@@ -6309,7 +6309,7 @@ const list = [
     price: "318",
     showPrice: "318",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "M3S63C402300",
@@ -6317,7 +6317,7 @@ const list = [
     price: "277",
     showPrice: "277",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "M3S63C162300",
@@ -6325,7 +6325,7 @@ const list = [
     price: "277",
     showPrice: "277",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "M3S63C202300",
@@ -6333,7 +6333,7 @@ const list = [
     price: "277",
     showPrice: "277",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "M3S250S1602200",
@@ -6341,7 +6341,7 @@ const list = [
     price: "518",
     showPrice: "518",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "M3S63C252300",
@@ -6349,7 +6349,7 @@ const list = [
     price: "277",
     showPrice: "277",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "M3S125C322300",
@@ -6357,7 +6357,7 @@ const list = [
     price: "362",
     showPrice: "362",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S125BN503320",
@@ -6365,7 +6365,7 @@ const list = [
     price: "619",
     showPrice: "619",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "M3S125C1252200",
@@ -6373,7 +6373,7 @@ const list = [
     price: "362",
     showPrice: "362",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BN403340A",
@@ -6381,7 +6381,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S125C252320",
@@ -6389,7 +6389,7 @@ const list = [
     price: "403",
     showPrice: "403",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "M3S125C1252310A",
@@ -6397,7 +6397,7 @@ const list = [
     price: "456.99",
     showPrice: "456.99",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BN323340A",
@@ -6405,7 +6405,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S125BN1003340A",
@@ -6413,7 +6413,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S12XF12503310",
@@ -6421,7 +6421,7 @@ const list = [
     price: "9312",
     showPrice: "9312",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "M3S125BN323320",
@@ -6429,7 +6429,7 @@ const list = [
     price: "619",
     showPrice: "619",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S125BN803340A",
@@ -6437,7 +6437,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "M3S125C632300",
@@ -6445,7 +6445,7 @@ const list = [
     price: "362",
     showPrice: "362",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S125BN323208",
@@ -6453,7 +6453,7 @@ const list = [
     price: "619",
     showPrice: "619",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S12XF10003300Z12",
@@ -6461,7 +6461,7 @@ const list = [
     price: "7065",
     showPrice: "7065",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "M3S160S1002300",
@@ -6469,7 +6469,7 @@ const list = [
     price: "436",
     showPrice: "436",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "M3S12XF1000A300",
@@ -6477,7 +6477,7 @@ const list = [
     price: "8693",
     showPrice: "8693",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "M3S125C1002200",
@@ -6485,7 +6485,7 @@ const list = [
     price: "362",
     showPrice: "362",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：25kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 25kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S12XF12503200",
@@ -6493,7 +6493,7 @@ const list = [
     price: "8813.01",
     showPrice: "8813.01",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "M3S125BN323380A",
@@ -6501,7 +6501,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "M3S125BN633208",
@@ -6509,7 +6509,7 @@ const list = [
     price: "619",
     showPrice: "619",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "M3S125BN1253208",
@@ -6517,7 +6517,7 @@ const list = [
     price: "619",
     showPrice: "619",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S125BN1003200I",
@@ -6525,7 +6525,7 @@ const list = [
     price: "811",
     showPrice: "811",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 单磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "M3S125BN403320",
@@ -6533,7 +6533,7 @@ const list = [
     price: "619",
     showPrice: "619",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S12XF10003300Z13",
@@ -6541,7 +6541,7 @@ const list = [
     price: "7065",
     showPrice: "7065",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "M3S125BN1253340A",
@@ -6549,7 +6549,7 @@ const list = [
     price: "714",
     showPrice: "714",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "M3S12XF12503310A",
@@ -6557,7 +6557,7 @@ const list = [
     price: "9312",
     showPrice: "9312",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "M3S160S1252300",
@@ -6565,7 +6565,7 @@ const list = [
     price: "436",
     showPrice: "436",
     remark:
-      "系列：CDM3S | 极数：2P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CDM3S | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "M3S125BN403380A",
@@ -6573,7 +6573,7 @@ const list = [
     price: "755",
     showPrice: "755",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "M3S12XF10003340AZ2",
@@ -6581,7 +6581,7 @@ const list = [
     price: "7621",
     showPrice: "7621",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "M3S630N6303300",
@@ -6589,7 +6589,7 @@ const list = [
     price: "2518",
     showPrice: "2518",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：70kV | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 70kV | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S160S160B308",
@@ -6597,7 +6597,7 @@ const list = [
     price: "865",
     showPrice: "865",
     remark:
-      "系列：CDM3S | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S160S1603380A",
@@ -6605,7 +6605,7 @@ const list = [
     price: "789",
     showPrice: "789",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S160F1603380A",
@@ -6613,7 +6613,7 @@ const list = [
     price: "884",
     showPrice: "884",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "M3S63F6333202",
@@ -6621,7 +6621,7 @@ const list = [
     price: "413",
     showPrice: "413",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "M3S800N8003300PA",
@@ -6629,7 +6629,7 @@ const list = [
     price: "6976",
     showPrice: "6976",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "M3S630N6303300PA",
@@ -6637,7 +6637,7 @@ const list = [
     price: "5414",
     showPrice: "5414",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：75kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 75kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "M3S400F3153300",
@@ -6645,7 +6645,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "M3S400F3503300",
@@ -6653,7 +6653,7 @@ const list = [
     price: "1483",
     showPrice: "1483",
     remark:
-      "系列：CDM3S | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM3S | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
 ];
 export default list;

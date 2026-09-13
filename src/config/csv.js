@@ -5,7 +5,7 @@ const csv = [
     price: "1843.78",
     showPrice: "924.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "LV510334",
@@ -13,7 +13,7 @@ const csv = [
     price: "780.02",
     showPrice: "780.02",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV510337",
@@ -21,7 +21,7 @@ const csv = [
     price: "780.02",
     showPrice: "780.02",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV516333",
@@ -29,7 +29,7 @@ const csv = [
     price: "1024.49",
     showPrice: "1024.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV510336",
@@ -37,7 +37,7 @@ const csv = [
     price: "780.02",
     showPrice: "780.02",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "LV510335",
@@ -45,7 +45,7 @@ const csv = [
     price: "780.02",
     showPrice: "780.02",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "LV540306",
@@ -53,7 +53,7 @@ const csv = [
     price: "3156.72",
     showPrice: "3156.72",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV510477",
@@ -61,7 +61,7 @@ const csv = [
     price: "897.86",
     showPrice: "897.86",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV516332",
@@ -69,7 +69,7 @@ const csv = [
     price: "1024.49",
     showPrice: "1024.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "LV525453",
@@ -77,7 +77,7 @@ const csv = [
     price: "2174.49",
     showPrice: "2174.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "LV525332",
@@ -85,7 +85,7 @@ const csv = [
     price: "1843.78",
     showPrice: "1843.78",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "LV510347",
@@ -93,7 +93,7 @@ const csv = [
     price: "1084.14",
     showPrice: "1084.14",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV516343",
@@ -101,7 +101,7 @@ const csv = [
     price: "1322.79",
     showPrice: "1322.79",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV540305",
@@ -109,7 +109,7 @@ const csv = [
     price: "3156.72",
     showPrice: "3156.72",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "LV516463",
@@ -117,7 +117,7 @@ const csv = [
     price: "1089.98",
     showPrice: "1089.98",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV510332",
@@ -125,7 +125,7 @@ const csv = [
     price: "780.02",
     showPrice: "780.02",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 32A",
   },
   {
     orderId: "LV510307",
@@ -133,7 +133,7 @@ const csv = [
     price: "725.41",
     showPrice: "725.41",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV510330",
@@ -141,7 +141,7 @@ const csv = [
     price: "780.02",
     showPrice: "780.02",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 16A",
   },
   {
     orderId: "LV510331",
@@ -149,7 +149,7 @@ const csv = [
     price: "780.02",
     showPrice: "780.02",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV510845",
@@ -157,7 +157,7 @@ const csv = [
     price: "640.29",
     showPrice: "640.29",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV525452",
@@ -165,7 +165,7 @@ const csv = [
     price: "2174.49",
     showPrice: "2174.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "LV510344",
@@ -173,7 +173,7 @@ const csv = [
     price: "1084.14",
     showPrice: "1084.14",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV510475",
@@ -181,7 +181,7 @@ const csv = [
     price: "897.86",
     showPrice: "897.86",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "LV510333",
@@ -189,7 +189,7 @@ const csv = [
     price: "780.02",
     showPrice: "780.02",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "LV510445",
@@ -197,7 +197,7 @@ const csv = [
     price: "836.78",
     showPrice: "836.78",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV510472",
@@ -205,7 +205,7 @@ const csv = [
     price: "897.86",
     showPrice: "897.86",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 32A",
   },
   {
     orderId: "LV510476",
@@ -213,7 +213,7 @@ const csv = [
     price: "897.86",
     showPrice: "897.86",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "LV516461",
@@ -221,7 +221,7 @@ const csv = [
     price: "1089.98",
     showPrice: "1089.98",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV510443",
@@ -229,7 +229,7 @@ const csv = [
     price: "836.78",
     showPrice: "836.78",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV510844",
@@ -237,7 +237,7 @@ const csv = [
     price: "640.29",
     showPrice: "640.29",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "LV540309",
@@ -245,7 +245,7 @@ const csv = [
     price: "4742.77",
     showPrice: "4742.77",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV563305",
@@ -253,7 +253,7 @@ const csv = [
     price: "5030.9",
     showPrice: "5030.9",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV540550",
@@ -261,7 +261,7 @@ const csv = [
     price: "3463.19",
     showPrice: "3463.19",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "LV563510",
@@ -269,7 +269,7 @@ const csv = [
     price: "6761.34",
     showPrice: "6761.34",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "LV540505",
@@ -277,7 +277,7 @@ const csv = [
     price: "3417.61",
     showPrice: "3417.61",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV516303",
@@ -285,7 +285,7 @@ const csv = [
     price: "952.77",
     showPrice: "952.77",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV510841",
@@ -293,7 +293,7 @@ const csv = [
     price: "640.29",
     showPrice: "640.29",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：60A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 60A",
   },
   {
     orderId: "LV563505",
@@ -301,7 +301,7 @@ const csv = [
     price: "5989.15",
     showPrice: "5989.15",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "LV510341",
@@ -309,7 +309,7 @@ const csv = [
     price: "1084.14",
     showPrice: "1084.14",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV525302",
@@ -317,7 +317,7 @@ const csv = [
     price: "1659.41",
     showPrice: "1659.41",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "LV516342",
@@ -325,7 +325,7 @@ const csv = [
     price: "1322.79",
     showPrice: "1322.79",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "LV525342",
@@ -333,7 +333,7 @@ const csv = [
     price: "2628.17",
     showPrice: "2628.17",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "LV510313",
@@ -341,7 +341,7 @@ const csv = [
     price: "877.63",
     showPrice: "877.63",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "LV510300",
@@ -349,7 +349,7 @@ const csv = [
     price: "725.41",
     showPrice: "725.41",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 16A",
   },
   {
     orderId: "LV516462",
@@ -357,7 +357,7 @@ const csv = [
     price: "1089.98",
     showPrice: "1089.98",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "LV540316",
@@ -365,7 +365,7 @@ const csv = [
     price: "3678.26",
     showPrice: "3678.26",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV516440",
@@ -373,7 +373,7 @@ const csv = [
     price: "1189.88",
     showPrice: "1189.88",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：150A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 150A",
   },
   {
     orderId: "LV510302",
@@ -381,7 +381,7 @@ const csv = [
     price: "725.41",
     showPrice: "725.41",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 32A",
   },
   {
     orderId: "LV510444",
@@ -389,7 +389,7 @@ const csv = [
     price: "836.78",
     showPrice: "836.78",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV510342",
@@ -397,7 +397,7 @@ const csv = [
     price: "1084.14",
     showPrice: "1084.14",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 32A",
   },
   {
     orderId: "LV510304",
@@ -405,7 +405,7 @@ const csv = [
     price: "725.41",
     showPrice: "725.41",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV510346",
@@ -413,7 +413,7 @@ const csv = [
     price: "1084.14",
     showPrice: "1084.14",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "LV516302",
@@ -421,7 +421,7 @@ const csv = [
     price: "907.37",
     showPrice: "907.37",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "LV510473",
@@ -429,7 +429,7 @@ const csv = [
     price: "897.86",
     showPrice: "897.86",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "LV525439",
@@ -437,7 +437,7 @@ const csv = [
     price: "2024.49",
     showPrice: "2024.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：220A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 220A",
   },
   {
     orderId: "LV510305",
@@ -445,7 +445,7 @@ const csv = [
     price: "725.41",
     showPrice: "725.41",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "LV525303",
@@ -453,7 +453,7 @@ const csv = [
     price: "1659.41",
     showPrice: "1659.41",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "LV510474",
@@ -461,7 +461,7 @@ const csv = [
     price: "897.86",
     showPrice: "897.86",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV510306",
@@ -469,7 +469,7 @@ const csv = [
     price: "725.41",
     showPrice: "725.41",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "LV510345",
@@ -477,7 +477,7 @@ const csv = [
     price: "1084.14",
     showPrice: "1084.14",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "LV510834",
@@ -485,7 +485,7 @@ const csv = [
     price: "640.29",
     showPrice: "640.29",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：20A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 20A",
   },
   {
     orderId: "LV510485",
@@ -493,7 +493,7 @@ const csv = [
     price: "1180.18",
     showPrice: "1180.18",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "LV510333P",
@@ -501,7 +501,7 @@ const csv = [
     price: "1530.46",
     showPrice: "1530.46",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：40A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "LV525467",
@@ -509,7 +509,7 @@ const csv = [
     price: "2510.84",
     showPrice: "2510.84",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "LV510502P",
@@ -517,7 +517,7 @@ const csv = [
     price: "2454.44",
     showPrice: "2454.44",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：32A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 32A",
   },
   {
     orderId: "LV540325",
@@ -525,7 +525,7 @@ const csv = [
     price: "3972.66",
     showPrice: "3972.66",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "LV540506",
@@ -533,7 +533,7 @@ const csv = [
     price: "4729.62",
     showPrice: "4729.62",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV563516",
@@ -541,7 +541,7 @@ const csv = [
     price: "9394.36",
     showPrice: "9394.36",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "LV510473P",
@@ -549,7 +549,7 @@ const csv = [
     price: "1646.04",
     showPrice: "1646.04",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：40A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "LV516455P",
@@ -557,7 +557,7 @@ const csv = [
     price: "3110.35",
     showPrice: "3110.35",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：150A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 150A",
   },
   {
     orderId: "LV540316P",
@@ -565,7 +565,7 @@ const csv = [
     price: "5753.1",
     showPrice: "5753.1",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV510453",
@@ -573,7 +573,7 @@ const csv = [
     price: "978.49",
     showPrice: "978.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV516481",
@@ -581,7 +581,7 @@ const csv = [
     price: "2402.23",
     showPrice: "2402.23",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV510307P",
@@ -589,7 +589,7 @@ const csv = [
     price: "1300.9",
     showPrice: "1300.9",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV510511",
@@ -597,7 +597,7 @@ const csv = [
     price: "2020.97",
     showPrice: "2020.97",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV510500P",
@@ -605,7 +605,7 @@ const csv = [
     price: "2454.44",
     showPrice: "2454.44",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：16A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 16A",
   },
   {
     orderId: "LV510312",
@@ -613,7 +613,7 @@ const csv = [
     price: "877.63",
     showPrice: "877.63",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 32A",
   },
   {
     orderId: "LV510300P",
@@ -621,7 +621,7 @@ const csv = [
     price: "1300.9",
     showPrice: "1300.9",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：16A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 16A",
   },
   {
     orderId: "LV563329",
@@ -629,7 +629,7 @@ const csv = [
     price: "8454.92",
     showPrice: "8454.92",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：600A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 600A",
   },
   {
     orderId: "LV510836P",
@@ -637,7 +637,7 @@ const csv = [
     price: "1295.79",
     showPrice: "1295.79",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：30A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 30A",
   },
   {
     orderId: "LV563326P",
@@ -645,7 +645,7 @@ const csv = [
     price: "8916.86",
     showPrice: "8916.86",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：600A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 600A",
   },
   {
     orderId: "LV510481",
@@ -653,7 +653,7 @@ const csv = [
     price: "1180.18",
     showPrice: "1180.18",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV510507P",
@@ -661,7 +661,7 @@ const csv = [
     price: "2454.44",
     showPrice: "2454.44",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV510474P",
@@ -669,7 +669,7 @@ const csv = [
     price: "1646.04",
     showPrice: "1646.04",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV510506",
@@ -677,7 +677,7 @@ const csv = [
     price: "1403.2",
     showPrice: "1403.2",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "LV525342P",
@@ -685,7 +685,7 @@ const csv = [
     price: "3840.37",
     showPrice: "3840.37",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "LV525442",
@@ -693,7 +693,7 @@ const csv = [
     price: "2327.31",
     showPrice: "2327.31",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：220A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 220A",
   },
   {
     orderId: "LV563554",
@@ -701,7 +701,7 @@ const csv = [
     price: "5345.44",
     showPrice: "5345.44",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV563315",
@@ -709,7 +709,7 @@ const csv = [
     price: "5535.94",
     showPrice: "5535.94",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV516331P",
@@ -717,7 +717,7 @@ const csv = [
     price: "1812.1",
     showPrice: "1812.1",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV510317P",
@@ -725,7 +725,7 @@ const csv = [
     price: "1645.12",
     showPrice: "1645.12",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV510317",
@@ -733,7 +733,7 @@ const csv = [
     price: "877.63",
     showPrice: "877.63",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV510461",
@@ -741,7 +741,7 @@ const csv = [
     price: "1142.19",
     showPrice: "1142.19",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：6.3A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 6.3A",
   },
   {
     orderId: "LV510840",
@@ -749,7 +749,7 @@ const csv = [
     price: "640.29",
     showPrice: "640.29",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV516476",
@@ -757,7 +757,7 @@ const csv = [
     price: "1645.46",
     showPrice: "1645.46",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV540328",
@@ -765,7 +765,7 @@ const csv = [
     price: "5557.41",
     showPrice: "5557.41",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "LV563318",
@@ -773,7 +773,7 @@ const csv = [
     price: "7533.92",
     showPrice: "7533.92",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV510476P",
@@ -781,7 +781,7 @@ const csv = [
     price: "1646.04",
     showPrice: "1646.04",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：80A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "LV510464",
@@ -789,7 +789,7 @@ const csv = [
     price: "1228.45",
     showPrice: "1228.45",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV510454P",
@@ -797,7 +797,7 @@ const csv = [
     price: "2126.76",
     showPrice: "2126.76",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV510314",
@@ -805,7 +805,7 @@ const csv = [
     price: "877.63",
     showPrice: "877.63",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV563306P",
@@ -813,7 +813,7 @@ const csv = [
     price: "7863.39",
     showPrice: "7863.39",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：600A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 600A",
   },
   {
     orderId: "LV516439P",
@@ -821,7 +821,7 @@ const csv = [
     price: "2453.37",
     showPrice: "2453.37",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV516450P",
@@ -829,7 +829,7 @@ const csv = [
     price: "2505.59",
     showPrice: "2505.59",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV510854",
@@ -837,7 +837,7 @@ const csv = [
     price: "845.4",
     showPrice: "845.4",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：30A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 30A",
   },
   {
     orderId: "LV510838",
@@ -845,7 +845,7 @@ const csv = [
     price: "640.29",
     showPrice: "640.29",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "LV516312",
@@ -853,7 +853,7 @@ const csv = [
     price: "1171.6",
     showPrice: "1171.6",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "LV525453P",
@@ -861,7 +861,7 @@ const csv = [
     price: "2965.74",
     showPrice: "2965.74",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "LV510462",
@@ -869,7 +869,7 @@ const csv = [
     price: "1131.12",
     showPrice: "1131.12",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：12.5A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 12.5A",
   },
   {
     orderId: "LV510843",
@@ -877,7 +877,7 @@ const csv = [
     price: "640.29",
     showPrice: "640.29",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：75A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 75A",
   },
   {
     orderId: "LV563506P",
@@ -885,7 +885,7 @@ const csv = [
     price: "10645.99",
     showPrice: "10645.99",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：630A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "LV510151",
@@ -893,7 +893,7 @@ const csv = [
     price: "687.14",
     showPrice: "687.14",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：底板安装 | 额定电流：125A | 额定电压：AC440V",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：底板安装 | Rated current: 125A | 额定电压：AC440V",
   },
   {
     orderId: "LV510303",
@@ -901,7 +901,7 @@ const csv = [
     price: "725.41",
     showPrice: "725.41",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "LV510302P",
@@ -909,7 +909,7 @@ const csv = [
     price: "1300.9",
     showPrice: "1300.9",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：32A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 32A",
   },
   {
     orderId: "LV510453P",
@@ -917,7 +917,7 @@ const csv = [
     price: "2081.04",
     showPrice: "2081.04",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV516482",
@@ -925,7 +925,7 @@ const csv = [
     price: "2402.23",
     showPrice: "2402.23",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "LV510330P",
@@ -933,7 +933,7 @@ const csv = [
     price: "1530.46",
     showPrice: "1530.46",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：16A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 16A",
   },
   {
     orderId: "LV510450",
@@ -941,7 +941,7 @@ const csv = [
     price: "978.49",
     showPrice: "978.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：2.5A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 2.5A",
   },
   {
     orderId: "LV510512",
@@ -949,7 +949,7 @@ const csv = [
     price: "2020.97",
     showPrice: "2020.97",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 32A",
   },
   {
     orderId: "LV516341",
@@ -957,7 +957,7 @@ const csv = [
     price: "1322.79",
     showPrice: "1322.79",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV540319",
@@ -965,7 +965,7 @@ const csv = [
     price: "5093.73",
     showPrice: "5093.73",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV516462P",
@@ -973,7 +973,7 @@ const csv = [
     price: "1877.47",
     showPrice: "1877.47",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：125A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "LV510444P",
@@ -981,7 +981,7 @@ const csv = [
     price: "1983.06",
     showPrice: "1983.06",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV563515",
@@ -989,7 +989,7 @@ const csv = [
     price: "7085.76",
     showPrice: "7085.76",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "LV563316P",
@@ -997,7 +997,7 @@ const csv = [
     price: "8184.78",
     showPrice: "8184.78",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：600A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 600A",
   },
   {
     orderId: "LV563511P",
@@ -1005,7 +1005,7 @@ const csv = [
     price: "11198.8",
     showPrice: "11198.8",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：630A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "LV516343P",
@@ -1013,7 +1013,7 @@ const csv = [
     price: "2370.77",
     showPrice: "2370.77",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV563309",
@@ -1021,7 +1021,7 @@ const csv = [
     price: "7372.29",
     showPrice: "7372.29",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：600A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 600A",
   },
   {
     orderId: "LV510337P",
@@ -1029,7 +1029,7 @@ const csv = [
     price: "1530.46",
     showPrice: "1530.46",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV516478",
@@ -1037,7 +1037,7 @@ const csv = [
     price: "1645.46",
     showPrice: "1645.46",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV510443P",
@@ -1045,7 +1045,7 @@ const csv = [
     price: "1943.86",
     showPrice: "1943.86",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV516331",
@@ -1053,7 +1053,7 @@ const csv = [
     price: "1024.49",
     showPrice: "1024.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV563308P",
@@ -1061,7 +1061,7 @@ const csv = [
     price: "10619.38",
     showPrice: "10619.38",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV525312",
@@ -1069,7 +1069,7 @@ const csv = [
     price: "2365.34",
     showPrice: "2365.34",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "LV510482",
@@ -1077,7 +1077,7 @@ const csv = [
     price: "1180.18",
     showPrice: "1180.18",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 32A",
   },
   {
     orderId: "LV510516",
@@ -1085,7 +1085,7 @@ const csv = [
     price: "2020.97",
     showPrice: "2020.97",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "LV516450",
@@ -1093,7 +1093,7 @@ const csv = [
     price: "1399.91",
     showPrice: "1399.91",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV510505",
@@ -1101,7 +1101,7 @@ const csv = [
     price: "1403.2",
     showPrice: "1403.2",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "LV525473",
@@ -1109,7 +1109,7 @@ const csv = [
     price: "3582.54",
     showPrice: "3582.54",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "LV540326",
@@ -1117,7 +1117,7 @@ const csv = [
     price: "3972.66",
     showPrice: "3972.66",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV540515P",
@@ -1125,7 +1125,7 @@ const csv = [
     price: "6145.86",
     showPrice: "6145.86",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV540552",
@@ -1133,7 +1133,7 @@ const csv = [
     price: "3531.91",
     showPrice: "3531.91",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "LV510454",
@@ -1141,7 +1141,7 @@ const csv = [
     price: "978.49",
     showPrice: "978.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV510301P",
@@ -1149,7 +1149,7 @@ const csv = [
     price: "1300.9",
     showPrice: "1300.9",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV516454",
@@ -1157,7 +1157,7 @@ const csv = [
     price: "1567.36",
     showPrice: "1567.36",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV510486",
@@ -1165,7 +1165,7 @@ const csv = [
     price: "1180.18",
     showPrice: "1180.18",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "LV510475P",
@@ -1173,7 +1173,7 @@ const csv = [
     price: "1646.04",
     showPrice: "1646.04",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：63A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "LV510852",
@@ -1181,7 +1181,7 @@ const csv = [
     price: "845.4",
     showPrice: "845.4",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：20A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 20A",
   },
   {
     orderId: "LV510501",
@@ -1189,7 +1189,7 @@ const csv = [
     price: "1403.2",
     showPrice: "1403.2",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV563511",
@@ -1197,7 +1197,7 @@ const csv = [
     price: "8609.65",
     showPrice: "8609.65",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "LV540315P",
@@ -1205,7 +1205,7 @@ const csv = [
     price: "5753.1",
     showPrice: "5753.1",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：320A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "LV510862",
@@ -1213,7 +1213,7 @@ const csv = [
     price: "845.4",
     showPrice: "845.4",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "LV510310",
@@ -1221,7 +1221,7 @@ const csv = [
     price: "877.63",
     showPrice: "877.63",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 16A",
   },
   {
     orderId: "LV563506",
@@ -1229,7 +1229,7 @@ const csv = [
     price: "8172.17",
     showPrice: "8172.17",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "LV510472P",
@@ -1237,7 +1237,7 @@ const csv = [
     price: "1646.04",
     showPrice: "1646.04",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：32A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 32A",
   },
   {
     orderId: "LV563325",
@@ -1245,7 +1245,7 @@ const csv = [
     price: "6298.45",
     showPrice: "6298.45",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV525302P",
@@ -1253,7 +1253,7 @@ const csv = [
     price: "2425.58",
     showPrice: "2425.58",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "LV525439P",
@@ -1261,7 +1261,7 @@ const csv = [
     price: "2806.77",
     showPrice: "2806.77",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：220A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 220A",
   },
   {
     orderId: "LV525468P",
@@ -1269,7 +1269,7 @@ const csv = [
     price: "3327.94",
     showPrice: "3327.94",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "LV516466",
@@ -1277,7 +1277,7 @@ const csv = [
     price: "1478.47",
     showPrice: "1478.47",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV540510",
@@ -1285,7 +1285,7 @@ const csv = [
     price: "3871.83",
     showPrice: "3871.83",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV525445",
@@ -1293,7 +1293,7 @@ const csv = [
     price: "2587.46",
     showPrice: "2587.46",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：220A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 220A",
   },
   {
     orderId: "LV510306P",
@@ -1301,7 +1301,7 @@ const csv = [
     price: "1300.9",
     showPrice: "1300.9",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：80A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "LV510471",
@@ -1309,7 +1309,7 @@ const csv = [
     price: "897.86",
     showPrice: "897.86",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV540505P",
@@ -1317,7 +1317,7 @@ const csv = [
     price: "5418.06",
     showPrice: "5418.06",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV525343",
@@ -1325,7 +1325,7 @@ const csv = [
     price: "2628.17",
     showPrice: "2628.17",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "LV510850",
@@ -1333,7 +1333,7 @@ const csv = [
     price: "845.4",
     showPrice: "845.4",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：15A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 15A",
   },
   {
     orderId: "LV540550P",
@@ -1341,7 +1341,7 @@ const csv = [
     price: "5240.21",
     showPrice: "5240.21",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：320A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "LV510483P",
@@ -1349,7 +1349,7 @@ const csv = [
     price: "2041.71",
     showPrice: "2041.71",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：40A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "LV525343P",
@@ -1357,7 +1357,7 @@ const csv = [
     price: "3840.37",
     showPrice: "3840.37",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "LV510452P",
@@ -1365,7 +1365,7 @@ const csv = [
     price: "2081.04",
     showPrice: "2081.04",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：12.5A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 12.5A",
   },
   {
     orderId: "LV510858",
@@ -1373,7 +1373,7 @@ const csv = [
     price: "845.4",
     showPrice: "845.4",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV563552P",
@@ -1381,7 +1381,7 @@ const csv = [
     price: "6643.26",
     showPrice: "6643.26",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV510845P",
@@ -1389,7 +1389,7 @@ const csv = [
     price: "1295.79",
     showPrice: "1295.79",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV563550",
@@ -1397,7 +1397,7 @@ const csv = [
     price: "5046.75",
     showPrice: "5046.75",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV525452P",
@@ -1405,7 +1405,7 @@ const csv = [
     price: "2965.74",
     showPrice: "2965.74",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "LV510455P",
@@ -1413,7 +1413,7 @@ const csv = [
     price: "2126.76",
     showPrice: "2126.76",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV510853",
@@ -1421,7 +1421,7 @@ const csv = [
     price: "845.4",
     showPrice: "845.4",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV516313",
@@ -1429,7 +1429,7 @@ const csv = [
     price: "1230.2",
     showPrice: "1230.2",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV510465",
@@ -1437,7 +1437,7 @@ const csv = [
     price: "1228.45",
     showPrice: "1228.45",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV563308",
@@ -1445,7 +1445,7 @@ const csv = [
     price: "7021.22",
     showPrice: "7021.22",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV510515",
@@ -1453,7 +1453,7 @@ const csv = [
     price: "2020.97",
     showPrice: "2020.97",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "LV525442P",
@@ -1461,7 +1461,7 @@ const csv = [
     price: "3156.49",
     showPrice: "3156.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：220A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 220A",
   },
   {
     orderId: "LV540315",
@@ -1469,7 +1469,7 @@ const csv = [
     price: "3678.26",
     showPrice: "3678.26",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "LV525468",
@@ -1477,7 +1477,7 @@ const csv = [
     price: "2510.84",
     showPrice: "2510.84",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "LV510336P",
@@ -1485,7 +1485,7 @@ const csv = [
     price: "1530.46",
     showPrice: "1530.46",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：80A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "LV510442P",
@@ -1493,7 +1493,7 @@ const csv = [
     price: "1943.86",
     showPrice: "1943.86",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：12.5A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 12.5A",
   },
   {
     orderId: "LV540515",
@@ -1501,7 +1501,7 @@ const csv = [
     price: "4148.81",
     showPrice: "4148.81",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV510331P",
@@ -1509,7 +1509,7 @@ const csv = [
     price: "1530.46",
     showPrice: "1530.46",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV510502",
@@ -1517,7 +1517,7 @@ const csv = [
     price: "1403.2",
     showPrice: "1403.2",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：32A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 32A",
   },
   {
     orderId: "LV563309P",
@@ -1525,7 +1525,7 @@ const csv = [
     price: "10619.38",
     showPrice: "10619.38",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：600A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 600A",
   },
   {
     orderId: "LV510861",
@@ -1533,7 +1533,7 @@ const csv = [
     price: "845.4",
     showPrice: "845.4",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：75A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 75A",
   },
   {
     orderId: "LV516463P",
@@ -1541,7 +1541,7 @@ const csv = [
     price: "1877.47",
     showPrice: "1877.47",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV540554P",
@@ -1549,7 +1549,7 @@ const csv = [
     price: "5514.97",
     showPrice: "5514.97",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：320A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "LV563510P",
@@ -1557,7 +1557,7 @@ const csv = [
     price: "8205.29",
     showPrice: "8205.29",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：630A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "LV510440",
@@ -1565,7 +1565,7 @@ const csv = [
     price: "836.78",
     showPrice: "836.78",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：2.5A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 2.5A",
   },
   {
     orderId: "LV563326",
@@ -1573,7 +1573,7 @@ const csv = [
     price: "6613.37",
     showPrice: "6613.37",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：600A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 600A",
   },
   {
     orderId: "LV510315",
@@ -1581,7 +1581,7 @@ const csv = [
     price: "877.63",
     showPrice: "877.63",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "LV525303P",
@@ -1589,7 +1589,7 @@ const csv = [
     price: "2425.58",
     showPrice: "2425.58",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "LV510305P",
@@ -1597,7 +1597,7 @@ const csv = [
     price: "1300.9",
     showPrice: "1300.9",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：63A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "LV510445P",
@@ -1605,7 +1605,7 @@ const csv = [
     price: "1983.06",
     showPrice: "1983.06",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV516468",
@@ -1613,7 +1613,7 @@ const csv = [
     price: "1478.47",
     showPrice: "1478.47",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV563325P",
@@ -1621,7 +1621,7 @@ const csv = [
     price: "8916.86",
     showPrice: "8916.86",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV510303P",
@@ -1629,7 +1629,7 @@ const csv = [
     price: "1300.9",
     showPrice: "1300.9",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：40A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "LV516451P",
@@ -1637,7 +1637,7 @@ const csv = [
     price: "2766.88",
     showPrice: "2766.88",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：150A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 150A",
   },
   {
     orderId: "LV563319",
@@ -1645,7 +1645,7 @@ const csv = [
     price: "7910.64",
     showPrice: "7910.64",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：600A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 600A",
   },
   {
     orderId: "LV525457",
@@ -1653,7 +1653,7 @@ const csv = [
     price: "2978.14",
     showPrice: "2978.14",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "LV510477P",
@@ -1661,7 +1661,7 @@ const csv = [
     price: "1646.04",
     showPrice: "1646.04",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV510832",
@@ -1669,7 +1669,7 @@ const csv = [
     price: "640.29",
     showPrice: "640.29",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：15A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 15A",
   },
   {
     orderId: "LV510304P",
@@ -1677,7 +1677,7 @@ const csv = [
     price: "1300.9",
     showPrice: "1300.9",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV510463",
@@ -1685,7 +1685,7 @@ const csv = [
     price: "1142.19",
     showPrice: "1142.19",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV540510P",
@@ -1693,7 +1693,7 @@ const csv = [
     price: "5705.48",
     showPrice: "5705.48",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV540309P",
@@ -1701,7 +1701,7 @@ const csv = [
     price: "7472.93",
     showPrice: "7472.93",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV510470P",
@@ -1709,7 +1709,7 @@ const csv = [
     price: "1646.04",
     showPrice: "1646.04",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：16A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 16A",
   },
   {
     orderId: "LV540318",
@@ -1717,7 +1717,7 @@ const csv = [
     price: "5093.73",
     showPrice: "5093.73",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "LV510513",
@@ -1725,7 +1725,7 @@ const csv = [
     price: "2020.97",
     showPrice: "2020.97",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "LV516483",
@@ -1733,7 +1733,7 @@ const csv = [
     price: "2522.34",
     showPrice: "2522.34",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV540552P",
@@ -1741,7 +1741,7 @@ const csv = [
     price: "5308.92",
     showPrice: "5308.92",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：320A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "LV510481P",
@@ -1749,7 +1749,7 @@ const csv = [
     price: "2041.71",
     showPrice: "2041.71",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV510340",
@@ -1757,7 +1757,7 @@ const csv = [
     price: "1084.14",
     showPrice: "1084.14",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 16A",
   },
   {
     orderId: "LV525472",
@@ -1765,7 +1765,7 @@ const csv = [
     price: "3582.54",
     showPrice: "3582.54",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "LV510451",
@@ -1773,7 +1773,7 @@ const csv = [
     price: "978.49",
     showPrice: "978.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：6.3A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 6.3A",
   },
   {
     orderId: "LV516332P",
@@ -1781,7 +1781,7 @@ const csv = [
     price: "1812.1",
     showPrice: "1812.1",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：125A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "LV510504",
@@ -1789,7 +1789,7 @@ const csv = [
     price: "1403.2",
     showPrice: "1403.2",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV510483",
@@ -1797,7 +1797,7 @@ const csv = [
     price: "1180.18",
     showPrice: "1180.18",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "LV525313",
@@ -1805,7 +1805,7 @@ const csv = [
     price: "2365.34",
     showPrice: "2365.34",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "LV516451",
@@ -1813,7 +1813,7 @@ const csv = [
     price: "1469.89",
     showPrice: "1469.89",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：150A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 150A",
   },
   {
     orderId: "LV510452",
@@ -1821,7 +1821,7 @@ const csv = [
     price: "978.49",
     showPrice: "978.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：12.5A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 12.5A",
   },
   {
     orderId: "LV510510",
@@ -1829,7 +1829,7 @@ const csv = [
     price: "2020.97",
     showPrice: "2020.97",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 16A",
   },
   {
     orderId: "LV563550P",
@@ -1837,7 +1837,7 @@ const csv = [
     price: "6569.92",
     showPrice: "6569.92",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV516302P",
@@ -1845,7 +1845,7 @@ const csv = [
     price: "1652.98",
     showPrice: "1652.98",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：125A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "LV516468P",
@@ -1853,7 +1853,7 @@ const csv = [
     price: "2494.31",
     showPrice: "2494.31",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV563305P",
@@ -1861,7 +1861,7 @@ const csv = [
     price: "7863.39",
     showPrice: "7863.39",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV510480",
@@ -1869,7 +1869,7 @@ const csv = [
     price: "1180.18",
     showPrice: "1180.18",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 16A",
   },
   {
     orderId: "LV563328",
@@ -1877,7 +1877,7 @@ const csv = [
     price: "8454.92",
     showPrice: "8454.92",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV510507",
@@ -1885,7 +1885,7 @@ const csv = [
     price: "1403.2",
     showPrice: "1403.2",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV510514",
@@ -1893,7 +1893,7 @@ const csv = [
     price: "2020.97",
     showPrice: "2020.97",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV510343",
@@ -1901,7 +1901,7 @@ const csv = [
     price: "1084.14",
     showPrice: "1084.14",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "LV510334P",
@@ -1909,7 +1909,7 @@ const csv = [
     price: "1530.46",
     showPrice: "1530.46",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV510316",
@@ -1917,7 +1917,7 @@ const csv = [
     price: "877.63",
     showPrice: "877.63",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "LV516478P",
@@ -1925,7 +1925,7 @@ const csv = [
     price: "2802.31",
     showPrice: "2802.31",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV540306P",
@@ -1933,7 +1933,7 @@ const csv = [
     price: "5464.54",
     showPrice: "5464.54",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV540516",
@@ -1941,7 +1941,7 @@ const csv = [
     price: "5961.52",
     showPrice: "5961.52",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV516301",
@@ -1949,7 +1949,7 @@ const csv = [
     price: "907.37",
     showPrice: "907.37",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV525333P",
@@ -1957,7 +1957,7 @@ const csv = [
     price: "2695.1",
     showPrice: "2695.1",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：250A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "LV563515P",
@@ -1965,7 +1965,7 @@ const csv = [
     price: "9157.95",
     showPrice: "9157.95",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：630A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "LV510301",
@@ -1973,7 +1973,7 @@ const csv = [
     price: "725.41",
     showPrice: "725.41",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV563315P",
@@ -1981,7 +1981,7 @@ const csv = [
     price: "8184.78",
     showPrice: "8184.78",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV516477",
@@ -1989,7 +1989,7 @@ const csv = [
     price: "1645.46",
     showPrice: "1645.46",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "LV516461P",
@@ -1997,7 +1997,7 @@ const csv = [
     price: "1877.47",
     showPrice: "1877.47",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV563306",
@@ -2005,7 +2005,7 @@ const csv = [
     price: "5030.9",
     showPrice: "5030.9",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：600A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 600A",
   },
   {
     orderId: "LV540329",
@@ -2013,7 +2013,7 @@ const csv = [
     price: "5557.41",
     showPrice: "5557.41",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV540506P",
@@ -2021,7 +2021,7 @@ const csv = [
     price: "7097.34",
     showPrice: "7097.34",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV510441",
@@ -2029,7 +2029,7 @@ const csv = [
     price: "836.78",
     showPrice: "836.78",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：6.3A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 6.3A",
   },
   {
     orderId: "LV510471P",
@@ -2037,7 +2037,7 @@ const csv = [
     price: "1646.04",
     showPrice: "1646.04",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV510835",
@@ -2045,7 +2045,7 @@ const csv = [
     price: "640.29",
     showPrice: "640.29",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV510347P",
@@ -2053,7 +2053,7 @@ const csv = [
     price: "1935.46",
     showPrice: "1935.46",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV510487P",
@@ -2061,7 +2061,7 @@ const csv = [
     price: "2041.71",
     showPrice: "2041.71",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV510460",
@@ -2069,7 +2069,7 @@ const csv = [
     price: "1142.19",
     showPrice: "1142.19",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：2.5A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 2.5A",
   },
   {
     orderId: "LV516440P",
@@ -2077,7 +2077,7 @@ const csv = [
     price: "2527.84",
     showPrice: "2527.84",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：150A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 150A",
   },
   {
     orderId: "LV510841P",
@@ -2085,7 +2085,7 @@ const csv = [
     price: "1295.79",
     showPrice: "1295.79",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：60A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 60A",
   },
   {
     orderId: "LV540308",
@@ -2093,7 +2093,7 @@ const csv = [
     price: "4742.77",
     showPrice: "4742.77",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "LV510484",
@@ -2101,7 +2101,7 @@ const csv = [
     price: "1180.18",
     showPrice: "1180.18",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "LV510503",
@@ -2109,7 +2109,7 @@ const csv = [
     price: "1403.2",
     showPrice: "1403.2",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "LV510455",
@@ -2117,7 +2117,7 @@ const csv = [
     price: "978.49",
     showPrice: "978.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV510859",
@@ -2125,7 +2125,7 @@ const csv = [
     price: "845.4",
     showPrice: "845.4",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：60A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 60A",
   },
   {
     orderId: "LV510517",
@@ -2133,7 +2133,7 @@ const csv = [
     price: "2020.97",
     showPrice: "2020.97",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV510863",
@@ -2141,7 +2141,7 @@ const csv = [
     price: "845.4",
     showPrice: "845.4",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV510442",
@@ -2149,7 +2149,7 @@ const csv = [
     price: "878.63",
     showPrice: "878.63",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：12.5A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 12.5A",
   },
   {
     orderId: "LV510451P",
@@ -2157,7 +2157,7 @@ const csv = [
     price: "2081.04",
     showPrice: "2081.04",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：6.3A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 6.3A",
   },
   {
     orderId: "LV510500",
@@ -2165,7 +2165,7 @@ const csv = [
     price: "1403.2",
     showPrice: "1403.2",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 16A",
   },
   {
     orderId: "LV510487",
@@ -2173,7 +2173,7 @@ const csv = [
     price: "1180.18",
     showPrice: "1180.18",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "LV516303P",
@@ -2181,7 +2181,7 @@ const csv = [
     price: "1652.98",
     showPrice: "1652.98",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV516439",
@@ -2189,7 +2189,7 @@ const csv = [
     price: "1189.88",
     showPrice: "1189.88",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV510332P",
@@ -2197,7 +2197,7 @@ const csv = [
     price: "1530.46",
     showPrice: "1530.46",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：32A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 32A",
   },
   {
     orderId: "LV563552",
@@ -2205,7 +2205,7 @@ const csv = [
     price: "5120.1",
     showPrice: "5120.1",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "LV516455",
@@ -2213,7 +2213,7 @@ const csv = [
     price: "1645.74",
     showPrice: "1645.74",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：150A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 150A",
   },
   {
     orderId: "LV510470",
@@ -2221,7 +2221,7 @@ const csv = [
     price: "897.86",
     showPrice: "897.86",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：16A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 16A",
   },
   {
     orderId: "LV563316",
@@ -2229,7 +2229,7 @@ const csv = [
     price: "5812.74",
     showPrice: "5812.74",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：600A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 600A",
   },
   {
     orderId: "LV510836",
@@ -2237,7 +2237,7 @@ const csv = [
     price: "640.29",
     showPrice: "640.29",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：30A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 30A",
   },
   {
     orderId: "LV525332P",
@@ -2245,7 +2245,7 @@ const csv = [
     price: "2695.1",
     showPrice: "2695.1",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：250A | 额定电流：200A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "LV540511",
@@ -2253,7 +2253,7 @@ const csv = [
     price: "5079.64",
     showPrice: "5079.64",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV516313P",
@@ -2261,7 +2261,7 @@ const csv = [
     price: "1851.72",
     showPrice: "1851.72",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV516467",
@@ -2269,7 +2269,7 @@ const csv = [
     price: "1478.47",
     showPrice: "1478.47",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：125A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 125A",
   },
   {
     orderId: "LV510335P",
@@ -2277,7 +2277,7 @@ const csv = [
     price: "1530.46",
     showPrice: "1530.46",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：63A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "LV540326P",
@@ -2285,7 +2285,7 @@ const csv = [
     price: "6130.49",
     showPrice: "6130.49",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：400A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "LV510311",
@@ -2293,7 +2293,7 @@ const csv = [
     price: "877.63",
     showPrice: "877.63",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：25A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 25A",
   },
   {
     orderId: "LV510441P",
@@ -2301,7 +2301,7 @@ const csv = [
     price: "1943.86",
     showPrice: "1943.86",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：100A | 额定电流：6.3A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 100A | Rated current: 6.3A",
   },
   {
     orderId: "LV516311",
@@ -2309,7 +2309,7 @@ const csv = [
     price: "1171.6",
     showPrice: "1171.6",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：160A | 额定电流：100A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 160A | Rated current: 100A",
   },
   {
     orderId: "LV563307",
@@ -2317,7 +2317,7 @@ const csv = [
     price: "5181.81",
     showPrice: "5181.81",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 额定电流：630A | 额定电压：AC400V",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | Rated current: 630A | 额定电压：AC400V",
   },
   {
     orderId: "LV510856",
@@ -2325,7 +2325,7 @@ const csv = [
     price: "845.4",
     showPrice: "845.4",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "LV516333P",
@@ -2333,7 +2333,7 @@ const csv = [
     price: "1812.1",
     showPrice: "1812.1",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：160A | 额定电流：160A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 160A | Rated current: 160A",
   },
   {
     orderId: "LV540305P",
@@ -2341,7 +2341,7 @@ const csv = [
     price: "5464.54",
     showPrice: "5464.54",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：400A | 额定电流：320A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "LV540554",
@@ -2349,7 +2349,7 @@ const csv = [
     price: "3698.59",
     showPrice: "3698.59",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "LV525458",
@@ -2357,7 +2357,7 @@ const csv = [
     price: "2978.14",
     showPrice: "2978.14",
     remark:
-      "系列：CVS | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CVS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "LV563505P",
@@ -2365,28 +2365,28 @@ const csv = [
     price: "7883.13",
     showPrice: "7883.13",
     remark:
-      "系列：CVS | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | 壳架电流：630A | 额定电流：630A",
+      "Series: CVS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：- | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "LV563317",
     model: "LV563317",
     price: "5987.14",
     showPrice: "5987.14",
-    remark: "系列：CVS | 极数：3P",
+    remark: "Series: CVS | Number of poles: 3P",
   },
   {
     orderId: "LV530316",
     model: "LV530316",
     price: "631.82",
     showPrice: "631.82",
-    remark: "系列：CVS | 极数：3P | 额定电流：63 A",
+    remark: "Series: CVS | Number of poles: 3P | Rated current: 63 A",
   },
   {
     orderId: "LV530358",
     model: "LV530358",
     price: "975.74",
     showPrice: "975.74",
-    remark: "系列：CVS | 极数：4P | 额定电流：100 A",
+    remark: "Series: CVS | Number of poles: 4P | Rated current: 100 A",
   },
 ];
 export default csv;
