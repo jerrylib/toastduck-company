@@ -5,7 +5,7 @@ const list = [
     price: "16662.94",
     showPrice: "16662.94",
     remark:
-      "系列：Tmax DC | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: Tmax DC | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "10133614",
@@ -13,7 +13,7 @@ const list = [
     price: "10560.74",
     showPrice: "10560.74",
     remark:
-      "系列：Tmax DC | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: Tmax DC | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "10133615",
@@ -21,7 +21,7 @@ const list = [
     price: "3225.97",
     showPrice: "3225.97",
     remark:
-      "系列：Tmax DC | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: Tmax DC | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "10133613",
@@ -29,7 +29,7 @@ const list = [
     price: "9762.85",
     showPrice: "9762.85",
     remark:
-      "系列：Tmax DC | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: Tmax DC | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "10133620",
@@ -37,7 +37,7 @@ const list = [
     price: "10847.52",
     showPrice: "10847.52",
     remark:
-      "系列：Tmax DC | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: Tmax DC | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "10133672",
@@ -45,7 +45,7 @@ const list = [
     price: "13154.7",
     showPrice: "13154.7",
     remark:
-      "系列：Tmax DC | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: Tmax DC | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "10133608",
@@ -53,7 +53,7 @@ const list = [
     price: "3063.23",
     showPrice: "3063.23",
     remark:
-      "系列：Tmax DC | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: Tmax DC | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "10133609",
@@ -61,7 +61,7 @@ const list = [
     price: "3063.23",
     showPrice: "3063.23",
     remark:
-      "系列：Tmax DC | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: Tmax DC | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "10133671",
@@ -69,7 +69,7 @@ const list = [
     price: "11965.68",
     showPrice: "11965.68",
     remark:
-      "系列：Tmax DC | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: Tmax DC | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "10133618",
@@ -77,7 +77,7 @@ const list = [
     price: "4397.35",
     showPrice: "4397.35",
     remark:
-      "系列：Tmax DC | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: Tmax DC | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "10133611",
@@ -85,7 +85,7 @@ const list = [
     price: "4266.52",
     showPrice: "4266.52",
     remark:
-      "系列：Tmax DC | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: Tmax DC | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "10117326",
@@ -93,7 +93,7 @@ const list = [
     price: "4242.96",
     showPrice: "4242.96",
     remark:
-      "系列：Tmax DC | 极数：4P | 额定极限分断能力：40kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: Tmax DC | Number of poles: 4P | Rated ultimate breaking capacity: 40kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "10117331",
@@ -101,7 +101,7 @@ const list = [
     price: "6879.69",
     showPrice: "6879.69",
     remark:
-      "系列：Tmax DC | 极数：4P | 额定极限分断能力：40kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: Tmax DC | Number of poles: 4P | Rated ultimate breaking capacity: 40kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "10133670",
@@ -109,7 +109,7 @@ const list = [
     price: "9911.62",
     showPrice: "9911.62",
     remark:
-      "系列：Tmax DC | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: Tmax DC | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "10133610",
@@ -117,7 +117,7 @@ const list = [
     price: "4266.52",
     showPrice: "4266.52",
     remark:
-      "系列：Tmax DC | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: Tmax DC | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "10133612",
@@ -125,7 +125,7 @@ const list = [
     price: "7344.06",
     showPrice: "7344.06",
     remark:
-      "系列：Tmax DC | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: Tmax DC | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "10114711",
@@ -133,7 +133,7 @@ const list = [
     price: "7051.3",
     showPrice: "7051.3",
     remark:
-      "系列：Tmax DC | 极数：4P | 额定极限分断能力：40kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：电缆前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: Tmax DC | Number of poles: 4P | Rated ultimate breaking capacity: 40kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：电缆前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "10133669",
@@ -141,7 +141,7 @@ const list = [
     price: "5801.11",
     showPrice: "5801.11",
     remark:
-      "系列：Tmax DC | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: Tmax DC | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "10133652",
@@ -149,7 +149,7 @@ const list = [
     price: "5984.64",
     showPrice: "5984.64",
     remark:
-      "系列：Tmax DC | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: Tmax DC | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "10133668",
@@ -157,7 +157,7 @@ const list = [
     price: "5801.11",
     showPrice: "5801.11",
     remark:
-      "系列：Tmax DC | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: Tmax DC | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
 ];
 export default list;

@@ -5,7 +5,7 @@ const formulaData = [
     price: "490.4",
     showPrice: "490.4",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：5kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "10116378",
@@ -13,7 +13,7 @@ const formulaData = [
     price: "1065.18",
     showPrice: "1065.18",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "10116290",
@@ -21,7 +21,7 @@ const formulaData = [
     price: "723.79",
     showPrice: "723.79",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "10116404",
@@ -29,7 +29,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "10116380",
@@ -37,7 +37,7 @@ const formulaData = [
     price: "1283.88",
     showPrice: "1283.88",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "10116288",
@@ -45,7 +45,7 @@ const formulaData = [
     price: "723.79",
     showPrice: "723.79",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "10116350",
@@ -53,7 +53,7 @@ const formulaData = [
     price: "903.16",
     showPrice: "903.16",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "10116440",
@@ -61,7 +61,7 @@ const formulaData = [
     price: "1315.34",
     showPrice: "1315.34",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "10116420",
@@ -69,7 +69,7 @@ const formulaData = [
     price: "1886.45",
     showPrice: "1886.45",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "10116412",
@@ -77,7 +77,7 @@ const formulaData = [
     price: "1276.01",
     showPrice: "1276.01",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "10116448",
@@ -85,7 +85,7 @@ const formulaData = [
     price: "2358.43",
     showPrice: "2358.43",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "10116452",
@@ -93,7 +93,7 @@ const formulaData = [
     price: "4940.21",
     showPrice: "4940.21",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "10116314",
@@ -101,7 +101,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "10116400",
@@ -109,7 +109,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "10116289",
@@ -117,7 +117,7 @@ const formulaData = [
     price: "892.07",
     showPrice: "892.07",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "10147457",
@@ -125,7 +125,7 @@ const formulaData = [
     price: "490.4",
     showPrice: "490.4",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：5kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "10116298",
@@ -133,7 +133,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "10116366",
@@ -141,7 +141,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "10116450",
@@ -149,7 +149,7 @@ const formulaData = [
     price: "4940.21",
     showPrice: "4940.21",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "10116320",
@@ -157,7 +157,7 @@ const formulaData = [
     price: "811.91",
     showPrice: "811.91",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "10116302",
@@ -165,7 +165,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "10116416",
@@ -173,7 +173,7 @@ const formulaData = [
     price: "1886.45",
     showPrice: "1886.45",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "10147456",
@@ -181,7 +181,7 @@ const formulaData = [
     price: "473.57",
     showPrice: "473.57",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：5kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "10116318",
@@ -189,7 +189,7 @@ const formulaData = [
     price: "811.91",
     showPrice: "811.91",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "10116434",
@@ -197,7 +197,7 @@ const formulaData = [
     price: "2122.42",
     showPrice: "2122.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "10116300",
@@ -205,7 +205,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：30A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 30A",
   },
   {
     orderId: "10147462",
@@ -213,7 +213,7 @@ const formulaData = [
     price: "516.32",
     showPrice: "516.32",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：7.5kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "10116344",
@@ -221,7 +221,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "10116444",
@@ -229,7 +229,7 @@ const formulaData = [
     price: "2358.43",
     showPrice: "2358.43",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "10116442",
@@ -237,7 +237,7 @@ const formulaData = [
     price: "2358.43",
     showPrice: "2358.43",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：175A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 175A",
   },
   {
     orderId: "10116446",
@@ -245,7 +245,7 @@ const formulaData = [
     price: "2358.43",
     showPrice: "2358.43",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "10116462",
@@ -253,7 +253,7 @@ const formulaData = [
     price: "8653.24",
     showPrice: "8653.24",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "10136274",
@@ -261,7 +261,7 @@ const formulaData = [
     price: "1062.01",
     showPrice: "1062.01",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "10147468",
@@ -269,7 +269,7 @@ const formulaData = [
     price: "582",
     showPrice: "582",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "10116310",
@@ -277,7 +277,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "10116312",
@@ -285,7 +285,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：70A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 70A",
   },
   {
     orderId: "10116340",
@@ -293,7 +293,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "10116374",
@@ -301,7 +301,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "10116367",
@@ -309,7 +309,7 @@ const formulaData = [
     price: "1115.53",
     showPrice: "1115.53",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "10116393",
@@ -317,7 +317,7 @@ const formulaData = [
     price: "1304.3",
     showPrice: "1304.3",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "10147455",
@@ -325,7 +325,7 @@ const formulaData = [
     price: "473.57",
     showPrice: "473.57",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：5kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "10116392",
@@ -333,7 +333,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "10116424",
@@ -341,7 +341,7 @@ const formulaData = [
     price: "1288.58",
     showPrice: "1288.58",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：150A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 150A",
   },
   {
     orderId: "10116379",
@@ -349,7 +349,7 @@ const formulaData = [
     price: "1304.3",
     showPrice: "1304.3",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "10147466",
@@ -357,7 +357,7 @@ const formulaData = [
     price: "582",
     showPrice: "582",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "10116324",
@@ -365,7 +365,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "10136284",
@@ -373,7 +373,7 @@ const formulaData = [
     price: "1162.68",
     showPrice: "1162.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "10116395",
@@ -381,7 +381,7 @@ const formulaData = [
     price: "1304.3",
     showPrice: "1304.3",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "10116296",
@@ -389,7 +389,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "10116338",
@@ -397,7 +397,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：60A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 60A",
   },
   {
     orderId: "10116334",
@@ -405,7 +405,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "10147463",
@@ -413,7 +413,7 @@ const formulaData = [
     price: "516.32",
     showPrice: "516.32",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：7.5kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "10116306",
@@ -421,7 +421,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "10116376",
@@ -429,7 +429,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：90A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 90A",
   },
   {
     orderId: "10147461",
@@ -437,7 +437,7 @@ const formulaData = [
     price: "498.01",
     showPrice: "498.01",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：7.5kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "10116291",
@@ -445,7 +445,7 @@ const formulaData = [
     price: "892.07",
     showPrice: "892.07",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "10136293",
@@ -453,7 +453,7 @@ const formulaData = [
     price: "1222.54",
     showPrice: "1222.54",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：70A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 70A",
   },
   {
     orderId: "10136289",
@@ -461,7 +461,7 @@ const formulaData = [
     price: "1222.54",
     showPrice: "1222.54",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "10147454",
@@ -469,7 +469,7 @@ const formulaData = [
     price: "473.57",
     showPrice: "473.57",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：5kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：30A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 30A",
   },
   {
     orderId: "10116390",
@@ -477,7 +477,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：30A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 30A",
   },
   {
     orderId: "10116408",
@@ -485,7 +485,7 @@ const formulaData = [
     price: "1276.01",
     showPrice: "1276.01",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "10116294",
@@ -493,7 +493,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "10116303",
@@ -501,7 +501,7 @@ const formulaData = [
     price: "892.07",
     showPrice: "892.07",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "10116388",
@@ -509,7 +509,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "10116371",
@@ -517,7 +517,7 @@ const formulaData = [
     price: "1115.53",
     showPrice: "1115.53",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "10116375",
@@ -525,7 +525,7 @@ const formulaData = [
     price: "1115.53",
     showPrice: "1115.53",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "10116321",
@@ -533,7 +533,7 @@ const formulaData = [
     price: "1003.83",
     showPrice: "1003.83",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "10116382",
@@ -541,7 +541,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：15A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 15A",
   },
   {
     orderId: "10147460",
@@ -549,7 +549,7 @@ const formulaData = [
     price: "498.01",
     showPrice: "498.01",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：7.5kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "10116292",
@@ -557,7 +557,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：15A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 15A",
   },
   {
     orderId: "10116364",
@@ -565,7 +565,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "10116308",
@@ -573,7 +573,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：60A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 60A",
   },
   {
     orderId: "10116394",
@@ -581,7 +581,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "10116370",
@@ -589,7 +589,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "10136288",
@@ -597,7 +597,7 @@ const formulaData = [
     price: "1162.68",
     showPrice: "1162.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "10136290",
@@ -605,7 +605,7 @@ const formulaData = [
     price: "1222.54",
     showPrice: "1222.54",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "10116397",
@@ -613,7 +613,7 @@ const formulaData = [
     price: "1304.3",
     showPrice: "1304.3",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "10147464",
@@ -621,7 +621,7 @@ const formulaData = [
     price: "582",
     showPrice: "582",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：30A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 30A",
   },
   {
     orderId: "10116362",
@@ -629,7 +629,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "10116349",
@@ -637,7 +637,7 @@ const formulaData = [
     price: "1115.53",
     showPrice: "1115.53",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "10116422",
@@ -645,7 +645,7 @@ const formulaData = [
     price: "1288.58",
     showPrice: "1288.58",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "10116372",
@@ -653,7 +653,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：70A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 70A",
   },
   {
     orderId: "10136283",
@@ -661,7 +661,7 @@ const formulaData = [
     price: "1162.68",
     showPrice: "1162.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "10136292",
@@ -669,7 +669,7 @@ const formulaData = [
     price: "1222.54",
     showPrice: "1222.54",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：60A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 60A",
   },
   {
     orderId: "10116304",
@@ -677,7 +677,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "10116332",
@@ -685,7 +685,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "10116358",
@@ -693,7 +693,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "10136282",
@@ -701,7 +701,7 @@ const formulaData = [
     price: "1162.68",
     showPrice: "1162.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "10147467",
@@ -709,7 +709,7 @@ const formulaData = [
     price: "582",
     showPrice: "582",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "10116316",
@@ -717,7 +717,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：90A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 90A",
   },
   {
     orderId: "10116311",
@@ -725,7 +725,7 @@ const formulaData = [
     price: "892.07",
     showPrice: "892.07",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "10116319",
@@ -733,7 +733,7 @@ const formulaData = [
     price: "1003.83",
     showPrice: "1003.83",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "10116398",
@@ -741,7 +741,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：60A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 60A",
   },
   {
     orderId: "10116328",
@@ -749,7 +749,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "10116384",
@@ -757,7 +757,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "10116396",
@@ -765,7 +765,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "10136280",
@@ -773,7 +773,7 @@ const formulaData = [
     price: "1102.91",
     showPrice: "1102.91",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "10136291",
@@ -781,7 +781,7 @@ const formulaData = [
     price: "1222.54",
     showPrice: "1222.54",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "10136294",
@@ -789,7 +789,7 @@ const formulaData = [
     price: "1222.54",
     showPrice: "1222.54",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "10147459",
@@ -797,7 +797,7 @@ const formulaData = [
     price: "498.01",
     showPrice: "498.01",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：7.5kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：30A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 30A",
   },
   {
     orderId: "10116326",
@@ -805,7 +805,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "10116368",
@@ -813,7 +813,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：60A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 60A",
   },
   {
     orderId: "10116356",
@@ -821,7 +821,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "10136287",
@@ -829,7 +829,7 @@ const formulaData = [
     price: "1162.68",
     showPrice: "1162.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "10136295",
@@ -837,7 +837,7 @@ const formulaData = [
     price: "1222.54",
     showPrice: "1222.54",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "10116354",
@@ -845,7 +845,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "10116386",
@@ -853,7 +853,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "10147465",
@@ -861,7 +861,7 @@ const formulaData = [
     price: "582",
     showPrice: "582",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
   },
   {
     orderId: "10116336",
@@ -869,7 +869,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "10116351",
@@ -877,7 +877,7 @@ const formulaData = [
     price: "1115.53",
     showPrice: "1115.53",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "10116426",
@@ -885,7 +885,7 @@ const formulaData = [
     price: "1288.58",
     showPrice: "1288.58",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "10116418",
@@ -893,7 +893,7 @@ const formulaData = [
     price: "1886.45",
     showPrice: "1886.45",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "10116458",
@@ -901,7 +901,7 @@ const formulaData = [
     price: "6143.81",
     showPrice: "6143.81",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "10116436",
@@ -909,7 +909,7 @@ const formulaData = [
     price: "1315.34",
     showPrice: "1315.34",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "10116411",
@@ -917,7 +917,7 @@ const formulaData = [
     price: "1648.86",
     showPrice: "1648.86",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：150A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 150A",
   },
   {
     orderId: "10116430",
@@ -925,7 +925,7 @@ const formulaData = [
     price: "2122.42",
     showPrice: "2122.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "10116431",
@@ -933,7 +933,7 @@ const formulaData = [
     price: "2824.1",
     showPrice: "2824.1",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "10136307",
@@ -941,7 +941,7 @@ const formulaData = [
     price: "2317.48",
     showPrice: "2317.48",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "10116464",
@@ -949,7 +949,7 @@ const formulaData = [
     price: "10726.81",
     showPrice: "10726.81",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "10116425",
@@ -957,7 +957,7 @@ const formulaData = [
     price: "1834.53",
     showPrice: "1834.53",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：150A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 150A",
   },
   {
     orderId: "10136306",
@@ -965,7 +965,7 @@ const formulaData = [
     price: "1993.42",
     showPrice: "1993.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "10136305",
@@ -973,7 +973,7 @@ const formulaData = [
     price: "1993.42",
     showPrice: "1993.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "10116441",
@@ -981,7 +981,7 @@ const formulaData = [
     price: "2050.05",
     showPrice: "2050.05",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "10116417",
@@ -989,7 +989,7 @@ const formulaData = [
     price: "2509.48",
     showPrice: "2509.48",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "10136308",
@@ -997,7 +997,7 @@ const formulaData = [
     price: "4249.56",
     showPrice: "4249.56",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "10116451",
@@ -1005,7 +1005,7 @@ const formulaData = [
     price: "6710.18",
     showPrice: "6710.18",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "10116413",
@@ -1013,7 +1013,7 @@ const formulaData = [
     price: "1648.86",
     showPrice: "1648.86",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "10116427",
@@ -1021,7 +1021,7 @@ const formulaData = [
     price: "1834.53",
     showPrice: "1834.53",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "10116435",
@@ -1029,7 +1029,7 @@ const formulaData = [
     price: "2824.1",
     showPrice: "2824.1",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "10136312",
@@ -1037,7 +1037,7 @@ const formulaData = [
     price: "4334.48",
     showPrice: "4334.48",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "10116463",
@@ -1045,7 +1045,7 @@ const formulaData = [
     price: "10822.83",
     showPrice: "10822.83",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "10116381",
@@ -1053,7 +1053,7 @@ const formulaData = [
     price: "1579.63",
     showPrice: "1579.63",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "10116428",
@@ -1061,7 +1061,7 @@ const formulaData = [
     price: "2122.42",
     showPrice: "2122.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：175A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 175A",
   },
   {
     orderId: "10116443",
@@ -1069,7 +1069,7 @@ const formulaData = [
     price: "3138.77",
     showPrice: "3138.77",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：175A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 175A",
   },
   {
     orderId: "10136298",
@@ -1077,7 +1077,7 @@ const formulaData = [
     price: "1623.66",
     showPrice: "1623.66",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "10136303",
@@ -1085,7 +1085,7 @@ const formulaData = [
     price: "2147.64",
     showPrice: "2147.64",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "10116455",
@@ -1093,7 +1093,7 @@ const formulaData = [
     price: "7529.9",
     showPrice: "7529.9",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "10116459",
@@ -1101,7 +1101,7 @@ const formulaData = [
     price: "8031.79",
     showPrice: "8031.79",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "10116414",
@@ -1109,7 +1109,7 @@ const formulaData = [
     price: "1886.45",
     showPrice: "1886.45",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：175A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 175A",
   },
   {
     orderId: "10116445",
@@ -1117,7 +1117,7 @@ const formulaData = [
     price: "3138.77",
     showPrice: "3138.77",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "10136309",
@@ -1125,7 +1125,7 @@ const formulaData = [
     price: "4249.56",
     showPrice: "4249.56",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "10136299",
@@ -1133,7 +1133,7 @@ const formulaData = [
     price: "2015.44",
     showPrice: "2015.44",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：18kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "10116449",
@@ -1141,7 +1141,7 @@ const formulaData = [
     price: "3138.77",
     showPrice: "3138.77",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "10116438",
@@ -1149,7 +1149,7 @@ const formulaData = [
     price: "1315.34",
     showPrice: "1315.34",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：150A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 150A",
   },
   {
     orderId: "10136313",
@@ -1157,7 +1157,7 @@ const formulaData = [
     price: "4334.48",
     showPrice: "4334.48",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：320A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
   },
   {
     orderId: "10116405",
@@ -1165,7 +1165,7 @@ const formulaData = [
     price: "1304.3",
     showPrice: "1304.3",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "10116421",
@@ -1173,7 +1173,7 @@ const formulaData = [
     price: "2509.48",
     showPrice: "2509.48",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：18kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "10116453",
@@ -1181,7 +1181,7 @@ const formulaData = [
     price: "7089.39",
     showPrice: "7089.39",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "10116432",
@@ -1189,7 +1189,7 @@ const formulaData = [
     price: "2122.42",
     showPrice: "2122.42",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "10116460",
@@ -1197,7 +1197,7 @@ const formulaData = [
     price: "6452.16",
     showPrice: "6452.16",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "10116401",
@@ -1205,7 +1205,7 @@ const formulaData = [
     price: "1304.3",
     showPrice: "1304.3",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "10116454",
@@ -1213,7 +1213,7 @@ const formulaData = [
     price: "6082.46",
     showPrice: "6082.46",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：36kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "10116348",
@@ -1221,7 +1221,7 @@ const formulaData = [
     price: "903.16",
     showPrice: "903.16",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "10116305",
@@ -1229,7 +1229,7 @@ const formulaData = [
     price: "892.07",
     showPrice: "892.07",
     remark:
-      "系列：Formula | 极数：4P | 额定极限分断能力：10kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "10136269",
@@ -1237,7 +1237,7 @@ const formulaData = [
     price: "1062.01",
     showPrice: "1062.01",
     remark:
-      "系列：Formula | 极数：3P | 额定极限分断能力：10kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
 ];
 

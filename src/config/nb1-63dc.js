@@ -5,7 +5,7 @@ const list = [
     price: "85.75",
     showPrice: "85.75",
     remark:
-      "系列：NB1-63DC | 额定电流：6A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 6A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/304785/2/24404/22627/68933810F8ccf9ebf/29651d7635bd7595.jpg.avif",
   },
   {
@@ -14,7 +14,7 @@ const list = [
     price: "70.83",
     showPrice: "70.83",
     remark:
-      "系列：NB1-63DC | 额定电流：10A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 10A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/304785/2/24404/22627/68933810F8ccf9ebf/29651d7635bd7595.jpg.avif",
   },
   {
@@ -23,7 +23,7 @@ const list = [
     price: "145.42",
     showPrice: "145.42",
     remark:
-      "系列：NB1-63DC | 额定电流：10A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 10A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/448987/2/11683/18075/6a5f1da1F6aebda4e/0711320320e3f2c4.jpg.avif",
   },
   {
@@ -32,7 +32,7 @@ const list = [
     price: "70.83",
     showPrice: "70.83",
     remark:
-      "系列：NB1-63DC | 额定电流：20A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 20A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/304785/2/24404/22627/68933810F8ccf9ebf/29651d7635bd7595.jpg.avif",
   },
   {
@@ -41,7 +41,7 @@ const list = [
     price: "85.75",
     showPrice: "85.75",
     remark:
-      "系列：NB1-63DC | 额定电流：4A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 4A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/304785/2/24404/22627/68933810F8ccf9ebf/29651d7635bd7595.jpg.avif",
   },
   {
@@ -50,7 +50,7 @@ const list = [
     price: "70.83",
     showPrice: "70.83",
     remark:
-      "系列：NB1-63DC | 额定电流：16A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 16A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/304785/2/24404/22627/68933810F8ccf9ebf/29651d7635bd7595.jpg.avif",
   },
   {
@@ -59,7 +59,7 @@ const list = [
     price: "177.13",
     showPrice: "177.13",
     remark:
-      "系列：NB1-63DC | 额定电流：3A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 3A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/416474/27/1551/18137/69d49d62Fb0cf71b7/07113203208792e4.jpg.avif",
   },
   {
@@ -68,7 +68,7 @@ const list = [
     price: "177.13",
     showPrice: "177.13",
     remark:
-      "系列：NB1-63DC | 额定电流：6A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 6A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/93141/2/51642/28244/670d1001Fb1847b9e/aab20ad0ee6a8345.jpg.avif",
   },
   {
@@ -77,7 +77,7 @@ const list = [
     price: "180.84",
     showPrice: "180.84",
     remark:
-      "系列：NB1-63DC | 额定电流：63A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 63A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/67263/4/27007/25117/669e5c85F85d4128a/58258a530e924589.jpg.avif",
   },
   {
@@ -86,7 +86,7 @@ const list = [
     price: "366.44",
     showPrice: "366.44",
     remark:
-      "系列：NB1-63DC | 额定电流：63A | 极数：4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 63A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/416474/27/1551/18137/69d49d62Fb0cf71b7/07113203208792e4.jpg.avif",
   },
   {
@@ -95,7 +95,7 @@ const list = [
     price: "87.62",
     showPrice: "87.62",
     remark:
-      "系列：NB1-63DC | 额定电流：63A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 63A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/304785/2/24404/22627/68933810F8ccf9ebf/29651d7635bd7595.jpg.avif",
   },
   {
@@ -104,7 +104,7 @@ const list = [
     price: "85.75",
     showPrice: "85.75",
     remark:
-      "系列：NB1-63DC | 额定电流：2A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 2A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/304785/2/24404/22627/68933810F8ccf9ebf/29651d7635bd7595.jpg.avif",
   },
   {
@@ -113,7 +113,7 @@ const list = [
     price: "145.42",
     showPrice: "145.42",
     remark:
-      "系列：NB1-63DC | 额定电流：20A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 20A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/448987/2/11683/18075/6a5f1da1F6aebda4e/0711320320e3f2c4.jpg.avif",
   },
   {
@@ -122,7 +122,7 @@ const list = [
     price: "85.75",
     showPrice: "85.75",
     remark:
-      "系列：NB1-63DC | 额定电流：3A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 3A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/304785/2/24404/22627/68933810F8ccf9ebf/29651d7635bd7595.jpg.avif",
   },
   {
@@ -131,7 +131,7 @@ const list = [
     price: "145.42",
     showPrice: "145.42",
     remark:
-      "系列：NB1-63DC | 额定电流：32A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 32A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/416474/27/1551/18137/69d49d62Fb0cf71b7/07113203208792e4.jpg.avif",
   },
   {
@@ -140,7 +140,7 @@ const list = [
     price: "70.83",
     showPrice: "70.83",
     remark:
-      "系列：NB1-63DC | 额定电流：32A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 32A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/304785/2/24404/22627/68933810F8ccf9ebf/29651d7635bd7595.jpg.avif",
   },
   {
@@ -149,7 +149,7 @@ const list = [
     price: "145.42",
     showPrice: "145.42",
     remark:
-      "系列：NB1-63DC | 额定电流：40A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 40A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/416474/27/1551/18137/69d49d62Fb0cf71b7/07113203208792e4.jpg.avif",
   },
   {
@@ -158,7 +158,7 @@ const list = [
     price: "334.97",
     showPrice: "334.97",
     remark:
-      "系列：NB1-63DC | 额定电流：16A | 极数：4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 16A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/234009/27/22887/36245/669e3f46F4fcb1e26/8806bf5119764d04.jpg.avif",
   },
   {
@@ -167,7 +167,7 @@ const list = [
     price: "145.42",
     showPrice: "145.42",
     remark:
-      "系列：NB1-63DC | 额定电流：16A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 16A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/188961/13/48098/25946/666ad61aF77b5ae2d/18899974e2dd0c86.jpg.avif",
   },
   {
@@ -176,7 +176,7 @@ const list = [
     price: "70.83",
     showPrice: "70.83",
     remark:
-      "系列：NB1-63DC | 额定电流：25A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 25A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/304785/2/24404/22627/68933810F8ccf9ebf/29651d7635bd7595.jpg.avif",
   },
   {
@@ -185,7 +185,7 @@ const list = [
     price: "177.13",
     showPrice: "177.13",
     remark:
-      "系列：NB1-63DC | 额定电流：2A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 2A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/416474/27/1551/18137/69d49d62Fb0cf71b7/07113203208792e4.jpg.avif",
   },
   {
@@ -194,7 +194,7 @@ const list = [
     price: "177.13",
     showPrice: "177.13",
     remark:
-      "系列：NB1-63DC | 额定电流：4A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 4A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/416474/27/1551/18137/69d49d62Fb0cf71b7/07113203208792e4.jpg.avif",
   },
   {
@@ -203,7 +203,7 @@ const list = [
     price: "85.75",
     showPrice: "85.75",
     remark:
-      "系列：NB1-63DC | 额定电流：1A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 1A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/304785/2/24404/22627/68933810F8ccf9ebf/29651d7635bd7595.jpg.avif",
   },
   {
@@ -212,7 +212,7 @@ const list = [
     price: "87.62",
     showPrice: "87.62",
     remark:
-      "系列：NB1-63DC | 额定电流：50A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 50A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/304785/2/24404/22627/68933810F8ccf9ebf/29651d7635bd7595.jpg.avif",
   },
   {
@@ -221,7 +221,7 @@ const list = [
     price: "70.83",
     showPrice: "70.83",
     remark:
-      "系列：NB1-63DC | 额定电流：40A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 40A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/304785/2/24404/22627/68933810F8ccf9ebf/29651d7635bd7595.jpg.avif",
   },
   {
@@ -230,7 +230,7 @@ const list = [
     price: "70.83",
     showPrice: "70.83",
     remark:
-      "系列：NB1-63DC | 额定电流：40A | 极数：1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: NB1-63DC | Rated current: 40A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/304785/2/24404/22627/68933810F8ccf9ebf/29651d7635bd7595.jpg.avif",
   },
   {
@@ -239,7 +239,7 @@ const list = [
     price: "334.97",
     showPrice: "334.97",
     remark:
-      "系列：NB1-63DC | 额定电流：25A | 极数：4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 25A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/514385/10/11445/43456/6aa39b3aF71f4af86/07113203202391fd.jpg.avif",
   },
   {
@@ -248,7 +248,7 @@ const list = [
     price: "145.42",
     showPrice: "145.42",
     remark:
-      "系列：NB1-63DC | 额定电流：25A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 25A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/416474/27/1551/18137/69d49d62Fb0cf71b7/07113203208792e4.jpg.avif",
   },
   {
@@ -257,7 +257,7 @@ const list = [
     price: "334.97",
     showPrice: "334.97",
     remark:
-      "系列：NB1-63DC | 额定电流：32A | 极数：4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB1-63DC | Rated current: 32A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/514385/10/11445/43456/6aa39b3aF71f4af86/07113203202391fd.jpg.avif",
   },
 ];

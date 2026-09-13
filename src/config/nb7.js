@@ -5,7 +5,7 @@ const list = [
     price: "120.56",
     showPrice: "120.56",
     remark:
-      "系列：NB7 | 额定电流：63A | 极数：3P | 脱扣特性：D | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 63A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/52273/27/17675/36816/628cfa22E108e3ea9/4f6b8c9db4f69501.jpg.avif",
   },
   {
@@ -14,7 +14,7 @@ const list = [
     price: "68.23",
     showPrice: "68.23",
     remark:
-      "系列：NB7 | 额定电流：32A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 32A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/94428/29/22624/23455/62063ba5E23767e40/48ae86328f8d53f3.jpg.avif",
   },
   {
@@ -23,7 +23,7 @@ const list = [
     price: "102.87",
     showPrice: "102.87",
     remark:
-      "系列：NB7 | 额定电流：40A | 极数：3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 40A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/206714/7/17102/29573/62063bb0E95dd109f/2b0f8da50afe3fed.jpg.avif",
   },
   {
@@ -32,7 +32,7 @@ const list = [
     price: "60.52",
     showPrice: "60.52",
     remark:
-      "系列：NB7 | 额定电流：10A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 10A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/94428/29/22624/23455/62063ba5E23767e40/48ae86328f8d53f3.jpg.avif",
   },
   {
@@ -41,7 +41,7 @@ const list = [
     price: "60.52",
     showPrice: "60.52",
     remark:
-      "系列：NB7 | 额定电流：20A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 20A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/94428/29/22624/23455/62063ba5E23767e40/48ae86328f8d53f3.jpg.avif",
   },
   {
@@ -50,7 +50,7 @@ const list = [
     price: "35.43",
     showPrice: "35.43",
     remark:
-      "系列：NB7 | 额定电流：1A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 1A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://image3.vipmro.net/goodsImg/906616/50111011/10002wang/20150519/002a01!450450.jpg",
   },
   {
@@ -59,7 +59,7 @@ const list = [
     price: "91.33",
     showPrice: "91.33",
     remark:
-      "系列：NB7 | 额定电流：16A | 极数：3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 16A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/206714/7/17102/29573/62063bb0E95dd109f/2b0f8da50afe3fed.jpg.avif",
   },
   {
@@ -68,7 +68,7 @@ const list = [
     price: "60.52",
     showPrice: "60.52",
     remark:
-      "系列：NB7 | 额定电流：16A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 16A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/94428/29/22624/23455/62063ba5E23767e40/48ae86328f8d53f3.jpg.avif",
   },
   {
@@ -77,7 +77,7 @@ const list = [
     price: "29.78",
     showPrice: "29.78",
     remark:
-      "系列：NB7 | 额定电流：25A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 25A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223839/30/4634/19074/62063bb2E2614dec8/d44b96bde4236bc6.jpg.avif",
   },
   {
@@ -86,7 +86,7 @@ const list = [
     price: "102.87",
     showPrice: "102.87",
     remark:
-      "系列：NB7 | 额定电流：32A | 极数：3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 32A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/206714/7/17102/29573/62063bb0E95dd109f/2b0f8da50afe3fed.jpg.avif",
   },
   {
@@ -95,7 +95,7 @@ const list = [
     price: "110.56",
     showPrice: "110.56",
     remark:
-      "系列：NB7 | 额定电流：32A | 极数：3P | 脱扣特性：D | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 32A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/206714/7/17102/29573/62063bb0E95dd109f/2b0f8da50afe3fed.jpg.avif",
   },
   {
@@ -104,7 +104,7 @@ const list = [
     price: "91.33",
     showPrice: "91.33",
     remark:
-      "系列：NB7 | 额定电流：25A | 极数：3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 25A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/206714/7/17102/29573/62063bb0E95dd109f/2b0f8da50afe3fed.jpg.avif",
   },
   {
@@ -113,7 +113,7 @@ const list = [
     price: "29.78",
     showPrice: "29.78",
     remark:
-      "系列：NB7 | 额定电流：16A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 16A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223839/30/4634/19074/62063bb2E2614dec8/d44b96bde4236bc6.jpg.avif",
   },
   {
@@ -122,7 +122,7 @@ const list = [
     price: "110.56",
     showPrice: "110.56",
     remark:
-      "系列：NB7 | 额定电流：40A | 极数：3P | 脱扣特性：D | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 40A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/397952/32/11945/21387/69a6b125F770fede8/0711320320618960.jpg.avif",
   },
   {
@@ -131,7 +131,7 @@ const list = [
     price: "99.01",
     showPrice: "99.01",
     remark:
-      "系列：NB7 | 额定电流：16A | 极数：3P | 脱扣特性：D | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 16A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/206714/7/17102/29573/62063bb0E95dd109f/2b0f8da50afe3fed.jpg.avif",
   },
   {
@@ -140,7 +140,7 @@ const list = [
     price: "74.87",
     showPrice: "74.87",
     remark:
-      "系列：NB7 | 额定电流：63A | 极数：2P | 脱扣特性：C | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 63A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/94428/29/22624/23455/62063ba5E23767e40/48ae86328f8d53f3.jpg.avif",
   },
   {
@@ -149,7 +149,7 @@ const list = [
     price: "35.43",
     showPrice: "35.43",
     remark:
-      "系列：NB7 | 额定电流：6A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 6A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223839/30/4634/19074/62063bb2E2614dec8/d44b96bde4236bc6.jpg.avif",
   },
   {
@@ -158,7 +158,7 @@ const list = [
     price: "150.82",
     showPrice: "150.82",
     remark:
-      "系列：NB7 | 额定电流：63A | 极数：4P | 脱扣特性：C | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 63A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209968/40/17248/30374/62063bc0E49e19799/49ef4d228a70834e.jpg.avif",
   },
   {
@@ -167,7 +167,7 @@ const list = [
     price: "71.83",
     showPrice: "71.83",
     remark:
-      "系列：NB7 | 额定电流：6A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 6A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/94428/29/22624/23455/62063ba5E23767e40/48ae86328f8d53f3.jpg.avif",
   },
   {
@@ -176,7 +176,7 @@ const list = [
     price: "29.78",
     showPrice: "29.78",
     remark:
-      "系列：NB7 | 额定电流：10A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 10A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/41460/26/21829/10490/63475ebaE15bdbee3/19580ca19a5ad20a.jpg.avif",
   },
   {
@@ -185,7 +185,7 @@ const list = [
     price: "108.25",
     showPrice: "108.25",
     remark:
-      "系列：NB7 | 额定电流：6A | 极数：3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 6A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://image3.vipmro.net/goodsImg/906616/50111011/10002wang/20150519/008a01!450450.jpg",
   },
   {
@@ -194,7 +194,7 @@ const list = [
     price: "99.01",
     showPrice: "99.01",
     remark:
-      "系列：NB7 | 额定电流：10A | 极数：3P | 脱扣特性：D | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 10A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/206714/7/17102/29573/62063bb0E95dd109f/2b0f8da50afe3fed.jpg.avif",
   },
   {
@@ -203,7 +203,7 @@ const list = [
     price: "91.33",
     showPrice: "91.33",
     remark:
-      "系列：NB7 | 额定电流：10A | 极数：3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 10A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/206714/7/17102/29573/62063bb0E95dd109f/2b0f8da50afe3fed.jpg.avif",
   },
   {
@@ -212,7 +212,7 @@ const list = [
     price: "33.63",
     showPrice: "33.63",
     remark:
-      "系列：NB7 | 额定电流：32A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 32A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223839/30/4634/19074/62063bb2E2614dec8/d44b96bde4236bc6.jpg.avif",
   },
   {
@@ -221,7 +221,7 @@ const list = [
     price: "60.52",
     showPrice: "60.52",
     remark:
-      "系列：NB7 | 额定电流：25A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 25A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/138324/17/30529/14444/63475ebeE1194e1b7/f65ecf5065a0b0cc.jpg.avif",
   },
   {
@@ -230,7 +230,7 @@ const list = [
     price: "112.84",
     showPrice: "112.84",
     remark:
-      "系列：NB7 | 额定电流：50A | 极数：3P | 脱扣特性：C | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 50A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/208216/25/25891/19868/63475ec5E71008b1a/5212ad0f19091053.jpg.avif",
   },
   {
@@ -239,7 +239,7 @@ const list = [
     price: "91.33",
     showPrice: "91.33",
     remark:
-      "系列：NB7 | 额定电流：20A | 极数：3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 20A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/206714/7/17102/29573/62063bb0E95dd109f/2b0f8da50afe3fed.jpg.avif",
   },
   {
@@ -248,7 +248,7 @@ const list = [
     price: "32.33",
     showPrice: "32.33",
     remark:
-      "系列：NB7 | 额定电流：20A | 极数：1P | 脱扣特性：D | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 20A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/54673/16/18590/21510/628cfa22Ef58d61a1/53a8a230c7af8db0.jpg.avif",
   },
   {
@@ -257,7 +257,7 @@ const list = [
     price: "74.87",
     showPrice: "74.87",
     remark:
-      "系列：NB7 | 额定电流：50A | 极数：2P | 脱扣特性：C | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 50A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/125098/30/22724/30947/628cfa22Ed78124d0/07e34994ac8a9f07.jpg.avif",
   },
   {
@@ -266,7 +266,7 @@ const list = [
     price: "137.49",
     showPrice: "137.49",
     remark:
-      "系列：NB7 | 额定电流：32A | 极数：4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 32A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116072/29/25377/39205/628cfa22E5c106898/90231763d19be4b8.jpg.avif",
   },
   {
@@ -275,7 +275,7 @@ const list = [
     price: "112.84",
     showPrice: "112.84",
     remark:
-      "系列：NB7 | 额定电流：63A | 极数：3P | 脱扣特性：C | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 63A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/206714/7/17102/29573/62063bb0E95dd109f/2b0f8da50afe3fed.jpg.avif",
   },
   {
@@ -284,7 +284,7 @@ const list = [
     price: "33.63",
     showPrice: "33.63",
     remark:
-      "系列：NB7 | 额定电流：40A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 40A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/54673/16/18590/21510/628cfa22Ef58d61a1/53a8a230c7af8db0.jpg.avif",
   },
   {
@@ -293,7 +293,7 @@ const list = [
     price: "137.49",
     showPrice: "137.49",
     remark:
-      "系列：NB7 | 额定电流：40A | 极数：4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 40A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116072/29/25377/39205/628cfa22E5c106898/90231763d19be4b8.jpg.avif",
   },
   {
@@ -302,7 +302,7 @@ const list = [
     price: "68.23",
     showPrice: "68.23",
     remark:
-      "系列：NB7 | 额定电流：40A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 40A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/138324/17/30529/14444/63475ebeE1194e1b7/f65ecf5065a0b0cc.jpg.avif",
   },
   {
@@ -311,7 +311,7 @@ const list = [
     price: "122.1",
     showPrice: "122.1",
     remark:
-      "系列：NB7 | 额定电流：25A | 极数：4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 25A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116072/29/25377/39205/628cfa22E5c106898/90231763d19be4b8.jpg.avif",
   },
   {
@@ -320,7 +320,7 @@ const list = [
     price: "120.56",
     showPrice: "120.56",
     remark:
-      "系列：NB7 | 额定电流：50A | 极数：3P | 脱扣特性：D | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 50A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/206714/7/17102/29573/62063bb0E95dd109f/2b0f8da50afe3fed.jpg.avif",
   },
   {
@@ -329,7 +329,7 @@ const list = [
     price: "99.01",
     showPrice: "99.01",
     remark:
-      "系列：NB7 | 额定电流：20A | 极数：3P | 脱扣特性：D | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 20A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/45077/25/25195/6112/66a0a1deFabe79f4f/3d5f67c5156b84b8.jpg.avif",
   },
   {
@@ -338,7 +338,7 @@ const list = [
     price: "29.78",
     showPrice: "29.78",
     remark:
-      "系列：NB7 | 额定电流：20A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 20A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223839/30/4634/19074/62063bb2E2614dec8/d44b96bde4236bc6.jpg.avif",
   },
   {
@@ -347,7 +347,7 @@ const list = [
     price: "99.01",
     showPrice: "99.01",
     remark:
-      "系列：NB7 | 额定电流：25A | 极数：3P | 脱扣特性：D | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 25A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/206714/7/17102/29573/62063bb0E95dd109f/2b0f8da50afe3fed.jpg.avif",
   },
   {
@@ -356,7 +356,7 @@ const list = [
     price: "32.33",
     showPrice: "32.33",
     remark:
-      "系列：NB7 | 额定电流：16A | 极数：1P | 脱扣特性：D | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 16A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223839/30/4634/19074/62063bb2E2614dec8/d44b96bde4236bc6.jpg.avif",
   },
   {
@@ -365,7 +365,7 @@ const list = [
     price: "115.95",
     showPrice: "115.95",
     remark:
-      "系列：NB7 | 额定电流：6A | 极数：3P | 脱扣特性：D | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 6A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/208216/25/25891/19868/63475ec5E71008b1a/5212ad0f19091053.jpg.avif",
   },
   {
@@ -374,7 +374,7 @@ const list = [
     price: "65.69",
     showPrice: "65.69",
     remark:
-      "系列：NB7 | 额定电流：10A | 极数：2P | 脱扣特性：D | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 10A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：4.5kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/397952/32/11945/21387/69a6b125F770fede8/0711320320618960.jpg.avif",
   },
   {
@@ -383,7 +383,7 @@ const list = [
     price: "71.83",
     showPrice: "71.83",
     remark:
-      "系列：NB7 | 额定电流：2A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 2A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/85721/24/34258/20160/6578640aF3d0a9cc8/b34e5e734bc01f21.jpg.avif",
   },
   {
@@ -392,7 +392,7 @@ const list = [
     price: "122.1",
     showPrice: "122.1",
     remark:
-      "系列：NB7 | 额定电流：16A | 极数：4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 16A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/236452/29/6898/27214/6578640aFac595d97/d438ab0ee3e26daf.jpg.avif",
   },
   {
@@ -401,7 +401,7 @@ const list = [
     price: "71.83",
     showPrice: "71.83",
     remark:
-      "系列：NB7 | 额定电流：4A | 极数：2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 4A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://image3.vipmro.net/goodsImg/906616/50111011/10002wang/20150519/006a01!450450.jpg",
   },
   {
@@ -410,7 +410,7 @@ const list = [
     price: "35.43",
     showPrice: "35.43",
     remark:
-      "系列：NB7 | 额定电流：3A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 3A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://image3.vipmro.net/goodsImg/906616/50111011/10002wang/20150519/002a01!450450.jpg",
   },
   {
@@ -419,7 +419,7 @@ const list = [
     price: "108.25",
     showPrice: "108.25",
     remark:
-      "系列：NB7 | 额定电流：1A | 极数：3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 1A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://image3.vipmro.net/goodsImg/906616/50111011/10002wang/20150519/008a01!450450.jpg",
   },
   {
@@ -428,7 +428,7 @@ const list = [
     price: "36.18",
     showPrice: "36.18",
     remark:
-      "系列：NB7 | 额定电流：32A | 极数：1P | 脱扣特性：D | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 32A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：4.5kA",
     url: "https://image3.vipmro.net/goodsImg/906616/50111011/10002wang/20150519/002a01!450450.jpg",
   },
   {
@@ -437,7 +437,7 @@ const list = [
     price: "108.25",
     showPrice: "108.25",
     remark:
-      "系列：NB7 | 额定电流：4A | 极数：3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 4A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://image3.vipmro.net/goodsImg/906616/50111011/10002wang/20150519/008a01!450450.jpg",
   },
   {
@@ -446,7 +446,7 @@ const list = [
     price: "35.43",
     showPrice: "35.43",
     remark:
-      "系列：NB7 | 额定电流：4A | 极数：1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: NB7 | Rated current: 4A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
     url: "https://image3.vipmro.net/goodsImg/906616/50111011/10002wang/20150519/002a01!450450.jpg",
   },
   {
@@ -455,7 +455,7 @@ const list = [
     price: "161.07",
     showPrice: "161.07",
     remark:
-      "系列：NB7 | 额定电流：63A | 极数：4P | 脱扣特性：D | 额定分断能力：4.5kA",
+      "Series: NB7 | Rated current: 63A | Number of poles: 4P | 脱扣特性：D | 额定分断能力：4.5kA",
     url: "https://image3.vipmro.net/goodsImg/906616/50111011/10002wang/20150519/011a01!450450.jpg",
   },
 ];

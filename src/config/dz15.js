@@ -5,7 +5,7 @@ const list = [
     price: "185",
     showPrice: "185",
     remark:
-      "系列：DZ15 | 极数：3P | 额定极限分断能力：3kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：40A | 额定电流：40A",
+      "Series: DZ15 | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 40A | Rated current: 40A",
   },
   {
     orderId: "710021511003080",
@@ -13,7 +13,7 @@ const list = [
     price: "243",
     showPrice: "243",
     remark:
-      "系列：DZ15 | 极数：3P | 额定极限分断能力：5kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: DZ15 | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "710021510413040",
@@ -21,7 +21,7 @@ const list = [
     price: "185",
     showPrice: "185",
     remark:
-      "系列：DZ15 | 极数：3P | 额定极限分断能力：3kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：40A | 额定电流：40A",
+      "Series: DZ15 | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 40A | Rated current: 40A",
   },
   {
     orderId: "710021500000028",
@@ -29,7 +29,7 @@ const list = [
     price: "221",
     showPrice: "221",
     remark:
-      "系列：DZ15 | 极数：3P | 额定极限分断能力：5kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: DZ15 | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "710021500000026",
@@ -37,7 +37,7 @@ const list = [
     price: "165",
     showPrice: "165",
     remark:
-      "系列：DZ15 | 极数：3P | 额定极限分断能力：3kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：40A | 额定电流：40A",
+      "Series: DZ15 | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 40A | Rated current: 40A",
   },
   {
     orderId: "710021511023063",
@@ -45,7 +45,7 @@ const list = [
     price: "243",
     showPrice: "243",
     remark:
-      "系列：DZ15 | 极数：3P | 额定极限分断能力：5kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: DZ15 | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "710021510423032",
@@ -53,7 +53,7 @@ const list = [
     price: "185",
     showPrice: "185",
     remark:
-      "系列：DZ15 | 极数：3P | 额定极限分断能力：3kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：40A | 额定电流：32A",
+      "Series: DZ15 | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 40A | Rated current: 32A",
   },
   {
     orderId: "710021511003100",
@@ -61,7 +61,7 @@ const list = [
     price: "243",
     showPrice: "243",
     remark:
-      "系列：DZ15 | 极数：3P | 额定极限分断能力：5kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: DZ15 | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "710021500000134",
@@ -69,7 +69,7 @@ const list = [
     price: "205",
     showPrice: "205",
     remark:
-      "系列：DZ15 | 极数：2P | 额定极限分断能力：5kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: DZ15 | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "710021510412040",
@@ -77,7 +77,7 @@ const list = [
     price: "135",
     showPrice: "135",
     remark:
-      "系列：DZ15 | 极数：2P | 额定极限分断能力：3kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：40A | 额定电流：40A",
+      "Series: DZ15 | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 40A | Rated current: 40A",
   },
   {
     orderId: "710021500000034",
@@ -85,7 +85,7 @@ const list = [
     price: "221",
     showPrice: "221",
     remark:
-      "系列：DZ15 | 极数：3P | 额定极限分断能力：5kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: DZ15 | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "710021511033063",
@@ -93,7 +93,7 @@ const list = [
     price: "243",
     showPrice: "243",
     remark:
-      "系列：DZ15 | 极数：3P | 额定极限分断能力：5kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：80A",
+      "Series: DZ15 | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
   },
   {
     orderId: "710021510412032",
@@ -101,7 +101,7 @@ const list = [
     price: "135",
     showPrice: "135",
     remark:
-      "系列：DZ15 | 极数：2P | 额定极限分断能力：3kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：40A | 额定电流：32A",
+      "Series: DZ15 | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 40A | Rated current: 32A",
   },
   {
     orderId: "710021511023050",
@@ -109,7 +109,7 @@ const list = [
     price: "243",
     showPrice: "243",
     remark:
-      "系列：DZ15 | 极数：3P | 额定极限分断能力：5kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：50A",
+      "Series: DZ15 | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 50A",
   },
   {
     orderId: "710021500000132",
@@ -117,7 +117,7 @@ const list = [
     price: "205",
     showPrice: "205",
     remark:
-      "系列：DZ15 | 极数：2P | 额定极限分断能力：5kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: DZ15 | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "710021500000136",
@@ -125,7 +125,7 @@ const list = [
     price: "181",
     showPrice: "181",
     remark:
-      "系列：DZ15 | 极数：2P | 额定极限分断能力：5kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: DZ15 | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "710021500000138",
@@ -133,7 +133,7 @@ const list = [
     price: "181",
     showPrice: "181",
     remark:
-      "系列：DZ15 | 极数：2P | 额定极限分断能力：5kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: DZ15 | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "710021500000012",
@@ -141,7 +141,7 @@ const list = [
     price: "123",
     showPrice: "123",
     remark:
-      "系列：DZ15 | 极数：2P | 额定极限分断能力：3kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：40A | 额定电流：40A",
+      "Series: DZ15 | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 40A | Rated current: 40A",
   },
   {
     orderId: "710021500000031",
@@ -149,7 +149,7 @@ const list = [
     price: "221",
     showPrice: "221",
     remark:
-      "系列：DZ15 | 极数：3P | 额定极限分断能力：5kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：63A",
+      "Series: DZ15 | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
   },
   {
     orderId: "710021500000029",
@@ -157,7 +157,7 @@ const list = [
     price: "221",
     showPrice: "221",
     remark:
-      "系列：DZ15 | 极数：3P | 额定极限分断能力：5kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: DZ15 | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "710021500000011",
@@ -165,7 +165,7 @@ const list = [
     price: "123",
     showPrice: "123",
     remark:
-      "系列：DZ15 | 极数：2P | 额定极限分断能力：3kA | 脱扣器类型：液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：40A | 额定电流：32A",
+      "Series: DZ15 | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: 液压式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 40A | Rated current: 32A",
   },
 ];
 

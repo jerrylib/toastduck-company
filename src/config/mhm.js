@@ -5,7 +5,7 @@ const list = [
     price: "",
     showPrice: "1521.756",
     remark:
-      "系列：MHM | 电机额定功率：0.85kW | 惯量类型：高惯量 | 编码器规格：L | 额定转速：3000rpm | 轴类型：带键带螺纹 | 电源电压：200V",
+      "Series: MHM | Motor rated power: 0.85kW | 惯量类型：高惯量 | 编码器规格：L | Rated speed: 3000rpm | 轴类型：带键带螺纹 | Power supply voltage: 200V",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -14,7 +14,7 @@ const list = [
     price: "",
     showPrice: "1503.348",
     remark:
-      "系列：MHM | 电机额定功率：50W | 惯量类型：高惯量 | 编码器规格：L | 轴类型：带键带螺纹 | 电源电压：100V",
+      "Series: MHM | Motor rated power: 50W | 惯量类型：高惯量 | 编码器规格：L | 轴类型：带键带螺纹 | Power supply voltage: 100V",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
 ];

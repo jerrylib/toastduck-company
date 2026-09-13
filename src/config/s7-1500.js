@@ -4,7 +4,7 @@ const list = [
     model: "6ES75921AM000XB0",
     price: "509.84",
     showPrice: "509.84",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/388784/12/740/17653/6966f867Fb2f0f33f/0711320320b544a2.jpg.avif",
   },
   {
@@ -12,7 +12,7 @@ const list = [
     model: "6ES75921BM000XB0",
     price: "509.84",
     showPrice: "509.84",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/386726/15/8538/19496/6966f868Fe64e7b68/071132032098c862.jpg.avif",
   },
   {
@@ -20,7 +20,7 @@ const list = [
     model: "6ES75901AB600AA0",
     price: "278.09",
     showPrice: "278.09",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/103494/20/29016/29390/625f4dd2E2359f1dd/b046f5e52e0fd856.jpg.avif",
   },
   {
@@ -29,7 +29,7 @@ const list = [
     price: "8342.82",
     showPrice: "8342.82",
     remark:
-      "系列：S7-1500 | 产品类型：模拟量输入模块 | 模拟量输入通道数：8 | 模拟量输出通道数：- | 模拟量输入类型：电压,电流,电阻,热电阻,热电偶 | 模拟量输出类型：-",
+      "Series: S7-1500 | 产品类型：模拟量输入模块 | 模拟量输入通道数：8 | 模拟量输出通道数：- | 模拟量输入类型：电压,电流,电阻,热电阻,热电偶 | 模拟量输出类型：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/163945/17/29931/35683/625f4dccE61b8c0b0/64ef288feb68f2ce.jpg.avif",
   },
   {
@@ -38,7 +38,7 @@ const list = [
     price: "3167.17",
     showPrice: "3167.17",
     remark:
-      "系列：S7-1500 | 产品类型：输出模块 | 数字量输入点数：- | 数字量输出点数：16 | 数字量输出类型：晶体管 | 数字量输入电压：-",
+      "Series: S7-1500 | 产品类型：输出模块 | 数字量输入点数：- | 数字量输出点数：16 | 数字量输出类型：晶体管 | 数字量输入电压：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/133124/21/20932/30069/625f4dc8Eb92457b0/7c4eea32e79ae0d0.jpg.avif",
   },
   {
@@ -47,7 +47,7 @@ const list = [
     price: "4464.94",
     showPrice: "4464.94",
     remark:
-      "系列：S7-1500 | 产品类型：输入模块 | 数字量输入点数：32 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：-",
+      "Series: S7-1500 | 产品类型：输入模块 | 数字量输入点数：32 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/113543/4/23296/30273/625f4dc7Ee26dd13e/97aa2974bd51764f.jpg.avif",
   },
   {
@@ -56,7 +56,7 @@ const list = [
     price: "6164.4",
     showPrice: "6164.4",
     remark:
-      "系列：S7-1500 | 产品类型：输出模块 | 数字量输入点数：- | 数字量输出点数：32 | 数字量输出类型：晶体管 | 数字量输入电压：-",
+      "Series: S7-1500 | 产品类型：输出模块 | 数字量输入点数：- | 数字量输出点数：32 | 数字量输出类型：晶体管 | 数字量输入电压：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/204926/20/20649/30415/625f4dc8Eb85e0e89/09a4f26c87f15ff6.jpg.avif",
   },
   {
@@ -64,7 +64,7 @@ const list = [
     model: "6ES75050KA000AB0",
     price: "2915.36",
     showPrice: "2915.36",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/219495/16/17632/31021/625f4dc2E4358e441/2a88e539b317c114.jpg.avif",
   },
   {
@@ -73,7 +73,7 @@ const list = [
     price: "4325.91",
     showPrice: "4325.91",
     remark:
-      "系列：S7-1500 | 产品类型：输入模块 | 数字量输入点数：32 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：-",
+      "Series: S7-1500 | 产品类型：输入模块 | 数字量输入点数：32 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/100772/34/26891/31311/625f4dc7E85405a30/7151e88854f092db.jpg.avif",
   },
   {
@@ -82,7 +82,7 @@ const list = [
     price: "10165.88",
     showPrice: "10165.88",
     remark:
-      "系列：S7-1500 | 产品类型：模拟量输出模块 | 模拟量输入通道数：- | 模拟量输出通道数：8 | 模拟量输入类型：- | 模拟量输出类型：电压,电流",
+      "Series: S7-1500 | 产品类型：模拟量输出模块 | 模拟量输入通道数：- | 模拟量输出通道数：8 | 模拟量输入类型：- | 模拟量输出类型：电压,电流",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/92329/6/26298/35352/625f4dceEb9494817/3baf284e4f92451c.jpg.avif",
   },
   {
@@ -90,7 +90,7 @@ const list = [
     model: "S7-1500 245 mm",
     price: "463.49",
     showPrice: "463.49",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223104/12/10507/29873/62061a45Ef1fa8ac4/1bac027bcef96755.jpg.avif",
   },
   {
@@ -98,7 +98,7 @@ const list = [
     model: "6ES75901AE800AA0",
     price: "417.15",
     showPrice: "417.15",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/388161/24/2958/10156/6966f866Fcd7d4d01/0711320320baa4a6.jpg.avif",
   },
   {
@@ -107,7 +107,7 @@ const list = [
     price: "2765.51",
     showPrice: "2765.51",
     remark:
-      "系列：S7-1500 | 产品类型：输入模块 | 数字量输入点数：16 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：-",
+      "Series: S7-1500 | 产品类型：输入模块 | 数字量输入点数：16 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/67709/2/17585/31548/625f4dc6Eef64e6a6/fb4b955c451d95b4.jpg.avif",
   },
   {
@@ -116,7 +116,7 @@ const list = [
     price: "6164.43",
     showPrice: "6164.43",
     remark:
-      "系列：S7-1500 | 产品类型：输出模块 | 数字量输入点数：- | 数字量输出点数：32 | 数字量输出类型：晶体管 | 数字量输入电压：-",
+      "Series: S7-1500 | 产品类型：输出模块 | 数字量输入点数：- | 数字量输出点数：32 | 数字量输出类型：晶体管 | 数字量输入电压：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/230537/15/34419/33409/67624b1bFaf0aeae2/0002ffe6d2df0d80.jpg.avif",
   },
   {
@@ -125,7 +125,7 @@ const list = [
     price: "5700.93",
     showPrice: "5700.93",
     remark:
-      "系列：S7-1500 | 产品类型：数字量输入/输出模块 | 数字量输入点数：16 | 数字量输出点数：16 | 数字量输出类型：晶体管 | 数字量输入电压：-",
+      "Series: S7-1500 | 产品类型：数字量输入/输出模块 | 数字量输入点数：16 | 数字量输出点数：16 | 数字量输出类型：晶体管 | 数字量输入电压：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/217432/12/17824/30344/625f4dcbE79472672/fff32e615bb57e1e.jpg.avif",
   },
   {
@@ -133,7 +133,7 @@ const list = [
     model: "6ES75070RA000AB0",
     price: "7248.99",
     showPrice: "7248.99",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/221611/29/16026/32850/625f4dc3E5e0cb4b0/9b972849bafdb85e.jpg.avif",
   },
   {
@@ -142,7 +142,7 @@ const list = [
     price: "11965.18",
     showPrice: "11965.18",
     remark:
-      "系列：S7-1500 | 电源电压：DC24V | 通讯接口：以太网,RS485 | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：200KB | 数据容量：1MB",
+      "Series: S7-1500 | Power supply voltage: DC24V | 通讯接口：以太网,RS485 | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：200KB | 数据容量：1MB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/93404/33/21801/46531/62061a8dE37ab37a4/17eae7e92999da93.jpg.avif",
   },
   {
@@ -151,7 +151,7 @@ const list = [
     price: "18122.47",
     showPrice: "18122.47",
     remark:
-      "系列：S7-1500 | 模拟量输入通道数：5 | 模拟量输出通道数：2 | 电源电压：DC24V | 通讯接口：ProfiNet | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：175KB | 数据容量：1MB",
+      "Series: S7-1500 | 模拟量输入通道数：5 | 模拟量输出通道数：2 | Power supply voltage: DC24V | 通讯接口：ProfiNet | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：175KB | 数据容量：1MB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/457333/27/15757/54007/6a3df493F5dad0cf3/07113203206cfb1b.jpg.avif",
   },
   {
@@ -160,7 +160,7 @@ const list = [
     price: "7091.4",
     showPrice: "7091.4",
     remark:
-      "系列：S7-1500 | 产品类型：模拟量输出模块 | 模拟量输入通道数：- | 模拟量输出通道数：4 | 模拟量输入类型：- | 模拟量输出类型：电压,电流",
+      "Series: S7-1500 | 产品类型：模拟量输出模块 | 模拟量输入通道数：- | 模拟量输出通道数：4 | 模拟量输入类型：- | 模拟量输出类型：电压,电流",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/189711/16/23052/35352/625f4dcdEd6a656b2/adfccae3d0f6b274.jpg.avif",
   },
   {
@@ -169,7 +169,7 @@ const list = [
     price: "4434.05",
     showPrice: "4434.05",
     remark:
-      "系列：S7-1500 | 产品类型：模拟量输入模块 | 模拟量输入通道数：4 | 模拟量输出通道数：- | 模拟量输入类型：电压,电流,电阻,热电阻,热电偶 | 模拟量输出类型：-",
+      "Series: S7-1500 | 产品类型：模拟量输入模块 | 模拟量输入通道数：4 | 模拟量输出通道数：- | 模拟量输入类型：电压,电流,电阻,热电阻,热电偶 | 模拟量输出类型：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/112311/33/26529/27101/625f4dcdEad2fa1b1/dedb40d9e7f1c700.jpg.avif",
   },
   {
@@ -177,7 +177,7 @@ const list = [
     model: "6ES75111AK020AB0",
     price: "9866.17",
     showPrice: "9866.17",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/237551/24/6938/22177/65786101F194a8f56/ae2428335c242c34.jpg.avif",
   },
   {
@@ -186,7 +186,7 @@ const list = [
     price: "2546.61",
     showPrice: "2546.61",
     remark:
-      "系列：S7-1500 | 产品类型：输入模块 | 数字量输入点数：16 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：-",
+      "Series: S7-1500 | 产品类型：输入模块 | 数字量输入点数：16 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/119064/29/25471/29907/625f4dc6Eaa25636d/c640d55a68463558.jpg.avif",
   },
   {
@@ -194,7 +194,7 @@ const list = [
     model: "6ES71555AA010AB0",
     price: "5716.39",
     showPrice: "5716.39",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/132326/22/32867/12236/6458a9adF06d14ec0/85a5f7d5a7b3828a.jpg.avif",
   },
   {
@@ -202,7 +202,7 @@ const list = [
     model: "6ES75901AF300AA0",
     price: "509.84",
     showPrice: "509.84",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/84942/36/28325/29232/625f4dd3E999f7c82/c4f66abcb0369e2a.jpg.avif",
   },
   {
@@ -211,7 +211,7 @@ const list = [
     price: "5195.03",
     showPrice: "5195.03",
     remark:
-      "系列：S7-1500 | 产品类型：模拟量输入模块 | 模拟量输入通道数：16 | 模拟量输出通道数：- | 模拟量输入类型：电流 | 模拟量输出类型：-",
+      "Series: S7-1500 | 产品类型：模拟量输入模块 | 模拟量输入通道数：16 | 模拟量输出通道数：- | 模拟量输入类型：电流 | 模拟量输出类型：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/224723/6/28291/17033/6732b1f1F9ee604ad/d1f60629574a2d5f.jpg.avif",
   },
   {
@@ -220,7 +220,7 @@ const list = [
     price: "9342.67",
     showPrice: "9342.67",
     remark:
-      "系列：S7-1500 | 电源电压：DC24V | 通讯接口：以太网,RS485 | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：100KB | 数据容量：750KB",
+      "Series: S7-1500 | Power supply voltage: DC24V | 通讯接口：以太网,RS485 | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：100KB | 数据容量：750KB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/120416/12/41617/30432/65a0f7d8Fd58df691/440abbba8ac1d1f8.jpg.avif",
   },
   {
@@ -229,7 +229,7 @@ const list = [
     price: "2209.32",
     showPrice: "2209.32",
     remark:
-      "系列：S7-1500 | 产品类型：输入模块 | 数字量输入点数：16 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：-",
+      "Series: S7-1500 | 产品类型：输入模块 | 数字量输入点数：16 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/254596/24/706/33964/67624b1bF12a39ccc/ce7583cf09b7cf8c.jpg.avif",
   },
   {
@@ -238,7 +238,7 @@ const list = [
     price: "8234.7",
     showPrice: "8234.7",
     remark:
-      "系列：S7-1500 | 产品类型：模拟量输入/输出模块 | 模拟量输入通道数：4 | 模拟量输出通道数：2 | 模拟量输入类型：电压,电流,电阻,热电阻,热电偶 | 模拟量输出类型：电压,电流",
+      "Series: S7-1500 | 产品类型：模拟量输入/输出模块 | 模拟量输入通道数：4 | 模拟量输出通道数：2 | 模拟量输入类型：电压,电流,电阻,热电阻,热电偶 | 模拟量输出类型：电压,电流",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108951/9/26578/27263/625f4dcfE9ea91079/304eb2ed539962c2.jpg.avif",
   },
   {
@@ -247,7 +247,7 @@ const list = [
     price: "3089.94",
     showPrice: "3089.94",
     remark:
-      "系列：S7-1500 | 产品类型：输入模块 | 数字量输入点数：16 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：-",
+      "Series: S7-1500 | 产品类型：输入模块 | 数字量输入点数：16 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/107266/30/29316/31334/625f4dc7Eaa4b3077/37748129de83177e.jpg.avif",
   },
   {
@@ -256,7 +256,7 @@ const list = [
     price: "124139.38",
     showPrice: "124139.38",
     remark:
-      "系列：S7-1500 | 电源电压：DC24V | 通讯接口：ProfiBUS DP/ProfiNET | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：4MB | 数据容量：20MB",
+      "Series: S7-1500 | Power supply voltage: DC24V | 通讯接口：ProfiBUS DP/ProfiNET | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：4MB | 数据容量：20MB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/180380/28/23844/47187/625f4dc5E49574163/95b70f70109f4895.jpg.avif",
   },
   {
@@ -265,7 +265,7 @@ const list = [
     price: "53579.51",
     showPrice: "53579.51",
     remark:
-      "系列：S7-1500 | 产品类型：CPU 1516-3 PN/DP (标准型) | I/O总点数：无集成I/O | 电源电压：DC24V | 通讯接口：PROFINET IRT (2端口)、 PROFINET RT、PROFIBUS DP",
+      "Series: S7-1500 | 产品类型：CPU 1516-3 PN/DP (标准型) | I/O总点数：无集成I/O | Power supply voltage: DC24V | 通讯接口：PROFINET IRT (2端口)、 PROFINET RT、PROFIBUS DP",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/255481/34/12373/45922/6784f6ecF0304f9a2/767221bf57edbda9.jpg.avif",
   },
   {
@@ -273,7 +273,7 @@ const list = [
     model: "6ES75152RN030AB0",
     price: "41245.51",
     showPrice: "41245.51",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/395867/32/17022/29518/69a6950dF88105d8d/0711320320fc5bb0.jpg.avif",
   },
   {
@@ -281,7 +281,7 @@ const list = [
     model: "6ES75111TL030AB0",
     price: "10355",
     showPrice: "10355",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/484563/13/14300/26033/6a74091fFb28c01de/071132032062e6e0.jpg.avif",
   },
   {
@@ -289,7 +289,7 @@ const list = [
     model: "6ES75050RA000AB0",
     price: "7248.99",
     showPrice: "7248.99",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223731/10/10092/25322/625f4dc3Ef1d61551/29c4bf23af66363b.jpg.avif",
   },
   {
@@ -298,7 +298,7 @@ const list = [
     price: "9369.24",
     showPrice: "9369.24",
     remark:
-      "系列：S7-1500 | 产品类型：输入模块 | 数字量输入点数：16 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：DC24V",
+      "Series: S7-1500 | 产品类型：输入模块 | 数字量输入点数：16 | 数字量输出点数：- | 数字量输出类型：- | 数字量输入电压：DC24V",
     url: "",
   },
   {
@@ -306,7 +306,7 @@ const list = [
     model: "6ES75152FN030AB0",
     price: "39132.8",
     showPrice: "39132.8",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/401257/33/1678/27552/69a69510Fd0555d6f/071132032034d615.jpg.avif",
   },
   {
@@ -314,7 +314,7 @@ const list = [
     model: "6ES75901AJ300AA0",
     price: "664.33",
     showPrice: "664.33",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202435/25/20746/28567/625f4dd3E327f0dd3/a140fabf0471bc9d.jpg.avif",
   },
   {
@@ -323,7 +323,7 @@ const list = [
     price: "40204.92",
     showPrice: "40204.92",
     remark:
-      "系列：S7-1500 | 产品类型：CPU 1515T-2 PN (运动控制型) | I/O总点数：无集成I/O | 电源电压：DC24V | 通讯接口：PROFINET IRT , PROFINET RT",
+      "Series: S7-1500 | 产品类型：CPU 1515T-2 PN (运动控制型) | I/O总点数：无集成I/O | Power supply voltage: DC24V | 通讯接口：PROFINET IRT , PROFINET RT",
     url: "",
   },
   {
@@ -331,7 +331,7 @@ const list = [
     model: "6ES75511AB010AB0",
     price: "6952.37",
     showPrice: "6952.37",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/399798/23/8650/19721/69a6950bF7075b68f/0711320320f8aaf3.jpg.avif",
   },
   {
@@ -340,7 +340,7 @@ const list = [
     price: "21746.98",
     showPrice: "21746.98",
     remark:
-      "系列：S7-1500 | 电源电压：DC24V | 通讯接口：ProfiNet,ProfiBUS | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：300KB | 数据容量：1.5MB",
+      "Series: S7-1500 | Power supply voltage: DC24V | 通讯接口：ProfiNet,ProfiBUS | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：300KB | 数据容量：1.5MB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/413337/28/6194/11029/69ce1af8F7acf467e/071132032092d6a2.jpg.avif",
   },
   {
@@ -349,7 +349,7 @@ const list = [
     price: "10165.89",
     showPrice: "10165.89",
     remark:
-      "系列：S7-1500 | 产品类型：模拟量输入模块 | 模拟量输入通道数：8 | 模拟量输出通道数：- | 模拟量输入类型：电压,电流,电阻,热电阻,热电偶 | 模拟量输出类型：-",
+      "Series: S7-1500 | 产品类型：模拟量输入模块 | 模拟量输入通道数：8 | 模拟量输出通道数：- | 模拟量输入类型：电压,电流,电阻,热电阻,热电偶 | 模拟量输出类型：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/121320/8/25114/35683/625f4dccEbbd9985e/d2d142356fc16498.jpg.avif",
   },
   {
@@ -358,7 +358,7 @@ const list = [
     price: "11278.28",
     showPrice: "11278.28",
     remark:
-      "系列：S7-1500 | 产品类型：模拟量输入模块 | 模拟量输入通道数：8 | 模拟量输出通道数：- | 模拟量输入类型：电压,电流 | 模拟量输出类型：-",
+      "Series: S7-1500 | 产品类型：模拟量输入模块 | 模拟量输入通道数：8 | 模拟量输出通道数：- | 模拟量输入类型：电压,电流 | 模拟量输出类型：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/111381/25/21047/35683/62061a9aE1d9db646/153bd9452cc6c463.jpg.avif",
   },
   {
@@ -367,7 +367,7 @@ const list = [
     price: "3800.61",
     showPrice: "3800.61",
     remark:
-      "系列：S7-1500 | 产品类型：模拟量输出模块 | 模拟量输入通道数：- | 模拟量输出通道数：2 | 模拟量输入类型：- | 模拟量输出类型：电压,电流",
+      "Series: S7-1500 | 产品类型：模拟量输出模块 | 模拟量输入通道数：- | 模拟量输出通道数：2 | 模拟量输入类型：- | 模拟量输出类型：电压,电流",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/184924/36/23780/27263/625f4dceE2ef4c5b4/972973480a354ad8.jpg.avif",
   },
   {
@@ -376,7 +376,7 @@ const list = [
     price: "26001.81",
     showPrice: "26001.81",
     remark:
-      "系列：S7-1500 | 模拟量输入通道数：5 | 模拟量输出通道数：3 | 电源电压：DC24V | 通讯接口：ProfiNet | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：250KB | 数据容量：1MB",
+      "Series: S7-1500 | 模拟量输入通道数：5 | 模拟量输出通道数：3 | Power supply voltage: DC24V | 通讯接口：ProfiNet | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：250KB | 数据容量：1MB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/270591/33/926/57480/67ce9753F14961fcd/06688edaf58d7786.jpg.avif",
   },
   {
@@ -384,7 +384,7 @@ const list = [
     model: "6ES75131RM030AB0",
     price: "27237.62",
     showPrice: "27237.62",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/399555/30/9107/14431/69a655bdFb678d91c/0711320320afbd94.jpg.avif",
   },
   {
@@ -393,7 +393,7 @@ const list = [
     price: "2935.43",
     showPrice: "2935.43",
     remark:
-      "系列：S7-1500 | 产品类型：输出模块 | 数字量输入点数：- | 数字量输出点数：16 | 数字量输出类型：晶体管 | 数字量输入电压：-",
+      "Series: S7-1500 | 产品类型：输出模块 | 数字量输入点数：- | 数字量输出点数：16 | 数字量输出类型：晶体管 | 数字量输入电压：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/227148/3/37477/31877/67624b1cF508dee7d/f5b26477fba2395a.jpg.avif",
   },
   {
@@ -401,7 +401,7 @@ const list = [
     model: "6ES75262BF000AB0",
     price: "10774.63",
     showPrice: "10774.63",
-    remark: "系列：S7-1500",
+    remark: "Series: S7-1500",
     url: "",
   },
   {
@@ -410,7 +410,7 @@ const list = [
     price: "11394.73",
     showPrice: "11394.73",
     remark:
-      "系列：S7-1500 | 电源电压：DC24V | 通讯接口：ProfiNet | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：150KB | 数据容量：750KB",
+      "Series: S7-1500 | Power supply voltage: DC24V | 通讯接口：ProfiNet | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：150KB | 数据容量：750KB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/492472/29/7766/92475/6a740919F78d27723/07113203208e939f.jpg.avif",
   },
   {
@@ -419,7 +419,7 @@ const list = [
     price: "152751.74",
     showPrice: "152751.74",
     remark:
-      "系列：S7-1500 | 电源电压：DC24V | 通讯接口：PROFINET,PROFIBUS,以太网,RS485 | 最大扩展模块数量：32 | 最大扩展机架数：- | 程序容量：6MB | 数据容量：20MB",
+      "Series: S7-1500 | Power supply voltage: DC24V | 通讯接口：PROFINET,PROFIBUS,以太网,RS485 | 最大扩展模块数量：32 | 最大扩展机架数：- | 程序容量：6MB | 数据容量：20MB",
     url: "",
   },
   {
@@ -428,7 +428,7 @@ const list = [
     price: "12745.99",
     showPrice: "12745.99",
     remark:
-      "系列：S7-1500 | 产品类型：模拟量输入模块 | 模拟量输入通道数：8 | 模拟量输出通道数：- | 模拟量输入类型：RTD,TC | 模拟量输出类型：-",
+      "Series: S7-1500 | 产品类型：模拟量输入模块 | 模拟量输入通道数：8 | 模拟量输出通道数：- | 模拟量输入类型：RTD,TC | 模拟量输出类型：-",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/129278/18/22096/35683/62061a99Ecd82ac0b/872c99d1faf3ce91.jpg.avif",
   },
   {
@@ -437,7 +437,7 @@ const list = [
     price: "88476.33",
     showPrice: "88476.33",
     remark:
-      "系列：S7-1500 | 电源电压：DC24V | 通讯接口：ProfiBUS DP/ProfiNET | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：2MB | 数据容量：8MB",
+      "Series: S7-1500 | Power supply voltage: DC24V | 通讯接口：ProfiBUS DP/ProfiNET | 最大扩展模块数量：- | 最大扩展机架数：- | 程序容量：2MB | 数据容量：8MB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/88646/26/26960/46448/625f4dc4E84a9de8a/43fe214ed3f97bcc.jpg.avif",
   },
 ];

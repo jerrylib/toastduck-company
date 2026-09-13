@@ -5,7 +5,7 @@ const list = [
     price: "4690",
     showPrice: "4690",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载7.5kW/重载5.5kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载7.5kW/重载5.5kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267767/24/21172/11326/67b47b92Fc3ecaed1/8d9d42c1545d7555.jpg.avif",
   },
   {
@@ -14,7 +14,7 @@ const list = [
     price: "13230",
     showPrice: "13230",
     remark:
-      "系列：ACS580 | 额定电机功率：30kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 30kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -23,7 +23,7 @@ const list = [
     price: "4200",
     showPrice: "4200",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载5.5kW/重载4kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载5.5kW/重载4kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267494/28/21548/11326/67b47b90Fe0887335/e19cc1979fe62ae3.jpg.avif",
   },
   {
@@ -32,7 +32,7 @@ const list = [
     price: "11080",
     showPrice: "11080",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载22kW/重载18.5kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载22kW/重载18.5kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/263364/15/21326/11326/67b47b99Fa7565f92/d1ab69b7db24ff87.jpg.avif",
   },
   {
@@ -41,7 +41,7 @@ const list = [
     price: "45700",
     showPrice: "45700",
     remark:
-      "系列：ACS580 | 额定电机功率：132kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 132kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -50,7 +50,7 @@ const list = [
     price: "2710",
     showPrice: "2710",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载0.75kW/重载0.55kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载0.75kW/重载0.55kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -59,7 +59,7 @@ const list = [
     price: "3060",
     showPrice: "3060",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载2.2kW/重载1.5kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载2.2kW/重载1.5kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/254582/2/22205/11326/67b47b8aF9571ecc2/a8e6cfbf9fd92298.jpg.avif",
   },
   {
@@ -68,7 +68,7 @@ const list = [
     price: "6340",
     showPrice: "6340",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载11kW/重载7.5kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载11kW/重载7.5kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/260639/6/21506/13473/67b47b88Fcabff490/c675ad47646bb08e.jpg.avif",
   },
   {
@@ -77,7 +77,7 @@ const list = [
     price: "7930",
     showPrice: "7930",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载15kW/重载11kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载15kW/重载11kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/265225/8/21464/11326/67b47b95F9e6adf7a/4739c0ae99b1e622.jpg.avif",
   },
   {
@@ -86,7 +86,7 @@ const list = [
     price: "3750",
     showPrice: "3750",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载4kW/重载3kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载4kW/重载3kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -95,7 +95,7 @@ const list = [
     price: "68400",
     showPrice: "68400",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载200kW/重载160kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载200kW/重载160kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -104,7 +104,7 @@ const list = [
     price: "3430",
     showPrice: "3430",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载3kW/重载2.2kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载3kW/重载2.2kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -113,7 +113,7 @@ const list = [
     price: "9670",
     showPrice: "9670",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载18.5kW/重载15kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载18.5kW/重载15kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -122,7 +122,7 @@ const list = [
     price: "2910",
     showPrice: "2910",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载1.5kW/重载1.1kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载1.5kW/重载1.1kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/260639/6/21506/13473/67b47b88Fcabff490/c675ad47646bb08e.jpg.avif",
   },
   {
@@ -131,7 +131,7 @@ const list = [
     price: "33680",
     showPrice: "33680",
     remark:
-      "系列：ACS580 | 额定电机功率：90kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 90kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -140,7 +140,7 @@ const list = [
     price: "40090",
     showPrice: "40090",
     remark:
-      "系列：ACS580 | 额定电机功率：110kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 110kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/263521/32/21481/11326/67b47b7aF3ea8e0fa/02485d400c218a63.jpg.avif",
   },
   {
@@ -149,7 +149,7 @@ const list = [
     price: "55420",
     showPrice: "55420",
     remark:
-      "系列：ACS580 | 额定电机功率：160kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 160kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/266956/32/21638/11326/67b47b80F65a3e2ae/19a4a0d51b26e0b5.jpg.avif",
   },
   {
@@ -158,7 +158,7 @@ const list = [
     price: "3750",
     showPrice: "3750",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载3kW/重载2.2kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载3kW/重载2.2kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -167,7 +167,7 @@ const list = [
     price: "4530",
     showPrice: "4530",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载5.5kW/重载4kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载5.5kW/重载4kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -176,7 +176,7 @@ const list = [
     price: "26030",
     showPrice: "26030",
     remark:
-      "系列：ACS580 | 额定电机功率：75kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 75kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/261359/4/21424/11326/67b47b83F8ea1cb27/6b7a338c89eb3101.jpg.avif",
   },
   {
@@ -185,7 +185,7 @@ const list = [
     price: "21020",
     showPrice: "21020",
     remark:
-      "系列：ACS580 | 额定电机功率：55kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 55kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -194,7 +194,7 @@ const list = [
     price: "7090",
     showPrice: "7090",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载11kW/重载7.5kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载11kW/重载7.5kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -203,7 +203,7 @@ const list = [
     price: "12420",
     showPrice: "12420",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载22kW/重载18.5kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载22kW/重载18.5kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -212,7 +212,7 @@ const list = [
     price: "15180",
     showPrice: "15180",
     remark:
-      "系列：ACS580 | 额定电机功率：37kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 37kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/258675/29/21415/11326/67b47b7eF59416253/0dad154d48d84f7b.jpg.avif",
   },
   {
@@ -221,7 +221,7 @@ const list = [
     price: "14840",
     showPrice: "14840",
     remark:
-      "系列：ACS580 | 额定电机功率：30kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 30kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -230,7 +230,7 @@ const list = [
     price: "4070",
     showPrice: "4070",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载4kW/重载3kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载4kW/重载3kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -239,7 +239,7 @@ const list = [
     price: "24920",
     showPrice: "24920",
     remark:
-      "系列：ACS580 | 额定电机功率：55kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 55kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -248,7 +248,7 @@ const list = [
     price: "3270",
     showPrice: "3270",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载1.5kW/重载1.1kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载1.5kW/重载1.1kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -257,7 +257,7 @@ const list = [
     price: "3390",
     showPrice: "3390",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载2.2kW/重载1.5kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载2.2kW/重载1.5kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -266,7 +266,7 @@ const list = [
     price: "2800",
     showPrice: "2800",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载1.1kW/重载0.75kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载1.1kW/重载0.75kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/260639/6/21506/13473/67b47b88Fcabff490/c675ad47646bb08e.jpg.avif",
   },
   {
@@ -275,7 +275,7 @@ const list = [
     price: "52740",
     showPrice: "52740",
     remark:
-      "系列：ACS580 | 额定电机功率：132kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 132kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -284,7 +284,7 @@ const list = [
     price: "2970",
     showPrice: "2970",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载0.75kW/重载0.55kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载0.75kW/重载0.55kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -293,7 +293,7 @@ const list = [
     price: "3110",
     showPrice: "3110",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载1.1kW/重载0.75kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载1.1kW/重载0.75kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -302,7 +302,7 @@ const list = [
     price: "8890",
     showPrice: "8890",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载15kW/重载11kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载15kW/重载11kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -311,7 +311,7 @@ const list = [
     price: "62410",
     showPrice: "62410",
     remark:
-      "系列：ACS580 | 额定电机功率：160kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 160kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -320,7 +320,7 @@ const list = [
     price: "17010",
     showPrice: "17010",
     remark:
-      "系列：ACS580 | 额定电机功率：37kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 37kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -329,7 +329,7 @@ const list = [
     price: "5240",
     showPrice: "5240",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载7.5kW/重载5.5kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载7.5kW/重载5.5kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -338,7 +338,7 @@ const list = [
     price: "38810",
     showPrice: "38810",
     remark:
-      "系列：ACS580 | 额定电机功率：90kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 90kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -347,7 +347,7 @@ const list = [
     price: "10830",
     showPrice: "10830",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载18.5kW/重载15kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载18.5kW/重载15kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -356,7 +356,7 @@ const list = [
     price: "30400",
     showPrice: "30400",
     remark:
-      "系列：ACS580 | 额定电机功率：75kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 75kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -365,7 +365,7 @@ const list = [
     price: "46270",
     showPrice: "46270",
     remark:
-      "系列：ACS580 | 额定电机功率：110kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 110kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -374,7 +374,7 @@ const list = [
     price: "75120",
     showPrice: "75120",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载250kW/重载200kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载250kW/重载200kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/259796/18/21410/11326/67b47b6cF27654ae9/f2b9af7b6202b94c.jpg.avif",
   },
   {
@@ -383,7 +383,7 @@ const list = [
     price: "87450",
     showPrice: "87450",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载250kW/重载200kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载250kW/重载200kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/252733/33/22463/11372/67b47b6fF530df390/1a0be22154bc9365.jpg.avif",
   },
   {
@@ -392,7 +392,7 @@ const list = [
     price: "252310",
     showPrice: "252310",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载500kW/重载400kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载500kW/重载400kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -401,7 +401,7 @@ const list = [
     price: "192610",
     showPrice: "192610",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载400kW/重载315kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载400kW/重载315kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/255269/20/22172/11372/67b47b76Fc1c303a3/f3da775a9193ae87.jpg.avif",
   },
   {
@@ -410,7 +410,7 @@ const list = [
     price: "157000",
     showPrice: "157000",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载355kW/重载250kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载355kW/重载250kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -419,7 +419,7 @@ const list = [
     price: "122790",
     showPrice: "122790",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载315kW/重载250kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载315kW/重载250kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/261875/33/21252/11372/67b47b71F41d539c5/2fdc37b3d0019ed5.jpg.avif",
   },
   {
@@ -428,7 +428,7 @@ const list = [
     price: "223420",
     showPrice: "223420",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载450kW/重载355kW | 相数：三相 | 电源电压：AC380-480V | 应用类型：通用型",
+      "Series: ACS580 | Rated motor power: 轻载450kW/重载355kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/253574/16/22415/11326/67b47b0dF286faada/790db772d8fbad4e.jpg.avif",
   },
   {
@@ -437,7 +437,7 @@ const list = [
     price: "82830",
     showPrice: "82830",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载200kW/重载200kW | 相数：三相 | 电源电压：AC380-480V",
+      "Series: ACS580 | Rated motor power: 轻载200kW/重载200kW | Number of phases: 三相 | Power supply voltage: AC380-480V",
     url: "",
   },
   {
@@ -446,7 +446,7 @@ const list = [
     price: "20800",
     showPrice: "20800",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载45kW/重载37kW | 相数：三相 | 电源电压：AC380-480V",
+      "Series: ACS580 | Rated motor power: 轻载45kW/重载37kW | Number of phases: 三相 | Power supply voltage: AC380-480V",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/460590/30/20459/26139/6a431c23Ff2d9c8bc/0711320320b4df12.jpg.avif",
   },
   {
@@ -455,7 +455,7 @@ const list = [
     price: "75390",
     showPrice: "75390",
     remark:
-      "系列：ACS580 | 额定电机功率：轻载200kW/重载160kW | 相数：三相 | 电源电压：AC380-480V",
+      "Series: ACS580 | Rated motor power: 轻载200kW/重载160kW | Number of phases: 三相 | Power supply voltage: AC380-480V",
     url: "",
   },
 ];

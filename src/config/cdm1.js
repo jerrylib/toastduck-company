@@ -5,7 +5,7 @@ const list = [
     price: "471",
     showPrice: "152.25",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225L1603",
@@ -13,7 +13,7 @@ const list = [
     price: "761",
     showPrice: "256.9",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1125L1254300",
@@ -21,7 +21,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L2253",
@@ -29,7 +29,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM163L403",
@@ -37,7 +37,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM1250L2503300",
@@ -45,7 +45,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1400L4003",
@@ -53,7 +53,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1125L1253300",
@@ -61,7 +61,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1630L6303",
@@ -69,7 +69,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM163L633",
@@ -77,7 +77,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM1250L2504300",
@@ -85,7 +85,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1100M1003",
@@ -93,7 +93,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225L2003",
@@ -101,7 +101,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1225M1003E",
@@ -109,7 +109,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：225A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 225A | Rated current: 100A",
   },
   {
     orderId: "CDM1225L2003M",
@@ -117,7 +117,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1400L3153",
@@ -125,7 +125,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1225L2003E",
@@ -133,7 +133,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：225A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 225A | Rated current: 200A",
   },
   {
     orderId: "CDM1225L1253320",
@@ -141,7 +141,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L1003",
@@ -149,7 +149,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "CDM163L503",
@@ -157,7 +157,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM1100M1003E",
@@ -165,7 +165,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "CDM1630L6303340",
@@ -173,7 +173,7 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1100L1004300",
@@ -181,7 +181,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1100L1003E",
@@ -189,7 +189,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "CDM163M403M",
@@ -197,7 +197,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM1100L3320100",
@@ -205,7 +205,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1400L3503",
@@ -213,7 +213,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM1800L8003",
@@ -221,7 +221,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1100M102",
@@ -229,7 +229,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：10A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 10A",
   },
   {
     orderId: "CDM1400H4003340AD",
@@ -237,7 +237,7 @@ const list = [
     price: "3350",
     showPrice: "3350",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：100kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM163L163",
@@ -245,7 +245,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "CDM1100L633",
@@ -253,7 +253,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM163M633",
@@ -261,7 +261,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM1630L5003",
@@ -269,7 +269,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1100L203200M",
@@ -277,7 +277,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "CDM163L163340DC",
@@ -285,7 +285,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "CDM1100L503320",
@@ -293,7 +293,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM1100L803330AC",
@@ -301,7 +301,7 @@ const list = [
     price: "717",
     showPrice: "717",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100L403PF",
@@ -309,7 +309,7 @@ const list = [
     price: "970",
     showPrice: "970",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "CDM1100M803PR",
@@ -317,7 +317,7 @@ const list = [
     price: "1027.99",
     showPrice: "1027.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1225L2003370",
@@ -325,7 +325,7 @@ const list = [
     price: "1078",
     showPrice: "1078",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1400H4003200M",
@@ -333,7 +333,7 @@ const list = [
     price: "3066",
     showPrice: "3066",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：100kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1630L6303340DC",
@@ -341,7 +341,7 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM163M503200M",
@@ -349,7 +349,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM163M323200M",
@@ -357,7 +357,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM163L253320",
@@ -365,7 +365,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM1100M202",
@@ -373,7 +373,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "CDM1100M803200M",
@@ -381,7 +381,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100M503310AC",
@@ -389,7 +389,7 @@ const list = [
     price: "624",
     showPrice: "624",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM1225L1003320",
@@ -397,7 +397,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "CDM1225M2003200",
@@ -405,7 +405,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1225L1253370",
@@ -413,7 +413,7 @@ const list = [
     price: "1078",
     showPrice: "1078",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L1253FR",
@@ -421,7 +421,7 @@ const list = [
     price: "1014.01",
     showPrice: "1014.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1400L31533202",
@@ -429,7 +429,7 @@ const list = [
     price: "1895",
     showPrice: "1895",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM163L503320",
@@ -437,7 +437,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM1100L633320",
@@ -445,7 +445,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1100L1003330AC",
@@ -453,7 +453,7 @@ const list = [
     price: "717",
     showPrice: "717",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225M2003340DC",
@@ -461,7 +461,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1400L2503310DC",
@@ -469,7 +469,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM163M203200M",
@@ -477,7 +477,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "CDM163L503310",
@@ -485,7 +485,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM1100M803310AC",
@@ -493,7 +493,7 @@ const list = [
     price: "624",
     showPrice: "624",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100M1003340DC",
@@ -501,7 +501,7 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1100M1003340",
@@ -509,7 +509,7 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1100L633330",
@@ -517,7 +517,7 @@ const list = [
     price: "717",
     showPrice: "717",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1225M1603PR",
@@ -525,7 +525,7 @@ const list = [
     price: "1882",
     showPrice: "1882",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1400M4003320",
@@ -533,7 +533,7 @@ const list = [
     price: "2219",
     showPrice: "2219",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400M3153320",
@@ -541,7 +541,7 @@ const list = [
     price: "2219",
     showPrice: "2219",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1630M4003200",
@@ -549,7 +549,7 @@ const list = [
     price: "2929.01",
     showPrice: "2929.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "CDM1800L3310800",
@@ -557,7 +557,7 @@ const list = [
     price: "3874",
     showPrice: "3874",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM163M633200",
@@ -565,7 +565,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM163L633320",
@@ -573,7 +573,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM163M633320",
@@ -581,7 +581,7 @@ const list = [
     price: "458.99",
     showPrice: "458.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM1100M633200M",
@@ -589,7 +589,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1100M10032202",
@@ -597,7 +597,7 @@ const list = [
     price: "569.99",
     showPrice: "569.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225M2002200",
@@ -605,7 +605,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM163L633PF",
@@ -613,7 +613,7 @@ const list = [
     price: "859",
     showPrice: "859",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM1225L3340160",
@@ -621,7 +621,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225L2253P2",
@@ -629,7 +629,7 @@ const list = [
     price: "2355",
     showPrice: "2355",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1400L4003330",
@@ -637,7 +637,7 @@ const list = [
     price: "2341",
     showPrice: "2341",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1630M6303M",
@@ -645,7 +645,7 @@ const list = [
     price: "2929.01",
     showPrice: "2929.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1800M5003",
@@ -653,7 +653,7 @@ const list = [
     price: "3888",
     showPrice: "3888",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 500A",
   },
   {
     orderId: "CDM163L2033202",
@@ -661,7 +661,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "CDM1100M102200",
@@ -669,7 +669,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：10A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 10A",
   },
   {
     orderId: "CDM163M323320",
@@ -677,7 +677,7 @@ const list = [
     price: "458.99",
     showPrice: "458.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM1100L163M",
@@ -685,7 +685,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "CDM1100L803220M",
@@ -693,7 +693,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100L10033202",
@@ -701,7 +701,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM163M323340AC",
@@ -709,7 +709,7 @@ const list = [
     price: "554.01",
     showPrice: "554.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM163L633330",
@@ -717,7 +717,7 @@ const list = [
     price: "606",
     showPrice: "606",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM1100L1003PPC",
@@ -725,7 +725,7 @@ const list = [
     price: "669.01",
     showPrice: "669.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225L2003200M",
@@ -733,7 +733,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1225M1253200",
@@ -741,7 +741,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L1803310AC",
@@ -749,7 +749,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "CDM1225L1253310",
@@ -757,7 +757,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L2253310ACD",
@@ -765,7 +765,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225L1253370AC",
@@ -773,7 +773,7 @@ const list = [
     price: "1078",
     showPrice: "1078",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L2004APPC",
@@ -781,7 +781,7 @@ const list = [
     price: "1243",
     showPrice: "1243",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1400L3153340",
@@ -789,7 +789,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1630L6303320",
@@ -797,7 +797,7 @@ const list = [
     price: "2766",
     showPrice: "2766",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1100M323M",
@@ -805,7 +805,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "CDM1100M1003320",
@@ -813,7 +813,7 @@ const list = [
     price: "569.99",
     showPrice: "569.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1100L503310AC",
@@ -821,7 +821,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM1225L20033202",
@@ -829,7 +829,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1225M2003200M",
@@ -837,7 +837,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1225L1603310AD",
@@ -845,7 +845,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225L3340125",
@@ -853,7 +853,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM163M503200",
@@ -861,7 +861,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM163L323320",
@@ -869,7 +869,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM1100M163200",
@@ -877,7 +877,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "CDM1225L2253E",
@@ -885,7 +885,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225L2253320",
@@ -893,7 +893,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225L1603328",
@@ -901,7 +901,7 @@ const list = [
     price: "817",
     showPrice: "817",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1400L2503200M",
@@ -909,7 +909,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1225L2003PF",
@@ -917,7 +917,7 @@ const list = [
     price: "1775",
     showPrice: "1775",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1630L6303310DC",
@@ -925,7 +925,7 @@ const list = [
     price: "2886",
     showPrice: "2886",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1630L6303310",
@@ -933,7 +933,7 @@ const list = [
     price: "2886",
     showPrice: "2886",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1400L2503PF",
@@ -941,7 +941,7 @@ const list = [
     price: "3305",
     showPrice: "3305",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1100L403320",
@@ -949,7 +949,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "CDM1100L1003308",
@@ -957,7 +957,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1100L633310DC",
@@ -965,7 +965,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1225L3320160",
@@ -973,7 +973,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225M1003M",
@@ -981,7 +981,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "CDM1225M1603340DC",
@@ -989,7 +989,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1400M3503M",
@@ -997,7 +997,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM1630L50033202",
@@ -1005,7 +1005,7 @@ const list = [
     price: "2766",
     showPrice: "2766",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1630M5003320",
@@ -1013,7 +1013,7 @@ const list = [
     price: "3011",
     showPrice: "3011",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM163L3233202",
@@ -1021,7 +1021,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM1100M402",
@@ -1029,7 +1029,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "CDM163L323310",
@@ -1037,7 +1037,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM163254M",
@@ -1045,7 +1045,7 @@ const list = [
     price: "551",
     showPrice: "551",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM1100L633340",
@@ -1053,7 +1053,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1100L1003370",
@@ -1061,7 +1061,7 @@ const list = [
     price: "758",
     showPrice: "758",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225L2253FR",
@@ -1069,7 +1069,7 @@ const list = [
     price: "1014.01",
     showPrice: "1014.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1400L2253M",
@@ -1077,7 +1077,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 225A",
   },
   {
     orderId: "CDM1400L3503310DC",
@@ -1085,7 +1085,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM1400M2503340DC",
@@ -1093,7 +1093,7 @@ const list = [
     price: "2421",
     showPrice: "2421",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1800L8003340AC",
@@ -1101,7 +1101,7 @@ const list = [
     price: "4011",
     showPrice: "4011",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1100M162",
@@ -1109,7 +1109,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "CDM1100L803340",
@@ -1117,7 +1117,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM163M504340AC",
@@ -1125,7 +1125,7 @@ const list = [
     price: "686.99",
     showPrice: "686.99",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM1225M2253340AC",
@@ -1133,7 +1133,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1400L3503310",
@@ -1141,7 +1141,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM1400L4003Z350",
@@ -1149,7 +1149,7 @@ const list = [
     price: "2095",
     showPrice: "2095",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L4003Z400",
@@ -1157,7 +1157,7 @@ const list = [
     price: "2095",
     showPrice: "2095",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1630M6303200",
@@ -1165,7 +1165,7 @@ const list = [
     price: "2929.01",
     showPrice: "2929.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM163M403200M",
@@ -1173,7 +1173,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM163M103200M",
@@ -1181,7 +1181,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "CDM163M6333202",
@@ -1189,7 +1189,7 @@ const list = [
     price: "458.99",
     showPrice: "458.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM1100L163200M",
@@ -1197,7 +1197,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "CDM163L633310",
@@ -1205,7 +1205,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM1100L253PF",
@@ -1213,7 +1213,7 @@ const list = [
     price: "970",
     showPrice: "970",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "CDM1100L1003PF",
@@ -1221,7 +1221,7 @@ const list = [
     price: "970",
     showPrice: "970",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1630L5003320",
@@ -1229,7 +1229,7 @@ const list = [
     price: "2766",
     showPrice: "2766",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1630L6303H300",
@@ -1237,7 +1237,7 @@ const list = [
     price: "2966",
     showPrice: "2966",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM163M103200",
@@ -1245,7 +1245,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "CDM1225M2253200",
@@ -1253,7 +1253,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225M16033202",
@@ -1261,7 +1261,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225M1603320",
@@ -1269,7 +1269,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1100L803PF",
@@ -1277,7 +1277,7 @@ const list = [
     price: "970",
     showPrice: "970",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1400L3503M",
@@ -1285,7 +1285,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM1225L1253PF",
@@ -1293,7 +1293,7 @@ const list = [
     price: "1775",
     showPrice: "1775",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1400H2503",
@@ -1301,7 +1301,7 @@ const list = [
     price: "3066",
     showPrice: "3066",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：100kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1800H6303",
@@ -1309,7 +1309,7 @@ const list = [
     price: "4058",
     showPrice: "4058",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：100kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
   },
   {
     orderId: "CDM163M253200",
@@ -1317,7 +1317,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM163L1633202",
@@ -1325,7 +1325,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "CDM1100M502",
@@ -1333,7 +1333,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM1100M252",
@@ -1341,7 +1341,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "CDM1100L332080",
@@ -1349,7 +1349,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100M204",
@@ -1357,7 +1357,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "CDM1225M2253E",
@@ -1365,7 +1365,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：225A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 225A | Rated current: 225A",
   },
   {
     orderId: "CDM1400L40033202",
@@ -1373,7 +1373,7 @@ const list = [
     price: "1895",
     showPrice: "1895",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400M4003M",
@@ -1381,7 +1381,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1100M202200",
@@ -1389,7 +1389,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "CDM163L403310",
@@ -1397,7 +1397,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM1225L1003200",
@@ -1405,7 +1405,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "CDM1225M1803200",
@@ -1413,7 +1413,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "CDM1225L1803340DC",
@@ -1421,7 +1421,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "CDM1100L1004APPC",
@@ -1429,7 +1429,7 @@ const list = [
     price: "844",
     showPrice: "844",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225M2254210M",
@@ -1437,7 +1437,7 @@ const list = [
     price: "1276",
     showPrice: "1276",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225L1603PF",
@@ -1445,7 +1445,7 @@ const list = [
     price: "1775",
     showPrice: "1775",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1400M3153M",
@@ -1453,7 +1453,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1400M3153200",
@@ -1461,7 +1461,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1630M5003340AC",
@@ -1469,7 +1469,7 @@ const list = [
     price: "3213",
     showPrice: "3213",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1100M1002200",
@@ -1477,7 +1477,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM163M2033202",
@@ -1485,7 +1485,7 @@ const list = [
     price: "458.99",
     showPrice: "458.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "CDM1100L163200",
@@ -1493,7 +1493,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "CDM1100L323320",
@@ -1501,7 +1501,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "CDM1225L2003320",
@@ -1509,7 +1509,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1225M2003320",
@@ -1517,7 +1517,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1400L2503320",
@@ -1525,7 +1525,7 @@ const list = [
     price: "1895",
     showPrice: "1895",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1100M252200",
@@ -1533,7 +1533,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "CDM163L253310AC",
@@ -1541,7 +1541,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM163L403340",
@@ -1549,7 +1549,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM1225L1003M",
@@ -1557,7 +1557,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "CDM1225L22533202",
@@ -1565,7 +1565,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225L1603360",
@@ -1573,7 +1573,7 @@ const list = [
     price: "843",
     showPrice: "843",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225M2003M",
@@ -1581,7 +1581,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1225M2253320",
@@ -1589,7 +1589,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225M1803310AC",
@@ -1597,7 +1597,7 @@ const list = [
     price: "963",
     showPrice: "963",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "CDM1225M1603310AC",
@@ -1605,7 +1605,7 @@ const list = [
     price: "963",
     showPrice: "963",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1100L503PR",
@@ -1613,7 +1613,7 @@ const list = [
     price: "970",
     showPrice: "970",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM1400L4003200",
@@ -1621,7 +1621,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L3153200M",
@@ -1629,7 +1629,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1400L3503310AC",
@@ -1637,7 +1637,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM1400L3310315",
@@ -1645,7 +1645,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1630L5003200",
@@ -1653,7 +1653,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1800M7003",
@@ -1661,7 +1661,7 @@ const list = [
     price: "3888",
     showPrice: "3888",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：700A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 700A",
   },
   {
     orderId: "CDM163L163310AC",
@@ -1669,7 +1669,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "CDM1100L803310",
@@ -1677,7 +1677,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100L403310AC",
@@ -1685,7 +1685,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "CDM1225L1803320",
@@ -1693,7 +1693,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "CDM1225M1603M",
@@ -1701,7 +1701,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225M1603200M",
@@ -1709,7 +1709,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1100L633PR",
@@ -1717,7 +1717,7 @@ const list = [
     price: "970",
     showPrice: "970",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1100L323PF",
@@ -1725,7 +1725,7 @@ const list = [
     price: "970",
     showPrice: "970",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "CDM1400L4003200M",
@@ -1733,7 +1733,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L3503200",
@@ -1741,7 +1741,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM1100L1003330",
@@ -1749,7 +1749,7 @@ const list = [
     price: "717",
     showPrice: "717",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225L1253E",
@@ -1757,7 +1757,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：225A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 225A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L2003310",
@@ -1765,7 +1765,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1400L4003320",
@@ -1773,7 +1773,7 @@ const list = [
     price: "1895",
     showPrice: "1895",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1630M6303320M",
@@ -1781,7 +1781,7 @@ const list = [
     price: "3011",
     showPrice: "3011",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM163L633E",
@@ -1789,7 +1789,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM163M633200M",
@@ -1797,7 +1797,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM163L403320",
@@ -1805,7 +1805,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM163M403320",
@@ -1813,7 +1813,7 @@ const list = [
     price: "458.99",
     showPrice: "458.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM1100M633320",
@@ -1821,7 +1821,7 @@ const list = [
     price: "569.99",
     showPrice: "569.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1100L633310",
@@ -1829,7 +1829,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1100L323310AC",
@@ -1837,7 +1837,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "CDM1225L1003310AC",
@@ -1845,7 +1845,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "CDM1225M1253320",
@@ -1853,7 +1853,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L2253330",
@@ -1861,7 +1861,7 @@ const list = [
     price: "1037",
     showPrice: "1037",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1100L633PF",
@@ -1869,7 +1869,7 @@ const list = [
     price: "970",
     showPrice: "970",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1630M6303320",
@@ -1877,7 +1877,7 @@ const list = [
     price: "3011",
     showPrice: "3011",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1800M8003340",
@@ -1885,7 +1885,7 @@ const list = [
     price: "4307",
     showPrice: "4307",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1800L8003340",
@@ -1893,7 +1893,7 @@ const list = [
     price: "4011",
     showPrice: "4011",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1630L630PAC",
@@ -1901,7 +1901,7 @@ const list = [
     price: "5580",
     showPrice: "5580",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1800L8003320",
@@ -1909,7 +1909,7 @@ const list = [
     price: "3729",
     showPrice: "3729",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1800H7003",
@@ -1917,7 +1917,7 @@ const list = [
     price: "4058",
     showPrice: "4058",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：100kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：700A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 700A",
   },
   {
     orderId: "CDM1630L6303PR",
@@ -1925,7 +1925,7 @@ const list = [
     price: "5509",
     showPrice: "5509",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1630L5003340DC",
@@ -1933,7 +1933,7 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1400L3153FR",
@@ -1941,7 +1941,7 @@ const list = [
     price: "2653",
     showPrice: "2653",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1800L8003320PAC",
@@ -1949,7 +1949,7 @@ const list = [
     price: "7204",
     showPrice: "7204",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1800L8003300P",
@@ -1957,7 +1957,7 @@ const list = [
     price: "7067",
     showPrice: "7067",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1630L4003340DC",
@@ -1965,7 +1965,7 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L4003PR",
@@ -1973,7 +1973,7 @@ const list = [
     price: "3305",
     showPrice: "3305",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L3503PF",
@@ -1981,7 +1981,7 @@ const list = [
     price: "3305",
     showPrice: "3305",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM112501250310",
@@ -1989,7 +1989,7 @@ const list = [
     price: "11986",
     showPrice: "11986",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "CDM1125012503ACP",
@@ -1997,7 +1997,7 @@ const list = [
     price: "15106",
     showPrice: "15106",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "CDM1630M4004",
@@ -2005,7 +2005,7 @@ const list = [
     price: "3994",
     showPrice: "3994",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "CDM1400M4004340AC",
@@ -2013,7 +2013,7 @@ const list = [
     price: "3166",
     showPrice: "3166",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1800L8003FR",
@@ -2021,7 +2021,7 @@ const list = [
     price: "5015",
     showPrice: "5015",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1125012503P",
@@ -2029,7 +2029,7 @@ const list = [
     price: "15106",
     showPrice: "15106",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "CDM1125010003P2",
@@ -2037,7 +2037,7 @@ const list = [
     price: "15106",
     showPrice: "15106",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "CDM1800L8003340DC",
@@ -2045,7 +2045,7 @@ const list = [
     price: "4011",
     showPrice: "4011",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1630L6303370",
@@ -2053,7 +2053,7 @@ const list = [
     price: "3294",
     showPrice: "3294",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM112508003",
@@ -2061,7 +2061,7 @@ const list = [
     price: "11487",
     showPrice: "11487",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 800A",
   },
   {
     orderId: "CDM11250100033102",
@@ -2069,7 +2069,7 @@ const list = [
     price: "11986",
     showPrice: "11986",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "CDM112501000310",
@@ -2077,7 +2077,7 @@ const list = [
     price: "11986",
     showPrice: "11986",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "CDM1630L5004",
@@ -2085,7 +2085,7 @@ const list = [
     price: "3667",
     showPrice: "3667",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1800M8003TP",
@@ -2093,7 +2093,7 @@ const list = [
     price: "5311.99",
     showPrice: "5311.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1800L8003P2",
@@ -2101,7 +2101,7 @@ const list = [
     price: "7067",
     showPrice: "7067",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1400H3503",
@@ -2109,7 +2109,7 @@ const list = [
     price: "3066",
     showPrice: "3066",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：100kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM1630M6303340AC",
@@ -2117,7 +2117,7 @@ const list = [
     price: "3213",
     showPrice: "3213",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1800L8003310AC",
@@ -2125,7 +2125,7 @@ const list = [
     price: "3874",
     showPrice: "3874",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1630L630P",
@@ -2133,7 +2133,7 @@ const list = [
     price: "5580",
     showPrice: "5580",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1800M6304",
@@ -2141,7 +2141,7 @@ const list = [
     price: "5698",
     showPrice: "5698",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
   },
   {
     orderId: "CDM1800H8003",
@@ -2149,7 +2149,7 @@ const list = [
     price: "4058",
     showPrice: "4058",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：100kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1400L400P",
@@ -2157,7 +2157,7 @@ const list = [
     price: "4709",
     showPrice: "4709",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L003",
@@ -2165,7 +2165,7 @@ const list = [
     price: "4791",
     showPrice: "4791",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400H3153",
@@ -2173,7 +2173,7 @@ const list = [
     price: "3066",
     showPrice: "3066",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：100kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1800L8003HL2",
@@ -2181,7 +2181,7 @@ const list = [
     price: "3955.99",
     showPrice: "3955.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1630L5003PAC",
@@ -2189,7 +2189,7 @@ const list = [
     price: "5580",
     showPrice: "5580",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1630L6303320PAC",
@@ -2197,7 +2197,7 @@ const list = [
     price: "5662",
     showPrice: "5662",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1400L3153PF",
@@ -2205,7 +2205,7 @@ const list = [
     price: "3305",
     showPrice: "3305",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1125012503ZK",
@@ -2213,7 +2213,7 @@ const list = [
     price: "11631",
     showPrice: "11631",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "CDM112501000340",
@@ -2221,7 +2221,7 @@ const list = [
     price: "12123",
     showPrice: "12123",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "CDM1125010003320P2",
@@ -2229,7 +2229,7 @@ const list = [
     price: "15243",
     showPrice: "15243",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "CDM1400L4003FR",
@@ -2237,7 +2237,7 @@ const list = [
     price: "2653",
     showPrice: "2653",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L4003PF",
@@ -2245,7 +2245,7 @@ const list = [
     price: "3305",
     showPrice: "3305",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1630L5003320PAC",
@@ -2253,7 +2253,7 @@ const list = [
     price: "5662",
     showPrice: "5662",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM11250100033402",
@@ -2261,7 +2261,7 @@ const list = [
     price: "12123",
     showPrice: "12123",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "CDM1225M1602200",
@@ -2269,7 +2269,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225M2254210MDZ",
@@ -2277,7 +2277,7 @@ const list = [
     price: "1276",
     showPrice: "1276",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225M1602310AC",
@@ -2285,7 +2285,7 @@ const list = [
     price: "727",
     showPrice: "727",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1100M1004ME",
@@ -2293,7 +2293,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：100A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
   },
   {
     orderId: "CDM1400L4003Z500",
@@ -2301,7 +2301,7 @@ const list = [
     price: "2095",
     showPrice: "2095",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1100L503",
@@ -2309,7 +2309,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM163L2032002",
@@ -2317,7 +2317,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "CDM163M403",
@@ -2325,7 +2325,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM1100L803200",
@@ -2333,7 +2333,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100L323200",
@@ -2341,7 +2341,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "CDM163L634300",
@@ -2349,7 +2349,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM163L63340DC",
@@ -2357,7 +2357,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM163L253",
@@ -2365,7 +2365,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM163M323200",
@@ -2373,7 +2373,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM163L323310DC",
@@ -2381,7 +2381,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM163L32340DC",
@@ -2389,7 +2389,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM1100M163",
@@ -2397,7 +2397,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "CDM163L163200",
@@ -2405,7 +2405,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "CDM163M503",
@@ -2413,7 +2413,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM163M163200M",
@@ -2421,7 +2421,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "CDM1100L633200M",
@@ -2429,7 +2429,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1100M803200",
@@ -2437,7 +2437,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM163M253",
@@ -2445,7 +2445,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM1100M633M",
@@ -2453,7 +2453,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM163M634",
@@ -2461,7 +2461,7 @@ const list = [
     price: "551",
     showPrice: "551",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM163L5032002",
@@ -2469,7 +2469,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM163L323200",
@@ -2477,7 +2477,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM163M323M",
@@ -2485,7 +2485,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM163M163M",
@@ -2493,7 +2493,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "CDM163M163",
@@ -2501,7 +2501,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "CDM1100M322",
@@ -2509,7 +2509,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "CDM1100L323",
@@ -2517,7 +2517,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "CDM163L50340DC",
@@ -2525,7 +2525,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM163M403200",
@@ -2533,7 +2533,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM1100L403200",
@@ -2541,7 +2541,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "CDM1100M403M",
@@ -2549,7 +2549,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "CDM1100M1003200M",
@@ -2557,7 +2557,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM163L163M",
@@ -2565,7 +2565,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "CDM163L103M",
@@ -2573,7 +2573,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "CDM1100M632",
@@ -2581,7 +2581,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM163L633310DC",
@@ -2589,7 +2589,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM1100L503200M",
@@ -2597,7 +2597,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM1100L203",
@@ -2605,7 +2605,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "CDM1100M503",
@@ -2613,7 +2613,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM163L253M",
@@ -2621,7 +2621,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM163M253M",
@@ -2629,7 +2629,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM1100L253200M",
@@ -2637,7 +2637,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "CDM1100L253200",
@@ -2645,7 +2645,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "CDM163L324300",
@@ -2653,7 +2653,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM1100M633",
@@ -2661,7 +2661,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM163L253200",
@@ -2669,7 +2669,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM163L2532002",
@@ -2677,7 +2677,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM163M203M",
@@ -2685,7 +2685,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "CDM1100L403200M",
@@ -2693,7 +2693,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "CDM163L32340AC",
@@ -2701,7 +2701,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM163M633M",
@@ -2709,7 +2709,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM163M503M",
@@ -2717,7 +2717,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM163M103",
@@ -2725,7 +2725,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "CDM1100L403",
@@ -2733,7 +2733,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "CDM1100L10032002",
@@ -2741,7 +2741,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1100M1003200",
@@ -2749,7 +2749,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM163L403200",
@@ -2757,7 +2757,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM163L323310AC",
@@ -2765,7 +2765,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM1100L803",
@@ -2773,7 +2773,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM163L203340AC",
@@ -2781,7 +2781,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "CDM1100M203",
@@ -2789,7 +2789,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
   },
   {
     orderId: "CDM1100L403M",
@@ -2797,7 +2797,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "CDM1100L253M",
@@ -2805,7 +2805,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "CDM1100M803M",
@@ -2813,7 +2813,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100M803",
@@ -2821,7 +2821,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100M633200",
@@ -2829,7 +2829,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1100M403",
@@ -2837,7 +2837,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "CDM163L6332002",
@@ -2845,7 +2845,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM163L1632002",
@@ -2853,7 +2853,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "CDM163M163200",
@@ -2861,7 +2861,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "CDM1100L803M",
@@ -2869,7 +2869,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100L8032002",
@@ -2877,7 +2877,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100L503M",
@@ -2885,7 +2885,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM163L50340AC",
@@ -2893,7 +2893,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM163L633M",
@@ -2901,7 +2901,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM163L203M",
@@ -2909,7 +2909,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "CDM163L504300",
@@ -2917,7 +2917,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM163L404300",
@@ -2925,7 +2925,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM163L40340DC",
@@ -2933,7 +2933,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM1100M323",
@@ -2941,7 +2941,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "CDM163L503M",
@@ -2949,7 +2949,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM163L403M",
@@ -2957,7 +2957,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM163L103",
@@ -2965,7 +2965,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "CDM163L633310AC",
@@ -2973,7 +2973,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM1100L163",
@@ -2981,7 +2981,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "CDM163L164300",
@@ -2989,7 +2989,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "CDM163L403340AC",
@@ -2997,7 +2997,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM163M203200",
@@ -3005,7 +3005,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "CDM163M203",
@@ -3013,7 +3013,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "CDM163L403310AC",
@@ -3021,7 +3021,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM1100L633200",
@@ -3029,7 +3029,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1100L253",
@@ -3037,7 +3037,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "CDM1100L1003M",
@@ -3045,7 +3045,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1100M253",
@@ -3053,7 +3053,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "CDM1100M1003M",
@@ -3061,7 +3061,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM163L633200",
@@ -3069,7 +3069,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM163L4032002",
@@ -3077,7 +3077,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM1100M802",
@@ -3085,7 +3085,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100M1002",
@@ -3093,7 +3093,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1100L503200",
@@ -3101,7 +3101,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM163L63340AC",
@@ -3109,7 +3109,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM163L25340AC",
@@ -3117,7 +3117,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM163L3232002",
@@ -3125,7 +3125,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM163L323",
@@ -3133,7 +3133,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM163L103200",
@@ -3141,7 +3141,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "CDM163M323",
@@ -3149,7 +3149,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM1100L633M",
@@ -3157,7 +3157,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM163L25340DC",
@@ -3165,7 +3165,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM163L323M",
@@ -3173,7 +3173,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM163L203200",
@@ -3181,7 +3181,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "CDM163L203",
@@ -3189,7 +3189,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "CDM163M103M",
@@ -3197,7 +3197,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：10A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
   },
   {
     orderId: "CDM163L503310AC",
@@ -3205,7 +3205,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM1100M403200",
@@ -3213,7 +3213,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "CDM163L503200",
@@ -3221,7 +3221,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM1100L1003200",
@@ -3229,7 +3229,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM163L254300",
@@ -3237,7 +3237,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM163L204300",
@@ -3245,7 +3245,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "CDM1100M503200",
@@ -3253,7 +3253,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM1100M404",
@@ -3261,7 +3261,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "CDM1225M1253",
@@ -3269,7 +3269,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225M1802",
@@ -3277,7 +3277,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "CDM1100M634",
@@ -3285,7 +3285,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1225M1253M",
@@ -3293,7 +3293,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1100L3310100AC",
@@ -3301,7 +3301,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1100L3310100",
@@ -3309,7 +3309,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225M2002",
@@ -3317,7 +3317,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1100L324300",
@@ -3325,7 +3325,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "CDM1100M633340AC",
@@ -3333,7 +3333,7 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1225L1603200",
@@ -3341,7 +3341,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225L2253340",
@@ -3349,7 +3349,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225L2003340DC",
@@ -3357,7 +3357,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1225M2004",
@@ -3365,7 +3365,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1225M1604340AC",
@@ -3373,7 +3373,7 @@ const list = [
     price: "1317",
     showPrice: "1317",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1100L3340100DC",
@@ -3381,7 +3381,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225L1253340AC",
@@ -3389,7 +3389,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1100L3310100DC",
@@ -3397,7 +3397,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1100L633340AC",
@@ -3405,7 +3405,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1225M2252",
@@ -3413,7 +3413,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225M2003340AC",
@@ -3421,7 +3421,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM163M164",
@@ -3429,7 +3429,7 @@ const list = [
     price: "551",
     showPrice: "551",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
   },
   {
     orderId: "CDM1225L1603310DC",
@@ -3437,7 +3437,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM163M254",
@@ -3445,7 +3445,7 @@ const list = [
     price: "551",
     showPrice: "551",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM1100L3340100",
@@ -3453,7 +3453,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM163L403330",
@@ -3461,7 +3461,7 @@ const list = [
     price: "606",
     showPrice: "606",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM1100L504300",
@@ -3469,7 +3469,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM1100M804340AC",
@@ -3477,7 +3477,7 @@ const list = [
     price: "842",
     showPrice: "842",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1225M1603200",
@@ -3485,7 +3485,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225L3310160",
@@ -3493,7 +3493,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225L2253340AC",
@@ -3501,7 +3501,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1100M1003340AC",
@@ -3509,7 +3509,7 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225L2003200",
@@ -3517,7 +3517,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1225L2003310DC",
@@ -3525,7 +3525,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1100L3340100AC",
@@ -3533,7 +3533,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1100M1003310",
@@ -3541,7 +3541,7 @@ const list = [
     price: "624",
     showPrice: "624",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1100M504",
@@ -3549,7 +3549,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM1225L1253310AC",
@@ -3557,7 +3557,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225M1803340AC",
@@ -3565,7 +3565,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "CDM1100L803310AC",
@@ -3573,7 +3573,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100L803340DC",
@@ -3581,7 +3581,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1225L1603200M",
@@ -3589,7 +3589,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1100M1003310AC",
@@ -3597,7 +3597,7 @@ const list = [
     price: "624",
     showPrice: "624",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225L2253200M",
@@ -3605,7 +3605,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225L1803200",
@@ -3613,7 +3613,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "CDM1225L1253200",
@@ -3621,7 +3621,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L1254300",
@@ -3629,7 +3629,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225M1604",
@@ -3637,7 +3637,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM163M204",
@@ -3645,7 +3645,7 @@ const list = [
     price: "551",
     showPrice: "551",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "CDM1100L403340AC",
@@ -3653,7 +3653,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "CDM1225L1253M",
@@ -3661,7 +3661,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L3310160AC",
@@ -3669,7 +3669,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225L2003310AC",
@@ -3677,7 +3677,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1225L3340160AC",
@@ -3685,7 +3685,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225M1603310",
@@ -3693,7 +3693,7 @@ const list = [
     price: "963",
     showPrice: "963",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225M1603340AC",
@@ -3701,7 +3701,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225L1604300",
@@ -3709,7 +3709,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1100L634300",
@@ -3717,7 +3717,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1100L254300",
@@ -3725,7 +3725,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "CDM1225L1603M",
@@ -3733,7 +3733,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225L1803",
@@ -3741,7 +3741,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "CDM1225L3340200AC",
@@ -3749,7 +3749,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1225L1253340DC",
@@ -3757,7 +3757,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225M1253340DC",
@@ -3765,7 +3765,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225M1254",
@@ -3773,7 +3773,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM163M324",
@@ -3781,7 +3781,7 @@ const list = [
     price: "551",
     showPrice: "551",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM1225M1252",
@@ -3789,7 +3789,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1100M804",
@@ -3797,7 +3797,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1225L2253200",
@@ -3805,7 +3805,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225L1803M",
@@ -3813,7 +3813,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "CDM1225M2254",
@@ -3821,7 +3821,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225M1004",
@@ -3829,7 +3829,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "CDM1100L503340DC",
@@ -3837,7 +3837,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM1100L334080AC",
@@ -3845,7 +3845,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100L804300",
@@ -3853,7 +3853,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1225L12532002",
@@ -3861,7 +3861,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225M2253M",
@@ -3869,7 +3869,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225L3340160DC",
@@ -3877,7 +3877,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225L2254300",
@@ -3885,7 +3885,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1100L633310AC",
@@ -3893,7 +3893,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1100L503340AC",
@@ -3901,7 +3901,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM1100L404300",
@@ -3909,7 +3909,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
   },
   {
     orderId: "CDM163M634340AC",
@@ -3917,7 +3917,7 @@ const list = [
     price: "686.99",
     showPrice: "686.99",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM1100M634340AC",
@@ -3925,7 +3925,7 @@ const list = [
     price: "842",
     showPrice: "842",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1225M2253",
@@ -3933,7 +3933,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225L3310225",
@@ -3941,7 +3941,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1100L803310DC",
@@ -3949,7 +3949,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100M803340AC",
@@ -3957,7 +3957,7 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100M1004340DC",
@@ -3965,7 +3965,7 @@ const list = [
     price: "842",
     showPrice: "842",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225L2253310AC",
@@ -3973,7 +3973,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225L2253M",
@@ -3981,7 +3981,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1100M1004340AC",
@@ -3989,7 +3989,7 @@ const list = [
     price: "842",
     showPrice: "842",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225M1803",
@@ -3997,7 +3997,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "CDM1225L1253310DC",
@@ -4005,7 +4005,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L2253340DC",
@@ -4013,7 +4013,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1225L2004300",
@@ -4021,7 +4021,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1100L1003360",
@@ -4029,7 +4029,7 @@ const list = [
     price: "553",
     showPrice: "553",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1100L323340AC",
@@ -4037,7 +4037,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "CDM1225L1253",
@@ -4045,7 +4045,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225M2003",
@@ -4053,7 +4053,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1225M1003",
@@ -4061,7 +4061,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "CDM163M404",
@@ -4069,7 +4069,7 @@ const list = [
     price: "551",
     showPrice: "551",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM1100L633340DC",
@@ -4077,7 +4077,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1100M324",
@@ -4085,7 +4085,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "CDM1225M1603",
@@ -4093,7 +4093,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1400L4003M",
@@ -4101,7 +4101,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400M3153",
@@ -4109,7 +4109,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1630L5003M",
@@ -4117,7 +4117,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1800L6303",
@@ -4125,7 +4125,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
   },
   {
     orderId: "CDM1400L3310400",
@@ -4133,7 +4133,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L3503340DC",
@@ -4141,7 +4141,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM1400M4004",
@@ -4149,7 +4149,7 @@ const list = [
     price: "2882",
     showPrice: "2882",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400M2503",
@@ -4157,7 +4157,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1400L4003340DC",
@@ -4165,7 +4165,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L3153340DC",
@@ -4173,7 +4173,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1400H4003",
@@ -4181,7 +4181,7 @@ const list = [
     price: "3066",
     showPrice: "3066",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：100kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L400PAC",
@@ -4189,7 +4189,7 @@ const list = [
     price: "4709",
     showPrice: "4709",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L3153M",
@@ -4197,7 +4197,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1400L3340400",
@@ -4205,7 +4205,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L2253",
@@ -4213,7 +4213,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 225A",
   },
   {
     orderId: "CDM1400L3503340AC",
@@ -4221,7 +4221,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM1400L2503340DC",
@@ -4229,7 +4229,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1800M6303",
@@ -4237,7 +4237,7 @@ const list = [
     price: "3888",
     showPrice: "3888",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
   },
   {
     orderId: "CDM1630L4003",
@@ -4245,7 +4245,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "CDM1400M3504",
@@ -4253,7 +4253,7 @@ const list = [
     price: "2882",
     showPrice: "2882",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM1630M4003",
@@ -4261,7 +4261,7 @@ const list = [
     price: "2929.01",
     showPrice: "2929.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "CDM1630L6303310AC",
@@ -4269,7 +4269,7 @@ const list = [
     price: "2886",
     showPrice: "2886",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1400L4003310AC",
@@ -4277,7 +4277,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1630L6303340AC",
@@ -4285,7 +4285,7 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1400L2503310AC",
@@ -4293,7 +4293,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1400M3154",
@@ -4301,7 +4301,7 @@ const list = [
     price: "2882",
     showPrice: "2882",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1630M5004",
@@ -4309,7 +4309,7 @@ const list = [
     price: "3994",
     showPrice: "3994",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1400M4003",
@@ -4317,7 +4317,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400M4003340AC",
@@ -4325,7 +4325,7 @@ const list = [
     price: "2421",
     showPrice: "2421",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400M2503200",
@@ -4333,7 +4333,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1400L3153340AC",
@@ -4341,7 +4341,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1400L3153200",
@@ -4349,7 +4349,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1400M3503",
@@ -4357,7 +4357,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM1400L2503200",
@@ -4365,7 +4365,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1630L5003310AC",
@@ -4373,7 +4373,7 @@ const list = [
     price: "2886",
     showPrice: "2886",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1400L3340400AC",
@@ -4381,7 +4381,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1630M5003",
@@ -4389,7 +4389,7 @@ const list = [
     price: "2929.01",
     showPrice: "2929.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1800L7003",
@@ -4397,7 +4397,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：700A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 700A",
   },
   {
     orderId: "CDM1800M8003",
@@ -4405,7 +4405,7 @@ const list = [
     price: "3888",
     showPrice: "3888",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1400L2503M",
@@ -4413,7 +4413,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1400L2503",
@@ -4421,7 +4421,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1400L2503340AC",
@@ -4429,7 +4429,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1400M2504",
@@ -4437,7 +4437,7 @@ const list = [
     price: "2882",
     showPrice: "2882",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1630M6303",
@@ -4445,7 +4445,7 @@ const list = [
     price: "2929.01",
     showPrice: "2929.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1800L4003",
@@ -4453,7 +4453,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L2003",
@@ -4461,7 +4461,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 200A",
   },
   {
     orderId: "CDM1630L5003340AC",
@@ -4469,7 +4469,7 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1400L3153310AC",
@@ -4477,7 +4477,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1400M3153340AC",
@@ -4485,7 +4485,7 @@ const list = [
     price: "2421",
     showPrice: "2421",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1630L6303M",
@@ -4493,7 +4493,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1800L5003",
@@ -4501,7 +4501,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 500A",
   },
   {
     orderId: "CDM1800M8004",
@@ -4509,7 +4509,7 @@ const list = [
     price: "5698",
     showPrice: "5698",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1125010003",
@@ -4517,7 +4517,7 @@ const list = [
     price: "11487",
     showPrice: "11487",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "CDM1630M6304",
@@ -4525,7 +4525,7 @@ const list = [
     price: "3994",
     showPrice: "3994",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1125012503",
@@ -4533,7 +4533,7 @@ const list = [
     price: "11487",
     showPrice: "11487",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "CDM1225M1602",
@@ -4541,7 +4541,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1100M1004",
@@ -4549,7 +4549,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM163L633208",
@@ -4557,7 +4557,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM163L403208",
@@ -4565,7 +4565,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM163L503208",
@@ -4573,7 +4573,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM163L253208",
@@ -4581,7 +4581,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM1225L1604APPC",
@@ -4589,7 +4589,7 @@ const list = [
     price: "1243",
     showPrice: "1243",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225L1253PPC",
@@ -4597,7 +4597,7 @@ const list = [
     price: "981",
     showPrice: "981",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L2003PPC",
@@ -4605,7 +4605,7 @@ const list = [
     price: "981",
     showPrice: "981",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1225L1603P",
@@ -4613,7 +4613,7 @@ const list = [
     price: "2355",
     showPrice: "2355",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1225L2253Z500",
@@ -4621,7 +4621,7 @@ const list = [
     price: "960",
     showPrice: "960",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1100L633PPC",
@@ -4629,7 +4629,7 @@ const list = [
     price: "669.01",
     showPrice: "669.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1400M3154APPC",
@@ -4637,7 +4637,7 @@ const list = [
     price: "3301",
     showPrice: "3301",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1100L804APPC",
@@ -4645,7 +4645,7 @@ const list = [
     price: "844",
     showPrice: "844",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100L803PPC",
@@ -4653,7 +4653,7 @@ const list = [
     price: "669.01",
     showPrice: "669.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1225L2003328",
@@ -4661,7 +4661,7 @@ const list = [
     price: "817",
     showPrice: "817",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1100M253340AC",
@@ -4669,7 +4669,7 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "CDM1630L6303ZK",
@@ -4677,7 +4677,7 @@ const list = [
     price: "2773",
     showPrice: "2773",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1630L6303Z300",
@@ -4685,7 +4685,7 @@ const list = [
     price: "2966",
     showPrice: "2966",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1400L2504",
@@ -4693,7 +4693,7 @@ const list = [
     price: "2625",
     showPrice: "2625",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1630L6303H400",
@@ -4701,7 +4701,7 @@ const list = [
     price: "2966",
     showPrice: "2966",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1225L1603PPC",
@@ -4709,7 +4709,7 @@ const list = [
     price: "981",
     showPrice: "981",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1100M632M",
@@ -4717,7 +4717,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
   },
   {
     orderId: "CDM1400M4004APPC",
@@ -4725,7 +4725,7 @@ const list = [
     price: "3301",
     showPrice: "3301",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：70kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1225L2253PPC",
@@ -4733,7 +4733,7 @@ const list = [
     price: "981",
     showPrice: "981",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
   },
   {
     orderId: "CDM1400L4003PPC",
@@ -4741,7 +4741,7 @@ const list = [
     price: "2232",
     showPrice: "2232",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1630L6303200",
@@ -4749,7 +4749,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1125012503310AC",
@@ -4757,7 +4757,7 @@ const list = [
     price: "11986",
     showPrice: "11986",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：85kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "CDM1250M2503300",
@@ -4765,7 +4765,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1125M1253300",
@@ -4773,7 +4773,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125L1253200",
@@ -4781,7 +4781,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125L1253200M",
@@ -4789,7 +4789,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125L1253310AC",
@@ -4797,7 +4797,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125L1253300M",
@@ -4805,7 +4805,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125L1253310",
@@ -4813,7 +4813,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1250M2503320",
@@ -4821,7 +4821,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1125M1253200",
@@ -4829,7 +4829,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125M1253200M",
@@ -4837,7 +4837,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L1804300",
@@ -4845,7 +4845,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "CDM1225L2003DA",
@@ -4853,7 +4853,7 @@ const list = [
     price: "2355",
     showPrice: "2355",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1250L2503310DC",
@@ -4861,7 +4861,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250L2503310AC",
@@ -4869,7 +4869,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250L2503310MAC",
@@ -4877,7 +4877,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250L2504310AC",
@@ -4885,7 +4885,7 @@ const list = [
     price: "1118",
     showPrice: "1118",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250M2503300M",
@@ -4893,7 +4893,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250M2504300",
@@ -4901,7 +4901,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1125L1253320M",
@@ -4909,7 +4909,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1250M2503200M",
@@ -4917,7 +4917,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1125L1253340AC",
@@ -4925,7 +4925,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125L1253340MAC",
@@ -4933,7 +4933,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1250L2503320",
@@ -4941,7 +4941,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250L2503300M",
@@ -4949,7 +4949,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250L2503340",
@@ -4957,7 +4957,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250M2503200",
@@ -4965,7 +4965,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1125L1254340DC",
@@ -4973,7 +4973,7 @@ const list = [
     price: "782.01",
     showPrice: "782.01",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1250L2504340DC",
@@ -4981,7 +4981,7 @@ const list = [
     price: "1159",
     showPrice: "1159",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1125M1253300M",
@@ -4989,7 +4989,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1250L2503200",
@@ -4997,7 +4997,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250L2504340AC",
@@ -5005,7 +5005,7 @@ const list = [
     price: "1159",
     showPrice: "1159",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1225L2004310A",
@@ -5013,7 +5013,7 @@ const list = [
     price: "1118",
     showPrice: "1118",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1125M1253340AC",
@@ -5021,7 +5021,7 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L2003320DA",
@@ -5029,7 +5029,7 @@ const list = [
     price: "2396",
     showPrice: "2396",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1250M2502300",
@@ -5037,7 +5037,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250M2503220M",
@@ -5045,7 +5045,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1125L1253340DC",
@@ -5053,7 +5053,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125M1252300",
@@ -5061,7 +5061,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125M1254300",
@@ -5069,7 +5069,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L1803PPC",
@@ -5077,7 +5077,7 @@ const list = [
     price: "981",
     showPrice: "981",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "CDM1125L1253310DC",
@@ -5085,7 +5085,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125M1253320",
@@ -5093,7 +5093,7 @@ const list = [
     price: "569.99",
     showPrice: "569.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125M1254340AC",
@@ -5101,7 +5101,7 @@ const list = [
     price: "842",
     showPrice: "842",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125L1254310AC",
@@ -5109,7 +5109,7 @@ const list = [
     price: "741",
     showPrice: "741",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1250L2503200M",
@@ -5117,7 +5117,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250L2503340DC",
@@ -5125,7 +5125,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250M2503310AC",
@@ -5133,7 +5133,7 @@ const list = [
     price: "963",
     showPrice: "963",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250M2503340AC",
@@ -5141,7 +5141,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250L2503310",
@@ -5149,7 +5149,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250L2503340AC",
@@ -5157,7 +5157,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250L2504310DC",
@@ -5165,7 +5165,7 @@ const list = [
     price: "1118",
     showPrice: "1118",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1125L1253320",
@@ -5173,7 +5173,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125M1252200M",
@@ -5181,7 +5181,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125M1253310AC",
@@ -5189,7 +5189,7 @@ const list = [
     price: "624",
     showPrice: "624",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1250M2502200M",
@@ -5197,7 +5197,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250L2503220M",
@@ -5205,7 +5205,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250M2504340AC",
@@ -5213,7 +5213,7 @@ const list = [
     price: "1317",
     showPrice: "1317",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1100H2350",
@@ -5221,7 +5221,7 @@ const list = [
     price: "186",
     showPrice: "186",
     remark:
-      "系列：CDM1 | 极数：- | 额定极限分断能力：- | 脱扣器类型：- | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 额定电流：-",
+      "Series: CDM1 | Number of poles: - | Rated ultimate breaking capacity: - | Trip unit type: - | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Rated current: -",
   },
   {
     orderId: "CDM1225L2003PPCX15",
@@ -5229,7 +5229,7 @@ const list = [
     price: "981",
     showPrice: "981",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "CDM1100L1003320PAC",
@@ -5237,7 +5237,7 @@ const list = [
     price: "2032",
     showPrice: "2032",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1100L1003PPCX15",
@@ -5245,7 +5245,7 @@ const list = [
     price: "669.01",
     showPrice: "669.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1400L4004310DC",
@@ -5253,7 +5253,7 @@ const list = [
     price: "2827",
     showPrice: "2827",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM163M503340AC",
@@ -5261,7 +5261,7 @@ const list = [
     price: "554.01",
     showPrice: "554.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
   },
   {
     orderId: "CDM1250L2503HL2400",
@@ -5269,7 +5269,7 @@ const list = [
     price: "960",
     showPrice: "960",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1800L8003Z350",
@@ -5277,7 +5277,7 @@ const list = [
     price: "3955.99",
     showPrice: "3955.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1125L1253Z200",
@@ -5285,7 +5285,7 @@ const list = [
     price: "657",
     showPrice: "657",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1225L1003340AC",
@@ -5293,7 +5293,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "CDM1400L4004310AC",
@@ -5301,7 +5301,7 @@ const list = [
     price: "2827",
     showPrice: "2827",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A | 额定电压：AC230V",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A | 额定电压：AC230V",
   },
   {
     orderId: "CDM1400L4004PPC",
@@ -5309,7 +5309,7 @@ const list = [
     price: "3044.01",
     showPrice: "3044.01",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1225L1603Z250",
@@ -5317,7 +5317,7 @@ const list = [
     price: "960",
     showPrice: "960",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1400L3504",
@@ -5325,7 +5325,7 @@ const list = [
     price: "2625",
     showPrice: "2625",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM1100L803308",
@@ -5333,7 +5333,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1630L5003MZ300",
@@ -5341,7 +5341,7 @@ const list = [
     price: "2966",
     showPrice: "2966",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM163L2533202",
@@ -5349,7 +5349,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
   },
   {
     orderId: "CDM1250L2503PPC",
@@ -5357,7 +5357,7 @@ const list = [
     price: "981",
     showPrice: "981",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1100M322200",
@@ -5365,7 +5365,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "CDM1225L1004300",
@@ -5373,7 +5373,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "CDM163M633340",
@@ -5381,7 +5381,7 @@ const list = [
     price: "554.01",
     showPrice: "554.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM1125L1253DA",
@@ -5389,7 +5389,7 @@ const list = [
     price: "1991",
     showPrice: "1991",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1400L2504340D",
@@ -5397,7 +5397,7 @@ const list = [
     price: "2909",
     showPrice: "2909",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "CDM1630L5004310A",
@@ -5405,7 +5405,7 @@ const list = [
     price: "3869",
     showPrice: "3869",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1250L2503208",
@@ -5413,7 +5413,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1630L6304340A",
@@ -5421,7 +5421,7 @@ const list = [
     price: "3951",
     showPrice: "3951",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1225H2150",
@@ -5429,7 +5429,7 @@ const list = [
     price: "199",
     showPrice: "199",
     remark:
-      "系列：CDM1 | 极数：- | 额定极限分断能力：- | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：-",
+      "Series: CDM1 | Number of poles: - | Rated ultimate breaking capacity: - | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: -",
   },
   {
     orderId: "CDM1400L3153PPC",
@@ -5437,7 +5437,7 @@ const list = [
     price: "2232",
     showPrice: "2232",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1225M1603328",
@@ -5445,7 +5445,7 @@ const list = [
     price: "924",
     showPrice: "924",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1400L4003Z300",
@@ -5453,7 +5453,7 @@ const list = [
     price: "2095",
     showPrice: "2095",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1125M1252310AC",
@@ -5461,7 +5461,7 @@ const list = [
     price: "515",
     showPrice: "515",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1250L2503348DC",
@@ -5469,7 +5469,7 @@ const list = [
     price: "912",
     showPrice: "912",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250L25032602",
@@ -5477,7 +5477,7 @@ const list = [
     price: "843",
     showPrice: "843",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1630L4003340DCZ",
@@ -5485,7 +5485,7 @@ const list = [
     price: "3250",
     showPrice: "3250",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "CDM1630L4003200",
@@ -5493,7 +5493,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "CDM1125L1254APPC",
@@ -5501,7 +5501,7 @@ const list = [
     price: "844",
     showPrice: "844",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1250L2504APPC",
@@ -5509,7 +5509,7 @@ const list = [
     price: "1243",
     showPrice: "1243",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1225M1002",
@@ -5517,7 +5517,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "CDM1250M2503328",
@@ -5525,7 +5525,7 @@ const list = [
     price: "924",
     showPrice: "924",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM163L203208",
@@ -5533,7 +5533,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
   },
   {
     orderId: "CDM1100M503340AC",
@@ -5541,7 +5541,7 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM1250L2503330",
@@ -5549,7 +5549,7 @@ const list = [
     price: "1037",
     showPrice: "1037",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1100L1003208",
@@ -5557,7 +5557,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1225L1604300A",
@@ -5565,7 +5565,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1125L1253330AC",
@@ -5573,7 +5573,7 @@ const list = [
     price: "717",
     showPrice: "717",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1100M162200",
@@ -5581,7 +5581,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：16A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
   },
   {
     orderId: "CDM1225L1003PPCX15",
@@ -5589,7 +5589,7 @@ const list = [
     price: "981",
     showPrice: "981",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
   },
   {
     orderId: "CDM163L404340AC",
@@ -5597,7 +5597,7 @@ const list = [
     price: "626",
     showPrice: "626",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM1400L3154340AC",
@@ -5605,7 +5605,7 @@ const list = [
     price: "2909",
     showPrice: "2909",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM163L634200",
@@ -5613,7 +5613,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM163L323208",
@@ -5621,7 +5621,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
   },
   {
     orderId: "CDM163L4033202",
@@ -5629,7 +5629,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
   },
   {
     orderId: "CDM1225L1803340",
@@ -5637,7 +5637,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
   },
   {
     orderId: "CDM1225L1603DA",
@@ -5645,7 +5645,7 @@ const list = [
     price: "2355",
     showPrice: "2355",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "CDM1400L4004340AC",
@@ -5653,7 +5653,7 @@ const list = [
     price: "2909",
     showPrice: "2909",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A | 额定电压：AC230V",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A | 额定电压：AC230V",
   },
   {
     orderId: "CDM1400L3154",
@@ -5661,7 +5661,7 @@ const list = [
     price: "2625",
     showPrice: "2625",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1400L3503PPC",
@@ -5669,7 +5669,7 @@ const list = [
     price: "2232",
     showPrice: "2232",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
   },
   {
     orderId: "CDM1100M1002310A",
@@ -5677,7 +5677,7 @@ const list = [
     price: "515",
     showPrice: "515",
     remark:
-      "系列：CDM1 | 极数：2P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1400L4004340D",
@@ -5685,7 +5685,7 @@ const list = [
     price: "2909",
     showPrice: "2909",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L3153200PF",
@@ -5693,7 +5693,7 @@ const list = [
     price: "3305",
     showPrice: "3305",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
   },
   {
     orderId: "CDM1250L2503DA",
@@ -5701,7 +5701,7 @@ const list = [
     price: "2355",
     showPrice: "2355",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1250L2503320DA",
@@ -5709,7 +5709,7 @@ const list = [
     price: "2396",
     showPrice: "2396",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1100L1003328",
@@ -5717,7 +5717,7 @@ const list = [
     price: "527",
     showPrice: "527",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "CDM1250L2503370",
@@ -5725,7 +5725,7 @@ const list = [
     price: "1078",
     showPrice: "1078",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1800L8003200",
@@ -5733,7 +5733,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：800A | 额定电流：800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
   },
   {
     orderId: "CDM1400L40033102",
@@ -5741,7 +5741,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1400L2504340AC",
@@ -5749,7 +5749,7 @@ const list = [
     price: "2909",
     showPrice: "2909",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：250A | 额定电压：AC220V",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A | 额定电压：AC220V",
   },
   {
     orderId: "CDM1400L3504310AC",
@@ -5757,7 +5757,7 @@ const list = [
     price: "2827",
     showPrice: "2827",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：350A | 额定电压：AC230V",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A | 额定电压：AC230V",
   },
   {
     orderId: "CDM1125L1253308",
@@ -5765,7 +5765,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1630L5004340A",
@@ -5773,7 +5773,7 @@ const list = [
     price: "3951",
     showPrice: "3951",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：500A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
   },
   {
     orderId: "CDM1400L4004",
@@ -5781,7 +5781,7 @@ const list = [
     price: "2625",
     showPrice: "2625",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "CDM1125L1253328",
@@ -5789,7 +5789,7 @@ const list = [
     price: "527",
     showPrice: "527",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1125L1253PPC",
@@ -5797,7 +5797,7 @@ const list = [
     price: "669.01",
     showPrice: "669.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "CDM1630L6304",
@@ -5805,7 +5805,7 @@ const list = [
     price: "3667",
     showPrice: "3667",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1400L4003300D",
@@ -5813,7 +5813,7 @@ const list = [
     price: "4709",
     showPrice: "4709",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | 壳架电流：400A | 额定电流：400A | 额定电压：AC230V",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A | 额定电压：AC230V",
   },
   {
     orderId: "CDM1100L253340",
@@ -5821,7 +5821,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
   },
   {
     orderId: "CDM1225M1253340AC",
@@ -5829,7 +5829,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A | 额定电压：AC220V",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A | 额定电压：AC220V",
   },
   {
     orderId: "CDM163L633Z350",
@@ -5837,7 +5837,7 @@ const list = [
     price: "546",
     showPrice: "546",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：25kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | 壳架电流：63A | 额定电流：63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
   },
   {
     orderId: "CDM1250L2503330AC",
@@ -5845,7 +5845,7 @@ const list = [
     price: "1037",
     showPrice: "1037",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "CDM1630L6303340MAC",
@@ -5853,7 +5853,7 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1630L6303340DCZ",
@@ -5861,7 +5861,7 @@ const list = [
     price: "3250",
     showPrice: "3250",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
   },
   {
     orderId: "CDM1225L1253208",
@@ -5869,7 +5869,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：250A | 额定电流：125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "CDM1100L803208",
@@ -5877,7 +5877,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "CDM1100L503PPC",
@@ -5885,7 +5885,7 @@ const list = [
     price: "669.01",
     showPrice: "669.01",
     remark:
-      "系列：CDM1 | 极数：3P | 额定极限分断能力：35kA | 脱扣器类型：- | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
   },
   {
     orderId: "CDM1630L4004",
@@ -5893,7 +5893,7 @@ const list = [
     price: "3667",
     showPrice: "3667",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
   },
   {
     orderId: "CDM1100L1004200",
@@ -5901,7 +5901,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "系列：CDM1 | 极数：4P | 额定极限分断能力：35kA | 脱扣器类型：电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：125A | 额定电流：100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
   },
 ];
 export default list;

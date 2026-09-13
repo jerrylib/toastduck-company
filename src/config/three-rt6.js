@@ -5,7 +5,7 @@ const list = [
     price: "381.62",
     showPrice: "381.62",
     remark:
-      "系列：3RT6 | 额定电流：7A | 极数：3P | 辅助触点：1NO | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 7A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60161BB41",
@@ -13,7 +13,7 @@ const list = [
     price: "428.28",
     showPrice: "428.28",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NO | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60261BB40",
@@ -21,7 +21,7 @@ const list = [
     price: "709.01",
     showPrice: "709.01",
     remark:
-      "系列：3RT6 | 额定电流：25A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60231BB40",
@@ -29,7 +29,7 @@ const list = [
     price: "453.6",
     showPrice: "453.6",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60161BB42",
@@ -37,7 +37,7 @@ const list = [
     price: "428.28",
     showPrice: "428.28",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60281BB40",
@@ -45,7 +45,7 @@ const list = [
     price: "983.33",
     showPrice: "983.33",
     remark:
-      "系列：3RT6 | 额定电流：38A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60251BB40",
@@ -53,7 +53,7 @@ const list = [
     price: "616.52",
     showPrice: "616.52",
     remark:
-      "系列：3RT6 | 额定电流：17A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 17A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60171BB41",
@@ -61,7 +61,7 @@ const list = [
     price: "455.04",
     showPrice: "455.04",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NO | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60261BM40",
@@ -69,7 +69,7 @@ const list = [
     price: "709.01",
     showPrice: "709.01",
     remark:
-      "系列：3RT6 | 额定电流：25A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC220V",
+      "Series: 3RT6 | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V",
   },
   {
     orderId: "3RT60241BB40",
@@ -77,7 +77,7 @@ const list = [
     price: "475.79",
     showPrice: "475.79",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60271BB40",
@@ -85,7 +85,7 @@ const list = [
     price: "772.13",
     showPrice: "772.13",
     remark:
-      "系列：3RT6 | 额定电流：32A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60181BB41",
@@ -93,7 +93,7 @@ const list = [
     price: "601.84",
     showPrice: "601.84",
     remark:
-      "系列：3RT6 | 额定电流：16A | 极数：3P | 辅助触点：1NO | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 16A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60161BF41",
@@ -101,7 +101,7 @@ const list = [
     price: "428.28",
     showPrice: "428.28",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NO | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60181BF41",
@@ -109,7 +109,7 @@ const list = [
     price: "601.84",
     showPrice: "601.84",
     remark:
-      "系列：3RT6 | 额定电流：16A | 极数：3P | 辅助触点：1NO | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 16A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60241BF40",
@@ -117,7 +117,7 @@ const list = [
     price: "475.79",
     showPrice: "475.79",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60151KB41",
@@ -125,7 +125,7 @@ const list = [
     price: "425.69",
     showPrice: "425.69",
     remark:
-      "系列：3RT6 | 额定电流：7A | 极数：3P | 辅助触点：1NO | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 7A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60161BM41",
@@ -133,7 +133,7 @@ const list = [
     price: "428.28",
     showPrice: "428.28",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NO | 线圈电压：DC220V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC220V",
   },
   {
     orderId: "3RT60161KB41",
@@ -141,7 +141,7 @@ const list = [
     price: "455.04",
     showPrice: "455.04",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NO | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60151KB42",
@@ -149,7 +149,7 @@ const list = [
     price: "425.69",
     showPrice: "425.69",
     remark:
-      "系列：3RT6 | 额定电流：7A | 极数：3P | 辅助触点：1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 7A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60171BB42",
@@ -157,7 +157,7 @@ const list = [
     price: "455.04",
     showPrice: "455.04",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60251BM40",
@@ -165,7 +165,7 @@ const list = [
     price: "616.52",
     showPrice: "616.52",
     remark:
-      "系列：3RT6 | 额定电流：17A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC220V",
+      "Series: 3RT6 | Rated current: 17A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V",
   },
   {
     orderId: "3RT60261KB40",
@@ -173,7 +173,7 @@ const list = [
     price: "778.03",
     showPrice: "778.03",
     remark:
-      "系列：3RT6 | 额定电流：25A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60171KB41",
@@ -181,7 +181,7 @@ const list = [
     price: "499.09",
     showPrice: "499.09",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NO | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60181BB42",
@@ -189,7 +189,7 @@ const list = [
     price: "601.84",
     showPrice: "601.84",
     remark:
-      "系列：3RT6 | 额定电流：16A | 极数：3P | 辅助触点：1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 16A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60151BM41",
@@ -197,7 +197,7 @@ const list = [
     price: "381.62",
     showPrice: "381.62",
     remark:
-      "系列：3RT6 | 额定电流：7A | 极数：3P | 辅助触点：1NO | 线圈电压：DC220V",
+      "Series: 3RT6 | Rated current: 7A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC220V",
   },
   {
     orderId: "3RT60251KF40",
@@ -205,7 +205,7 @@ const list = [
     price: "675.23",
     showPrice: "675.23",
     remark:
-      "系列：3RT6 | 额定电流：17A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 17A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60271BF40",
@@ -213,7 +213,7 @@ const list = [
     price: "772.13",
     showPrice: "772.13",
     remark:
-      "系列：3RT6 | 额定电流：32A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60151BF41",
@@ -221,7 +221,7 @@ const list = [
     price: "381.62",
     showPrice: "381.62",
     remark:
-      "系列：3RT6 | 额定电流：7A | 极数：3P | 辅助触点：1NO | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 7A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60171BF41",
@@ -229,7 +229,7 @@ const list = [
     price: "455.04",
     showPrice: "455.04",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NO | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60161KF41",
@@ -237,7 +237,7 @@ const list = [
     price: "455.04",
     showPrice: "455.04",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NO | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60271BM40",
@@ -245,7 +245,7 @@ const list = [
     price: "772.13",
     showPrice: "772.13",
     remark:
-      "系列：3RT6 | 额定电流：32A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC220V",
+      "Series: 3RT6 | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V",
   },
   {
     orderId: "3RT60161KB42",
@@ -253,7 +253,7 @@ const list = [
     price: "455.04",
     showPrice: "455.04",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60251KB40",
@@ -261,7 +261,7 @@ const list = [
     price: "675.23",
     showPrice: "675.23",
     remark:
-      "系列：3RT6 | 额定电流：17A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 17A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60181BG42",
@@ -269,7 +269,7 @@ const list = [
     price: "601.84",
     showPrice: "601.84",
     remark:
-      "系列：3RT6 | 额定电流：16A | 极数：3P | 辅助触点：1NC | 线圈电压：DC125V",
+      "Series: 3RT6 | Rated current: 16A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC125V",
   },
   {
     orderId: "3RT60161BG41",
@@ -277,7 +277,7 @@ const list = [
     price: "428.28",
     showPrice: "428.28",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NO | 线圈电压：DC125V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC125V",
   },
   {
     orderId: "3RT60151BB42",
@@ -285,7 +285,7 @@ const list = [
     price: "381.62",
     showPrice: "381.62",
     remark:
-      "系列：3RT6 | 额定电流：7A | 极数：3P | 辅助触点：1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 7A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60261BW40",
@@ -293,7 +293,7 @@ const list = [
     price: "709.01",
     showPrice: "709.01",
     remark:
-      "系列：3RT6 | 额定电流：25A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC48V",
+      "Series: 3RT6 | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V",
   },
   {
     orderId: "3RT60261BF40",
@@ -301,7 +301,7 @@ const list = [
     price: "709.01",
     showPrice: "709.01",
     remark:
-      "系列：3RT6 | 额定电流：25A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60271KB40",
@@ -309,7 +309,7 @@ const list = [
     price: "851.39",
     showPrice: "851.39",
     remark:
-      "系列：3RT6 | 额定电流：32A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60231BF40",
@@ -317,7 +317,7 @@ const list = [
     price: "453.6",
     showPrice: "453.6",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60181BW42",
@@ -325,7 +325,7 @@ const list = [
     price: "601.84",
     showPrice: "601.84",
     remark:
-      "系列：3RT6 | 额定电流：16A | 极数：3P | 辅助触点：1NC | 线圈电压：DC48V",
+      "Series: 3RT6 | Rated current: 16A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC48V",
   },
   {
     orderId: "3RT60251BF40",
@@ -333,7 +333,7 @@ const list = [
     price: "616.52",
     showPrice: "616.52",
     remark:
-      "系列：3RT6 | 额定电流：17A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 17A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60271BW40",
@@ -341,7 +341,7 @@ const list = [
     price: "772.13",
     showPrice: "772.13",
     remark:
-      "系列：3RT6 | 额定电流：32A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC48V",
+      "Series: 3RT6 | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V",
   },
   {
     orderId: "3RT60251BW40",
@@ -349,7 +349,7 @@ const list = [
     price: "616.52",
     showPrice: "616.52",
     remark:
-      "系列：3RT6 | 额定电流：17A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC48V",
+      "Series: 3RT6 | Rated current: 17A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V",
   },
   {
     orderId: "3RT60241BM40",
@@ -357,7 +357,7 @@ const list = [
     price: "475.79",
     showPrice: "475.79",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC220V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V",
   },
   {
     orderId: "3RT60151BF42",
@@ -365,7 +365,7 @@ const list = [
     price: "381.62",
     showPrice: "381.62",
     remark:
-      "系列：3RT6 | 额定电流：7A | 极数：3P | 辅助触点：1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 7A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60151BM42",
@@ -373,7 +373,7 @@ const list = [
     price: "381.62",
     showPrice: "381.62",
     remark:
-      "系列：3RT6 | 额定电流：7A | 极数：3P | 辅助触点：1NC | 线圈电压：DC220V",
+      "Series: 3RT6 | Rated current: 7A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC220V",
   },
   {
     orderId: "3RT60161BF42",
@@ -381,7 +381,7 @@ const list = [
     price: "428.28",
     showPrice: "428.28",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60151KF41",
@@ -389,7 +389,7 @@ const list = [
     price: "425.69",
     showPrice: "425.69",
     remark:
-      "系列：3RT6 | 额定电流：7A | 极数：3P | 辅助触点：1NO | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 7A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60171KB42",
@@ -397,7 +397,7 @@ const list = [
     price: "499.09",
     showPrice: "499.09",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NC | 线圈电压：DC24V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC24V",
   },
   {
     orderId: "3RT60151BW42",
@@ -405,7 +405,7 @@ const list = [
     price: "381.62",
     showPrice: "381.62",
     remark:
-      "系列：3RT6 | 额定电流：7A | 极数：3P | 辅助触点：1NC | 线圈电压：DC48V",
+      "Series: 3RT6 | Rated current: 7A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC48V",
   },
   {
     orderId: "3RT60171BW41",
@@ -413,7 +413,7 @@ const list = [
     price: "455.04",
     showPrice: "455.04",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NO | 线圈电压：DC48V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC48V",
   },
   {
     orderId: "3RT60261KF40",
@@ -421,7 +421,7 @@ const list = [
     price: "778.03",
     showPrice: "778.03",
     remark:
-      "系列：3RT6 | 额定电流：25A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60171BF42",
@@ -429,7 +429,7 @@ const list = [
     price: "455.04",
     showPrice: "455.04",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60231BM40",
@@ -437,7 +437,7 @@ const list = [
     price: "453.6",
     showPrice: "453.6",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC220V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V",
   },
   {
     orderId: "3RT60281BW40",
@@ -445,7 +445,7 @@ const list = [
     price: "983.33",
     showPrice: "983.33",
     remark:
-      "系列：3RT6 | 额定电流：38A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC48V",
+      "Series: 3RT6 | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V",
   },
   {
     orderId: "3RT60171KF42",
@@ -453,7 +453,7 @@ const list = [
     price: "499.09",
     showPrice: "499.09",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60171BW42",
@@ -461,7 +461,7 @@ const list = [
     price: "455.04",
     showPrice: "455.04",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NC | 线圈电压：DC48V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC48V",
   },
   {
     orderId: "3RT60281BF40",
@@ -469,7 +469,7 @@ const list = [
     price: "983.33",
     showPrice: "983.33",
     remark:
-      "系列：3RT6 | 额定电流：38A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60181BW41",
@@ -477,7 +477,7 @@ const list = [
     price: "601.84",
     showPrice: "601.84",
     remark:
-      "系列：3RT6 | 额定电流：16A | 极数：3P | 辅助触点：1NO | 线圈电压：DC48V",
+      "Series: 3RT6 | Rated current: 16A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC48V",
   },
   {
     orderId: "3RT60181BM42",
@@ -485,7 +485,7 @@ const list = [
     price: "601.84",
     showPrice: "601.84",
     remark:
-      "系列：3RT6 | 额定电流：16A | 极数：3P | 辅助触点：1NC | 线圈电压：DC220V",
+      "Series: 3RT6 | Rated current: 16A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC220V",
   },
   {
     orderId: "3RT60151KF42",
@@ -493,7 +493,7 @@ const list = [
     price: "425.69",
     showPrice: "425.69",
     remark:
-      "系列：3RT6 | 额定电流：7A | 极数：3P | 辅助触点：1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 7A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60171BM41",
@@ -501,7 +501,7 @@ const list = [
     price: "455.04",
     showPrice: "455.04",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NO | 线圈电压：DC220V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC220V",
   },
   {
     orderId: "3RT60171BM42",
@@ -509,7 +509,7 @@ const list = [
     price: "455.04",
     showPrice: "455.04",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NC | 线圈电压：DC220V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC220V",
   },
   {
     orderId: "3RT60171KF41",
@@ -517,7 +517,7 @@ const list = [
     price: "499.09",
     showPrice: "499.09",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NO | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60161BW41",
@@ -525,7 +525,7 @@ const list = [
     price: "428.28",
     showPrice: "428.28",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NO | 线圈电压：DC48V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC48V",
   },
   {
     orderId: "3RT60181BM41",
@@ -533,7 +533,7 @@ const list = [
     price: "601.84",
     showPrice: "601.84",
     remark:
-      "系列：3RT6 | 额定电流：16A | 极数：3P | 辅助触点：1NO | 线圈电压：DC220V",
+      "Series: 3RT6 | Rated current: 16A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC220V",
   },
   {
     orderId: "3RT60281BM40",
@@ -541,7 +541,7 @@ const list = [
     price: "983.33",
     showPrice: "983.33",
     remark:
-      "系列：3RT6 | 额定电流：38A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC220V",
+      "Series: 3RT6 | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V",
   },
   {
     orderId: "3RT60151BW41",
@@ -549,7 +549,7 @@ const list = [
     price: "381.62",
     showPrice: "381.62",
     remark:
-      "系列：3RT6 | 额定电流：7A | 极数：3P | 辅助触点：1NO | 线圈电压：DC48V",
+      "Series: 3RT6 | Rated current: 7A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC48V",
   },
   {
     orderId: "3RT60161BW42",
@@ -557,7 +557,7 @@ const list = [
     price: "428.28",
     showPrice: "428.28",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NC | 线圈电压：DC48V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC48V",
   },
   {
     orderId: "3RT60161BM42",
@@ -565,7 +565,7 @@ const list = [
     price: "428.28",
     showPrice: "428.28",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NC | 线圈电压：DC220V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC220V",
   },
   {
     orderId: "3RT60241BW40",
@@ -573,7 +573,7 @@ const list = [
     price: "475.79",
     showPrice: "475.79",
     remark:
-      "系列：3RT6 | 额定电流：12A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC48V",
+      "Series: 3RT6 | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V",
   },
   {
     orderId: "3RT60181BF42",
@@ -581,7 +581,7 @@ const list = [
     price: "601.84",
     showPrice: "601.84",
     remark:
-      "系列：3RT6 | 额定电流：16A | 极数：3P | 辅助触点：1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 16A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60161KF42",
@@ -589,7 +589,7 @@ const list = [
     price: "455.04",
     showPrice: "455.04",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60271KF40",
@@ -597,7 +597,7 @@ const list = [
     price: "851.39",
     showPrice: "851.39",
     remark:
-      "系列：3RT6 | 额定电流：32A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC110V",
+      "Series: 3RT6 | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V",
   },
   {
     orderId: "3RT60231BW40",
@@ -605,7 +605,7 @@ const list = [
     price: "453.6",
     showPrice: "453.6",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NO+1NC | 线圈电压：DC48V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V",
   },
   {
     orderId: "3RT60161BG42",
@@ -613,7 +613,7 @@ const list = [
     price: "428.28",
     showPrice: "428.28",
     remark:
-      "系列：3RT6 | 额定电流：9A | 极数：3P | 辅助触点：1NC | 线圈电压：DC125V",
+      "Series: 3RT6 | Rated current: 9A | Number of poles: 3P | 辅助触点：1NC | Coil voltage: DC125V",
   },
   {
     orderId: "3RT60181BG41",
@@ -621,7 +621,7 @@ const list = [
     price: "601.84",
     showPrice: "601.84",
     remark:
-      "系列：3RT6 | 额定电流：16A | 极数：3P | 辅助触点：1NO | 线圈电压：DC125V",
+      "Series: 3RT6 | Rated current: 16A | Number of poles: 3P | 辅助触点：1NO | Coil voltage: DC125V",
   },
 ];
 

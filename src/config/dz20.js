@@ -5,7 +5,7 @@ const list = [
     price: "9724",
     showPrice: "9724",
     remark:
-      "系列：DZ20 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1250A",
+      "Series: DZ20 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
   },
   {
     orderId: "710022150300001",
@@ -13,7 +13,7 @@ const list = [
     price: "9724",
     showPrice: "9724",
     remark:
-      "系列：DZ20 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：1000A",
+      "Series: DZ20 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
   },
   {
     orderId: "710022150300800",
@@ -21,7 +21,7 @@ const list = [
     price: "9724",
     showPrice: "9724",
     remark:
-      "系列：DZ20 | 极数：3P | 额定极限分断能力：50kA | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | 壳架电流：1250A | 额定电流：800A",
+      "Series: DZ20 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 800A",
   },
   {
     orderId: "710052000000783",
@@ -29,7 +29,7 @@ const list = [
     price: "2972",
     showPrice: "2972",
     remark:
-      "系列：DZ20 | 极数：3P | 额定极限分断能力：标准型 | 脱扣器类型：热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | 壳架电流：630A | 额定电流：630A | 额定电压：AC380V",
+      "Series: DZ20 | Number of poles: 3P | Rated ultimate breaking capacity: 标准型 | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A | 额定电压：AC380V",
   },
 ];
 export default list;
