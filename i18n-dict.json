@@ -1,0 +1,15 @@
+{
+  "系列：": "Series: ",
+  "相数：": "Number of phases: ",
+  "额定电机功率：": "Rated motor power: ",
+  "壳架电流：": "Frame current: ",
+  "额定电流：": "Rated current: ",
+  "| 极数：": "| Number of poles: ",
+  "| 电源电压：": "| Power supply voltage: ",
+  "| 线圈电压：": "| Coil voltage: ",
+  "| 电机额定功率：": "| Motor rated power: ",
+  "| 额定扭矩：": "| Rated torque: ",
+  "| 额定转速：": "| Rated speed: ",
+  "| 额定极限分断能力：": "| Rated ultimate breaking capacity: ",
+  "| 脱扣器类型：": "| Trip unit type: "
+}
