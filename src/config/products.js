@@ -1,3 +1,6 @@
+import { diffAndMergeLists } from "./../utils/difference";
+import TargetList from "./a-target";
+
 import Tmax from "./tmax";
 import TmaxXT from "./tmax-xt";
 import CVS from "./csv";
@@ -52,8 +55,18 @@ import NB1_63DC from "./nb1-63dc";
 import NB7 from "./nb7";
 import NXB125 from "./nxb-125";
 import nb1_63h from "./nb1-63h";
+import S200 from "./s200";
+import SH200 from "./sh200";
+import S200MDC from "./s200mdc";
+import S200MUC from "./s200muc";
+import S800 from './s800'
 
-export default {
+const obj = {
+  S200,
+  SH200,
+  S800,
+  "S200M DC": S200MDC,
+  "S200M UC": S200MUC,
   "NXB-63": NXB63,
   "NB1-63": NB1_63,
   "NB1-63DC": NB1_63DC,
@@ -109,3 +122,23 @@ export default {
   "S7-300": s7300,
   "S7-400": s7400,
 };
+
+// 统计总共多少产品条目
+// console.log(
+//   "items=",
+//   Object.values(obj).reduce((rs, items) => rs + items.length, 0),
+// );
+
+// 统计新旧列表差异
+// console.log(
+//   "diff:",
+//   diffAndMergeLists({
+//     oldList: TmaxXT,
+//     newList: TargetList,
+//     idKey: "orderId",
+//     compareFields: ["model", "price"],
+//     overwriteFields: ["url", "remark"],
+//     preserveFields: ["showPrice"],
+//   }),
+// );
+export default obj;

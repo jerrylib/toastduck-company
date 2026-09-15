@@ -1,142 +1,154 @@
-import React, { useState } from 'react';
-import {useNavigate } from 'react-router-dom';
-import PRODUCTS from '../config/products';
+import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
+import PRODUCTS from "../config/products";
 
 const ProductList = () => {
-  const [activeTab, setActiveTab] = useState('Chint');
+  const [activeTab, setActiveTab] = useState("Chint");
   const navigate = useNavigate();
 
-  const brands = ['Chint', 'DELIXI', 'ABB', 'Schneider', 'Siemens', 'Panasonic'];
+  const brands = [
+    "Chint",
+    "DELIXI",
+    "ABB",
+    "Schneider",
+    "Siemens",
+    "Panasonic",
+  ];
 
   const productData = {
-    Chint:[
-      { model: 'NM1', type: 'Molded case circuit breaker' },
-      { model: 'NXM', type: 'Molded case circuit breaker' },
-      { model: 'NXB-63G', type: 'Molded case circuit breaker' },
-      { model: 'DZ15', type: 'Molded case circuit breaker' },
-      { model: 'DZ20', type: 'Molded case circuit breaker' },
-      { model: 'NXMS', type: 'Molded case circuit breaker' },
-      { model: 'NXB-63', type: 'Miniature circuit breaker' },
-      { model: 'NB1-63', type: 'Miniature circuit breaker' },
-      { model: 'NB1-63DC', type: 'Miniature circuit breaker' },
-      { model: 'NB7', type: 'Miniature circuit breaker' },
-      { model: 'NXB-125', type: 'Miniature circuit breaker' },
-      { model: 'NB1-63H', type: 'Miniature circuit breaker' },
+    Chint: [
+      { model: "NM1", type: "Molded case circuit breaker" },
+      { model: "NXM", type: "Molded case circuit breaker" },
+      { model: "NXB-63G", type: "Molded case circuit breaker" },
+      { model: "DZ15", type: "Molded case circuit breaker" },
+      { model: "DZ20", type: "Molded case circuit breaker" },
+      { model: "NXMS", type: "Molded case circuit breaker" },
+      { model: "NXB-63", type: "Miniature circuit breaker" },
+      { model: "NB1-63", type: "Miniature circuit breaker" },
+      { model: "NB1-63DC", type: "Miniature circuit breaker" },
+      { model: "NB7", type: "Miniature circuit breaker" },
+      { model: "NXB-125", type: "Miniature circuit breaker" },
+      { model: "NB1-63H", type: "Miniature circuit breaker" },
     ],
-    DELIXI:[
-      { model: 'CDM1', type: 'Molded case circuit breaker' },
-      { model: 'CDM3S', type: 'Molded case circuit breaker' },
-      { model: 'CDM3LS', type: 'Molded case circuit breaker' },
-      { model: 'CDM3E', type: 'Molded case circuit breaker' }
+    DELIXI: [
+      { model: "CDM1", type: "Molded case circuit breaker" },
+      { model: "CDM3S", type: "Molded case circuit breaker" },
+      { model: "CDM3LS", type: "Molded case circuit breaker" },
+      { model: "CDM3E", type: "Molded case circuit breaker" },
     ],
     ABB: [
-      { model: 'Tmax XT', type: 'Molded case circuit breaker' },
-      { model: 'Tmax DC', type: 'Molded case circuit breaker' },
-      { model: 'Tmax', type: 'Molded case circuit breaker'  },
-      { model: 'Formula', type: 'Molded case circuit breaker' },
-      { model: 'Formula M', type: 'Molded case circuit breaker' },
-    {
-        "model": "ACS880",
-        "type": "VFD"
-    },
-    {
-        "model": "ACS580",
-        "type": "VFD"
-    },
-    {
-        "model": "ACS550",
-        "type": "VFD"
-    },
-    {
-        "model": "ACS530",
-        "type": "VFD"
-    },
-    {
-        "model": "ACS510",
-        "type": "VFD"
-    },
-    {
-        "model": "ACS180",
-        "type": "VFD"
-    },
-    {
-        "model": "ACS380",
-        "type": "VFD"
-    }
+      { model: "Tmax XT", type: "Molded case circuit breaker" },
+      { model: "Tmax DC", type: "Molded case circuit breaker" },
+      { model: "Tmax", type: "Molded case circuit breaker" },
+      { model: "Formula", type: "Molded case circuit breaker" },
+      { model: "Formula M", type: "Molded case circuit breaker" },
+      { model: "SH200", type: "Miniature circuit breaker" },
+      { model: "S200", type: "Miniature circuit breaker" },
+      { model: "S200M DC", type: "Miniature circuit breaker" },
+      { model: "S200M UC", type: "Miniature circuit breaker" },
+      { model: "S800", type: "Miniature circuit breaker" },
+      {
+        model: "ACS880",
+        type: "VFD",
+      },
+      {
+        model: "ACS580",
+        type: "VFD",
+      },
+      {
+        model: "ACS550",
+        type: "VFD",
+      },
+      {
+        model: "ACS530",
+        type: "VFD",
+      },
+      {
+        model: "ACS510",
+        type: "VFD",
+      },
+      {
+        model: "ACS180",
+        type: "VFD",
+      },
+      {
+        model: "ACS380",
+        type: "VFD",
+      },
     ],
     Schneider: [
-      { model: 'CVS', type: 'Molded case circuit breaker' },
-      { model: 'LC1D', type: 'AC contactor' },
-    {
-        "model": "ATV12",
-        "type": "VFD"
-    },
-    {
-        "model": "ATV610",
-        "type": "VFD"
-    },
-    {
-        "model": "ATV320",
-        "type": "VFD"
-    },
-    {
-        "model": "ATV600",
-        "type": "VFD"
-    },
-    {
-        "model": "ATV340",
-        "type": "VFD"
-    },
-    {
-        "model": "ATV900",
-        "type": "VFD"
-    },
-    {
-        "model": "ATV630",
-        "type": "VFD"
-    },
-    {
-        "model": "ATV930",
-        "type": "VFD"
-    },
-    {
-        "model": "ATV310A",
-        "type": "VFD"
-    },
-    {
-        "model": "ATV212",
-        "type": "VFD"
-    },
-    {
-        "model": "ATV310E",
-        "type": "VFD"
-    }
+      { model: "CVS", type: "Molded case circuit breaker" },
+      { model: "LC1D", type: "AC contactor" },
+      {
+        model: "ATV12",
+        type: "VFD",
+      },
+      {
+        model: "ATV610",
+        type: "VFD",
+      },
+      {
+        model: "ATV320",
+        type: "VFD",
+      },
+      {
+        model: "ATV600",
+        type: "VFD",
+      },
+      {
+        model: "ATV340",
+        type: "VFD",
+      },
+      {
+        model: "ATV900",
+        type: "VFD",
+      },
+      {
+        model: "ATV630",
+        type: "VFD",
+      },
+      {
+        model: "ATV930",
+        type: "VFD",
+      },
+      {
+        model: "ATV310A",
+        type: "VFD",
+      },
+      {
+        model: "ATV212",
+        type: "VFD",
+      },
+      {
+        model: "ATV310E",
+        type: "VFD",
+      },
     ],
     Siemens: [
-      { model: '3TS' },
-      { model: '3RT20' },
-      { model: '3RT6' },
-      { model: 'S7-1200', type: 'PLC' },
-      { model: 'S7-1200 G2', type: 'PLC' },
-      { model: 'S7-200 SMART', type: 'PLC' },
+      { model: "3TS" },
+      { model: "3RT20" },
+      { model: "3RT6" },
+      { model: "S7-1200", type: "PLC" },
+      { model: "S7-1200 G2", type: "PLC" },
+      { model: "S7-200 SMART", type: "PLC" },
       // { model: 'S7-200 SMART G2', type: 'PLC' },
-      { model: 'S7-1500', type: 'PLC' },
-      { model: 'S7-300', type: 'PLC' },
-      { model: 'S7-400', type: 'PLC' },
-      { model: 'PLC-1500', type: 'PLC' },
+      { model: "S7-1500", type: "PLC" },
+      { model: "S7-300", type: "PLC" },
+      { model: "S7-400", type: "PLC" },
+      { model: "PLC-1500", type: "PLC" },
     ],
-    Panasonic:[
-      {model: 'MINAS A6', type: 'Servo motor'},
-      {model: 'MGM', type: 'Servo motor'},
-      {model: 'MHM', type: 'Servo motor'}
-    ]
+    Panasonic: [
+      { model: "MINAS A6", type: "Servo motor" },
+      { model: "MGM", type: "Servo motor" },
+      { model: "MHM", type: "Servo motor" },
+    ],
   };
 
   const handleClick = (url) => {
     if (url) {
       navigate(url);
     }
-  }
+  };
 
   return (
     <section className="section-lg bg-default mt-[30px]">
@@ -149,8 +161,8 @@ const ProductList = () => {
               onClick={() => setActiveTab(brand)}
               className={`px-4 py-2 md:px-6 md:py-3 text-sm md:text-base font-medium rounded transition-all duration-200 ${
                 activeTab === brand
-                  ? 'bg-sky-700 text-white shadow-md'
-                  : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                  ? "bg-sky-700 text-white shadow-md"
+                  : "bg-gray-100 text-gray-700 hover:bg-gray-200"
               }`}
             >
               {brand}
@@ -163,8 +175,12 @@ const ProductList = () => {
           <table className="w-full border-collapse bg-white shadow-lg rounded-lg overflow-hidden">
             <thead>
               <tr className="bg-sky-700 text-white">
-                <th className="px-4 py-3 text-left text-sm md:text-base font-semibold">Model</th>
-                <th className="px-4 py-3 text-left text-sm md:text-base font-semibold">Type</th>
+                <th className="px-4 py-3 text-left text-sm md:text-base font-semibold">
+                  Model
+                </th>
+                <th className="px-4 py-3 text-left text-sm md:text-base font-semibold">
+                  Type
+                </th>
               </tr>
             </thead>
             <tbody>
@@ -172,11 +188,18 @@ const ProductList = () => {
                 <tr
                   key={product.model}
                   className={`border-b border-gray-100 ${
-                    index % 2 === 0 ? 'bg-gray-50' : 'bg-white'
+                    index % 2 === 0 ? "bg-gray-50" : "bg-white"
                   } hover:bg-sky-50 transition-colors duration-150`}
                 >
-                  <td className={`px-4 py-3 text-sm md:text-base font-medium ${!!PRODUCTS[product.model] ? 'text-blue-600 cursor-pointer underline' : 'text-gray-800'}`} onClick={() => handleClick(product.model)}>
-                    {product.model} (<span className='text-red-400 text-sm-0'>{PRODUCTS[product.model]?.length || 0}</span>)
+                  <td
+                    className={`px-4 py-3 text-sm md:text-base font-medium ${!!PRODUCTS[product.model] ? "text-blue-600 cursor-pointer underline" : "text-gray-800"}`}
+                    onClick={() => handleClick(product.model)}
+                  >
+                    {product.model} (
+                    <span className="text-red-400 text-sm-0">
+                      {PRODUCTS[product.model]?.length || 0}
+                    </span>
+                    )
                   </td>
                   <td className="px-4 py-3 text-sm md:text-base text-gray-600">
                     {product.type}
