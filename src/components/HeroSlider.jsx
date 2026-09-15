@@ -26,7 +26,7 @@ const HeroSlider = () => {
 
   return (
     <section
-      className="swiper-container swiper-slider swiper-slider_full mt-[70px] md:mt-0"
+      className="swiper-container swiper-slider swiper-slider_full mt-[70px]"
       style={{ maxHeight: '70vh' }}
     >
       <div className="swiper-wrapper">
