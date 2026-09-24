@@ -59,9 +59,15 @@ import S200 from "./s200";
 import SH200 from "./sh200";
 import S200MDC from "./s200mdc";
 import S200MUC from "./s200muc";
-import S800 from './s800'
+import S800 from "./s800";
+import JZ7 from "./jz7";
+import JZC1 from "./JZC1";
+import JZC4s from "./JZC4s";
 
 const obj = {
+  JZ7,
+  JZC1,
+  JZC4s,
   S200,
   SH200,
   S800,

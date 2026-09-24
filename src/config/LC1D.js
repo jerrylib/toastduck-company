@@ -5,7 +5,7 @@ const list = [
     price: "124.12",
     showPrice: "124.12",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D25M7C",
@@ -13,7 +13,7 @@ const list = [
     price: "200.68",
     showPrice: "200.68",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18M7C",
@@ -21,7 +21,7 @@ const list = [
     price: "170.34",
     showPrice: "170.34",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D12M7C",
@@ -29,7 +29,7 @@ const list = [
     price: "134.63",
     showPrice: "134.63",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D32M7C",
@@ -37,7 +37,7 @@ const list = [
     price: "271.99",
     showPrice: "271.99",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D09BDC",
@@ -45,7 +45,7 @@ const list = [
     price: "358.02",
     showPrice: "358.02",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | Frequency:-",
   },
   {
     orderId: "LC1D09F7C",
@@ -53,7 +53,7 @@ const list = [
     price: "124.12",
     showPrice: "124.12",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D38M7C",
@@ -61,7 +61,7 @@ const list = [
     price: "306.34",
     showPrice: "306.34",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D09B7C",
@@ -69,7 +69,7 @@ const list = [
     price: "124.12",
     showPrice: "124.12",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D65AM7C",
@@ -77,7 +77,7 @@ const list = [
     price: "615.59",
     showPrice: "615.59",
     remark:
-      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D40AM7C",
@@ -85,7 +85,7 @@ const list = [
     price: "353.26",
     showPrice: "353.26",
     remark:
-      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18BDC",
@@ -93,7 +93,7 @@ const list = [
     price: "499.35",
     showPrice: "499.35",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | Frequency:-",
   },
   {
     orderId: "LC1D12BDC",
@@ -101,7 +101,7 @@ const list = [
     price: "375.5",
     showPrice: "375.5",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | Frequency:-",
   },
   {
     orderId: "LC1D95M7C",
@@ -109,7 +109,7 @@ const list = [
     price: "991.53",
     showPrice: "991.53",
     remark:
-      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D50AM7C",
@@ -117,7 +117,7 @@ const list = [
     price: "485.12",
     showPrice: "485.12",
     remark:
-      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D25BDC",
@@ -125,7 +125,7 @@ const list = [
     price: "576.07",
     showPrice: "576.07",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | Frequency:-",
   },
   {
     orderId: "LC1D32BDC",
@@ -133,7 +133,7 @@ const list = [
     price: "628.54",
     showPrice: "628.54",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | Frequency:-",
   },
   {
     orderId: "LC1D80M7C",
@@ -141,7 +141,7 @@ const list = [
     price: "769.71",
     showPrice: "769.71",
     remark:
-      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D09Q7C",
@@ -149,7 +149,7 @@ const list = [
     price: "124.12",
     showPrice: "124.12",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D32F7C",
@@ -157,7 +157,7 @@ const list = [
     price: "271.99",
     showPrice: "271.99",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D40M7C",
@@ -165,7 +165,7 @@ const list = [
     price: "406.92",
     showPrice: "406.92",
     remark:
-      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D25Q7C",
@@ -173,7 +173,7 @@ const list = [
     price: "200.68",
     showPrice: "200.68",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D12F7C",
@@ -181,7 +181,7 @@ const list = [
     price: "138.5",
     showPrice: "138.5",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D12B7C",
@@ -189,7 +189,7 @@ const list = [
     price: "134.63",
     showPrice: "134.63",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18CC7C",
@@ -197,7 +197,7 @@ const list = [
     price: "175.16",
     showPrice: "175.16",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D65M7C",
@@ -205,7 +205,7 @@ const list = [
     price: "709.09",
     showPrice: "709.09",
     remark:
-      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D12Q7C",
@@ -213,7 +213,7 @@ const list = [
     price: "134.63",
     showPrice: "134.63",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D32CC7C",
@@ -221,7 +221,7 @@ const list = [
     price: "279.77",
     showPrice: "279.77",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D25CC7C",
@@ -229,7 +229,7 @@ const list = [
     price: "216.7",
     showPrice: "216.7",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D65ACC7C",
@@ -237,7 +237,7 @@ const list = [
     price: "615.59",
     showPrice: "615.59",
     remark:
-      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18F7C",
@@ -245,7 +245,7 @@ const list = [
     price: "170.34",
     showPrice: "170.34",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D32Q7C",
@@ -253,7 +253,7 @@ const list = [
     price: "271.99",
     showPrice: "271.99",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18Q7C",
@@ -261,7 +261,7 @@ const list = [
     price: "170.34",
     showPrice: "170.34",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18B7C",
@@ -269,7 +269,7 @@ const list = [
     price: "170.34",
     showPrice: "170.34",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D12CC7C",
@@ -277,7 +277,7 @@ const list = [
     price: "138.5",
     showPrice: "138.5",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D50M7C",
@@ -285,7 +285,7 @@ const list = [
     price: "558.77",
     showPrice: "558.77",
     remark:
-      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D25B7C",
@@ -293,7 +293,7 @@ const list = [
     price: "200.68",
     showPrice: "200.68",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D38CC7C",
@@ -301,7 +301,7 @@ const list = [
     price: "315.07",
     showPrice: "315.07",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D09FDC",
@@ -309,7 +309,7 @@ const list = [
     price: "358.02",
     showPrice: "358.02",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | Frequency:-",
   },
   {
     orderId: "LC1D38E7C",
@@ -317,7 +317,7 @@ const list = [
     price: "315.07",
     showPrice: "315.07",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D258E7C",
@@ -325,7 +325,7 @@ const list = [
     price: "282.03",
     showPrice: "282.03",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D32B7C",
@@ -333,7 +333,7 @@ const list = [
     price: "271.99",
     showPrice: "271.99",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D25E7C",
@@ -341,7 +341,7 @@ const list = [
     price: "216.7",
     showPrice: "216.7",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D09CC7C",
@@ -349,7 +349,7 @@ const list = [
     price: "134.03",
     showPrice: "134.03",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D65AQ7C",
@@ -357,7 +357,7 @@ const list = [
     price: "615.59",
     showPrice: "615.59",
     remark:
-      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D95Q7C",
@@ -365,7 +365,7 @@ const list = [
     price: "991.53",
     showPrice: "991.53",
     remark:
-      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D40AF7C",
@@ -373,7 +373,7 @@ const list = [
     price: "353.26",
     showPrice: "353.26",
     remark:
-      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18E7C",
@@ -381,7 +381,7 @@ const list = [
     price: "175.16",
     showPrice: "175.16",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D38BDC",
@@ -389,7 +389,7 @@ const list = [
     price: "800.16",
     showPrice: "800.16",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | Frequency:-",
   },
   {
     orderId: "LC1D25F7C",
@@ -397,7 +397,7 @@ const list = [
     price: "200.68",
     showPrice: "200.68",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D258M7C",
@@ -405,7 +405,7 @@ const list = [
     price: "295.71",
     showPrice: "295.71",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D09E7C",
@@ -413,7 +413,7 @@ const list = [
     price: "127.66",
     showPrice: "127.66",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D12E7C",
@@ -421,7 +421,7 @@ const list = [
     price: "145.45",
     showPrice: "145.45",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18FDC",
@@ -429,7 +429,7 @@ const list = [
     price: "499.35",
     showPrice: "499.35",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | Frequency:-",
   },
   {
     orderId: "LC1D50AF7C",
@@ -437,7 +437,7 @@ const list = [
     price: "485.12",
     showPrice: "485.12",
     remark:
-      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D40ACC7C",
@@ -445,7 +445,7 @@ const list = [
     price: "381.54",
     showPrice: "381.54",
     remark:
-      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D38Q7C",
@@ -453,7 +453,7 @@ const list = [
     price: "306.34",
     showPrice: "306.34",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D17000Q7C",
@@ -461,7 +461,7 @@ const list = [
     price: "2260.75",
     showPrice: "2260.75",
     remark:
-      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D65AF7C",
@@ -469,7 +469,7 @@ const list = [
     price: "615.59",
     showPrice: "615.59",
     remark:
-      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D40AE7C",
@@ -477,7 +477,7 @@ const list = [
     price: "363.4",
     showPrice: "363.4",
     remark:
-      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D65AE7C",
@@ -485,7 +485,7 @@ const list = [
     price: "615.59",
     showPrice: "615.59",
     remark:
-      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D38B7C",
@@ -493,7 +493,7 @@ const list = [
     price: "315.07",
     showPrice: "315.07",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D50ACC7C",
@@ -501,7 +501,7 @@ const list = [
     price: "485.12",
     showPrice: "485.12",
     remark:
-      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18P7C",
@@ -509,7 +509,7 @@ const list = [
     price: "175.16",
     showPrice: "175.16",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D38F7C",
@@ -517,7 +517,7 @@ const list = [
     price: "306.34",
     showPrice: "306.34",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D32E7C",
@@ -525,7 +525,7 @@ const list = [
     price: "279.77",
     showPrice: "279.77",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D50AB7C",
@@ -533,7 +533,7 @@ const list = [
     price: "498.97",
     showPrice: "498.97",
     remark:
-      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D40AQ7C",
@@ -541,7 +541,7 @@ const list = [
     price: "353.26",
     showPrice: "353.26",
     remark:
-      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT32M7C",
@@ -549,7 +549,7 @@ const list = [
     price: "237.53",
     showPrice: "237.53",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D80Q7C",
@@ -557,7 +557,7 @@ const list = [
     price: "769.71",
     showPrice: "769.71",
     remark:
-      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D50AQ7C",
@@ -565,7 +565,7 @@ const list = [
     price: "485.12",
     showPrice: "485.12",
     remark:
-      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D80CC5C",
@@ -573,7 +573,7 @@ const list = [
     price: "791.72",
     showPrice: "791.72",
     remark:
-      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | 频率：50Hz",
+      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | Frequency:50Hz",
   },
   {
     orderId: "LC1D128E7C",
@@ -581,7 +581,7 @@ const list = [
     price: "184.62",
     showPrice: "184.62",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D258F7C",
@@ -589,7 +589,7 @@ const list = [
     price: "282.03",
     showPrice: "282.03",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D80F7C",
@@ -597,7 +597,7 @@ const list = [
     price: "769.71",
     showPrice: "769.71",
     remark:
-      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D17000Q5CS002",
@@ -605,7 +605,7 @@ const list = [
     price: "2257.55",
     showPrice: "2257.55",
     remark:
-      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC380V | 频率：50Hz",
+      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC380V | Frequency:50Hz",
   },
   {
     orderId: "LC1D80B7C",
@@ -613,7 +613,7 @@ const list = [
     price: "791.72",
     showPrice: "791.72",
     remark:
-      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D15000Q5C",
@@ -621,7 +621,7 @@ const list = [
     price: "2049.15",
     showPrice: "2049.15",
     remark:
-      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC380V | 频率：50Hz",
+      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC380V | Frequency:50Hz",
   },
   {
     orderId: "LC1D50AE7C",
@@ -629,7 +629,7 @@ const list = [
     price: "498.97",
     showPrice: "498.97",
     remark:
-      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D09P7C",
@@ -637,7 +637,7 @@ const list = [
     price: "134.03",
     showPrice: "134.03",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D95B7C",
@@ -645,7 +645,7 @@ const list = [
     price: "1019.87",
     showPrice: "1019.87",
     remark:
-      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D65AB7C",
@@ -653,7 +653,7 @@ const list = [
     price: "633.18",
     showPrice: "633.18",
     remark:
-      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT40M7C",
@@ -661,7 +661,7 @@ const list = [
     price: "282.03",
     showPrice: "282.03",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D186BDC",
@@ -669,7 +669,7 @@ const list = [
     price: "513.6",
     showPrice: "513.6",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | Frequency:-",
   },
   {
     orderId: "LC1D256B7C",
@@ -677,7 +677,7 @@ const list = [
     price: "247.07",
     showPrice: "247.07",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D256M7C",
@@ -685,7 +685,7 @@ const list = [
     price: "206.37",
     showPrice: "206.37",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D150006Q7C",
@@ -693,7 +693,7 @@ const list = [
     price: "2089.27",
     showPrice: "2089.27",
     remark:
-      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D12C7C",
@@ -701,7 +701,7 @@ const list = [
     price: "139.86",
     showPrice: "139.86",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC32V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC32V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D326Q7C",
@@ -709,7 +709,7 @@ const list = [
     price: "313.04",
     showPrice: "313.04",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D256BDC",
@@ -717,7 +717,7 @@ const list = [
     price: "592.54",
     showPrice: "592.54",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | Frequency:-",
   },
   {
     orderId: "LC1D18C7C",
@@ -725,7 +725,7 @@ const list = [
     price: "176.86",
     showPrice: "176.86",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC32V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC32V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D15000M7C",
@@ -733,7 +733,7 @@ const list = [
     price: "2071.4",
     showPrice: "2071.4",
     remark:
-      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D17000M7C",
@@ -741,7 +741,7 @@ const list = [
     price: "2260.75",
     showPrice: "2260.75",
     remark:
-      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D11500M7C",
@@ -749,7 +749,7 @@ const list = [
     price: "1979.47",
     showPrice: "1979.47",
     remark:
-      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D15000Q7C",
@@ -757,7 +757,7 @@ const list = [
     price: "2071.4",
     showPrice: "2071.4",
     remark:
-      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D11500Q7C",
@@ -765,7 +765,7 @@ const list = [
     price: "1996.48",
     showPrice: "1996.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D15000M5C",
@@ -773,7 +773,7 @@ const list = [
     price: "2049.15",
     showPrice: "2049.15",
     remark:
-      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50Hz",
+      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50Hz",
   },
   {
     orderId: "LC1D11500M5C",
@@ -781,7 +781,7 @@ const list = [
     price: "1957.22",
     showPrice: "1957.22",
     remark:
-      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50Hz",
+      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50Hz",
   },
   {
     orderId: "LC1D17000M5CS002",
@@ -789,7 +789,7 @@ const list = [
     price: "2257.55",
     showPrice: "2257.55",
     remark:
-      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50Hz",
+      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50Hz",
   },
   {
     orderId: "LC1D096M7C",
@@ -797,7 +797,7 @@ const list = [
     price: "133.72",
     showPrice: "133.72",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D15000F7C",
@@ -805,7 +805,7 @@ const list = [
     price: "2071.4",
     showPrice: "2071.4",
     remark:
-      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D098M7C",
@@ -813,7 +813,7 @@ const list = [
     price: "167.45",
     showPrice: "167.45",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D096F7C",
@@ -821,7 +821,7 @@ const list = [
     price: "133.72",
     showPrice: "133.72",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D65D7C",
@@ -829,7 +829,7 @@ const list = [
     price: "640.36",
     showPrice: "640.36",
     remark:
-      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18EDC",
@@ -837,7 +837,7 @@ const list = [
     price: "518.58",
     showPrice: "518.58",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V | Frequency:-",
   },
   {
     orderId: "LC1D12EDC",
@@ -845,7 +845,7 @@ const list = [
     price: "390",
     showPrice: "390",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V | Frequency:-",
   },
   {
     orderId: "LC1D09L7C",
@@ -853,7 +853,7 @@ const list = [
     price: "128.89",
     showPrice: "128.89",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC200V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC200V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D95CC5C",
@@ -861,7 +861,7 @@ const list = [
     price: "1019.87",
     showPrice: "1019.87",
     remark:
-      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | 频率：50Hz",
+      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC36V | Frequency:50Hz",
   },
   {
     orderId: "LC1D32P7C",
@@ -869,7 +869,7 @@ const list = [
     price: "279.77",
     showPrice: "279.77",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D170006M7C",
@@ -877,7 +877,7 @@ const list = [
     price: "2280.14",
     showPrice: "2280.14",
     remark:
-      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D32FDC",
@@ -885,7 +885,7 @@ const list = [
     price: "646.48",
     showPrice: "646.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | Frequency:-",
   },
   {
     orderId: "LC1D126F7C",
@@ -893,7 +893,7 @@ const list = [
     price: "145.1",
     showPrice: "145.1",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D326F7C",
@@ -901,7 +901,7 @@ const list = [
     price: "293.13",
     showPrice: "293.13",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D09D7C",
@@ -909,7 +909,7 @@ const list = [
     price: "128.89",
     showPrice: "128.89",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D128M7C",
@@ -917,7 +917,7 @@ const list = [
     price: "182.83",
     showPrice: "182.83",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D17000F7C",
@@ -925,7 +925,7 @@ const list = [
     price: "2260.75",
     showPrice: "2260.75",
     remark:
-      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D50AP7C",
@@ -933,7 +933,7 @@ const list = [
     price: "498.97",
     showPrice: "498.97",
     remark:
-      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT40E7C",
@@ -941,7 +941,7 @@ const list = [
     price: "325.45",
     showPrice: "325.45",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D17000F7CS003",
@@ -949,7 +949,7 @@ const list = [
     price: "2411",
     showPrice: "2411",
     remark:
-      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT25F7C",
@@ -957,7 +957,7 @@ const list = [
     price: "182.83",
     showPrice: "182.83",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT25M7C",
@@ -965,7 +965,7 @@ const list = [
     price: "182.83",
     showPrice: "182.83",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT25B7C",
@@ -973,7 +973,7 @@ const list = [
     price: "184.62",
     showPrice: "184.62",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D11500E7C",
@@ -981,7 +981,7 @@ const list = [
     price: "1996.48",
     showPrice: "1996.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D95E7C",
@@ -989,7 +989,7 @@ const list = [
     price: "991.53",
     showPrice: "991.53",
     remark:
-      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D126M7C",
@@ -997,7 +997,7 @@ const list = [
     price: "158.29",
     showPrice: "158.29",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D128B7C",
@@ -1005,7 +1005,7 @@ const list = [
     price: "169.21",
     showPrice: "169.21",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D25U7C",
@@ -1013,7 +1013,7 @@ const list = [
     price: "218.8",
     showPrice: "218.8",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D32MDC",
@@ -1021,7 +1021,7 @@ const list = [
     price: "646.48",
     showPrice: "646.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V | Frequency:-",
   },
   {
     orderId: "LC1D258B7C",
@@ -1029,7 +1029,7 @@ const list = [
     price: "298.59",
     showPrice: "298.59",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D126BDC",
@@ -1037,7 +1037,7 @@ const list = [
     price: "386.21",
     showPrice: "386.21",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | Frequency:-",
   },
   {
     orderId: "LC1D326BDC",
@@ -1045,7 +1045,7 @@ const list = [
     price: "646.48",
     showPrice: "646.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | Frequency:-",
   },
   {
     orderId: "LC1D25D7C",
@@ -1053,7 +1053,7 @@ const list = [
     price: "218.8",
     showPrice: "218.8",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D098E7C",
@@ -1061,7 +1061,7 @@ const list = [
     price: "169.1",
     showPrice: "169.1",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D188B7C",
@@ -1069,7 +1069,7 @@ const list = [
     price: "251.23",
     showPrice: "251.23",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D11500F7C",
@@ -1077,7 +1077,7 @@ const list = [
     price: "1979.25",
     showPrice: "1979.25",
     remark:
-      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D95F7C",
@@ -1085,7 +1085,7 @@ const list = [
     price: "991.53",
     showPrice: "991.53",
     remark:
-      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D25P7C",
@@ -1093,7 +1093,7 @@ const list = [
     price: "216.7",
     showPrice: "216.7",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D12L7C",
@@ -1101,7 +1101,7 @@ const list = [
     price: "139.86",
     showPrice: "139.86",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC200V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC200V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D40AB7C",
@@ -1109,7 +1109,7 @@ const list = [
     price: "381.54",
     showPrice: "381.54",
     remark:
-      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT25E7C",
@@ -1117,7 +1117,7 @@ const list = [
     price: "184.62",
     showPrice: "184.62",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D25EDC",
@@ -1125,7 +1125,7 @@ const list = [
     price: "598.3",
     showPrice: "598.3",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V | Frequency:-",
   },
   {
     orderId: "LC1D09MDC",
@@ -1133,7 +1133,7 @@ const list = [
     price: "368.24",
     showPrice: "368.24",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V | Frequency:-",
   },
   {
     orderId: "LC1D186F7C",
@@ -1141,7 +1141,7 @@ const list = [
     price: "175.16",
     showPrice: "175.16",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D188E7C",
@@ -1149,7 +1149,7 @@ const list = [
     price: "239.82",
     showPrice: "239.82",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D098B7C",
@@ -1157,7 +1157,7 @@ const list = [
     price: "169.1",
     showPrice: "169.1",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D65AU7C",
@@ -1165,7 +1165,7 @@ const list = [
     price: "658.5",
     showPrice: "658.5",
     remark:
-      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT40B7C",
@@ -1173,7 +1173,7 @@ const list = [
     price: "325.45",
     showPrice: "325.45",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18N7C",
@@ -1181,7 +1181,7 @@ const list = [
     price: "176.86",
     showPrice: "176.86",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC415V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC415V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D12FDC",
@@ -1189,7 +1189,7 @@ const list = [
     price: "386.25",
     showPrice: "386.25",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | Frequency:-",
   },
   {
     orderId: "LC1D256F7C",
@@ -1197,7 +1197,7 @@ const list = [
     price: "235.86",
     showPrice: "235.86",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D09N7C",
@@ -1205,7 +1205,7 @@ const list = [
     price: "135.33",
     showPrice: "135.33",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC415V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC415V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18D7C",
@@ -1213,7 +1213,7 @@ const list = [
     price: "176.86",
     showPrice: "176.86",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D128F7C",
@@ -1221,7 +1221,7 @@ const list = [
     price: "182.83",
     showPrice: "182.83",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D80E7C",
@@ -1229,7 +1229,7 @@ const list = [
     price: "769.71",
     showPrice: "769.71",
     remark:
-      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT40F7C",
@@ -1237,7 +1237,7 @@ const list = [
     price: "322.3",
     showPrice: "322.3",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D188M7C",
@@ -1245,7 +1245,7 @@ const list = [
     price: "237.53",
     showPrice: "237.53",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D38D7C",
@@ -1253,7 +1253,7 @@ const list = [
     price: "318.14",
     showPrice: "318.14",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D096B7C",
@@ -1261,7 +1261,7 @@ const list = [
     price: "133.72",
     showPrice: "133.72",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D09V7C",
@@ -1269,7 +1269,7 @@ const list = [
     price: "135.33",
     showPrice: "135.33",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC400V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC400V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D32N7C",
@@ -1277,7 +1277,7 @@ const list = [
     price: "282.48",
     showPrice: "282.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC415V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC415V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D326M7C",
@@ -1285,7 +1285,7 @@ const list = [
     price: "293.13",
     showPrice: "293.13",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D186M7C",
@@ -1293,7 +1293,7 @@ const list = [
     price: "175.16",
     showPrice: "175.16",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D25N7C",
@@ -1301,7 +1301,7 @@ const list = [
     price: "218.8",
     showPrice: "218.8",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC415V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC415V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT20M7C",
@@ -1309,7 +1309,7 @@ const list = [
     price: "167.45",
     showPrice: "167.45",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D258Q7C",
@@ -1317,7 +1317,7 @@ const list = [
     price: "298.33",
     showPrice: "298.33",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D098F7C",
@@ -1325,7 +1325,7 @@ const list = [
     price: "167.45",
     showPrice: "167.45",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D15000M7CS003",
@@ -1333,7 +1333,7 @@ const list = [
     price: "2275.44",
     showPrice: "2275.44",
     remark:
-      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT32B7C",
@@ -1341,7 +1341,7 @@ const list = [
     price: "239.82",
     showPrice: "239.82",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D80P7C",
@@ -1349,7 +1349,7 @@ const list = [
     price: "791.72",
     showPrice: "791.72",
     remark:
-      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18L7C",
@@ -1357,7 +1357,7 @@ const list = [
     price: "176.86",
     showPrice: "176.86",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC200V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC200V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D386M7C",
@@ -1365,7 +1365,7 @@ const list = [
     price: "315.02",
     showPrice: "315.02",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D09EDC",
@@ -1373,7 +1373,7 @@ const list = [
     price: "371.8",
     showPrice: "371.8",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V | Frequency:-",
   },
   {
     orderId: "LC1D65AP7C",
@@ -1381,7 +1381,7 @@ const list = [
     price: "633.18",
     showPrice: "633.18",
     remark:
-      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 65A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D40AP7C",
@@ -1389,7 +1389,7 @@ const list = [
     price: "381.54",
     showPrice: "381.54",
     remark:
-      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D386F7C",
@@ -1397,7 +1397,7 @@ const list = [
     price: "315.02",
     showPrice: "315.02",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D11500Q5C",
@@ -1405,7 +1405,7 @@ const list = [
     price: "1957.22",
     showPrice: "1957.22",
     remark:
-      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC380V | 频率：50Hz",
+      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC380V | Frequency:50Hz",
   },
   {
     orderId: "LC1D40D7C",
@@ -1413,7 +1413,7 @@ const list = [
     price: "385.9",
     showPrice: "385.9",
     remark:
-      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D38MDC",
@@ -1421,7 +1421,7 @@ const list = [
     price: "800.16",
     showPrice: "800.16",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V | Frequency:-",
   },
   {
     orderId: "LC1D38EDC",
@@ -1429,7 +1429,7 @@ const list = [
     price: "807.94",
     showPrice: "807.94",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V | Frequency:-",
   },
   {
     orderId: "LC1D11500F5C",
@@ -1437,7 +1437,7 @@ const list = [
     price: "1979.25",
     showPrice: "1979.25",
     remark:
-      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC110V | 频率：50Hz",
+      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC110V | Frequency:50Hz",
   },
   {
     orderId: "LC1DT32Q7C",
@@ -1445,7 +1445,7 @@ const list = [
     price: "239.82",
     showPrice: "239.82",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D80U7C",
@@ -1453,7 +1453,7 @@ const list = [
     price: "823.39",
     showPrice: "823.39",
     remark:
-      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 80A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D09U7C",
@@ -1461,7 +1461,7 @@ const list = [
     price: "135.33",
     showPrice: "135.33",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D38P7C",
@@ -1469,7 +1469,7 @@ const list = [
     price: "315.07",
     showPrice: "315.07",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D17000M7CS003",
@@ -1477,7 +1477,7 @@ const list = [
     price: "2260.75",
     showPrice: "2260.75",
     remark:
-      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D38FDC",
@@ -1485,7 +1485,7 @@ const list = [
     price: "800.16",
     showPrice: "800.16",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | Frequency:-",
   },
   {
     orderId: "LC1D32D7C",
@@ -1493,7 +1493,7 @@ const list = [
     price: "282.48",
     showPrice: "282.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D09C7C",
@@ -1501,7 +1501,7 @@ const list = [
     price: "128.89",
     showPrice: "128.89",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC32V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC32V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D12D7C",
@@ -1509,7 +1509,7 @@ const list = [
     price: "139.86",
     showPrice: "139.86",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC42V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D38U7C",
@@ -1517,7 +1517,7 @@ const list = [
     price: "318.14",
     showPrice: "318.14",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D096FDC",
@@ -1525,7 +1525,7 @@ const list = [
     price: "368.28",
     showPrice: "368.28",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | Frequency:-",
   },
   {
     orderId: "LC1D126FDC",
@@ -1533,7 +1533,7 @@ const list = [
     price: "386.21",
     showPrice: "386.21",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | Frequency:-",
   },
   {
     orderId: "LC1D18V7C",
@@ -1541,7 +1541,7 @@ const list = [
     price: "176.86",
     showPrice: "176.86",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC400V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC400V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D25JDC",
@@ -1549,7 +1549,7 @@ const list = [
     price: "598.3",
     showPrice: "598.3",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC12V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC12V | Frequency:-",
   },
   {
     orderId: "LC1D11500B7C",
@@ -1557,7 +1557,7 @@ const list = [
     price: "1996.48",
     showPrice: "1996.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D096BDC",
@@ -1565,7 +1565,7 @@ const list = [
     price: "368.28",
     showPrice: "368.28",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | Frequency:-",
   },
   {
     orderId: "LC1D12MDC",
@@ -1573,7 +1573,7 @@ const list = [
     price: "386.25",
     showPrice: "386.25",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V | Frequency:-",
   },
   {
     orderId: "LC1D09FE7C",
@@ -1581,7 +1581,7 @@ const list = [
     price: "135.33",
     showPrice: "135.33",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC115V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC115V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D12V7C",
@@ -1589,7 +1589,7 @@ const list = [
     price: "146.88",
     showPrice: "146.88",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC400V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC400V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D186Q7C",
@@ -1597,7 +1597,7 @@ const list = [
     price: "175.16",
     showPrice: "175.16",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D25MDC",
@@ -1605,7 +1605,7 @@ const list = [
     price: "592.54",
     showPrice: "592.54",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V | Frequency:-",
   },
   {
     orderId: "LC1D32EDC",
@@ -1613,7 +1613,7 @@ const list = [
     price: "652.77",
     showPrice: "652.77",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC48V | Frequency:-",
   },
   {
     orderId: "LC1D326FDC",
@@ -1621,7 +1621,7 @@ const list = [
     price: "646.48",
     showPrice: "646.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | Frequency:-",
   },
   {
     orderId: "LC1D386Q7C",
@@ -1629,7 +1629,7 @@ const list = [
     price: "315.02",
     showPrice: "315.02",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D38V7C",
@@ -1637,7 +1637,7 @@ const list = [
     price: "318.14",
     showPrice: "318.14",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC400V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC400V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D096Q7C",
@@ -1645,7 +1645,7 @@ const list = [
     price: "133.72",
     showPrice: "133.72",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D126Q7C",
@@ -1653,7 +1653,7 @@ const list = [
     price: "138.5",
     showPrice: "138.5",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D12U7C",
@@ -1661,7 +1661,7 @@ const list = [
     price: "139.86",
     showPrice: "139.86",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D186B7C",
@@ -1669,7 +1669,7 @@ const list = [
     price: "175.16",
     showPrice: "175.16",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D32U7C",
@@ -1677,7 +1677,7 @@ const list = [
     price: "282.48",
     showPrice: "282.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D38FE7C",
@@ -1685,7 +1685,7 @@ const list = [
     price: "318.14",
     showPrice: "318.14",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC115V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC115V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18CDC",
@@ -1693,7 +1693,7 @@ const list = [
     price: "518.58",
     showPrice: "518.58",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC36V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC36V | Frequency:-",
   },
   {
     orderId: "LC1D25FE7C",
@@ -1701,7 +1701,7 @@ const list = [
     price: "218.8",
     showPrice: "218.8",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC115V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC115V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D95U7C",
@@ -1709,7 +1709,7 @@ const list = [
     price: "1060.7",
     showPrice: "1060.7",
     remark:
-      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D115006M5C",
@@ -1717,7 +1717,7 @@ const list = [
     price: "1998.69",
     showPrice: "1998.69",
     remark:
-      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50Hz",
+      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50Hz",
   },
   {
     orderId: "LC1D12FE7C",
@@ -1725,7 +1725,7 @@ const list = [
     price: "146.88",
     showPrice: "146.88",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC115V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC115V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18FE7C",
@@ -1733,7 +1733,7 @@ const list = [
     price: "176.86",
     showPrice: "176.86",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC115V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC115V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D256Q7C",
@@ -1741,7 +1741,7 @@ const list = [
     price: "235.86",
     showPrice: "235.86",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D32FE7C",
@@ -1749,7 +1749,7 @@ const list = [
     price: "282.48",
     showPrice: "282.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC115V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC115V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D186FDC",
@@ -1757,7 +1757,7 @@ const list = [
     price: "513.6",
     showPrice: "513.6",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | Frequency:-",
   },
   {
     orderId: "LC1D326B7C",
@@ -1765,7 +1765,7 @@ const list = [
     price: "293.13",
     showPrice: "293.13",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D32C7C",
@@ -1773,7 +1773,7 @@ const list = [
     price: "282.48",
     showPrice: "282.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC32V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC32V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D38N7C",
@@ -1781,7 +1781,7 @@ const list = [
     price: "318.14",
     showPrice: "318.14",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC415V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC415V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D40AU7C",
@@ -1789,7 +1789,7 @@ const list = [
     price: "396.8",
     showPrice: "396.8",
     remark:
-      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D115006M7C",
@@ -1797,7 +1797,7 @@ const list = [
     price: "1996.48",
     showPrice: "1996.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D256FDC",
@@ -1805,7 +1805,7 @@ const list = [
     price: "592.54",
     showPrice: "592.54",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | Frequency:-",
   },
   {
     orderId: "LC1D18MDC",
@@ -1813,7 +1813,7 @@ const list = [
     price: "513.6",
     showPrice: "513.6",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC220V | Frequency:-",
   },
   {
     orderId: "LC1D25V7C",
@@ -1821,7 +1821,7 @@ const list = [
     price: "218.8",
     showPrice: "218.8",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC400V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC400V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D12P7C",
@@ -1829,7 +1829,7 @@ const list = [
     price: "138.5",
     showPrice: "138.5",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D50AU7C",
@@ -1837,7 +1837,7 @@ const list = [
     price: "518.91",
     showPrice: "518.91",
     remark:
-      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 50A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D95P7C",
@@ -1845,7 +1845,7 @@ const list = [
     price: "1019.87",
     showPrice: "1019.87",
     remark:
-      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 95A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC230V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D126B7C",
@@ -1853,7 +1853,7 @@ const list = [
     price: "145.1",
     showPrice: "145.1",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D386BDC",
@@ -1861,7 +1861,7 @@ const list = [
     price: "800.18",
     showPrice: "800.18",
     remark:
-      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 38A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC24V | Frequency:-",
   },
   {
     orderId: "LC1D15000E5C",
@@ -1869,7 +1869,7 @@ const list = [
     price: "2088.25",
     showPrice: "2088.25",
     remark:
-      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC48V | 频率：50Hz",
+      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC48V | Frequency:50Hz",
   },
   {
     orderId: "LC1D188Q7C",
@@ -1877,7 +1877,7 @@ const list = [
     price: "239.82",
     showPrice: "239.82",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D150006M5C",
@@ -1885,7 +1885,7 @@ const list = [
     price: "2091.52",
     showPrice: "2091.52",
     remark:
-      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50Hz",
+      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50Hz",
   },
   {
     orderId: "LC1DT32F7C",
@@ -1893,7 +1893,7 @@ const list = [
     price: "226.21",
     showPrice: "226.21",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D15000B7C",
@@ -1901,7 +1901,7 @@ const list = [
     price: "2089.27",
     showPrice: "2089.27",
     remark:
-      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D11500E5C",
@@ -1909,7 +1909,7 @@ const list = [
     price: "1979.25",
     showPrice: "1979.25",
     remark:
-      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC48V | 频率：50Hz",
+      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC48V | Frequency:50Hz",
   },
   {
     orderId: "LC1D11500F7CS003",
@@ -1917,7 +1917,7 @@ const list = [
     price: "2111.05",
     showPrice: "2111.05",
     remark:
-      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT20F7C",
@@ -1925,7 +1925,7 @@ const list = [
     price: "167.45",
     showPrice: "167.45",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D128Q7C",
@@ -1933,7 +1933,7 @@ const list = [
     price: "192.3",
     showPrice: "192.3",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT20Q7C",
@@ -1941,7 +1941,7 @@ const list = [
     price: "169.1",
     showPrice: "169.1",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT25Q7C",
@@ -1949,7 +1949,7 @@ const list = [
     price: "184.62",
     showPrice: "184.62",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT40Q7C",
@@ -1957,7 +1957,7 @@ const list = [
     price: "284.77",
     showPrice: "284.77",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D098Q7C",
@@ -1965,7 +1965,7 @@ const list = [
     price: "169.1",
     showPrice: "169.1",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D11500M7CS003",
@@ -1973,7 +1973,7 @@ const list = [
     price: "2111.05",
     showPrice: "2111.05",
     remark:
-      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 115A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1DT20B7C",
@@ -1981,7 +1981,7 @@ const list = [
     price: "169.1",
     showPrice: "169.1",
     remark:
-      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 9A | Number of poles: 4P | 主触点类型：4NO | 辅助触点：1NO+1NC | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D17000E7C",
@@ -1989,7 +1989,7 @@ const list = [
     price: "2280.14",
     showPrice: "2280.14",
     remark:
-      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D15000F7CS003",
@@ -1997,7 +1997,7 @@ const list = [
     price: "2209.17",
     showPrice: "2209.17",
     remark:
-      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D150006M7C",
@@ -2005,7 +2005,7 @@ const list = [
     price: "2089.27",
     showPrice: "2089.27",
     remark:
-      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D17000B7C",
@@ -2013,7 +2013,7 @@ const list = [
     price: "2280.14",
     showPrice: "2280.14",
     remark:
-      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC24V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC24V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D25FDC",
@@ -2021,7 +2021,7 @@ const list = [
     price: "592.54",
     showPrice: "592.54",
     remark:
-      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | 频率：-",
+      "Series: 国产Tesys-D | Rated current: 25A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: DC110V | Frequency:-",
   },
   {
     orderId: "LC1D12N7C",
@@ -2029,7 +2029,7 @@ const list = [
     price: "139.86",
     showPrice: "139.86",
     remark:
-      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC415V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 12A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC415V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D40Q7C",
@@ -2037,7 +2037,7 @@ const list = [
     price: "406.92",
     showPrice: "406.92",
     remark:
-      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 40A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC380V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D18U7C",
@@ -2045,7 +2045,7 @@ const list = [
     price: "176.86",
     showPrice: "176.86",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC240V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D188F7C",
@@ -2053,7 +2053,7 @@ const list = [
     price: "237.53",
     showPrice: "237.53",
     remark:
-      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC110V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 18A | Number of poles: 4P | 主触点类型：2NO+2NC | 辅助触点：1NO+1NC | Coil voltage: AC110V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D15000E7C",
@@ -2061,7 +2061,7 @@ const list = [
     price: "2089.27",
     showPrice: "2089.27",
     remark:
-      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC48V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 150A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC48V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D32V7C",
@@ -2069,7 +2069,7 @@ const list = [
     price: "282.48",
     showPrice: "282.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC400V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC400V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D32L7C",
@@ -2077,7 +2077,7 @@ const list = [
     price: "282.48",
     showPrice: "282.48",
     remark:
-      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC200V | 频率：50/60Hz",
+      "Series: 国产Tesys-D | Rated current: 32A | Number of poles: 3P | 辅助触点：1NO+1NC | Coil voltage: AC200V | Frequency:50/60Hz",
   },
   {
     orderId: "LC1D170006M5C",
@@ -2085,7 +2085,7 @@ const list = [
     price: "2231.25",
     showPrice: "2231.25",
     remark:
-      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | 频率：50Hz",
+      "Series: 国产Tesys-D | Rated current: 170A | Number of poles: 3P | 辅助触点：- | Coil voltage: AC220V | Frequency:50Hz",
   },
 ];
 export default list;

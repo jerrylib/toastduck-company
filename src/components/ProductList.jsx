@@ -35,6 +35,9 @@ const ProductList = () => {
       { model: "CDM3S", type: "Molded case circuit breaker" },
       { model: "CDM3LS", type: "Molded case circuit breaker" },
       { model: "CDM3E", type: "Molded case circuit breaker" },
+      { model: "JZ7", type: "Contactor Relay" },
+      { model: "JZC1", type: "Contactor Relay" },
+      { model: "JZC4s", type: "Contactor Relay" },
     ],
     ABB: [
       { model: "Tmax XT", type: "Molded case circuit breaker" },
