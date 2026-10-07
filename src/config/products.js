@@ -63,8 +63,12 @@ import S800 from "./s800";
 import JZ7 from "./jz7";
 import JZC1 from "./JZC1";
 import JZC4s from "./JZC4s";
+import HMI from './HMI'
+import NXC from './nxc'
 
 const obj = {
+  NXC,
+  HMI,
   JZ7,
   JZC1,
   JZC4s,

@@ -29,6 +29,7 @@ const ProductList = () => {
       { model: "NB7", type: "Miniature circuit breaker" },
       { model: "NXB-125", type: "Miniature circuit breaker" },
       { model: "NB1-63H", type: "Miniature circuit breaker" },
+      { model: "NXC", type: "Miniature circuit breaker" },
     ],
     DELIXI: [
       { model: "CDM1", type: "Molded case circuit breaker" },
@@ -139,6 +140,7 @@ const ProductList = () => {
       { model: "S7-300", type: "PLC" },
       { model: "S7-400", type: "PLC" },
       { model: "PLC-1500", type: "PLC" },
+      { model: "HMI", type: "touchscreen" },
     ],
     Panasonic: [
       { model: "MINAS A6", type: "Servo motor" },
