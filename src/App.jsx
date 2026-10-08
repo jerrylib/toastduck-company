@@ -16,6 +16,7 @@ import {
   ProductList,
   Tmax,
 } from "./components";
+import SeoSync from "./components/SeoSync";
 import "./App.css";
 
 import { HashRedirect } from "./HashRedirect";
@@ -76,6 +77,7 @@ function WhatsappButton() {
 function App() {
   return (
     <Router>
+      <SeoSync />
       <Preloader />
       <div className="page w-full m-0 p-0 pt-[70px] md:pt-0">
         <Header />
