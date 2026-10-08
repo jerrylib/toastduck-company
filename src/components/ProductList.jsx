@@ -129,8 +129,8 @@ const ProductList = () => {
       },
     ],
     Siemens: [
-      { model: "3TS" },
-      { model: "3RT20" },
+      { model: "3TS", type: "Contactor" },
+      { model: "3RT20", type: "Power Contactor" },
       { model: "3RT6" },
       { model: "S7-1200", type: "PLC" },
       { model: "S7-1200 G2", type: "PLC" },
