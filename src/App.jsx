@@ -43,14 +43,15 @@ function ProductsButton() {
   );
 }
 
-function WhatsappButton() {
-  const WHATSAPP_NUMBER = "8613459831691";
+function WhatsappButton(props) {
+  const WHATSAPP_NUMBER = props.number;
 
   const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}`;
   return (
     <button
+      title={`Chat on WhatsApp: ${WHATSAPP_NUMBER}`}
       onClick={() => window.open(WHATSAPP_URL, "_blank")}
-      className="ui-to-top-whatsapp"
+      className={`ui-to-top-whatsapp ${props.passClassName || ""}`}
       aria-label="Chat on WhatsApp"
     >
       <svg
@@ -93,7 +94,8 @@ function App() {
       </div>
       <Modal />
       <div className="snackbars" id="form-output-global"></div>
-      <WhatsappButton />
+      <WhatsappButton number="8613459831691" passClassName="bottom-[210px]" />
+      <WhatsappButton number="8613859190905" />
       <ProductsButton />
     </Router>
   );
