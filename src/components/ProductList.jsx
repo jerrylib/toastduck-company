@@ -3,9 +3,6 @@ import { useNavigate } from "react-router-dom";
 import PRODUCTS from "../config/products";
 
 const ProductList = () => {
-  const [activeTab, setActiveTab] = useState("Chint");
-  const navigate = useNavigate();
-
   const brands = [
     "Chint",
     "DELIXI",
@@ -14,6 +11,14 @@ const ProductList = () => {
     "Siemens",
     "Panasonic",
   ];
+
+  // 从 sessionStorage 恢复上次选中的标签，校验合法性后回退到默认值
+  const STORAGE_KEY = "productList.activeTab";
+  const [activeTab, setActiveTab] = useState(() => {
+    const saved = sessionStorage.getItem(STORAGE_KEY);
+    return brands.includes(saved) ? saved : "Chint";
+  });
+  const navigate = useNavigate();
 
   const productData = {
     Chint: [
@@ -155,6 +160,11 @@ const ProductList = () => {
     }
   };
 
+  const handleTabClick = (brand) => {
+    setActiveTab(brand);
+    sessionStorage.setItem(STORAGE_KEY, brand);
+  };
+
   return (
     <section className="section-lg bg-default mt-[30px]">
       <div className="container mx-auto px-4">
@@ -163,7 +173,7 @@ const ProductList = () => {
           {brands.map((brand) => (
             <button
               key={brand}
-              onClick={() => setActiveTab(brand)}
+              onClick={() => handleTabClick(brand)}
               className={`px-4 py-2 md:px-6 md:py-3 text-sm md:text-base font-medium rounded transition-all duration-200 ${
                 activeTab === brand
                   ? "bg-sky-700 text-white shadow-md"
