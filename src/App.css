@@ -33,9 +33,6 @@
   @media (max-width: 575.98px) {
     .ui-to-top-products {
       right: 15px;
-      bottom: 75px;
-      width: 50px;
-      height: 50px;
     }
   }
 
@@ -69,9 +66,6 @@
   @media (max-width: 575.98px) {
     .ui-to-top-whatsapp {
       right: 15px;
-      bottom: 75px;
-      width: 50px;
-      height: 50px;
     }
   }
 }
