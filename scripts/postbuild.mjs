@@ -79,11 +79,11 @@ function writeHtml(relativePath, html) {
 
 function buildSitemap(productRoutes) {
   const urls = [];
-  urls.push({ loc: `${SITE_URL}/`, priority: "1.0", changefreq: "weekly" });
-  urls.push({ loc: `${SITE_URL}/news`, priority: "0.8", changefreq: "daily" });
-  urls.push({ loc: `${SITE_URL}/products`, priority: "0.9", changefreq: "weekly" });
+  urls.push({ loc: `${SITE_URL}/`, priority: "0.1", changefreq: "weekly" });
+  urls.push({ loc: `${SITE_URL}/news`, priority: "0.1", changefreq: "daily" });
+  urls.push({ loc: `${SITE_URL}/products`, priority: "0.1", changefreq: "weekly" });
   for (const r of productRoutes) {
-    urls.push({ loc: r.url, priority: "0.7", changefreq: "weekly" });
+    urls.push({ loc: r.url, priority: "1.0", changefreq: "weekly" });
   }
   const lastmod = today();
   const body = urls
