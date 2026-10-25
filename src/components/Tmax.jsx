@@ -1,4 +1,4 @@
-import React, { useMemo, useEffect } from "react";
+import React, { useMemo, useEffect, useState } from "react";
 import { useParams, Link, useSearchParams } from "react-router-dom";
 import PRODUCTS from "../config/products";
 
@@ -33,18 +33,56 @@ const formatPrice = (price, showPrice) => {
   );
 };
 
+// 模糊匹配：在 orderId / model / specification（remark 按 | 分割）中查找关键词
+const matchesKeyword = (item, keyword) => {
+  if (!keyword) return true;
+  const kw = keyword.toLowerCase();
+  const orderId = (item.orderId || "").toLowerCase();
+  const model = (item.model || "").toLowerCase();
+  const spec = (item.remark || "")
+    .split("|")
+    .map((line) => line.trim())
+    .join(" ")
+    .toLowerCase();
+  return (
+    orderId.includes(kw) || model.includes(kw) || spec.includes(kw)
+  );
+};
+
 const Tmax = () => {
   const { type } = useParams();
-  const [searchParams] = useSearchParams();
+  const [searchParams, setSearchParams] = useSearchParams();
+  // 当前放大预览的图片地址；null 表示关闭预览
+  const [previewUrl, setPreviewUrl] = useState(null);
+  // 搜索关键词（模糊匹配 orderId / model / specification）
+  const [keyword, setKeyword] = useState("");
+
+  // 打开 / 关闭图片放大预览
+  const openPreview = (url) => setPreviewUrl(url);
+  const closePreview = () => setPreviewUrl(null);
 
   const filtered = useMemo(() => PRODUCTS[type] || [], [type]);
+
+  // 关键词变化时回到第 1 页，避免停留在超出搜索结果范围的页码
+  useEffect(() => {
+    if (keyword.trim()) {
+      setSearchParams({}, { replace: true });
+    }
+  }, [keyword, setSearchParams]);
+
+  // 按关键词过滤后的完整数据集
+  const searched = useMemo(() => {
+    const kw = keyword.trim().toLowerCase();
+    if (!kw) return filtered;
+    return filtered.filter((item) => matchesKeyword(item, kw));
+  }, [filtered, keyword]);
 
   // 从 URL 读取当前页码（?page=N），无参数或非法值时默认第 1 页
   const parsedPage = parseInt(searchParams.get("page"), 10);
   const urlPage =
     Number.isInteger(parsedPage) && parsedPage >= 1 ? parsedPage : 1;
 
-  const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+  const totalPages = Math.max(1, Math.ceil(searched.length / PAGE_SIZE));
   // 钳制到有效范围，防止地址栏键入超出总页数的值
   const currentPage = Math.min(urlPage, totalPages);
 
@@ -59,8 +97,8 @@ const Tmax = () => {
   // 计算当前页切片数据
   const currentData = useMemo(() => {
     const start = (currentPage - 1) * PAGE_SIZE;
-    return filtered.slice(start, start + PAGE_SIZE);
-  }, [filtered, currentPage]);
+    return searched.slice(start, start + PAGE_SIZE);
+  }, [searched, currentPage]);
 
   // 生成分页链接地址：第 1 页不带 ?page=，其余页带 ?page=N
   const getPageUrl = (page) => {
@@ -83,11 +121,11 @@ const Tmax = () => {
   return (
     <section className="section-lg bg-default mt-[30px]">
       <div className="container mx-auto px-4">
-        {/* Header */}
-        <div className="text-left mb-8">
+        {/* Header：Back 按钮靠左，搜索框居中，同一行 */}
+        <div className="relative mb-4 flex items-center justify-center">
           <Link
             to="/products"
-            className="group inline-flex items-center text-sm font-medium text-gray-500 hover:text-gray-900 transition-colors"
+            className="absolute left-0 flex items-center text-sm font-medium text-gray-500 hover:text-gray-900 transition-colors"
           >
             <svg
               className="w-4 h-4 mr-1.5 transition-transform duration-200 group-hover:-translate-x-1"
@@ -104,6 +142,38 @@ const Tmax = () => {
             </svg>
             Back
           </Link>
+          <div className="relative w-full max-w-md">
+            <svg
+              className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400 pointer-events-none"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
+                d="M21 21l-4.35-4.35M17 10a7 7 0 11-14 0 7 7 0 0114 0z"
+              />
+            </svg>
+            <input
+              type="text"
+              value={keyword}
+              onChange={(e) => setKeyword(e.target.value)}
+              placeholder="Search by OrderId / Model / Specification..."
+              className="w-full pl-10 pr-9 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-sky-500"
+            />
+            {keyword && (
+              <button
+                type="button"
+                onClick={() => setKeyword("")}
+                className="absolute right-2.5 top-1/2 -translate-y-1/2 flex items-center justify-center w-5 h-5 rounded-full text-gray-400 hover:text-gray-700 hover:bg-gray-100 transition-colors"
+                aria-label="Clear search"
+              >
+                &times;
+              </button>
+            )}
+          </div>
         </div>
 
         {/* Table */}
@@ -111,20 +181,20 @@ const Tmax = () => {
           <table className="w-full border-collapse bg-white shadow-lg rounded-lg overflow-hidden">
             <thead>
               <tr className="bg-sky-700 text-white">
-                <th className="px-4 py-3 text-left text-sm md:text-base font-semibold">
+                <th className="px-3 py-2 text-left text-xs md:text-sm font-semibold">
                   Thumbnail
                 </th>
-                <th className="px-4 py-3 text-left text-sm md:text-base font-semibold">
+                <th className="px-3 py-2 text-left text-xs md:text-sm font-semibold">
                   OrderId
                 </th>
-                <th className="px-4 py-3 text-left text-sm md:text-base font-semibold">
+                <th className="px-3 py-2 text-left text-xs md:text-sm font-semibold">
                   Model
                 </th>
-                <th className="px-4 py-3 text-left text-sm md:text-base font-semibold">
+                <th className="px-3 py-2 text-left text-xs md:text-sm font-semibold">
                   Specification
                 </th>
-                <th className="px-4 py-3 text-right text-sm md:text-base font-semibold whitespace-nowrap">
-                  Price (RMB/pcs)
+                <th className="px-3 py-2 text-right text-xs md:text-sm font-semibold whitespace-nowrap">
+                  Price (CNY/pcs)
                 </th>
               </tr>
             </thead>
@@ -137,27 +207,34 @@ const Tmax = () => {
                       index % 2 === 0 ? "bg-gray-50" : "bg-white"
                     } hover:bg-sky-50 transition-colors duration-150`}
                   >
-                    <td className="px-4 py-3 text-sm md:text-base text-gray-600 font-mono">
-                      <img
-                        className="max-w-80"
-                        src={item.url}
-                        alt="thumbnail"
-                      />
+                    <td className="px-3 py-1.5">
+                      <button
+                        type="button"
+                        onClick={() => openPreview(item.url)}
+                        className="block cursor-zoom-in focus:outline-none"
+                        title="Click to enlarge"
+                      >
+                        <img
+                          className="max-w-24 h-auto rounded border border-gray-200"
+                          src={item.url}
+                          alt="thumbnail"
+                        />
+                      </button>
                     </td>
-                    <td className="px-4 py-3 text-sm md:text-base text-gray-600 font-mono">
+                    <td className="px-3 py-1.5 text-xs md:text-sm text-gray-600 font-mono whitespace-nowrap">
                       {item.orderId}
                     </td>
-                    <td className="px-4 py-3 text-sm md:text-base font-semibold text-gray-800 whitespace-nowrap">
+                    <td className="px-3 py-1.5 text-xs md:text-sm font-semibold text-gray-800 whitespace-nowrap">
                       {item.model}
                     </td>
-                    <td className="px-4 py-3 text-sm md:text-base text-gray-600 font-mono">
+                    <td className="px-3 py-1.5 text-xs md:text-sm text-gray-600 font-mono">
                       {item.remark?.split("|").map((line, idx) => (
                         <div key={idx} className="whitespace-nowrap">
                           {line.trim()}
                         </div>
                       ))}
                     </td>
-                    <td className="px-4 py-3 text-sm md:text-base text-right whitespace-nowrap">
+                    <td className="px-3 py-1.5 text-xs md:text-sm text-right whitespace-nowrap">
                       {formatPrice(item.price, item.showPrice)}
                     </td>
                   </tr>
@@ -184,9 +261,9 @@ const Tmax = () => {
               </span>{" "}
               to{" "}
               <span className="font-medium">
-                {Math.min(currentPage * PAGE_SIZE, filtered.length)}
+                {Math.min(currentPage * PAGE_SIZE, searched.length)}
               </span>{" "}
-              of <span className="font-medium">{filtered.length}</span> results
+              of <span className="font-medium">{searched.length}</span> results
             </div>
 
             {/* 右侧：页码列表控制区 */}
@@ -277,6 +354,31 @@ const Tmax = () => {
           Prices are for reference only. For actual quotes, please contact us.
         </p>
       </div>
+
+      {/* 图片放大预览 Lightbox */}
+      {previewUrl && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/70 p-4"
+          onClick={closePreview}
+          role="dialog"
+          aria-modal="true"
+        >
+          <button
+            type="button"
+            onClick={closePreview}
+            className="absolute top-4 right-4 flex items-center justify-center w-10 h-10 rounded-full bg-white/20 text-white text-2xl leading-none hover:bg-white/40 transition-colors"
+            aria-label="Close"
+          >
+            &times;
+          </button>
+          <img
+            src={previewUrl}
+            alt="preview"
+            className="max-h-[90vh] max-w-[90vw] object-contain rounded-lg shadow-2xl"
+            onClick={(e) => e.stopPropagation()}
+          />
+        </div>
+      )}
     </section>
   );
 };

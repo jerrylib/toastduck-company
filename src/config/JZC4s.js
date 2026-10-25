@@ -5,7 +5,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC380V/400V | Frequency:50Hz | 触点类型：2NO+2NC",
+      "Series: JZC4s | Coil voltage: AC380V/400V | Frequency:50Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -13,7 +13,7 @@ const list = [
     model: "JZC4s-22 24V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC24V | Frequency:50Hz | 触点类型：2NO+2NC",
+    remark: "Series: JZC4s | Coil voltage: AC24V | Frequency:50Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -21,7 +21,7 @@ const list = [
     model: "JZC4s-31 24V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC24V | Frequency:50Hz | 触点类型：3NO+1NC",
+    remark: "Series: JZC4s | Coil voltage: AC24V | Frequency:50Hz | Contact type：3NO+1NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -30,7 +30,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50/60Hz | 触点类型：2NO+2NC",
+      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50/60Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -39,7 +39,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50Hz | 触点类型：2NO+2NC",
+      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -48,7 +48,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC380V/400V | Frequency:50/60Hz | 触点类型：4NO",
+      "Series: JZC4s | Coil voltage: AC380V/400V | Frequency:50/60Hz | Contact type：4NO",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -56,7 +56,7 @@ const list = [
     model: "JZC4s-22 36V 50/60Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC36V | Frequency:50/60Hz | 触点类型：2NO+2NC",
+    remark: "Series: JZC4s | Coil voltage: AC36V | Frequency:50/60Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -64,7 +64,7 @@ const list = [
     model: "JZC4s-22 36V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC36V | Frequency:50Hz | 触点类型：2NO+2NC",
+    remark: "Series: JZC4s | Coil voltage: AC36V | Frequency:50Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -73,7 +73,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50Hz | 触点类型：3NO+1NC",
+      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50Hz | Contact type：3NO+1NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -82,7 +82,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50/60Hz | 触点类型：1NO+3NC",
+      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50/60Hz | Contact type：1NO+3NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -90,7 +90,7 @@ const list = [
     model: "JZC4s-22 48V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC48V | Frequency:50Hz | 触点类型：2NO+2NC",
+    remark: "Series: JZC4s | Coil voltage: AC48V | Frequency:50Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -98,7 +98,7 @@ const list = [
     model: "JZC4s-40 36V 50/60Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC36V | Frequency:50/60Hz | 触点类型：4NO",
+    remark: "Series: JZC4s | Coil voltage: AC36V | Frequency:50/60Hz | Contact type：4NO",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -107,7 +107,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC440V | Frequency:50/60Hz | 触点类型：2NO+2NC",
+      "Series: JZC4s | Coil voltage: AC440V | Frequency:50/60Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -115,7 +115,7 @@ const list = [
     model: "JZC4s-04 220V/230V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50Hz | 触点类型：4NC",
+    remark: "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50Hz | Contact type：4NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -123,7 +123,7 @@ const list = [
     model: "JZC4s-40 110V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC110V | Frequency:50Hz | 触点类型：4NO",
+    remark: "Series: JZC4s | Coil voltage: AC110V | Frequency:50Hz | Contact type：4NO",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -131,7 +131,7 @@ const list = [
     model: "JZC4s-40 110V 50/60Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC110V | Frequency:50/60Hz | 触点类型：4NO",
+    remark: "Series: JZC4s | Coil voltage: AC110V | Frequency:50/60Hz | Contact type：4NO",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -139,7 +139,7 @@ const list = [
     model: "JZC4s-31 24V 50/60Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC24V | Frequency:50/60Hz | 触点类型：3NO+1NC",
+    remark: "Series: JZC4s | Coil voltage: AC24V | Frequency:50/60Hz | Contact type：3NO+1NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -147,7 +147,7 @@ const list = [
     model: "JZC4s-04 110V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC110V | Frequency:50Hz | 触点类型：4NC",
+    remark: "Series: JZC4s | Coil voltage: AC110V | Frequency:50Hz | Contact type：4NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -156,7 +156,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50/60Hz | 触点类型：4NO",
+      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50/60Hz | Contact type：4NO",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -164,7 +164,7 @@ const list = [
     model: "JZC4s-40 36V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC36V | Frequency:50Hz | 触点类型：4NO",
+    remark: "Series: JZC4s | Coil voltage: AC36V | Frequency:50Hz | Contact type：4NO",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -172,7 +172,7 @@ const list = [
     model: "JZC4s-22 127V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC127V | Frequency:50Hz | 触点类型：2NO+2NC",
+    remark: "Series: JZC4s | Coil voltage: AC127V | Frequency:50Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -181,7 +181,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50/60Hz | 触点类型：3NO+1NC",
+      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50/60Hz | Contact type：3NO+1NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -189,7 +189,7 @@ const list = [
     model: "JZC4s-40 240V 50/60Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC240V | Frequency:50/60Hz | 触点类型：4NO",
+    remark: "Series: JZC4s | Coil voltage: AC240V | Frequency:50/60Hz | Contact type：4NO",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -198,7 +198,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC415V | Frequency:50/60Hz | 触点类型：2NO+2NC",
+      "Series: JZC4s | Coil voltage: AC415V | Frequency:50/60Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -207,7 +207,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC240V | Frequency:50/60Hz | 触点类型：2NO+2NC",
+      "Series: JZC4s | Coil voltage: AC240V | Frequency:50/60Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -216,7 +216,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC110V | Frequency:50/60Hz | 触点类型：2NO+2NC",
+      "Series: JZC4s | Coil voltage: AC110V | Frequency:50/60Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -225,7 +225,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC380V/400V | Frequency:50/60Hz | 触点类型：2NO+2NC",
+      "Series: JZC4s | Coil voltage: AC380V/400V | Frequency:50/60Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -233,7 +233,7 @@ const list = [
     model: "JZC4s-22 24V 50/60Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC24V | Frequency:50/60Hz | 触点类型：2NO+2NC",
+    remark: "Series: JZC4s | Coil voltage: AC24V | Frequency:50/60Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -241,7 +241,7 @@ const list = [
     model: "JZC4s-31 36V 50/60Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC36V | Frequency:50/60Hz | 触点类型：3NO+1NC",
+    remark: "Series: JZC4s | Coil voltage: AC36V | Frequency:50/60Hz | Contact type：3NO+1NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -249,7 +249,7 @@ const list = [
     model: "JZC4s-31 127V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC127V | Frequency:50Hz | 触点类型：3NO+1NC",
+    remark: "Series: JZC4s | Coil voltage: AC127V | Frequency:50Hz | Contact type：3NO+1NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -258,7 +258,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50/60Hz | 触点类型：4NC",
+      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50/60Hz | Contact type：4NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -267,7 +267,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC127V | Frequency:50/60Hz | 触点类型：2NO+2NC",
+      "Series: JZC4s | Coil voltage: AC127V | Frequency:50/60Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -276,7 +276,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC380V/400V | Frequency:50/60Hz | 触点类型：3NO+1NC",
+      "Series: JZC4s | Coil voltage: AC380V/400V | Frequency:50/60Hz | Contact type：3NO+1NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -285,7 +285,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC240V | Frequency:50/60Hz | 触点类型：3NO+1NC",
+      "Series: JZC4s | Coil voltage: AC240V | Frequency:50/60Hz | Contact type：3NO+1NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -293,7 +293,7 @@ const list = [
     model: "JZC4s-13 24V 50/60Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC24V | Frequency:50/60Hz | 触点类型：1NO+3NC",
+    remark: "Series: JZC4s | Coil voltage: AC24V | Frequency:50/60Hz | Contact type：1NO+3NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -302,7 +302,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC110V | Frequency:50/60Hz | 触点类型：3NO+1NC",
+      "Series: JZC4s | Coil voltage: AC110V | Frequency:50/60Hz | Contact type：3NO+1NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -310,7 +310,7 @@ const list = [
     model: "JZC4s-04 380V/400V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC380V/400V | Frequency:50Hz | 触点类型：4NC",
+    remark: "Series: JZC4s | Coil voltage: AC380V/400V | Frequency:50Hz | Contact type：4NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -318,7 +318,7 @@ const list = [
     model: "JZC4s-22 240V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC240V | Frequency:50Hz | 触点类型：2NO+2NC",
+    remark: "Series: JZC4s | Coil voltage: AC240V | Frequency:50Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -326,7 +326,7 @@ const list = [
     model: "JZC4s-40 24V 50/60Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC24V | Frequency:50/60Hz | 触点类型：4NO",
+    remark: "Series: JZC4s | Coil voltage: AC24V | Frequency:50/60Hz | Contact type：4NO",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -334,7 +334,7 @@ const list = [
     model: "JZC4s-40 24V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC24V | Frequency:50Hz | 触点类型：4NO",
+    remark: "Series: JZC4s | Coil voltage: AC24V | Frequency:50Hz | Contact type：4NO",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -343,7 +343,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50Hz | 触点类型：1NO+3NC",
+      "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50Hz | Contact type：1NO+3NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -351,7 +351,7 @@ const list = [
     model: "JZC4s-31 36V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC36V | Frequency:50Hz | 触点类型：3NO+1NC",
+    remark: "Series: JZC4s | Coil voltage: AC36V | Frequency:50Hz | Contact type：3NO+1NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -359,7 +359,7 @@ const list = [
     model: "JZC4s-40 220V/230V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50Hz | 触点类型：4NO",
+    remark: "Series: JZC4s | Coil voltage: AC220V/230V | Frequency:50Hz | Contact type：4NO",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -367,7 +367,7 @@ const list = [
     model: "JZC4s-31 110V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC110V | Frequency:50Hz | 触点类型：3NO+1NC",
+    remark: "Series: JZC4s | Coil voltage: AC110V | Frequency:50Hz | Contact type：3NO+1NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -376,7 +376,7 @@ const list = [
     price: "93.76",
     showPrice: "93.76",
     remark:
-      "Series: JZC4s | Coil voltage: AC380V/400V | Frequency:50Hz | 触点类型：3NO+1NC",
+      "Series: JZC4s | Coil voltage: AC380V/400V | Frequency:50Hz | Contact type：3NO+1NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -384,7 +384,7 @@ const list = [
     model: "JZC4s-40 380V/400V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC380V/400V | Frequency:50Hz | 触点类型：4NO",
+    remark: "Series: JZC4s | Coil voltage: AC380V/400V | Frequency:50Hz | Contact type：4NO",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
   {
@@ -392,7 +392,7 @@ const list = [
     model: "JZC4s-22 110V 50Hz RoHS",
     price: "93.76",
     showPrice: "93.76",
-    remark: "Series: JZC4s | Coil voltage: AC110V | Frequency:50Hz | 触点类型：2NO+2NC",
+    remark: "Series: JZC4s | Coil voltage: AC110V | Frequency:50Hz | Contact type：2NO+2NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207980/24/16886/57554/6205e45aE30956da2/d69f4df6e57921d1.jpg.avif",
   },
 ];

@@ -5,7 +5,7 @@ const list = [
     price: "223.98",
     showPrice: "223.98",
     remark:
-      "Series: S200M DC | Rated current: 10A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 10A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/310747/18/5273/18648/68385afdFafe3ee54/40e6a85583c71f7b.jpg.avif",
   },
   {
@@ -14,7 +14,7 @@ const list = [
     price: "306.29",
     showPrice: "306.29",
     remark:
-      "Series: S200M DC | Rated current: 6A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 6A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/101520/18/47855/20675/65e712ebFbab15c72/50bc9c4c1ee02eac.jpg.avif",
   },
   {
@@ -23,7 +23,7 @@ const list = [
     price: "354.18",
     showPrice: "354.18",
     remark:
-      "Series: S200M DC | Rated current: 1A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 1A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -32,7 +32,7 @@ const list = [
     price: "253.19",
     showPrice: "253.19",
     remark:
-      "Series: S200M DC | Rated current: 25A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 25A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/312755/38/5201/22967/68384e9eFf8312d4c/363b092f25be0cf9.jpg.avif",
   },
   {
@@ -41,7 +41,7 @@ const list = [
     price: "223.98",
     showPrice: "223.98",
     remark:
-      "Series: S200M DC | Rated current: 16A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 16A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/321315/21/4840/15358/68385affFf340b575/e711aa5ba3ec352a.jpg.avif",
   },
   {
@@ -50,7 +50,7 @@ const list = [
     price: "347.32",
     showPrice: "347.32",
     remark:
-      "Series: S200M DC | Rated current: 4A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 4A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/321315/21/4840/15358/68385affFf340b575/e711aa5ba3ec352a.jpg.avif",
   },
   {
@@ -59,7 +59,7 @@ const list = [
     price: "348.64",
     showPrice: "348.64",
     remark:
-      "Series: S200M DC | Rated current: 2A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 2A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/320315/19/4954/22967/68384e9eFf57e9dcb/2e51a2ff580d2165.jpg.avif",
   },
   {
@@ -68,7 +68,7 @@ const list = [
     price: "102.65",
     showPrice: "102.65",
     remark:
-      "Series: S200M DC | Rated current: 10A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 10A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/318124/24/4932/13022/68384e9cF9d76e2ff/fa4ccc324ec8d635.jpg.avif",
   },
   {
@@ -77,7 +77,7 @@ const list = [
     price: "156.07",
     showPrice: "156.07",
     remark:
-      "Series: S200M DC | Rated current: 4A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 4A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -86,7 +86,7 @@ const list = [
     price: "362.11",
     showPrice: "362.11",
     remark:
-      "Series: S200M DC | Rated current: 50A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 50A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/345399/40/6112/26207/68d10b68F6667ddf4/8b5c42a9d68237f6.jpg.avif",
   },
   {
@@ -95,7 +95,7 @@ const list = [
     price: "253.19",
     showPrice: "253.19",
     remark:
-      "Series: S200M DC | Rated current: 32A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 32A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/275670/37/25739/31573/6808d8a1F86d43ca9/7a04a74e97511ad9.jpg.avif",
   },
   {
@@ -104,7 +104,7 @@ const list = [
     price: "139.46",
     showPrice: "139.46",
     remark:
-      "Series: S200M DC | Rated current: 6A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 6A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/316666/29/4855/13022/68384e9dFc46e2e0a/4e3df6ef16ee8d66.jpg.avif",
   },
   {
@@ -113,7 +113,7 @@ const list = [
     price: "342.04",
     showPrice: "342.04",
     remark:
-      "Series: S200M DC | Rated current: 6A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 6A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -122,7 +122,7 @@ const list = [
     price: "223.98",
     showPrice: "223.98",
     remark:
-      "Series: S200M DC | Rated current: 20A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 20A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/306646/9/5284/22967/68384e9eF01a049b7/aac4630b2caac4c0.jpg.avif",
   },
   {
@@ -131,7 +131,7 @@ const list = [
     price: "185.89",
     showPrice: "185.89",
     remark:
-      "Series: S200M DC | Rated current: 63A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 63A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/313078/7/5266/13022/68384e9cFd72ae5ea/7bc9f7ee9e9ca0d4.jpg.avif",
   },
   {
@@ -140,7 +140,7 @@ const list = [
     price: "433.41",
     showPrice: "433.41",
     remark:
-      "Series: S200M DC | Rated current: 2A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 2A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -149,7 +149,7 @@ const list = [
     price: "394.32",
     showPrice: "394.32",
     remark:
-      "Series: S200M DC | Rated current: 63A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 63A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/276883/38/26672/22042/6808d8a2F251bccf6/9d875779b9c5cf8f.jpg.avif",
   },
   {
@@ -158,7 +158,7 @@ const list = [
     price: "340.96",
     showPrice: "340.96",
     remark:
-      "Series: S200M DC | Rated current: 3A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 3A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/426884/34/6835/21320/69f06454F483f6671/07113203208f2e47.jpg.avif",
   },
   {
@@ -167,7 +167,7 @@ const list = [
     price: "306.29",
     showPrice: "306.29",
     remark:
-      "Series: S200M DC | Rated current: 40A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 40A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/299345/32/11554/22967/68384e9fFa7b30885/c63a593658fab761.jpg.avif",
   },
   {
@@ -176,7 +176,7 @@ const list = [
     price: "433.41",
     showPrice: "433.41",
     remark:
-      "Series: S200M DC | Rated current: 4A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 4A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -185,7 +185,7 @@ const list = [
     price: "258.59",
     showPrice: "258.59",
     remark:
-      "Series: S200M DC | Rated current: 10A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 10A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -194,7 +194,7 @@ const list = [
     price: "192.83",
     showPrice: "192.83",
     remark:
-      "Series: S200M DC | Rated current: 2A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 2A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -203,7 +203,7 @@ const list = [
     price: "102.65",
     showPrice: "102.65",
     remark:
-      "Series: S200M DC | Rated current: 20A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 20A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/136803/13/48557/11792/670d0ae3F18012849/741fc8671edf3320.jpg.avif",
   },
   {
@@ -212,7 +212,7 @@ const list = [
     price: "115.42",
     showPrice: "115.42",
     remark:
-      "Series: S200M DC | Rated current: 32A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 32A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/428778/20/1377/11641/69f06453F08d9f481/0711320320092bfc.jpg.avif",
   },
   {
@@ -221,7 +221,7 @@ const list = [
     price: "321.82",
     showPrice: "321.82",
     remark:
-      "Series: S200M DC | Rated current: 16A | Number of poles: 2P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 16A | Number of poles: 2P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -230,7 +230,7 @@ const list = [
     price: "284.1",
     showPrice: "284.1",
     remark:
-      "Series: S200M DC | Rated current: 25A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 25A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -239,7 +239,7 @@ const list = [
     price: "170.6",
     showPrice: "170.6",
     remark:
-      "Series: S200M DC | Rated current: 50A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 50A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -248,7 +248,7 @@ const list = [
     price: "112.18",
     showPrice: "112.18",
     remark:
-      "Series: S200M DC | Rated current: 20A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 20A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -257,7 +257,7 @@ const list = [
     price: "411.14",
     showPrice: "411.14",
     remark:
-      "Series: S200M DC | Rated current: 50A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 50A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -266,7 +266,7 @@ const list = [
     price: "112.18",
     showPrice: "112.18",
     remark:
-      "Series: S200M DC | Rated current: 10A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 10A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -275,7 +275,7 @@ const list = [
     price: "258.59",
     showPrice: "258.59",
     remark:
-      "Series: S200M DC | Rated current: 20A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 20A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -284,7 +284,7 @@ const list = [
     price: "284.1",
     showPrice: "284.1",
     remark:
-      "Series: S200M DC | Rated current: 32A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 32A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -293,7 +293,7 @@ const list = [
     price: "102.65",
     showPrice: "102.65",
     remark:
-      "Series: S200M DC | Rated current: 16A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 16A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -302,7 +302,7 @@ const list = [
     price: "129.59",
     showPrice: "129.59",
     remark:
-      "Series: S200M DC | Rated current: 10A | Number of poles: 1P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 10A | Number of poles: 1P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -311,7 +311,7 @@ const list = [
     price: "152.6",
     showPrice: "152.6",
     remark:
-      "Series: S200M DC | Rated current: 6A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 6A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -320,7 +320,7 @@ const list = [
     price: "115.42",
     showPrice: "115.42",
     remark:
-      "Series: S200M DC | Rated current: 25A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 25A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -329,7 +329,7 @@ const list = [
     price: "154.96",
     showPrice: "154.96",
     remark:
-      "Series: S200M DC | Rated current: 3A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 3A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -338,7 +338,7 @@ const list = [
     price: "258.59",
     showPrice: "258.59",
     remark:
-      "Series: S200M DC | Rated current: 16A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 16A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -347,7 +347,7 @@ const list = [
     price: "159.41",
     showPrice: "159.41",
     remark:
-      "Series: S200M DC | Rated current: 1A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 1A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -356,7 +356,7 @@ const list = [
     price: "158",
     showPrice: "158",
     remark:
-      "Series: S200M DC | Rated current: 2A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 2A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/421251/1/18947/11641/69f06452F87c61dc6/0711320320826927.jpg.avif",
   },
   {
@@ -365,7 +365,7 @@ const list = [
     price: "433.41",
     showPrice: "433.41",
     remark:
-      "Series: S200M DC | Rated current: 3A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 3A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/383808/1/21684/16769/6966f7f9F0eeefefb/07113203206783a0.jpg.avif",
   },
   {
@@ -374,7 +374,7 @@ const list = [
     price: "192.83",
     showPrice: "192.83",
     remark:
-      "Series: S200M DC | Rated current: 1A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 1A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -383,7 +383,7 @@ const list = [
     price: "443.61",
     showPrice: "443.61",
     remark:
-      "Series: S200M DC | Rated current: 4A | Number of poles: 2P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 4A | Number of poles: 2P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -392,7 +392,7 @@ const list = [
     price: "588.58",
     showPrice: "588.58",
     remark:
-      "Series: S200M DC | Rated current: 63A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 63A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/109713/13/26985/32455/625eec9bEd3541a92/4f05d162e4fabfee.jpg.avif",
   },
   {
@@ -401,7 +401,7 @@ const list = [
     price: "386.85",
     showPrice: "386.85",
     remark:
-      "Series: S200M DC | Rated current: 6A | Number of poles: 2P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 6A | Number of poles: 2P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -410,7 +410,7 @@ const list = [
     price: "175.89",
     showPrice: "175.89",
     remark:
-      "Series: S200M DC | Rated current: 6A | Number of poles: 1P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 6A | Number of poles: 1P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -419,7 +419,7 @@ const list = [
     price: "549.9",
     showPrice: "549.9",
     remark:
-      "Series: S200M DC | Rated current: 50A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 50A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/109713/13/26985/32455/625eec9bEd3541a92/4f05d162e4fabfee.jpg.avif",
   },
   {
@@ -428,7 +428,7 @@ const list = [
     price: "471.75",
     showPrice: "471.75",
     remark:
-      "Series: S200M DC | Rated current: 40A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 40A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/109713/13/26985/32455/625eec9bEd3541a92/4f05d162e4fabfee.jpg.avif",
   },
   {
@@ -437,7 +437,7 @@ const list = [
     price: "139.46",
     showPrice: "139.46",
     remark:
-      "Series: S200M DC | Rated current: 40A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 40A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -446,7 +446,7 @@ const list = [
     price: "125.41",
     showPrice: "125.41",
     remark:
-      "Series: S200M DC | Rated current: 32A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 32A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -455,7 +455,7 @@ const list = [
     price: "195.86",
     showPrice: "195.86",
     remark:
-      "Series: S200M DC | Rated current: 3A | Number of poles: 1P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 3A | Number of poles: 1P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -464,7 +464,7 @@ const list = [
     price: "176.69",
     showPrice: "176.69",
     remark:
-      "Series: S200M DC | Rated current: 16A | Number of poles: 1P | 脱扣特性：Z | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 16A | Number of poles: 1P | Trip characteristic：Z | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -473,7 +473,7 @@ const list = [
     price: "428.59",
     showPrice: "428.59",
     remark:
-      "Series: S200M DC | Rated current: 63A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 63A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -482,7 +482,7 @@ const list = [
     price: "391.56",
     showPrice: "391.56",
     remark:
-      "Series: S200MDC | Rated current: 10A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200MDC | Rated current: 10A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/109713/13/26985/32455/625eec9bEd3541a92/4f05d162e4fabfee.jpg.avif",
   },
   {
@@ -491,7 +491,7 @@ const list = [
     price: "152.6",
     showPrice: "152.6",
     remark:
-      "Series: S200M DC | Rated current: 40A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 40A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -500,7 +500,7 @@ const list = [
     price: "428.32",
     showPrice: "428.32",
     remark:
-      "Series: S200M DC | Rated current: 16A | Number of poles: 2P | 脱扣特性：Z | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 16A | Number of poles: 2P | Trip characteristic：Z | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -509,7 +509,7 @@ const list = [
     price: "330.74",
     showPrice: "330.74",
     remark:
-      "Series: S200M DC | Rated current: 32A | Number of poles: 2P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 32A | Number of poles: 2P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -518,7 +518,7 @@ const list = [
     price: "112.18",
     showPrice: "112.18",
     remark:
-      "Series: S200M DC | Rated current: 16A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 16A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -527,7 +527,7 @@ const list = [
     price: "213.88",
     showPrice: "213.88",
     remark:
-      "Series: S200M DC | Rated current: 6A | Number of poles: 1P | 脱扣特性：Z | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 6A | Number of poles: 1P | Trip characteristic：Z | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -536,7 +536,7 @@ const list = [
     price: "422.58",
     showPrice: "422.58",
     remark:
-      "Series: S200M DC | Rated current: 32A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 32A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/109713/13/26985/32455/625eec9bEd3541a92/4f05d162e4fabfee.jpg.avif",
   },
   {
@@ -545,7 +545,7 @@ const list = [
     price: "330.74",
     showPrice: "330.74",
     remark:
-      "Series: S200M DC | Rated current: 25A | Number of poles: 2P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 25A | Number of poles: 2P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -554,7 +554,7 @@ const list = [
     price: "443.61",
     showPrice: "443.61",
     remark:
-      "Series: S200M DC | Rated current: 2A | Number of poles: 2P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 2A | Number of poles: 2P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -563,7 +563,7 @@ const list = [
     price: "660.49",
     showPrice: "660.49",
     remark:
-      "Series: S200M DC | Rated current: 40A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 40A | Number of poles: 4P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/195324/13/23179/35853/625eec9dE6630f591/3f7f26d1efa87fbe.jpg.avif",
   },
   {
@@ -572,7 +572,7 @@ const list = [
     price: "613.12",
     showPrice: "613.12",
     remark:
-      "Series: S200M DC | Rated current: 40A | Number of poles: 3P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 40A | Number of poles: 3P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/109713/13/26985/32455/625eec9bEd3541a92/4f05d162e4fabfee.jpg.avif",
   },
   {
@@ -581,7 +581,7 @@ const list = [
     price: "282.5",
     showPrice: "282.5",
     remark:
-      "Series: S200M DC | Rated current: 10A | Number of poles: 2P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 10A | Number of poles: 2P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -590,7 +590,7 @@ const list = [
     price: "321.82",
     showPrice: "321.82",
     remark:
-      "Series: S200M DC | Rated current: 20A | Number of poles: 2P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 20A | Number of poles: 2P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -599,7 +599,7 @@ const list = [
     price: "550.77",
     showPrice: "550.77",
     remark:
-      "Series: S200MDC | Rated current: 50A | Number of poles: 2P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200MDC | Rated current: 50A | Number of poles: 2P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -608,7 +608,7 @@ const list = [
     price: "547.47",
     showPrice: "547.47",
     remark:
-      "Series: S200M DC | Rated current: 32A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 32A | Number of poles: 4P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/195324/13/23179/35853/625eec9dE6630f591/3f7f26d1efa87fbe.jpg.avif",
   },
   {
@@ -617,7 +617,7 @@ const list = [
     price: "443.61",
     showPrice: "443.61",
     remark:
-      "Series: S200M DC | Rated current: 3A | Number of poles: 2P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 3A | Number of poles: 2P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -626,7 +626,7 @@ const list = [
     price: "181.3",
     showPrice: "181.3",
     remark:
-      "Series: S200M DC | Rated current: 50A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 50A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -635,7 +635,7 @@ const list = [
     price: "566.75",
     showPrice: "566.75",
     remark:
-      "Series: S200M DC | Rated current: 3A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 3A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/109713/13/26985/32455/625eec9bEd3541a92/4f05d162e4fabfee.jpg.avif",
   },
   {
@@ -644,7 +644,7 @@ const list = [
     price: "129.59",
     showPrice: "129.59",
     remark:
-      "Series: S200M DC | Rated current: 16A | Number of poles: 1P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 16A | Number of poles: 1P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -653,7 +653,7 @@ const list = [
     price: "764",
     showPrice: "764",
     remark:
-      "Series: S200M DC | Rated current: 50A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 50A | Number of poles: 4P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/195324/13/23179/35853/625eec9dE6630f591/3f7f26d1efa87fbe.jpg.avif",
   },
   {
@@ -662,7 +662,7 @@ const list = [
     price: "125.41",
     showPrice: "125.41",
     remark:
-      "Series: S200M DC | Rated current: 25A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 25A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -671,7 +671,7 @@ const list = [
     price: "176.69",
     showPrice: "176.69",
     remark:
-      "Series: S200M DC | Rated current: 10A | Number of poles: 1P | 脱扣特性：Z | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 10A | Number of poles: 1P | Trip characteristic：Z | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -680,7 +680,7 @@ const list = [
     price: "385.69",
     showPrice: "385.69",
     remark:
-      "Series: S200M DC | Rated current: 40A | Number of poles: 2P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 40A | Number of poles: 2P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -689,7 +689,7 @@ const list = [
     price: "346.24",
     showPrice: "346.24",
     remark:
-      "Series: S200M DC | Rated current: 40A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 40A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -698,7 +698,7 @@ const list = [
     price: "391.56",
     showPrice: "391.56",
     remark:
-      "Series: S200M DC | Rated current: 20A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 20A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/109713/13/26985/32455/625eec9bEd3541a92/4f05d162e4fabfee.jpg.avif",
   },
   {
@@ -707,7 +707,7 @@ const list = [
     price: "312.1",
     showPrice: "312.1",
     remark:
-      "Series: S200M DC | Rated current: 0.5A | Number of poles: 1P | 脱扣特性：Z | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 0.5A | Number of poles: 1P | Trip characteristic：Z | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -716,7 +716,7 @@ const list = [
     price: "159.41",
     showPrice: "159.41",
     remark:
-      "Series: S200M DC | Rated current: 0.5A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 0.5A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -725,7 +725,7 @@ const list = [
     price: "159.41",
     showPrice: "159.41",
     remark:
-      "Series: S200M DC | Rated current: 0.5A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 0.5A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -734,7 +734,7 @@ const list = [
     price: "599.9",
     showPrice: "599.9",
     remark:
-      "Series: S200M DC | Rated current: 63A | Number of poles: 2P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 63A | Number of poles: 2P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -743,7 +743,7 @@ const list = [
     price: "566.75",
     showPrice: "566.75",
     remark:
-      "Series: S200M DC | Rated current: 2A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 2A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/109713/13/26985/32455/625eec9bEd3541a92/4f05d162e4fabfee.jpg.avif",
   },
   {
@@ -752,7 +752,7 @@ const list = [
     price: "199.2",
     showPrice: "199.2",
     remark:
-      "Series: S200M DC | Rated current: 2A | Number of poles: 1P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 2A | Number of poles: 1P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -761,7 +761,7 @@ const list = [
     price: "146.1",
     showPrice: "146.1",
     remark:
-      "Series: S200M DC | Rated current: 32A | Number of poles: 1P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 32A | Number of poles: 1P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -770,7 +770,7 @@ const list = [
     price: "549.29",
     showPrice: "549.29",
     remark:
-      "Series: S200M DC | Rated current: 32A | Number of poles: 3P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 32A | Number of poles: 3P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/109713/13/26985/32455/625eec9bEd3541a92/4f05d162e4fabfee.jpg.avif",
   },
   {
@@ -779,7 +779,7 @@ const list = [
     price: "192.83",
     showPrice: "192.83",
     remark:
-      "Series: S200M DC | Rated current: 4A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 4A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -788,7 +788,7 @@ const list = [
     price: "192.83",
     showPrice: "192.83",
     remark:
-      "Series: S200M DC | Rated current: 3A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 3A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -797,7 +797,7 @@ const list = [
     price: "433.41",
     showPrice: "433.41",
     remark:
-      "Series: S200M DC | Rated current: 1A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 1A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197087/16/22971/29036/625eec99E928bee6a/7fcd8cadf79cd60f.jpg.avif",
   },
   {
@@ -806,7 +806,7 @@ const list = [
     price: "386.85",
     showPrice: "386.85",
     remark:
-      "Series: S200M DC | Rated current: 8A | Number of poles: 2P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 8A | Number of poles: 2P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/173124/29/28245/29036/6205d114E4ee4be3c/471b82213ef5ee61.jpg.avif",
   },
   {
@@ -815,7 +815,7 @@ const list = [
     price: "296.95",
     showPrice: "296.95",
     remark:
-      "Series: S200M DC | Rated current: 3A | Number of poles: 1P | 脱扣特性：Z | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 3A | Number of poles: 1P | Trip characteristic：Z | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -824,7 +824,7 @@ const list = [
     price: "202.59",
     showPrice: "202.59",
     remark:
-      "Series: S200M DC | Rated current: 63A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 63A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
   {
@@ -833,7 +833,7 @@ const list = [
     price: "471.75",
     showPrice: "471.75",
     remark:
-      "Series: S200M DC | Rated current: 6A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 6A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/109713/13/26985/32455/625eec9bEd3541a92/4f05d162e4fabfee.jpg.avif",
   },
   {
@@ -842,7 +842,7 @@ const list = [
     price: "175.89",
     showPrice: "175.89",
     remark:
-      "Series: S200M DC | Rated current: 40A | Number of poles: 1P | 脱扣特性：K | 额定分断能力：10kA",
+      "Series: S200M DC | Rated current: 40A | Number of poles: 1P | Trip characteristic：K | Rated breaking capacity：10kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/127558/26/21215/20427/625eec98E2889b447/1bce9121bf07f33c.jpg.avif",
   },
 ];

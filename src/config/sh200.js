@@ -5,7 +5,7 @@ const list = [
     price: "52.47",
     showPrice: "52.47",
     remark:
-      "Series: SH200 | Rated current: 16A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 16A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/220028/18/40223/11334/6645f7a4F0ea2dcbd/02592d4e7ed931a1.jpg.avif",
   },
   {
@@ -14,7 +14,7 @@ const list = [
     price: "52.47",
     showPrice: "52.47",
     remark:
-      "Series: SH200 | Rated current: 10A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 10A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/210559/22/43016/12298/6645f7a1Fc737d4b7/e4d6e4a36594eb69.jpg.avif",
   },
   {
@@ -23,7 +23,7 @@ const list = [
     price: "128.94",
     showPrice: "128.94",
     remark:
-      "Series: SH200 | Rated current: 10A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 10A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126099/3/44613/24088/663f259cFdac96589/fdf4e9774e939af4.jpg.avif",
   },
   {
@@ -32,7 +32,7 @@ const list = [
     price: "316.76",
     showPrice: "316.76",
     remark:
-      "Series: SH200 | Rated current: 63A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 63A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/70908/25/25933/25106/6523b5bbF7fa6b505/07f201682e34b00b.jpg.avif",
   },
   {
@@ -41,7 +41,7 @@ const list = [
     price: "71.47",
     showPrice: "71.47",
     remark:
-      "Series: SH200 | Rated current: 6A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 6A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/165251/18/39919/13099/6523b5b0F31763fab/091a95f6dc5f7c61.jpg.avif",
   },
   {
@@ -50,7 +50,7 @@ const list = [
     price: "172.4",
     showPrice: "172.4",
     remark:
-      "Series: SH200 | Rated current: 6A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 6A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/173379/13/42097/14677/6523b5b7F630bdc1f/08a3a703acf41a26.jpg.avif",
   },
   {
@@ -59,7 +59,7 @@ const list = [
     price: "59.84",
     showPrice: "59.84",
     remark:
-      "Series: SH200 | Rated current: 32A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 32A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/182980/4/39145/9501/6523b5aeFd67188b3/4a5c2799d0c71e86.jpg.avif",
   },
   {
@@ -68,7 +68,7 @@ const list = [
     price: "59.84",
     showPrice: "59.84",
     remark:
-      "Series: SH200 | Rated current: 25A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 25A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/204042/30/36111/10207/6523b5adF6609c284/e7d7a2f1ee46a98c.jpg.avif",
   },
   {
@@ -77,7 +77,7 @@ const list = [
     price: "52.47",
     showPrice: "52.47",
     remark:
-      "Series: SH200 | Rated current: 20A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 20A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/243945/14/5263/12941/65e7de9aF1de0a2c3/f969dd98c72b61f4.jpg.avif",
   },
   {
@@ -86,7 +86,7 @@ const list = [
     price: "221.94",
     showPrice: "221.94",
     remark:
-      "Series: SH200 | Rated current: 32A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 32A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/70908/25/25933/25106/6523b5bbF7fa6b505/07f201682e34b00b.jpg.avif",
   },
   {
@@ -95,7 +95,7 @@ const list = [
     price: "268.7",
     showPrice: "268.7",
     remark:
-      "Series: SH200 | Rated current: 10A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 10A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/103010/23/29156/39418/625eeaa4Ec187b2cd/59a450ab4f7ca6ee.jpg.avif",
   },
   {
@@ -104,7 +104,7 @@ const list = [
     price: "128.94",
     showPrice: "128.94",
     remark:
-      "Series: SH200 | Rated current: 16A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 16A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/7718/29/23770/15737/6523b5b2F1b33ec49/c4c4ce41ea8bb8db.jpg.avif",
   },
   {
@@ -113,7 +113,7 @@ const list = [
     price: "208.13",
     showPrice: "208.13",
     remark:
-      "Series: SH200 | Rated current: 63A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 63A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122837/10/40771/13194/65e7deb1F37a4555a/a1ad0efc3b4a588c.jpg.avif",
   },
   {
@@ -122,7 +122,7 @@ const list = [
     price: "205.78",
     showPrice: "205.78",
     remark:
-      "Series: SH200 | Rated current: 10A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 10A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/99797/4/39282/25106/65e7deb8F7794db33/906ae2b5cafe3fb0.jpg.avif",
   },
   {
@@ -131,7 +131,7 @@ const list = [
     price: "142.42",
     showPrice: "142.42",
     remark:
-      "Series: SH200 | Rated current: 32A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 32A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/220349/24/41238/19786/663f25a1Fcb705f6a/02c13d8fa8f1c5f7.jpg.avif",
   },
   {
@@ -140,7 +140,7 @@ const list = [
     price: "128.94",
     showPrice: "128.94",
     remark:
-      "Series: SH200 | Rated current: 20A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 20A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/99857/38/33142/16701/6523b5b4F1dde7fd9/dd122c1c00a74d97.jpg.avif",
   },
   {
@@ -149,7 +149,7 @@ const list = [
     price: "268.7",
     showPrice: "268.7",
     remark:
-      "Series: SH200 | Rated current: 16A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 16A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/204150/39/40333/33212/66bcbabcF1e3a1319/35e09f82315882e8.jpg.avif",
   },
   {
@@ -158,7 +158,7 @@ const list = [
     price: "302.91",
     showPrice: "302.91",
     remark:
-      "Series: SH200 | Rated current: 40A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 40A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/181176/8/39304/25988/6523b5bfFd95b787c/51b46fa88c2bb1ed.jpg.avif",
   },
   {
@@ -167,7 +167,7 @@ const list = [
     price: "425.92",
     showPrice: "425.92",
     remark:
-      "Series: SH200 | Rated current: 63A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 63A | Number of poles: 4P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/109862/39/27084/26694/6523b5c2F28615204/b582e4bf4765fb85.jpg.avif",
   },
   {
@@ -176,7 +176,7 @@ const list = [
     price: "221.94",
     showPrice: "221.94",
     remark:
-      "Series: SH200 | Rated current: 25A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 25A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/99797/4/39282/25106/65e7deb8F7794db33/906ae2b5cafe3fb0.jpg.avif",
   },
   {
@@ -185,7 +185,7 @@ const list = [
     price: "205.78",
     showPrice: "205.78",
     remark:
-      "Series: SH200 | Rated current: 20A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 20A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/241598/11/5510/21410/65e7debcFe657eb36/ecee3aadc74c89f5.jpg.avif",
   },
   {
@@ -194,7 +194,7 @@ const list = [
     price: "262.39",
     showPrice: "262.39",
     remark:
-      "Series: SH200 | Rated current: 40A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 40A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/220611/39/36014/21650/6523b5bdF72773558/62ad70213b93a755.jpg.avif",
   },
   {
@@ -203,7 +203,7 @@ const list = [
     price: "297.62",
     showPrice: "297.62",
     remark:
-      "Series: SH200 | Rated current: 50A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 50A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/99797/4/39282/25106/65e7deb8F7794db33/906ae2b5cafe3fb0.jpg.avif",
   },
   {
@@ -212,7 +212,7 @@ const list = [
     price: "142.42",
     showPrice: "142.42",
     remark:
-      "Series: SH200 | Rated current: 25A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 25A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/210396/2/35708/16705/6523b5b6F9b97d2cd/b26ba6ccc433d32f.jpg.avif",
   },
   {
@@ -221,7 +221,7 @@ const list = [
     price: "294.87",
     showPrice: "294.87",
     remark:
-      "Series: SH200 | Rated current: 32A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 32A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/66720/5/26079/33998/66bcbac1F57c936d5/cd49271e82979d53.jpg.avif",
   },
   {
@@ -230,7 +230,7 @@ const list = [
     price: "352.6",
     showPrice: "352.6",
     remark:
-      "Series: SH200 | Rated current: 50A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 50A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/67855/25/27417/65416/66bcbac4F5e2eea70/9291be1068df93d2.jpg.avif",
   },
   {
@@ -239,7 +239,7 @@ const list = [
     price: "174.31",
     showPrice: "174.31",
     remark:
-      "Series: SH200 | Rated current: 40A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 40A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/158413/24/39432/17994/65e7deadF153fd914/db6f253b8652733d.jpg.avif",
   },
   {
@@ -248,7 +248,7 @@ const list = [
     price: "293.5",
     showPrice: "293.5",
     remark:
-      "Series: SH200 | Rated current: 32A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 32A | Number of poles: 4P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/109862/39/27084/26694/6523b5c2F28615204/b582e4bf4765fb85.jpg.avif",
   },
   {
@@ -257,7 +257,7 @@ const list = [
     price: "71.47",
     showPrice: "71.47",
     remark:
-      "Series: SH200 | Rated current: 40A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 40A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/297911/15/11324/11345/68385abbFf78e3893/0eaab4462a4cd819.jpg.avif",
   },
   {
@@ -266,7 +266,7 @@ const list = [
     price: "294.87",
     showPrice: "294.87",
     remark:
-      "Series: SH200 | Rated current: 25A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 25A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/95584/40/45646/43132/66bcbabfF73a270e6/067384e3db63222e.jpg.avif",
   },
   {
@@ -275,7 +275,7 @@ const list = [
     price: "556.01",
     showPrice: "556.01",
     remark:
-      "Series: SH200 | Rated current: 63A | Number of poles: 4P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 63A | Number of poles: 4P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -284,7 +284,7 @@ const list = [
     price: "175.67",
     showPrice: "175.67",
     remark:
-      "Series: SH200 | Rated current: 16A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 16A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -293,7 +293,7 @@ const list = [
     price: "208.13",
     showPrice: "208.13",
     remark:
-      "Series: SH200 | Rated current: 2A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 2A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -302,7 +302,7 @@ const list = [
     price: "199.46",
     showPrice: "199.46",
     remark:
-      "Series: SH200 | Rated current: 4A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 4A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -311,7 +311,7 @@ const list = [
     price: "93.49",
     showPrice: "93.49",
     remark:
-      "Series: SH200 | Rated current: 2A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 2A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -320,7 +320,7 @@ const list = [
     price: "268.7",
     showPrice: "268.7",
     remark:
-      "Series: SH200 | Rated current: 20A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 20A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/103010/23/29156/39418/625eeaa4Ec187b2cd/59a450ab4f7ca6ee.jpg.avif",
   },
   {
@@ -329,7 +329,7 @@ const list = [
     price: "198.14",
     showPrice: "198.14",
     remark:
-      "Series: SH200 | Rated current: 50A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 50A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -338,7 +338,7 @@ const list = [
     price: "346.72",
     showPrice: "346.72",
     remark:
-      "Series: SH200 | Rated current: 40A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 40A | Number of poles: 4P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -347,7 +347,7 @@ const list = [
     price: "175.67",
     showPrice: "175.67",
     remark:
-      "Series: SH200 | Rated current: 10A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 10A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -356,7 +356,7 @@ const list = [
     price: "396.41",
     showPrice: "396.41",
     remark:
-      "Series: SH200 | Rated current: 50A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 50A | Number of poles: 4P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/387673/33/4505/27880/6966f712F218fee1d/071132032044906a.jpg.avif",
   },
   {
@@ -365,7 +365,7 @@ const list = [
     price: "432.4",
     showPrice: "432.4",
     remark:
-      "Series: SH200 | Rated current: 40A | Number of poles: 4P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 40A | Number of poles: 4P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -374,7 +374,7 @@ const list = [
     price: "218.28",
     showPrice: "218.28",
     remark:
-      "Series: SH200 | Rated current: 1A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 1A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -383,7 +383,7 @@ const list = [
     price: "86.56",
     showPrice: "86.56",
     remark:
-      "Series: SH200 | Rated current: 4A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 4A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/118802/12/24701/15789/625f297aE589a41b0/93c599f07e2ab23e.jpg.avif",
   },
   {
@@ -392,7 +392,7 @@ const list = [
     price: "406.39",
     showPrice: "406.39",
     remark:
-      "Series: SH200 | Rated current: 25A | Number of poles: 4P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 25A | Number of poles: 4P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -401,7 +401,7 @@ const list = [
     price: "53.5",
     showPrice: "53.5",
     remark:
-      "Series: SH200 | Rated current: 16A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 16A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -410,7 +410,7 @@ const list = [
     price: "110.97",
     showPrice: "110.97",
     remark:
-      "Series: SH200 | Rated current: 8A | Number of poles: 1P+N | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 8A | Number of poles: 1P+N | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/178738/35/23209/26003/625eea92Ef62a6d56/283da47e5d479528.jpg.avif",
   },
   {
@@ -419,7 +419,7 @@ const list = [
     price: "200.16",
     showPrice: "200.16",
     remark:
-      "Series: SH200 | Rated current: 32A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 32A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -428,7 +428,7 @@ const list = [
     price: "216.2",
     showPrice: "216.2",
     remark:
-      "Series: SH200 | Rated current: 8A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 8A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -437,7 +437,7 @@ const list = [
     price: "272.79",
     showPrice: "272.79",
     remark:
-      "Series: SH200 | Rated current: 16A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 16A | Number of poles: 4P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -446,7 +446,7 @@ const list = [
     price: "336.43",
     showPrice: "336.43",
     remark:
-      "Series: SH200 | Rated current: 6A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 6A | Number of poles: 4P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -455,7 +455,7 @@ const list = [
     price: "302.91",
     showPrice: "302.91",
     remark:
-      "Series: SH200 | Rated current: 6A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 6A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/103010/23/29156/39418/625eeaa4Ec187b2cd/59a450ab4f7ca6ee.jpg.avif",
   },
   {
@@ -464,7 +464,7 @@ const list = [
     price: "272.95",
     showPrice: "272.95",
     remark:
-      "Series: SH200 | Rated current: 16A | Number of poles: 4P | 脱扣特性：B | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 16A | Number of poles: 4P | Trip characteristic：B | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -473,7 +473,7 @@ const list = [
     price: "396.41",
     showPrice: "396.41",
     remark:
-      "Series: SH200 | Rated current: 16A | Number of poles: 4P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 16A | Number of poles: 4P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -482,7 +482,7 @@ const list = [
     price: "98.95",
     showPrice: "98.95",
     remark:
-      "Series: SH200 | Rated current: 40A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 40A | Number of poles: 1P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -491,7 +491,7 @@ const list = [
     price: "96.12",
     showPrice: "96.12",
     remark:
-      "Series: SH200 | Rated current: 20A | Number of poles: 1P+N | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 20A | Number of poles: 1P+N | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/178738/35/23209/26003/625eea92Ef62a6d56/283da47e5d479528.jpg.avif",
   },
   {
@@ -500,7 +500,7 @@ const list = [
     price: "302.91",
     showPrice: "302.91",
     remark:
-      "Series: SH200 | Rated current: 8A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 8A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/103010/23/29156/39418/625eeaa4Ec187b2cd/59a450ab4f7ca6ee.jpg.avif",
   },
   {
@@ -509,7 +509,7 @@ const list = [
     price: "509.57",
     showPrice: "509.57",
     remark:
-      "Series: SH200 | Rated current: 50A | Number of poles: 4P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 50A | Number of poles: 4P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -518,7 +518,7 @@ const list = [
     price: "84.81",
     showPrice: "84.81",
     remark:
-      "Series: SH200 | Rated current: 25A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 25A | Number of poles: 1P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -527,7 +527,7 @@ const list = [
     price: "165.47",
     showPrice: "165.47",
     remark:
-      "Series: SH200 | Rated current: 6A | Number of poles: 1P+N | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 6A | Number of poles: 1P+N | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/178738/35/23209/26003/625eea92Ef62a6d56/283da47e5d479528.jpg.avif",
   },
   {
@@ -536,7 +536,7 @@ const list = [
     price: "270.75",
     showPrice: "270.75",
     remark:
-      "Series: SH200 | Rated current: 50A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 50A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -545,7 +545,7 @@ const list = [
     price: "432.4",
     showPrice: "432.4",
     remark:
-      "Series: SH200 | Rated current: 6A | Number of poles: 4P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 6A | Number of poles: 4P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -554,7 +554,7 @@ const list = [
     price: "149.33",
     showPrice: "149.33",
     remark:
-      "Series: SH200 | Rated current: 6A | Number of poles: 1P+N | 脱扣特性：B | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 6A | Number of poles: 1P+N | Trip characteristic：B | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/178738/35/23209/26003/625eea92Ef62a6d56/283da47e5d479528.jpg.avif",
   },
   {
@@ -563,7 +563,7 @@ const list = [
     price: "72.61",
     showPrice: "72.61",
     remark:
-      "Series: SH200 | Rated current: 20A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 20A | Number of poles: 1P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -572,7 +572,7 @@ const list = [
     price: "126.37",
     showPrice: "126.37",
     remark:
-      "Series: SH200 | Rated current: 50A | Number of poles: 1P+N | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 50A | Number of poles: 1P+N | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/178738/35/23209/26003/625eea92Ef62a6d56/283da47e5d479528.jpg.avif",
   },
   {
@@ -581,7 +581,7 @@ const list = [
     price: "89.09",
     showPrice: "89.09",
     remark:
-      "Series: SH200 | Rated current: 6A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 6A | Number of poles: 1P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -590,7 +590,7 @@ const list = [
     price: "278.98",
     showPrice: "278.98",
     remark:
-      "Series: SH200 | Rated current: 4A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 4A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -599,7 +599,7 @@ const list = [
     price: "292.79",
     showPrice: "292.79",
     remark:
-      "Series: SH200 | Rated current: 1A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 1A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -608,7 +608,7 @@ const list = [
     price: "278.98",
     showPrice: "278.98",
     remark:
-      "Series: SH200 | Rated current: 3A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 3A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -617,7 +617,7 @@ const list = [
     price: "312.04",
     showPrice: "312.04",
     remark:
-      "Series: SH200 | Rated current: 2A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 2A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/103010/23/29156/39418/625eeaa4Ec187b2cd/59a450ab4f7ca6ee.jpg.avif",
   },
   {
@@ -626,7 +626,7 @@ const list = [
     price: "292.79",
     showPrice: "292.79",
     remark:
-      "Series: SH200 | Rated current: 2A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 2A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -635,7 +635,7 @@ const list = [
     price: "406.39",
     showPrice: "406.39",
     remark:
-      "Series: SH200 | Rated current: 4A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 4A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/103010/23/29156/39418/625eeaa4Ec187b2cd/59a450ab4f7ca6ee.jpg.avif",
   },
   {
@@ -644,7 +644,7 @@ const list = [
     price: "199.46",
     showPrice: "199.46",
     remark:
-      "Series: SH200 | Rated current: 3A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 3A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -653,7 +653,7 @@ const list = [
     price: "129.65",
     showPrice: "129.65",
     remark:
-      "Series: SH200 | Rated current: 2A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 2A | Number of poles: 1P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -662,7 +662,7 @@ const list = [
     price: "406.39",
     showPrice: "406.39",
     remark:
-      "Series: SH200 | Rated current: 3A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 3A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/103010/23/29156/39418/625eeaa4Ec187b2cd/59a450ab4f7ca6ee.jpg.avif",
   },
   {
@@ -671,7 +671,7 @@ const list = [
     price: "297.62",
     showPrice: "297.62",
     remark:
-      "Series: SH200 | Rated current: 4A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 4A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/103010/23/29156/39418/625eeaa4Ec187b2cd/59a450ab4f7ca6ee.jpg.avif",
   },
   {
@@ -680,7 +680,7 @@ const list = [
     price: "98.04",
     showPrice: "98.04",
     remark:
-      "Series: SH200 | Rated current: 1A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 1A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -689,7 +689,7 @@ const list = [
     price: "89.38",
     showPrice: "89.38",
     remark:
-      "Series: SH200 | Rated current: 3A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 3A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -698,7 +698,7 @@ const list = [
     price: "297.62",
     showPrice: "297.62",
     remark:
-      "Series: SH200 | Rated current: 3A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 3A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/103010/23/29156/39418/625eeaa4Ec187b2cd/59a450ab4f7ca6ee.jpg.avif",
   },
   {
@@ -707,7 +707,7 @@ const list = [
     price: "123.05",
     showPrice: "123.05",
     remark:
-      "Series: SH200 | Rated current: 4A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 4A | Number of poles: 1P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -716,7 +716,7 @@ const list = [
     price: "276.31",
     showPrice: "276.31",
     remark:
-      "Series: SH200 | Rated current: 6A | Number of poles: 1P+N | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 6A | Number of poles: 1P+N | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/212797/13/17637/32247/625f2c64E5cbf6222/2bf025b680ee4aa4.jpg.avif",
   },
   {
@@ -725,7 +725,7 @@ const list = [
     price: "134.93",
     showPrice: "134.93",
     remark:
-      "Series: SH200 | Rated current: 63A | Number of poles: 1P+N | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 63A | Number of poles: 1P+N | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/178738/35/23209/26003/625eea92Ef62a6d56/283da47e5d479528.jpg.avif",
   },
   {
@@ -734,7 +734,7 @@ const list = [
     price: "226.05",
     showPrice: "226.05",
     remark:
-      "Series: SH200 | Rated current: 40A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 40A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -743,7 +743,7 @@ const list = [
     price: "102.01",
     showPrice: "102.01",
     remark:
-      "Series: SH200 | Rated current: 32A | Number of poles: 1P+N | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 32A | Number of poles: 1P+N | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/178738/35/23209/26003/625eea92Ef62a6d56/283da47e5d479528.jpg.avif",
   },
   {
@@ -752,7 +752,7 @@ const list = [
     price: "175.67",
     showPrice: "175.67",
     remark:
-      "Series: SH200 | Rated current: 20A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 20A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -761,7 +761,7 @@ const list = [
     price: "293.24",
     showPrice: "293.24",
     remark:
-      "Series: SH200 | Rated current: 63A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 63A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -770,7 +770,7 @@ const list = [
     price: "396.41",
     showPrice: "396.41",
     remark:
-      "Series: SH200 | Rated current: 10A | Number of poles: 4P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 10A | Number of poles: 4P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -779,7 +779,7 @@ const list = [
     price: "396.41",
     showPrice: "396.41",
     remark:
-      "Series: SH200 | Rated current: 20A | Number of poles: 4P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 20A | Number of poles: 4P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -788,7 +788,7 @@ const list = [
     price: "102.01",
     showPrice: "102.01",
     remark:
-      "Series: SH200 | Rated current: 25A | Number of poles: 1P+N | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 25A | Number of poles: 1P+N | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/178738/35/23209/26003/625eea92Ef62a6d56/283da47e5d479528.jpg.avif",
   },
   {
@@ -797,7 +797,7 @@ const list = [
     price: "200.16",
     showPrice: "200.16",
     remark:
-      "Series: SH200 | Rated current: 25A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 25A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -806,7 +806,7 @@ const list = [
     price: "216.2",
     showPrice: "216.2",
     remark:
-      "Series: SH200 | Rated current: 6A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 6A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -815,7 +815,7 @@ const list = [
     price: "87.03",
     showPrice: "87.03",
     remark:
-      "Series: SH200 | Rated current: 50A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 50A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -824,7 +824,7 @@ const list = [
     price: "293.5",
     showPrice: "293.5",
     remark:
-      "Series: SH200 | Rated current: 25A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 25A | Number of poles: 4P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -833,7 +833,7 @@ const list = [
     price: "110.97",
     showPrice: "110.97",
     remark:
-      "Series: SH200 | Rated current: 6A | Number of poles: 1P+N | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 6A | Number of poles: 1P+N | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/178738/35/23209/26003/625eea92Ef62a6d56/283da47e5d479528.jpg.avif",
   },
   {
@@ -842,7 +842,7 @@ const list = [
     price: "116.73",
     showPrice: "116.73",
     remark:
-      "Series: SH200 | Rated current: 40A | Number of poles: 1P+N | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 40A | Number of poles: 1P+N | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/178738/35/23209/26003/625eea92Ef62a6d56/283da47e5d479528.jpg.avif",
   },
   {
@@ -851,7 +851,7 @@ const list = [
     price: "60.7",
     showPrice: "60.7",
     remark:
-      "Series: SH200 | Rated current: 32A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 32A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -860,7 +860,7 @@ const list = [
     price: "135.68",
     showPrice: "135.68",
     remark:
-      "Series: SH200 | Rated current: 10A | Number of poles: 1P+N | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 10A | Number of poles: 1P+N | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/178738/35/23209/26003/625eea92Ef62a6d56/283da47e5d479528.jpg.avif",
   },
   {
@@ -869,7 +869,7 @@ const list = [
     price: "95.11",
     showPrice: "95.11",
     remark:
-      "Series: SH200 | Rated current: 63A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 63A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/386002/35/7450/11612/6966f70eFc33dc06c/0711320320c0311d.jpg.avif",
   },
   {
@@ -878,7 +878,7 @@ const list = [
     price: "96.12",
     showPrice: "96.12",
     remark:
-      "Series: SH200 | Rated current: 16A | Number of poles: 1P+N | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 16A | Number of poles: 1P+N | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/178738/35/23209/26003/625eea92Ef62a6d56/283da47e5d479528.jpg.avif",
   },
   {
@@ -887,7 +887,7 @@ const list = [
     price: "406.39",
     showPrice: "406.39",
     remark:
-      "Series: SH200 | Rated current: 32A | Number of poles: 4P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 32A | Number of poles: 4P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -896,7 +896,7 @@ const list = [
     price: "53.5",
     showPrice: "53.5",
     remark:
-      "Series: SH200 | Rated current: 10A | Number of poles: 1P | 脱扣特性：B | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 10A | Number of poles: 1P | Trip characteristic：B | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -905,7 +905,7 @@ const list = [
     price: "72.61",
     showPrice: "72.61",
     remark:
-      "Series: SH200 | Rated current: 16A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 16A | Number of poles: 1P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/150895/18/40747/11218/65e7de9eFa45d206a/1c4cbecab167fbea.jpg.avif",
   },
   {
@@ -914,7 +914,7 @@ const list = [
     price: "251.77",
     showPrice: "251.77",
     remark:
-      "Series: SH200 | Rated current: 6A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 6A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/103010/23/29156/39418/625eeaa4Ec187b2cd/59a450ab4f7ca6ee.jpg.avif",
   },
   {
@@ -923,7 +923,7 @@ const list = [
     price: "272.79",
     showPrice: "272.79",
     remark:
-      "Series: SH200 | Rated current: 20A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 20A | Number of poles: 4P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/126069/16/21161/40579/625eeab0E75d169fe/000661293d90aafd.jpg.avif",
   },
   {
@@ -932,7 +932,7 @@ const list = [
     price: "272.79",
     showPrice: "272.79",
     remark:
-      "Series: SH200 | Rated current: 10A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 10A | Number of poles: 4P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/385533/1/11372/24273/6966f710Fa3c68bd7/0711320320e8a089.jpg.avif",
   },
   {
@@ -941,7 +941,7 @@ const list = [
     price: "131.54",
     showPrice: "131.54",
     remark:
-      "Series: SH200 | Rated current: 16A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 16A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/202523/3/13347/26364/625eea9cEaf416bac/518a210f47024488.jpg.avif",
   },
   {
@@ -950,7 +950,7 @@ const list = [
     price: "84.81",
     showPrice: "84.81",
     remark:
-      "Series: SH200 | Rated current: 32A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 32A | Number of poles: 1P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -959,7 +959,7 @@ const list = [
     price: "408.16",
     showPrice: "408.16",
     remark:
-      "Series: SH200 | Rated current: 63A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 63A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/176863/31/35643/23736/6523b5c0F85693b69/76f77e5d38142437.jpg.avif",
   },
   {
@@ -968,7 +968,7 @@ const list = [
     price: "205.78",
     showPrice: "205.78",
     remark:
-      "Series: SH200 | Rated current: 16A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 16A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/39865/16/21167/22725/6523b5b9Fb64b2416/fc885718924562ff.jpg.avif",
   },
   {
@@ -977,7 +977,7 @@ const list = [
     price: "131.41",
     showPrice: "131.41",
     remark:
-      "Series: SH200 | Rated current: 63A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 63A | Number of poles: 1P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -986,7 +986,7 @@ const list = [
     price: "72.61",
     showPrice: "72.61",
     remark:
-      "Series: SH200 | Rated current: 10A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 10A | Number of poles: 1P | Trip characteristic：D | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199958/36/22205/23373/625eea93E38489ee0/9cbf908c5e21f5c2.jpg.avif",
   },
   {
@@ -995,7 +995,7 @@ const list = [
     price: "96.12",
     showPrice: "96.12",
     remark:
-      "Series: SH200 | Rated current: 10A | Number of poles: 1P+N | 脱扣特性：C | 额定分断能力：6kA",
+      "Series: SH200 | Rated current: 10A | Number of poles: 1P+N | Trip characteristic：C | Rated breaking capacity：6kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/178738/35/23209/26003/625eea92Ef62a6d56/283da47e5d479528.jpg.avif",
   },
 ];

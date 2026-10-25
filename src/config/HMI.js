@@ -5,7 +5,7 @@ const list = [
     price: "2615.3",
     showPrice: "2615.3",
     remark:
-      'Series: SMART触摸屏 | 屏幕尺寸：7" | 分辨率：800*480 | 通讯接口：Ethernet/RS485/RS422/RS232 | Power supply voltage: DC24V | 用户内存：256M',
+      'Series: SMARTTouch screen | Screen size：7" | Resolution：800*480 | Communication interface：Ethernet/RS485/RS422/RS232 | Power supply voltage: DC24V | User memory：256M',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/298288/20/23263/42738/68777829F68a3e2e9/665368a548f36cd6.jpg.avif",
   },
   {
@@ -14,7 +14,7 @@ const list = [
     price: "6092.81",
     showPrice: "6092.81",
     remark:
-      'Series: SMART触摸屏 | 屏幕尺寸：10.1" | 分辨率：1024*600 | 通讯接口：Ethernet/RS485/RS422/RS232 | Power supply voltage: DC24V | 用户内存：256M',
+      'Series: SMARTTouch screen | Screen size：10.1" | Resolution：1024*600 | Communication interface：Ethernet/RS485/RS422/RS232 | Power supply voltage: DC24V | User memory：256M',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/324872/34/20848/48352/68c91b7aF2c52858c/a0619677ef46773f.jpg.avif",
   },
   {
@@ -22,7 +22,7 @@ const list = [
     model: "KTP700 PN",
     price: "6529.08",
     showPrice: "6529.08",
-    remark: "Series: 精简面板 | Power supply voltage: DC24V | 用户内存：10MB",
+    remark: "Series: Basic panel | Power supply voltage: DC24V | User memory：10MB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/232696/6/10523/21557/65a0f75eF6609e43a/ca746a3703c44974.jpg.avif",
   },
   {
@@ -30,7 +30,7 @@ const list = [
     model: "KTP1200 PN",
     price: "13342.04",
     showPrice: "13342.04",
-    remark: "Series: 精简面板 | Power supply voltage: DC24V | 用户内存：10MB",
+    remark: "Series: Basic panel | Power supply voltage: DC24V | User memory：10MB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/248479/22/2917/28705/65a0f763Fddc55c93/5caf7031f0c71e96.jpg.avif",
   },
   {
@@ -38,7 +38,7 @@ const list = [
     model: "TP700",
     price: "11808.9",
     showPrice: "11808.9",
-    remark: "Series: 精智面板 | Power supply voltage: DC24V | 用户内存：12MB",
+    remark: "Series: Comfort panel | Power supply voltage: DC24V | User memory：12MB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/178993/32/22242/63286/625f4cb8Ebb98ece3/f5ef8d2f0fe0c54a.jpg.avif",
   },
   {
@@ -46,7 +46,7 @@ const list = [
     model: "KTP900 PN",
     price: "9929.41",
     showPrice: "9929.41",
-    remark: "Series: 精简面板 | Power supply voltage: DC24V | 用户内存：10MB",
+    remark: "Series: Basic panel | Power supply voltage: DC24V | User memory：10MB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/384696/24/14428/30167/6966f842F283d5f4f/07113203201af61a.jpg.avif",
   },
   {
@@ -54,7 +54,7 @@ const list = [
     model: "6AV21240MC010AX0",
     price: "29499.06",
     showPrice: "29499.06",
-    remark: "Series: 精智面板 | Power supply voltage: DC24V | 用户内存：12MB",
+    remark: "Series: Comfort panel | Power supply voltage: DC24V | User memory：12MB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/523961/14/11253/36248/6ab4b559Fa69eb273/0711320320a3e2ed.jpg.avif",
   },
   {
@@ -63,7 +63,7 @@ const list = [
     price: "6092.81",
     showPrice: "6092.81",
     remark:
-      'Series: SMART触摸屏 | 屏幕尺寸：10" | 分辨率：1024*600 | 通讯接口：以太网卡+串口 | Power supply voltage: 24V',
+      'Series: SMARTTouch screen | Screen size：10" | Resolution：1024*600 | Communication interface：Ethernet card+Serial port | Power supply voltage: 24V',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/278798/13/9737/27052/67e23f5aF5a6a3be2/70c2f0773e09963b.jpg.avif",
   },
   {
@@ -71,7 +71,7 @@ const list = [
     model: "6AV21233GB320AW0",
     price: "",
     showPrice: "",
-    remark: "通讯接口：1*Profinet",
+    remark: "Communication interface：1*Profinet",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/331591/17/22705/22881/68ee2651Fc50196be/676878bbbdb2e4c0.jpg.avif",
   },
   {
@@ -79,7 +79,7 @@ const list = [
     model: "6AV21233MB320AW0",
     price: "",
     showPrice: "",
-    remark: '屏幕尺寸：12" | 分辨率：1280*800 | 通讯接口：1*Profinet',
+    remark: 'Screen size：12" | Resolution：1280*800 | Communication interface：1*Profinet',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/241949/27/35165/27770/68ee2652Febd833f3/d1bd15d090daf6d9.jpg.avif",
   },
   {
@@ -88,7 +88,7 @@ const list = [
     price: "",
     showPrice: "",
     remark:
-      'Series: 精彩面板 | 屏幕尺寸：10.1" | 分辨率：1024*600 | 通讯接口：1 × RJ45,1 ×RS422/4851,1 ×RS232, 1×USB 2.0, 1×Micro SD | 用户内存：256M',
+      'Series: Comfort panel | Screen size：10.1" | Resolution：1024*600 | Communication interface：1 × RJ45,1 ×RS422/4851,1 ×RS232, 1×USB 2.0, 1×Micro SD | User memory：256M',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/395070/36/18963/26124/69a655c0F0ab21cd8/071132032085ce77.jpg.avif",
   },
   {
@@ -96,7 +96,7 @@ const list = [
     model: "KTP400 PN",
     price: "2962.84",
     showPrice: "2962.84",
-    remark: "Series: 精简面板 | Power supply voltage: DC24V | 用户内存：10MB",
+    remark: "Series: Basic panel | Power supply voltage: DC24V | User memory：10MB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130687/36/24958/52394/625f4cabEca8e2a82/a2612da03f740ac5.jpg.avif",
   },
   {
@@ -104,7 +104,7 @@ const list = [
     model: "6AV21233KB320AW0",
     price: "",
     showPrice: "",
-    remark: '屏幕尺寸：10" | 分辨率：1280*800 | 通讯接口：1*Profinet',
+    remark: 'Screen size：10" | Resolution：1280*800 | Communication interface：1*Profinet',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/338624/28/19215/28112/68ee2653F72d03d2d/a69b9b5e7b719828.jpg.avif",
   },
   {
@@ -112,7 +112,7 @@ const list = [
     model: "TP900",
     price: "25355.09",
     showPrice: "25355.09",
-    remark: "Series: 精智面板 | Power supply voltage: DC24V | 用户内存：12MB",
+    remark: "Series: Comfort panel | Power supply voltage: DC24V | User memory：12MB",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/386822/20/7497/40023/6966f843F38336d3e/0711320320d830dc.jpg.avif",
   },
   {
@@ -121,7 +121,7 @@ const list = [
     price: "",
     showPrice: "",
     remark:
-      'Series: 精彩面板 | 屏幕尺寸：7" | 分辨率：800*480 | 通讯接口：1 × RJ45,1 ×RS422/4851,1 ×RS232, 1×USB 2.0, 1×Micro SD | 用户内存：256M',
+      'Series: Comfort panel | Screen size：7" | Resolution：800*480 | Communication interface：1 × RJ45,1 ×RS422/4851,1 ×RS232, 1×USB 2.0, 1×Micro SD | User memory：256M',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/395148/30/14758/26606/699fadd2Ffc5c24f7/0711320320f3bff4.jpg.avif",
   },
   {
@@ -130,7 +130,7 @@ const list = [
     price: "2615.3",
     showPrice: "2615.3",
     remark:
-      'Series: SMART触摸屏 | 屏幕尺寸：7" | 分辨率：800*480 | 显示色彩：1600万色 | 通讯接口：以太网+串口',
+      'Series: SMARTTouch screen | Screen size：7" | Resolution：800*480 | Display colors：1600Million colors | Communication interface：Ethernet+Serial port',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/272510/14/9757/18784/67e241b2F135ea821/9576944dba3f7c41.jpg.avif",
   },
   {
@@ -138,7 +138,7 @@ const list = [
     model: "6AV21283MB060AX1",
     price: "",
     showPrice: "",
-    remark: '屏幕尺寸：12" | 分辨率：1280*800',
+    remark: 'Screen size：12" | Resolution：1280*800',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/351234/2/13009/30896/68ee2655F577655b1/b77185dbb33c2eab.jpg.avif",
   },
   {
@@ -146,7 +146,7 @@ const list = [
     model: "6AV66481CM013AX0",
     price: "",
     showPrice: "",
-    remark: "Series: 精彩面板",
+    remark: "Series: Comfort panel",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/397981/17/4743/25175/699fadd1F06fc30af/07113203204922a9.jpg.avif",
   },
   {
@@ -155,7 +155,7 @@ const list = [
     price: "49963.13",
     showPrice: "49963.13",
     remark:
-      'Series: TP精智面板 | 屏幕尺寸：15" | 分辨率：1280*800 | 通讯接口：PROFINET/ MPI/PROFIBUS-DP | Power supply voltage: DC24V | 用户内存：128M',
+      'Series: TPComfort panel | Screen size：15" | Resolution：1280*800 | Communication interface：PROFINET/ MPI/PROFIBUS-DP | Power supply voltage: DC24V | User memory：128M',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/311655/5/17354/50507/6877782aFa543b1c6/95433b4bc56a406f.jpg.avif",
   },
   {
@@ -164,7 +164,7 @@ const list = [
     price: "1590.28",
     showPrice: "1590.28",
     remark:
-      "Series: LOGO! | 显示色彩：3种背景颜色 | 通讯接口：以太网端口 | Power supply voltage: AC/DC0.4-26.4V",
+      "Series: LOGO! | Display colors：3种Background colors | Communication interface：Ethernet port | Power supply voltage: AC/DC0.4-26.4V",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/321001/36/16277/52994/68777823Fdb2c4370/2a7e85ef2d753716.jpg.avif",
   },
   {
@@ -181,7 +181,7 @@ const list = [
     price: "",
     showPrice: "",
     remark:
-      'Series: TP精智面板 | 屏幕尺寸：4" | 分辨率：800*480 | 通讯接口：1*Profinet',
+      'Series: TPComfort panel | Screen size：4" | Resolution：800*480 | Communication interface：1*Profinet',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/398343/13/3942/25671/699fadd7F01e2a7ee/0711320320de480c.jpg.avif",
   },
   {
@@ -190,7 +190,7 @@ const list = [
     price: "",
     showPrice: "",
     remark:
-      'Series: TP精智面板 | 屏幕尺寸：7" | 分辨率：800*480 | 通讯接口：1*Profinet',
+      'Series: TPComfort panel | Screen size：7" | Resolution：800*480 | Communication interface：1*Profinet',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/393306/10/20848/27785/699fadd8Fe397d404/071132032085f740.jpg.avif",
   },
   {
@@ -199,7 +199,7 @@ const list = [
     price: "",
     showPrice: "",
     remark:
-      'Series: TP精智面板 | 屏幕尺寸：10.1" | 分辨率：1280*800 | 通讯接口：1*Profinet',
+      'Series: TPComfort panel | Screen size：10.1" | Resolution：1280*800 | Communication interface：1*Profinet',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/398772/33/3179/34657/699fadd8F86b30d1b/0711320320176731.jpg.avif",
   },
   {
@@ -208,7 +208,7 @@ const list = [
     price: "62447.68",
     showPrice: "62447.68",
     remark:
-      'Series: 精智面板 | 屏幕尺寸：19" | 分辨率：1366*768 | 显示色彩：1600万色 | 通讯接口：PROFINET,MPI/PROFIBUS-DP | Power supply voltage: DC24V | 用户内存：24MB',
+      'Series: Comfort panel | Screen size：19" | Resolution：1366*768 | Display colors：1600Million colors | Communication interface：PROFINET,MPI/PROFIBUS-DP | Power supply voltage: DC24V | User memory：24MB',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/17977/12/16798/24404/628cfa2fEbe574869/aa0bb13a5a6dde91.jpg.avif",
   },
   {
@@ -217,7 +217,7 @@ const list = [
     price: "49963.13",
     showPrice: "49963.13",
     remark:
-      'Series: 精智面板 | 屏幕尺寸：15" | 分辨率：1280*800 | 显示色彩：1600万色 | 通讯接口：PROFINET,MPI/PROFIBUS-DP | Power supply voltage: DC24V | 用户内存：24MB',
+      'Series: Comfort panel | Screen size：15" | Resolution：1280*800 | Display colors：1600Million colors | Communication interface：PROFINET,MPI/PROFIBUS-DP | Power supply voltage: DC24V | User memory：24MB',
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/385340/1/13045/31841/6966f9ebFcf02076e/0711320320f78022.jpg.avif",
   },
   {
@@ -226,7 +226,7 @@ const list = [
     price: "24173.9",
     showPrice: "24173.9",
     remark:
-      'Series: 第二代移动面板 | 屏幕尺寸：7" | 分辨率：800*480 | 显示色彩：1670万色 | 通讯接口：USB,以太网,PROFINET | Power supply voltage: DC24V | 用户内存：12MB',
+      'Series: 2nd generation mobile panel | Screen size：7" | Resolution：800*480 | Display colors：1670Million colors | Communication interface：USB,Ethernet,PROFINET | Power supply voltage: DC24V | User memory：12MB',
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
 ];

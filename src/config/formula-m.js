@@ -5,7 +5,7 @@ const list = [
     price: "516.05",
     showPrice: "516.05",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "10241539",
@@ -27,7 +27,7 @@ const list = [
     price: "450.86",
     showPrice: "450.86",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
   },
   {
     orderId: "10241698",
@@ -35,7 +35,7 @@ const list = [
     price: "956.91",
     showPrice: "956.91",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "10241750",
@@ -99,7 +99,7 @@ const list = [
     price: "923.66",
     showPrice: "923.66",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 接线方式：前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
   },
   {
     orderId: "10241621",
@@ -219,7 +219,7 @@ const list = [
     price: "822.19",
     showPrice: "822.19",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 接线方式：前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
   },
   {
     orderId: "10241742",
@@ -227,7 +227,7 @@ const list = [
     price: "515.93",
     showPrice: "515.93",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "10241559",
@@ -270,7 +270,7 @@ const list = [
     price: "450.86",
     showPrice: "450.86",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Manual handle operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "10241765",
@@ -306,7 +306,7 @@ const list = [
     price: "1304.77",
     showPrice: "1304.77",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "10241536",
@@ -321,7 +321,7 @@ const list = [
     price: "656.77",
     showPrice: "656.77",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
   },
   {
     orderId: "10241681",
@@ -350,7 +350,7 @@ const list = [
     price: "3697.53",
     showPrice: "3697.53",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
   },
   {
     orderId: "10241550",
@@ -428,7 +428,7 @@ const list = [
     price: "598.05",
     showPrice: "598.05",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
   },
   {
     orderId: "10241553",
@@ -492,7 +492,7 @@ const list = [
     price: "889.91",
     showPrice: "889.91",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 接线方式：前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
   },
   {
     orderId: "10241644",
@@ -521,7 +521,7 @@ const list = [
     price: "828.74",
     showPrice: "828.74",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
   },
   {
     orderId: "10241545",
@@ -543,7 +543,7 @@ const list = [
     price: "923.66",
     showPrice: "923.66",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 接线方式：前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
   },
   {
     orderId: "10241700",
@@ -663,7 +663,7 @@ const list = [
     price: "1909.47",
     showPrice: "1909.47",
     remark:
-      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: Formula M | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
   },
   {
     orderId: "10241541",

@@ -5,7 +5,7 @@ const formulaData = [
     price: "490.4",
     showPrice: "490.4",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/167028/39/41513/30389/6523b930Fc355ba59/a80a481df4de0abb.jpg.avif",
   },
   {
@@ -14,7 +14,7 @@ const formulaData = [
     price: "1283.88",
     showPrice: "1283.88",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/3715/27/26161/26737/670d0ad5F0918f698/07fc9b7f1b373b08.jpg.avif",
   },
   {
@@ -23,7 +23,7 @@ const formulaData = [
     price: "1065.18",
     showPrice: "1065.18",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/181416/22/39645/27517/65312ab2Fb33749e5/59fb6124e271d090.jpg.avif",
   },
   {
@@ -32,7 +32,7 @@ const formulaData = [
     price: "723.79",
     showPrice: "723.79",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/3715/27/26161/26737/670d0ad5F0918f698/07fc9b7f1b373b08.jpg.avif",
   },
   {
@@ -41,7 +41,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/244297/4/16612/42218/66b9e1d8F406f98dd/328788c6a104119f.jpg.avif",
   },
   {
@@ -50,7 +50,7 @@ const formulaData = [
     price: "723.79",
     showPrice: "723.79",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/254599/28/11605/24812/67808b4bF61ccf374/7788035d5823e8e4.jpg.avif",
   },
   {
@@ -59,7 +59,7 @@ const formulaData = [
     price: "1315.34",
     showPrice: "1315.34",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/142008/3/46524/23735/670d0adaF299da53a/d5af6bd50638cd34.jpg.avif",
   },
   {
@@ -68,7 +68,7 @@ const formulaData = [
     price: "903.16",
     showPrice: "903.16",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/313315/31/5183/24812/68385af4F8f04f067/a6f45bf2d8181441.jpg.avif",
   },
   {
@@ -77,7 +77,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/244297/4/16612/42218/66b9e1d8F406f98dd/328788c6a104119f.jpg.avif",
   },
   {
@@ -86,7 +86,7 @@ const formulaData = [
     price: "1886.45",
     showPrice: "1886.45",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/105838/18/36493/18174/65312ab3F49f32522/433056d56682ea2e.jpg.avif",
   },
   {
@@ -95,7 +95,7 @@ const formulaData = [
     price: "1276.01",
     showPrice: "1276.01",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/142008/3/46524/23735/670d0adaF299da53a/d5af6bd50638cd34.jpg.avif",
   },
   {
@@ -104,7 +104,7 @@ const formulaData = [
     price: "2358.43",
     showPrice: "2358.43",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/189151/25/23223/39123/625eec7aE1420ec2a/c7ce80d3e320b6a5.jpg.avif",
   },
   {
@@ -113,7 +113,7 @@ const formulaData = [
     price: "4940.21",
     showPrice: "4940.21",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/142008/3/46524/23735/670d0adaF299da53a/d5af6bd50638cd34.jpg.avif",
   },
   {
@@ -122,7 +122,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/265252/26/18294/27517/67a9c018F8314a6b2/62201c931b98e764.jpg.avif",
   },
   {
@@ -131,7 +131,7 @@ const formulaData = [
     price: "490.4",
     showPrice: "490.4",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/387713/10/4668/28339/6966f86cFf5d71bf8/0711320320d65bbf.jpg.avif",
   },
   {
@@ -140,7 +140,7 @@ const formulaData = [
     price: "892.07",
     showPrice: "892.07",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -149,7 +149,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/156805/36/43103/24812/6621eeccF406a105d/ca7771f1e74c3b7c.jpg.avif",
   },
   {
@@ -158,7 +158,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -167,7 +167,7 @@ const formulaData = [
     price: "4940.21",
     showPrice: "4940.21",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/508200/34/2456/17663/6a8423c1Fe7444f2f/0711320320b40e0f.jpg.avif",
   },
   {
@@ -176,7 +176,7 @@ const formulaData = [
     price: "1886.45",
     showPrice: "1886.45",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/142008/3/46524/23735/670d0adaF299da53a/d5af6bd50638cd34.jpg.avif",
   },
   {
@@ -185,7 +185,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/156805/36/43103/24812/6621eeccF406a105d/ca7771f1e74c3b7c.jpg.avif",
   },
   {
@@ -194,7 +194,7 @@ const formulaData = [
     price: "2122.42",
     showPrice: "2122.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -203,7 +203,7 @@ const formulaData = [
     price: "811.91",
     showPrice: "811.91",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/156805/36/43103/24812/6621eeccF406a105d/ca7771f1e74c3b7c.jpg.avif",
   },
   {
@@ -212,7 +212,7 @@ const formulaData = [
     price: "473.57",
     showPrice: "473.57",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/162775/28/42991/29527/65e68d5aF4e57715a/096df7696dad6ae5.jpg.avif",
   },
   {
@@ -221,7 +221,7 @@ const formulaData = [
     price: "2358.43",
     showPrice: "2358.43",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 175A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 175A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -230,7 +230,7 @@ const formulaData = [
     price: "2358.43",
     showPrice: "2358.43",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -239,7 +239,7 @@ const formulaData = [
     price: "516.32",
     showPrice: "516.32",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223837/10/4514/42987/6205d118E0107f9a6/f162842b2620fb4f.jpg.avif",
   },
   {
@@ -248,7 +248,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 30A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 30A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -257,7 +257,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -266,7 +266,7 @@ const formulaData = [
     price: "2358.43",
     showPrice: "2358.43",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -275,7 +275,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -284,7 +284,7 @@ const formulaData = [
     price: "811.91",
     showPrice: "811.91",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -293,7 +293,7 @@ const formulaData = [
     price: "8653.24",
     showPrice: "8653.24",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/94409/37/39723/16075/6621eecfFc79dd6c7/14d14e8f629bb9b0.jpg.avif",
   },
   {
@@ -302,7 +302,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -311,7 +311,7 @@ const formulaData = [
     price: "892.07",
     showPrice: "892.07",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -320,7 +320,7 @@ const formulaData = [
     price: "892.07",
     showPrice: "892.07",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -329,7 +329,7 @@ const formulaData = [
     price: "1834.53",
     showPrice: "1834.53",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 150A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 150A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/146301/34/26487/32381/625eec78E9dee4e89/2070ca469a0eb633.jpg.avif",
   },
   {
@@ -338,7 +338,7 @@ const formulaData = [
     price: "1834.53",
     showPrice: "1834.53",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/146301/34/26487/32381/625eec78E9dee4e89/2070ca469a0eb633.jpg.avif",
   },
   {
@@ -347,7 +347,7 @@ const formulaData = [
     price: "1993.42",
     showPrice: "1993.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -356,7 +356,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -365,7 +365,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -374,7 +374,7 @@ const formulaData = [
     price: "1222.54",
     showPrice: "1222.54",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -383,7 +383,7 @@ const formulaData = [
     price: "1288.58",
     showPrice: "1288.58",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 150A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 150A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -392,7 +392,7 @@ const formulaData = [
     price: "1304.3",
     showPrice: "1304.3",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -401,7 +401,7 @@ const formulaData = [
     price: "2122.42",
     showPrice: "2122.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -410,7 +410,7 @@ const formulaData = [
     price: "582",
     showPrice: "582",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223837/10/4514/42987/6205d118E0107f9a6/f162842b2620fb4f.jpg.avif",
   },
   {
@@ -419,7 +419,7 @@ const formulaData = [
     price: "582",
     showPrice: "582",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223837/10/4514/42987/6205d118E0107f9a6/f162842b2620fb4f.jpg.avif",
   },
   {
@@ -428,7 +428,7 @@ const formulaData = [
     price: "1315.34",
     showPrice: "1315.34",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -437,7 +437,7 @@ const formulaData = [
     price: "1648.86",
     showPrice: "1648.86",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/146301/34/26487/32381/625eec78E9dee4e89/2070ca469a0eb633.jpg.avif",
   },
   {
@@ -446,7 +446,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -455,7 +455,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/151186/26/32556/27517/6523b5eeF6f200b70/fc858c72e24fda61.jpg.avif",
   },
   {
@@ -464,7 +464,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -473,7 +473,7 @@ const formulaData = [
     price: "1115.53",
     showPrice: "1115.53",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -482,7 +482,7 @@ const formulaData = [
     price: "1304.3",
     showPrice: "1304.3",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -491,7 +491,7 @@ const formulaData = [
     price: "2824.1",
     showPrice: "2824.1",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/146301/34/26487/32381/625eec78E9dee4e89/2070ca469a0eb633.jpg.avif",
   },
   {
@@ -500,7 +500,7 @@ const formulaData = [
     price: "6143.81",
     showPrice: "6143.81",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/114762/36/23013/30521/625eec7bEcdcd5559/8ace36f88dd8c5e7.jpg.avif",
   },
   {
@@ -509,7 +509,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -518,7 +518,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -527,7 +527,7 @@ const formulaData = [
     price: "1115.53",
     showPrice: "1115.53",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -536,7 +536,7 @@ const formulaData = [
     price: "1162.68",
     showPrice: "1162.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -545,7 +545,7 @@ const formulaData = [
     price: "1222.54",
     showPrice: "1222.54",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -554,7 +554,7 @@ const formulaData = [
     price: "2509.48",
     showPrice: "2509.48",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/146301/34/26487/32381/625eec78E9dee4e89/2070ca469a0eb633.jpg.avif",
   },
   {
@@ -563,7 +563,7 @@ const formulaData = [
     price: "7089.39",
     showPrice: "7089.39",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/128909/3/27350/32029/625eec7dE349560e5/fff0d437d00c4060.jpg.avif",
   },
   {
@@ -572,7 +572,7 @@ const formulaData = [
     price: "498.01",
     showPrice: "498.01",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 30A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 30A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223837/10/4514/42987/6205d118E0107f9a6/f162842b2620fb4f.jpg.avif",
   },
   {
@@ -581,7 +581,7 @@ const formulaData = [
     price: "1162.68",
     showPrice: "1162.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -590,7 +590,7 @@ const formulaData = [
     price: "1222.54",
     showPrice: "1222.54",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -599,7 +599,7 @@ const formulaData = [
     price: "1304.3",
     showPrice: "1304.3",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -608,7 +608,7 @@ const formulaData = [
     price: "1315.34",
     showPrice: "1315.34",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 150A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 150A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -617,7 +617,7 @@ const formulaData = [
     price: "1648.86",
     showPrice: "1648.86",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 150A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 150A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/146301/34/26487/32381/625eec78E9dee4e89/2070ca469a0eb633.jpg.avif",
   },
   {
@@ -626,7 +626,7 @@ const formulaData = [
     price: "2122.42",
     showPrice: "2122.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 175A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 175A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -635,7 +635,7 @@ const formulaData = [
     price: "582",
     showPrice: "582",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 30A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 30A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223837/10/4514/42987/6205d118E0107f9a6/f162842b2620fb4f.jpg.avif",
   },
   {
@@ -644,7 +644,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 60A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 60A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -653,7 +653,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -662,7 +662,7 @@ const formulaData = [
     price: "1102.91",
     showPrice: "1102.91",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -671,7 +671,7 @@ const formulaData = [
     price: "1222.54",
     showPrice: "1222.54",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -680,7 +680,7 @@ const formulaData = [
     price: "3138.77",
     showPrice: "3138.77",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/146301/34/26487/32381/625eec78E9dee4e89/2070ca469a0eb633.jpg.avif",
   },
   {
@@ -689,7 +689,7 @@ const formulaData = [
     price: "516.32",
     showPrice: "516.32",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223837/10/4514/42987/6205d118E0107f9a6/f162842b2620fb4f.jpg.avif",
   },
   {
@@ -698,7 +698,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -707,7 +707,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -716,7 +716,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 60A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 60A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -725,7 +725,7 @@ const formulaData = [
     price: "1222.54",
     showPrice: "1222.54",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 70A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 70A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -734,7 +734,7 @@ const formulaData = [
     price: "1304.3",
     showPrice: "1304.3",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -743,7 +743,7 @@ const formulaData = [
     price: "1993.42",
     showPrice: "1993.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -752,7 +752,7 @@ const formulaData = [
     price: "2015.44",
     showPrice: "2015.44",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -761,7 +761,7 @@ const formulaData = [
     price: "2509.48",
     showPrice: "2509.48",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/146301/34/26487/32381/625eec78E9dee4e89/2070ca469a0eb633.jpg.avif",
   },
   {
@@ -770,7 +770,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -779,7 +779,7 @@ const formulaData = [
     price: "1276.01",
     showPrice: "1276.01",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -788,7 +788,7 @@ const formulaData = [
     price: "1886.45",
     showPrice: "1886.45",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 175A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 175A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -797,7 +797,7 @@ const formulaData = [
     price: "2317.48",
     showPrice: "2317.48",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -806,7 +806,7 @@ const formulaData = [
     price: "6710.18",
     showPrice: "6710.18",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/128909/3/27350/32029/625eec7dE349560e5/fff0d437d00c4060.jpg.avif",
   },
   {
@@ -815,7 +815,7 @@ const formulaData = [
     price: "498.01",
     showPrice: "498.01",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 63A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223837/10/4514/42987/6205d118E0107f9a6/f162842b2620fb4f.jpg.avif",
   },
   {
@@ -824,7 +824,7 @@ const formulaData = [
     price: "892.07",
     showPrice: "892.07",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -833,7 +833,7 @@ const formulaData = [
     price: "1288.58",
     showPrice: "1288.58",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -842,7 +842,7 @@ const formulaData = [
     price: "4249.56",
     showPrice: "4249.56",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/114762/36/23013/30521/625eec7bEcdcd5559/8ace36f88dd8c5e7.jpg.avif",
   },
   {
@@ -851,7 +851,7 @@ const formulaData = [
     price: "10822.83",
     showPrice: "10822.83",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/128909/3/27350/32029/625eec7dE349560e5/fff0d437d00c4060.jpg.avif",
   },
   {
@@ -860,7 +860,7 @@ const formulaData = [
     price: "582",
     showPrice: "582",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223837/10/4514/42987/6205d118E0107f9a6/f162842b2620fb4f.jpg.avif",
   },
   {
@@ -869,7 +869,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/156805/36/43103/24812/6621eeccF406a105d/ca7771f1e74c3b7c.jpg.avif",
   },
   {
@@ -878,7 +878,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -887,7 +887,7 @@ const formulaData = [
     price: "1062.01",
     showPrice: "1062.01",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -896,7 +896,7 @@ const formulaData = [
     price: "1222.54",
     showPrice: "1222.54",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -905,7 +905,7 @@ const formulaData = [
     price: "1288.58",
     showPrice: "1288.58",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -914,7 +914,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 15A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 15A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -923,7 +923,7 @@ const formulaData = [
     price: "1304.3",
     showPrice: "1304.3",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -932,7 +932,7 @@ const formulaData = [
     price: "6452.16",
     showPrice: "6452.16",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/114762/36/23013/30521/625eec7bEcdcd5559/8ace36f88dd8c5e7.jpg.avif",
   },
   {
@@ -941,7 +941,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -950,7 +950,7 @@ const formulaData = [
     price: "892.07",
     showPrice: "892.07",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -959,7 +959,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -968,7 +968,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -977,7 +977,7 @@ const formulaData = [
     price: "8031.79",
     showPrice: "8031.79",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/128909/3/27350/32029/625eec7dE349560e5/fff0d437d00c4060.jpg.avif",
   },
   {
@@ -986,7 +986,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/156805/36/43103/24812/6621eeccF406a105d/ca7771f1e74c3b7c.jpg.avif",
   },
   {
@@ -995,7 +995,7 @@ const formulaData = [
     price: "1062.01",
     showPrice: "1062.01",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1004,7 +1004,7 @@ const formulaData = [
     price: "1115.53",
     showPrice: "1115.53",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -1013,7 +1013,7 @@ const formulaData = [
     price: "1162.68",
     showPrice: "1162.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1022,7 +1022,7 @@ const formulaData = [
     price: "1304.3",
     showPrice: "1304.3",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -1031,7 +1031,7 @@ const formulaData = [
     price: "473.57",
     showPrice: "473.57",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223837/10/4514/42987/6205d118E0107f9a6/f162842b2620fb4f.jpg.avif",
   },
   {
@@ -1040,7 +1040,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 60A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 60A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1049,7 +1049,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 60A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 60A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1058,7 +1058,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1067,7 +1067,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 70A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 70A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1076,7 +1076,7 @@ const formulaData = [
     price: "2050.05",
     showPrice: "2050.05",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/146301/34/26487/32381/625eec78E9dee4e89/2070ca469a0eb633.jpg.avif",
   },
   {
@@ -1085,7 +1085,7 @@ const formulaData = [
     price: "7529.9",
     showPrice: "7529.9",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/128909/3/27350/32029/625eec7dE349560e5/fff0d437d00c4060.jpg.avif",
   },
   {
@@ -1094,7 +1094,7 @@ const formulaData = [
     price: "582",
     showPrice: "582",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 80A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223837/10/4514/42987/6205d118E0107f9a6/f162842b2620fb4f.jpg.avif",
   },
   {
@@ -1103,7 +1103,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1112,7 +1112,7 @@ const formulaData = [
     price: "1003.83",
     showPrice: "1003.83",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -1121,7 +1121,7 @@ const formulaData = [
     price: "1162.68",
     showPrice: "1162.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1130,7 +1130,7 @@ const formulaData = [
     price: "1222.54",
     showPrice: "1222.54",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 60A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 60A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1139,7 +1139,7 @@ const formulaData = [
     price: "498.01",
     showPrice: "498.01",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 7.5kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223837/10/4514/42987/6205d118E0107f9a6/f162842b2620fb4f.jpg.avif",
   },
   {
@@ -1148,7 +1148,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 15A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 15A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1157,7 +1157,7 @@ const formulaData = [
     price: "1115.53",
     showPrice: "1115.53",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -1166,7 +1166,7 @@ const formulaData = [
     price: "1886.45",
     showPrice: "1886.45",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -1175,7 +1175,7 @@ const formulaData = [
     price: "2824.1",
     showPrice: "2824.1",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/146301/34/26487/32381/625eec78E9dee4e89/2070ca469a0eb633.jpg.avif",
   },
   {
@@ -1184,7 +1184,7 @@ const formulaData = [
     price: "4334.48",
     showPrice: "4334.48",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/114762/36/23013/30521/625eec7bEcdcd5559/8ace36f88dd8c5e7.jpg.avif",
   },
   {
@@ -1193,7 +1193,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1202,7 +1202,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1211,7 +1211,7 @@ const formulaData = [
     price: "1623.66",
     showPrice: "1623.66",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -1220,7 +1220,7 @@ const formulaData = [
     price: "10726.81",
     showPrice: "10726.81",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/114762/36/23013/30521/625eec7bEcdcd5559/8ace36f88dd8c5e7.jpg.avif",
   },
   {
@@ -1229,7 +1229,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 70A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 70A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1238,7 +1238,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1247,7 +1247,7 @@ const formulaData = [
     price: "1033.68",
     showPrice: "1033.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 30A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 30A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1256,7 +1256,7 @@ const formulaData = [
     price: "1579.63",
     showPrice: "1579.63",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -1265,7 +1265,7 @@ const formulaData = [
     price: "2122.42",
     showPrice: "2122.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -1274,7 +1274,7 @@ const formulaData = [
     price: "2147.64",
     showPrice: "2147.64",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/97879/34/28795/30568/625eec76Ee806a6b3/82f11de3f9ff76b6.jpg.avif",
   },
   {
@@ -1283,7 +1283,7 @@ const formulaData = [
     price: "4249.56",
     showPrice: "4249.56",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/114762/36/23013/30521/625eec7bEcdcd5559/8ace36f88dd8c5e7.jpg.avif",
   },
   {
@@ -1292,7 +1292,7 @@ const formulaData = [
     price: "473.57",
     showPrice: "473.57",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 30A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 30A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223837/10/4514/42987/6205d118E0107f9a6/f162842b2620fb4f.jpg.avif",
   },
   {
@@ -1301,7 +1301,7 @@ const formulaData = [
     price: "766.25",
     showPrice: "766.25",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1310,7 +1310,7 @@ const formulaData = [
     price: "1162.68",
     showPrice: "1162.68",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1319,7 +1319,7 @@ const formulaData = [
     price: "4334.48",
     showPrice: "4334.48",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/114762/36/23013/30521/625eec7bEcdcd5559/8ace36f88dd8c5e7.jpg.avif",
   },
   {
@@ -1328,7 +1328,7 @@ const formulaData = [
     price: "3138.77",
     showPrice: "3138.77",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 175A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 175A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/146301/34/26487/32381/625eec78E9dee4e89/2070ca469a0eb633.jpg.avif",
   },
   {
@@ -1337,7 +1337,7 @@ const formulaData = [
     price: "3138.77",
     showPrice: "3138.77",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/146301/34/26487/32381/625eec78E9dee4e89/2070ca469a0eb633.jpg.avif",
   },
   {
@@ -1346,7 +1346,7 @@ const formulaData = [
     price: "6082.46",
     showPrice: "6082.46",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/114762/36/23013/30521/625eec7bEcdcd5559/8ace36f88dd8c5e7.jpg.avif",
   },
   {
@@ -1355,7 +1355,7 @@ const formulaData = [
     price: "903.16",
     showPrice: "903.16",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/305603/22/18060/27517/6875d950F7134ea05/1c6cd48faf53229a.jpg.avif",
   },
   {
@@ -1364,7 +1364,7 @@ const formulaData = [
     price: "1003.83",
     showPrice: "1003.83",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 18kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
   {
@@ -1373,7 +1373,7 @@ const formulaData = [
     price: "630.93",
     showPrice: "630.93",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 90A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 10kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 90A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1382,7 +1382,7 @@ const formulaData = [
     price: "876.42",
     showPrice: "876.42",
     remark:
-      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 90A",
+      "Series: Formula | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 90A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/193533/7/22601/40559/625eec73E96a14d3d/a280c31ab40df377.jpg.avif",
   },
   {
@@ -1391,7 +1391,7 @@ const formulaData = [
     price: "1115.53",
     showPrice: "1115.53",
     remark:
-      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: Formula | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/134404/21/21476/34245/625eec75E4de6e348/2455702b8d275866.jpg.avif",
   },
 ];

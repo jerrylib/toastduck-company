@@ -5,7 +5,7 @@ const tmax = [
     price: "7491.63",
     showPrice: "3279.61",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/290207/33/10011/55252/68385ab6F9fd0a141/e0987ff8c565cefc.jpg.avif",
   },
   {
@@ -14,7 +14,7 @@ const tmax = [
     price: "7591.21",
     showPrice: "7591.21",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130430/35/21297/77144/625ee927Ef03fa495/dc7c2241acbc7fd8.jpg.avif",
   },
   {
@@ -23,7 +23,7 @@ const tmax = [
     price: "7160.17",
     showPrice: "7160.17",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -32,7 +32,7 @@ const tmax = [
     price: "4163.35",
     showPrice: "4163.35",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130430/35/21297/77144/625ee927Ef03fa495/dc7c2241acbc7fd8.jpg.avif",
   },
   {
@@ -41,7 +41,7 @@ const tmax = [
     price: "7296.23",
     showPrice: "7296.23",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：抽出式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Draw-out type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/186320/18/22792/77144/625ee982Ebb226e05/30166ccdd78d9c0d.jpg.avif",
   },
   {
@@ -50,7 +50,7 @@ const tmax = [
     price: "9650.06",
     showPrice: "9650.06",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -59,7 +59,7 @@ const tmax = [
     price: "3366.75",
     showPrice: "3366.75",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/95104/4/28500/57848/625ee917E51aad4d7/0049c427ee6e98ca.jpg.avif",
   },
   {
@@ -68,7 +68,7 @@ const tmax = [
     price: "10665.11",
     showPrice: "10665.11",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/216968/15/44830/25215/670d0acfF99a46a41/239f081654b22fec.jpg.avif",
   },
   {
@@ -77,7 +77,7 @@ const tmax = [
     price: "12676.29",
     showPrice: "12676.29",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/92550/14/28599/40346/625eea6dE0f934856/116e4daf96ef805d.jpg.avif",
   },
   {
@@ -86,7 +86,7 @@ const tmax = [
     price: "10259.65",
     showPrice: "10259.65",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/92550/14/28599/40346/625eea6dE0f934856/116e4daf96ef805d.jpg.avif",
   },
   {
@@ -95,7 +95,7 @@ const tmax = [
     price: "4282.87",
     showPrice: "4282.87",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -104,7 +104,7 @@ const tmax = [
     price: "4282.87",
     showPrice: "4282.87",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/161645/19/44482/53214/6621eeb3F380efbd5/8a8a0bbd58f53364.jpg.avif",
   },
   {
@@ -113,7 +113,7 @@ const tmax = [
     price: "10043.61",
     showPrice: "10043.61",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -122,7 +122,7 @@ const tmax = [
     price: "4713.87",
     showPrice: "4713.87",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 300A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 300A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/110075/14/28041/43732/625ee90cE47452414/dcd38add6b9fa686.jpg.avif",
   },
   {
@@ -131,7 +131,7 @@ const tmax = [
     price: "4713.87",
     showPrice: "4713.87",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/110075/14/28041/43732/625ee90cE47452414/dcd38add6b9fa686.jpg.avif",
   },
   {
@@ -140,7 +140,7 @@ const tmax = [
     price: "6395.61",
     showPrice: "6395.61",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 200kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 200kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/110075/14/28041/43732/625ee90cE47452414/dcd38add6b9fa686.jpg.avif",
   },
   {
@@ -149,7 +149,7 @@ const tmax = [
     price: "3549.08",
     showPrice: "3549.08",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/110175/4/14620/71960/625ee91eE3ebdaec9/e4418731faaf79b1.jpg.avif",
   },
   {
@@ -158,7 +158,7 @@ const tmax = [
     price: "4464.67",
     showPrice: "4464.67",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/54032/9/17314/28986/625ee912E0b8925d1/0b2c774b53460786.jpg.avif",
   },
   {
@@ -167,7 +167,7 @@ const tmax = [
     price: "13547.03",
     showPrice: "13547.03",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 200kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 200kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130430/35/21297/77144/625ee927Ef03fa495/dc7c2241acbc7fd8.jpg.avif",
   },
   {
@@ -176,7 +176,7 @@ const tmax = [
     price: "9889.89",
     showPrice: "9889.89",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 200kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 200kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/110075/14/28041/43732/625ee90cE47452414/dcd38add6b9fa686.jpg.avif",
   },
   {
@@ -185,7 +185,7 @@ const tmax = [
     price: "10665.11",
     showPrice: "10665.11",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199781/38/22851/40346/625eea6eE5542e4b7/75c4d71e13bc6dfe.jpg.avif",
   },
   {
@@ -194,7 +194,7 @@ const tmax = [
     price: "23488.6",
     showPrice: "23488.6",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 1250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/98507/11/20415/110330/625eeb2aE678b722a/fa1e12c0e4b44581.jpg.avif",
   },
   {
@@ -203,7 +203,7 @@ const tmax = [
     price: "9861.22",
     showPrice: "9861.22",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/92550/14/28599/40346/625eea6dE0f934856/116e4daf96ef805d.jpg.avif",
   },
   {
@@ -212,7 +212,7 @@ const tmax = [
     price: "25519.89",
     showPrice: "25519.89",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 1000A | Rated current: 1000A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Motorized operation | Wiring method：Front wiring | Frame current: 1000A | Rated current: 1000A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/98507/11/20415/110330/625eeb2aE678b722a/fa1e12c0e4b44581.jpg.avif",
   },
   {
@@ -221,7 +221,7 @@ const tmax = [
     price: "11851.72",
     showPrice: "11851.72",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199781/38/22851/40346/625eea6eE5542e4b7/75c4d71e13bc6dfe.jpg.avif",
   },
   {
@@ -230,7 +230,7 @@ const tmax = [
     price: "12845.14",
     showPrice: "12845.14",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/92550/14/28599/40346/625eea6dE0f934856/116e4daf96ef805d.jpg.avif",
   },
   {
@@ -239,7 +239,7 @@ const tmax = [
     price: "31006.55",
     showPrice: "31006.55",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1600A | Rated current: 1600A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1600A | Rated current: 1600A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/98507/11/20415/110330/625eeb2aE678b722a/fa1e12c0e4b44581.jpg.avif",
   },
   {
@@ -248,7 +248,7 @@ const tmax = [
     price: "3678.64",
     showPrice: "3678.64",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130430/35/21297/77144/625ee927Ef03fa495/dc7c2241acbc7fd8.jpg.avif",
   },
   {
@@ -257,7 +257,7 @@ const tmax = [
     price: "3678.64",
     showPrice: "3678.64",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130430/35/21297/77144/625ee927Ef03fa495/dc7c2241acbc7fd8.jpg.avif",
   },
   {
@@ -266,7 +266,7 @@ const tmax = [
     price: "6043.48",
     showPrice: "6043.48",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -275,7 +275,7 @@ const tmax = [
     price: "6507.31",
     showPrice: "6507.31",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -284,7 +284,7 @@ const tmax = [
     price: "6921.71",
     showPrice: "6921.71",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130430/35/21297/77144/625ee927Ef03fa495/dc7c2241acbc7fd8.jpg.avif",
   },
   {
@@ -293,7 +293,7 @@ const tmax = [
     price: "5484.95",
     showPrice: "5484.95",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -302,7 +302,7 @@ const tmax = [
     price: "5484.95",
     showPrice: "5484.95",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -311,7 +311,7 @@ const tmax = [
     price: "6617",
     showPrice: "6617",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -320,7 +320,7 @@ const tmax = [
     price: "5863.48",
     showPrice: "5863.48",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -329,7 +329,7 @@ const tmax = [
     price: "5863.48",
     showPrice: "5863.48",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -338,7 +338,7 @@ const tmax = [
     price: "6949.32",
     showPrice: "6949.32",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -347,7 +347,7 @@ const tmax = [
     price: "5294.77",
     showPrice: "5294.77",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130430/35/21297/77144/625ee927Ef03fa495/dc7c2241acbc7fd8.jpg.avif",
   },
   {
@@ -356,7 +356,7 @@ const tmax = [
     price: "5674.72",
     showPrice: "5674.72",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：抽出式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Draw-out type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/186320/18/22792/77144/625ee982Ebb226e05/30166ccdd78d9c0d.jpg.avif",
   },
   {
@@ -365,7 +365,7 @@ const tmax = [
     price: "5640.32",
     showPrice: "5640.32",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/89944/12/26707/77144/625ee986E3042c1b4/45a864c2e916a54b.jpg.avif",
   },
   {
@@ -374,7 +374,7 @@ const tmax = [
     price: "4351.73",
     showPrice: "4351.73",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -383,7 +383,7 @@ const tmax = [
     price: "4944.5",
     showPrice: "4944.5",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -392,7 +392,7 @@ const tmax = [
     price: "7809.56",
     showPrice: "7809.56",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -401,7 +401,7 @@ const tmax = [
     price: "4163.35",
     showPrice: "4163.35",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130430/35/21297/77144/625ee927Ef03fa495/dc7c2241acbc7fd8.jpg.avif",
   },
   {
@@ -410,7 +410,7 @@ const tmax = [
     price: "4782.21",
     showPrice: "4782.21",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -419,7 +419,7 @@ const tmax = [
     price: "5064.43",
     showPrice: "5064.43",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -428,7 +428,7 @@ const tmax = [
     price: "4820.88",
     showPrice: "4820.88",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -437,7 +437,7 @@ const tmax = [
     price: "5640.32",
     showPrice: "5640.32",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/89944/12/26707/77144/625ee986E3042c1b4/45a864c2e916a54b.jpg.avif",
   },
   {
@@ -446,7 +446,7 @@ const tmax = [
     price: "4483.72",
     showPrice: "4483.72",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -455,7 +455,7 @@ const tmax = [
     price: "7236.31",
     showPrice: "7236.31",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -464,7 +464,7 @@ const tmax = [
     price: "7536.02",
     showPrice: "7536.02",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -473,7 +473,7 @@ const tmax = [
     price: "5674.72",
     showPrice: "5674.72",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：抽出式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Draw-out type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/186320/18/22792/77144/625ee982Ebb226e05/30166ccdd78d9c0d.jpg.avif",
   },
   {
@@ -482,7 +482,7 @@ const tmax = [
     price: "5861.06",
     showPrice: "5861.06",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -491,7 +491,7 @@ const tmax = [
     price: "5196.4",
     showPrice: "5196.4",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -500,7 +500,7 @@ const tmax = [
     price: "7503.63",
     showPrice: "7503.63",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -509,7 +509,7 @@ const tmax = [
     price: "4483.72",
     showPrice: "4483.72",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -518,7 +518,7 @@ const tmax = [
     price: "5660.95",
     showPrice: "5660.95",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -527,7 +527,7 @@ const tmax = [
     price: "6617",
     showPrice: "6617",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -536,7 +536,7 @@ const tmax = [
     price: "7730.37",
     showPrice: "7730.37",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 200kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 200kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130430/35/21297/77144/625ee927Ef03fa495/dc7c2241acbc7fd8.jpg.avif",
   },
   {
@@ -545,7 +545,7 @@ const tmax = [
     price: "7536.02",
     showPrice: "7536.02",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -554,7 +554,7 @@ const tmax = [
     price: "7726.75",
     showPrice: "7726.75",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -563,7 +563,7 @@ const tmax = [
     price: "4155.55",
     showPrice: "4155.55",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -572,7 +572,7 @@ const tmax = [
     price: "4885.64",
     showPrice: "4885.64",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130430/35/21297/77144/625ee927Ef03fa495/dc7c2241acbc7fd8.jpg.avif",
   },
   {
@@ -581,7 +581,7 @@ const tmax = [
     price: "5107.58",
     showPrice: "5107.58",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -590,7 +590,7 @@ const tmax = [
     price: "6782.56",
     showPrice: "6782.56",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -599,7 +599,7 @@ const tmax = [
     price: "4885.64",
     showPrice: "4885.64",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130430/35/21297/77144/625ee927Ef03fa495/dc7c2241acbc7fd8.jpg.avif",
   },
   {
@@ -608,7 +608,7 @@ const tmax = [
     price: "6684.17",
     showPrice: "6684.17",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：抽出式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Draw-out type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/186320/18/22792/77144/625ee982Ebb226e05/30166ccdd78d9c0d.jpg.avif",
   },
   {
@@ -617,7 +617,7 @@ const tmax = [
     price: "4629.67",
     showPrice: "4629.67",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 250A | Rated current: 250A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/91527/19/26104/51251/625ee90dE126fc434/5eb0832c13575bfe.jpg.avif",
   },
   {
@@ -626,7 +626,7 @@ const tmax = [
     price: "5567.35",
     showPrice: "5567.35",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -635,7 +635,7 @@ const tmax = [
     price: "5885.08",
     showPrice: "5885.08",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：抽出式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Draw-out type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/186320/18/22792/77144/625ee982Ebb226e05/30166ccdd78d9c0d.jpg.avif",
   },
   {
@@ -644,7 +644,7 @@ const tmax = [
     price: "5660.95",
     showPrice: "5660.95",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -653,7 +653,7 @@ const tmax = [
     price: "7084.01",
     showPrice: "7084.01",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -662,7 +662,7 @@ const tmax = [
     price: "4351.73",
     showPrice: "4351.73",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -671,7 +671,7 @@ const tmax = [
     price: "4782.21",
     showPrice: "4782.21",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -680,7 +680,7 @@ const tmax = [
     price: "6782.56",
     showPrice: "6782.56",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -689,7 +689,7 @@ const tmax = [
     price: "5861.06",
     showPrice: "5861.06",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -698,7 +698,7 @@ const tmax = [
     price: "7659.57",
     showPrice: "7659.57",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -707,7 +707,7 @@ const tmax = [
     price: "7726.75",
     showPrice: "7726.75",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -716,7 +716,7 @@ const tmax = [
     price: "4155.55",
     showPrice: "4155.55",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -725,7 +725,7 @@ const tmax = [
     price: "8781.4",
     showPrice: "8781.4",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -734,7 +734,7 @@ const tmax = [
     price: "10320.78",
     showPrice: "10320.78",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -743,7 +743,7 @@ const tmax = [
     price: "10543.91",
     showPrice: "10543.91",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -752,7 +752,7 @@ const tmax = [
     price: "10626.72",
     showPrice: "10626.72",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -761,7 +761,7 @@ const tmax = [
     price: "11060.99",
     showPrice: "11060.99",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -770,7 +770,7 @@ const tmax = [
     price: "7809.56",
     showPrice: "7809.56",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -779,7 +779,7 @@ const tmax = [
     price: "8551.04",
     showPrice: "8551.04",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -788,7 +788,7 @@ const tmax = [
     price: "11380.21",
     showPrice: "11380.21",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -797,7 +797,7 @@ const tmax = [
     price: "12091.67",
     showPrice: "12091.67",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130430/35/21297/77144/625ee927Ef03fa495/dc7c2241acbc7fd8.jpg.avif",
   },
   {
@@ -806,7 +806,7 @@ const tmax = [
     price: "8564.24",
     showPrice: "8564.24",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -815,7 +815,7 @@ const tmax = [
     price: "8597.87",
     showPrice: "8597.87",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 200kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 200kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -824,7 +824,7 @@ const tmax = [
     price: "9681.27",
     showPrice: "9681.27",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：抽出式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Draw-out type | Operation method：Direct operation | Wiring method：Base required | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/186320/18/22792/77144/625ee982Ebb226e05/30166ccdd78d9c0d.jpg.avif",
   },
   {
@@ -833,7 +833,7 @@ const tmax = [
     price: "9373.34",
     showPrice: "9373.34",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -842,7 +842,7 @@ const tmax = [
     price: "7931.95",
     showPrice: "7931.95",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -851,7 +851,7 @@ const tmax = [
     price: "8482.67",
     showPrice: "8482.67",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -860,7 +860,7 @@ const tmax = [
     price: "8691.43",
     showPrice: "8691.43",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130430/35/21297/77144/625ee927Ef03fa495/dc7c2241acbc7fd8.jpg.avif",
   },
   {
@@ -869,7 +869,7 @@ const tmax = [
     price: "9623.66",
     showPrice: "9623.66",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：抽出式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Draw-out type | Operation method：Direct operation | Wiring method：Base required | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/118427/29/26211/77144/625ee988Ebf3b3ca2/0faa195b7896a3af.jpg.avif",
   },
   {
@@ -878,7 +878,7 @@ const tmax = [
     price: "10345.95",
     showPrice: "10345.95",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -887,7 +887,7 @@ const tmax = [
     price: "8482.67",
     showPrice: "8482.67",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -896,7 +896,7 @@ const tmax = [
     price: "9590.07",
     showPrice: "9590.07",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -905,7 +905,7 @@ const tmax = [
     price: "18286.28",
     showPrice: "18286.28",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -914,7 +914,7 @@ const tmax = [
     price: "8339.78",
     showPrice: "8339.78",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 630A | Rated current: 500A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -923,7 +923,7 @@ const tmax = [
     price: "10713.08",
     showPrice: "10713.08",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：抽出式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Draw-out type | Operation method：Direct operation | Wiring method：Base required | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/186320/18/22792/77144/625ee982Ebb226e05/30166ccdd78d9c0d.jpg.avif",
   },
   {
@@ -932,7 +932,7 @@ const tmax = [
     price: "11680.16",
     showPrice: "11680.16",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -941,7 +941,7 @@ const tmax = [
     price: "8680.65",
     showPrice: "8680.65",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -950,7 +950,7 @@ const tmax = [
     price: "13235.08",
     showPrice: "13235.08",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -959,7 +959,7 @@ const tmax = [
     price: "9825.24",
     showPrice: "9825.24",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/89944/12/26707/77144/625ee986E3042c1b4/45a864c2e916a54b.jpg.avif",
   },
   {
@@ -968,7 +968,7 @@ const tmax = [
     price: "11479.78",
     showPrice: "11479.78",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -977,7 +977,7 @@ const tmax = [
     price: "8725.02",
     showPrice: "8725.02",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/89944/12/26707/77144/625ee986E3042c1b4/45a864c2e916a54b.jpg.avif",
   },
   {
@@ -986,7 +986,7 @@ const tmax = [
     price: "9812.02",
     showPrice: "9812.02",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -995,7 +995,7 @@ const tmax = [
     price: "11730.51",
     showPrice: "11730.51",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 120kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -1004,7 +1004,7 @@ const tmax = [
     price: "8835.4",
     showPrice: "8835.4",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -1013,7 +1013,7 @@ const tmax = [
     price: "11435.38",
     showPrice: "11435.38",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/130430/35/21297/77144/625ee927Ef03fa495/dc7c2241acbc7fd8.jpg.avif",
   },
   {
@@ -1022,7 +1022,7 @@ const tmax = [
     price: "8319.82",
     showPrice: "8319.82",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 200kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 200kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -1031,7 +1031,7 @@ const tmax = [
     price: "10008.78",
     showPrice: "10008.78",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -1040,7 +1040,7 @@ const tmax = [
     price: "12515.18",
     showPrice: "12515.18",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：需配底座 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Base required | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108114/3/27475/77144/625ee980E51607897/3239a638d74ecbd3.jpg.avif",
   },
   {
@@ -1049,7 +1049,7 @@ const tmax = [
     price: "9745.69",
     showPrice: "9745.69",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 200kA | Trip unit type: 电子式 | 安装方式：固定式 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 200kA | Trip unit type: Electronic | Installation method：Fixed type | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/315621/26/13477/86215/6862000aF20a2bff9/f0702fc08e58c14e.jpg.avif",
   },
   {
@@ -1058,7 +1058,7 @@ const tmax = [
     price: "16064.21",
     showPrice: "16064.21",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/92550/14/28599/40346/625eea6dE0f934856/116e4daf96ef805d.jpg.avif",
   },
   {
@@ -1067,7 +1067,7 @@ const tmax = [
     price: "30394.69",
     showPrice: "30394.69",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 1000A | Rated current: 1000A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Motorized operation | Wiring method：Front wiring | Frame current: 1000A | Rated current: 1000A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/98507/11/20415/110330/625eeb2aE678b722a/fa1e12c0e4b44581.jpg.avif",
   },
   {
@@ -1076,7 +1076,7 @@ const tmax = [
     price: "5107.58",
     showPrice: "5107.58",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 320A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 320A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -1085,7 +1085,7 @@ const tmax = [
     price: "14516.48",
     showPrice: "14516.48",
     remark:
-      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: 电子式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: Tmax | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electronic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -1094,7 +1094,7 @@ const tmax = [
     price: "8126.31",
     showPrice: "8126.31",
     remark:
-      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: Tmax | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/32/20780/77144/625ee91fEdd41d7e1/294caacd72d7c82d.jpg.avif",
   },
 ];

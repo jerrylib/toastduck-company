@@ -5,7 +5,7 @@ const list = [
     price: "3042.99",
     showPrice: "3042.99",
     remark:
-      "Series: S800 | Rated current: 40A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 40A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116375/18/20214/44818/625ee995E236ae589/63181e7f1c58ee40.jpg.avif",
   },
   {
@@ -14,7 +14,7 @@ const list = [
     price: "2106",
     showPrice: "2106",
     remark:
-      "Series: S800 | Rated current: 16A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 16A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/196352/39/23153/42320/625ee9c5E42a237c5/ba0a329509f9b9bf.jpg.avif",
   },
   {
@@ -23,7 +23,7 @@ const list = [
     price: "2185.7",
     showPrice: "2185.7",
     remark:
-      "Series: S800 | Rated current: 50A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 50A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/196352/39/23153/42320/625ee9c5E42a237c5/ba0a329509f9b9bf.jpg.avif",
   },
   {
@@ -32,7 +32,7 @@ const list = [
     price: "3008.89",
     showPrice: "3008.89",
     remark:
-      "Series: S800 | Rated current: 16A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 16A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116375/18/20214/44818/625ee995E236ae589/63181e7f1c58ee40.jpg.avif",
   },
   {
@@ -41,7 +41,7 @@ const list = [
     price: "2097.62",
     showPrice: "2097.62",
     remark:
-      "Series: S800 | Rated current: 40A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 40A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/196352/39/23153/42320/625ee9c5E42a237c5/ba0a329509f9b9bf.jpg.avif",
   },
   {
@@ -50,7 +50,7 @@ const list = [
     price: "937.17",
     showPrice: "937.17",
     remark:
-      "Series: S800 | Rated current: 16A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 16A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199216/7/22397/28343/625ee98fEbb3f7c4d/b2ca88eeb7ffe49d.jpg.avif",
   },
   {
@@ -59,7 +59,7 @@ const list = [
     price: "2106",
     showPrice: "2106",
     remark:
-      "Series: S800 | Rated current: 32A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 32A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/196352/39/23153/42320/625ee9c5E42a237c5/ba0a329509f9b9bf.jpg.avif",
   },
   {
@@ -68,7 +68,7 @@ const list = [
     price: "2836.08",
     showPrice: "2836.08",
     remark:
-      "Series: S800 | Rated current: 63A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 63A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116375/18/20214/44818/625ee995E236ae589/63181e7f1c58ee40.jpg.avif",
   },
   {
@@ -77,7 +77,7 @@ const list = [
     price: "2106",
     showPrice: "2106",
     remark:
-      "Series: S800 | Rated current: 20A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 20A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/196352/39/23153/42320/625ee9c5E42a237c5/ba0a329509f9b9bf.jpg.avif",
   },
   {
@@ -86,7 +86,7 @@ const list = [
     price: "3008.89",
     showPrice: "3008.89",
     remark:
-      "Series: S800 | Rated current: 32A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 32A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116375/18/20214/44818/625ee995E236ae589/63181e7f1c58ee40.jpg.avif",
   },
   {
@@ -95,7 +95,7 @@ const list = [
     price: "2407.11",
     showPrice: "2407.11",
     remark:
-      "Series: S800 | Rated current: 10A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 10A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116375/18/20214/44818/625ee995E236ae589/63181e7f1c58ee40.jpg.avif",
   },
   {
@@ -104,7 +104,7 @@ const list = [
     price: "1233.23",
     showPrice: "1233.23",
     remark:
-      "Series: S800 | Rated current: 32A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 32A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/191097/21/23465/38654/625ee9c5Ea5a8aa20/b6d7a87a3b4d41c0.jpg.avif",
   },
   {
@@ -113,7 +113,7 @@ const list = [
     price: "1634.08",
     showPrice: "1634.08",
     remark:
-      "Series: S800 | Rated current: 25A | Number of poles: 3P | 脱扣特性：B | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 25A | Number of poles: 3P | Trip characteristic：B | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/196352/39/23153/42320/625ee9c5E42a237c5/ba0a329509f9b9bf.jpg.avif",
   },
   {
@@ -122,7 +122,7 @@ const list = [
     price: "729.47",
     showPrice: "729.47",
     remark:
-      "Series: S800 | Rated current: 16A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 16A | Number of poles: 1P | Trip characteristic：D | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223115/7/10886/27700/625ee9c4E9fdf5ebc/c89406c79493815c.jpg.avif",
   },
   {
@@ -131,7 +131,7 @@ const list = [
     price: "1233.23",
     showPrice: "1233.23",
     remark:
-      "Series: S800 | Rated current: 16A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 16A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/191097/21/23465/38654/625ee9c5Ea5a8aa20/b6d7a87a3b4d41c0.jpg.avif",
   },
   {
@@ -140,7 +140,7 @@ const list = [
     price: "1957.31",
     showPrice: "1957.31",
     remark:
-      "Series: S800 | Rated current: 40A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 40A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/196352/39/23153/42320/625ee9c5E42a237c5/ba0a329509f9b9bf.jpg.avif",
   },
   {
@@ -149,7 +149,7 @@ const list = [
     price: "2724.27",
     showPrice: "2724.27",
     remark:
-      "Series: S800 | Rated current: 16A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 16A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116375/18/20214/44818/625ee995E236ae589/63181e7f1c58ee40.jpg.avif",
   },
   {
@@ -158,7 +158,7 @@ const list = [
     price: "1291.01",
     showPrice: "1291.01",
     remark:
-      "Series: S800 | Rated current: 40A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 40A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/191097/21/23465/38654/625ee9c5Ea5a8aa20/b6d7a87a3b4d41c0.jpg.avif",
   },
   {
@@ -167,7 +167,7 @@ const list = [
     price: "4220.42",
     showPrice: "4220.42",
     remark:
-      "Series: S800 | Rated current: 20A | Number of poles: 3P | 脱扣特性：K | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 20A | Number of poles: 3P | Trip characteristic：K | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116375/18/20214/44818/625ee995E236ae589/63181e7f1c58ee40.jpg.avif",
   },
   {
@@ -176,7 +176,7 @@ const list = [
     price: "1789.26",
     showPrice: "1789.26",
     remark:
-      "Series: S800 | Rated current: 16A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 16A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/191456/20/21925/38654/625ee992E3e985b94/d80ab174a2e0dbc3.jpg.avif",
   },
   {
@@ -185,7 +185,7 @@ const list = [
     price: "1915.95",
     showPrice: "1915.95",
     remark:
-      "Series: S800 | Rated current: 25A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 25A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/196352/39/23153/42320/625ee9c5E42a237c5/ba0a329509f9b9bf.jpg.avif",
   },
   {
@@ -194,7 +194,7 @@ const list = [
     price: "2724.27",
     showPrice: "2724.27",
     remark:
-      "Series: S800 | Rated current: 32A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 32A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116375/18/20214/44818/625ee995E236ae589/63181e7f1c58ee40.jpg.avif",
   },
   {
@@ -203,7 +203,7 @@ const list = [
     price: "2042.39",
     showPrice: "2042.39",
     remark:
-      "Series: S800 | Rated current: 40A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 40A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/191456/20/21925/38654/625ee992E3e985b94/d80ab174a2e0dbc3.jpg.avif",
   },
   {
@@ -212,7 +212,7 @@ const list = [
     price: "646.93",
     showPrice: "646.93",
     remark:
-      "Series: S800 | Rated current: 16A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 16A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223115/7/10886/27700/625ee9c4E9fdf5ebc/c89406c79493815c.jpg.avif",
   },
   {
@@ -221,7 +221,7 @@ const list = [
     price: "1872.2",
     showPrice: "1872.2",
     remark:
-      "Series: S800 | Rated current: 50A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 50A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/191456/20/21925/38654/625ee992E3e985b94/d80ab174a2e0dbc3.jpg.avif",
   },
   {
@@ -230,7 +230,7 @@ const list = [
     price: "2179.42",
     showPrice: "2179.42",
     remark:
-      "Series: S800 | Rated current: 10A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 10A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116375/18/20214/44818/625ee995E236ae589/63181e7f1c58ee40.jpg.avif",
   },
   {
@@ -239,7 +239,7 @@ const list = [
     price: "1370.99",
     showPrice: "1370.99",
     remark:
-      "Series: S800 | Rated current: 32A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 32A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/191097/21/23465/38654/625ee9c5Ea5a8aa20/b6d7a87a3b4d41c0.jpg.avif",
   },
   {
@@ -248,7 +248,7 @@ const list = [
     price: "2724.27",
     showPrice: "2724.27",
     remark:
-      "Series: S800 | Rated current: 25A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 25A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116375/18/20214/44818/625ee995E236ae589/63181e7f1c58ee40.jpg.avif",
   },
   {
@@ -257,7 +257,7 @@ const list = [
     price: "1564.46",
     showPrice: "1564.46",
     remark:
-      "Series: S800 | Rated current: 10A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 10A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/196352/39/23153/42320/625ee9c5E42a237c5/ba0a329509f9b9bf.jpg.avif",
   },
   {
@@ -266,7 +266,7 @@ const list = [
     price: "1431.4",
     showPrice: "1431.4",
     remark:
-      "Series: S800 | Rated current: 10A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 10A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/191456/20/21925/38654/625ee992E3e985b94/d80ab174a2e0dbc3.jpg.avif",
   },
   {
@@ -275,7 +275,7 @@ const list = [
     price: "916.12",
     showPrice: "916.12",
     remark:
-      "Series: S800 | Rated current: 10A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 10A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/191097/21/23465/38654/625ee9c5Ea5a8aa20/b6d7a87a3b4d41c0.jpg.avif",
   },
   {
@@ -284,7 +284,7 @@ const list = [
     price: "749.74",
     showPrice: "749.74",
     remark:
-      "Series: S800 | Rated current: 10A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 10A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199216/7/22397/28343/625ee98fEbb3f7c4d/b2ca88eeb7ffe49d.jpg.avif",
   },
   {
@@ -293,7 +293,7 @@ const list = [
     price: "1370.99",
     showPrice: "1370.99",
     remark:
-      "Series: S800 | Rated current: 16A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 16A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/191097/21/23465/38654/625ee9c5Ea5a8aa20/b6d7a87a3b4d41c0.jpg.avif",
   },
   {
@@ -302,7 +302,7 @@ const list = [
     price: "1915.95",
     showPrice: "1915.95",
     remark:
-      "Series: S800 | Rated current: 32A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 32A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/196352/39/23153/42320/625ee9c5E42a237c5/ba0a329509f9b9bf.jpg.avif",
   },
   {
@@ -311,7 +311,7 @@ const list = [
     price: "1957.31",
     showPrice: "1957.31",
     remark:
-      "Series: S800 | Rated current: 50A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 50A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/196352/39/23153/42320/625ee9c5E42a237c5/ba0a329509f9b9bf.jpg.avif",
   },
   {
@@ -320,7 +320,7 @@ const list = [
     price: "3008.89",
     showPrice: "3008.89",
     remark:
-      "Series: S800 | Rated current: 20A | Number of poles: 3P | 脱扣特性：D | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 20A | Number of poles: 3P | Trip characteristic：D | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116375/18/20214/44818/625ee995E236ae589/63181e7f1c58ee40.jpg.avif",
   },
   {
@@ -329,7 +329,7 @@ const list = [
     price: "1423.27",
     showPrice: "1423.27",
     remark:
-      "Series: S800 | Rated current: 10A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 10A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/196352/39/23153/42320/625ee9c5E42a237c5/ba0a329509f9b9bf.jpg.avif",
   },
   {
@@ -338,7 +338,7 @@ const list = [
     price: "1589.25",
     showPrice: "1589.25",
     remark:
-      "Series: S800 | Rated current: 10A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 10A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/191456/20/21925/38654/625ee992E3e985b94/d80ab174a2e0dbc3.jpg.avif",
   },
   {
@@ -347,7 +347,7 @@ const list = [
     price: "1090.2",
     showPrice: "1090.2",
     remark:
-      "Series: S800 | Rated current: 16A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 16A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/191097/21/23465/38654/625ee9c5Ea5a8aa20/b6d7a87a3b4d41c0.jpg.avif",
   },
   {
@@ -356,7 +356,7 @@ const list = [
     price: "2623.62",
     showPrice: "2623.62",
     remark:
-      "Series: S800 | Rated current: 16A | Number of poles: 4P | 脱扣特性：D | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 16A | Number of poles: 4P | Trip characteristic：D | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/89967/8/27591/51170/625ee9c7Ed036e5d0/5f9e52c0209fdeed.jpg.avif",
   },
   {
@@ -365,7 +365,7 @@ const list = [
     price: "3425.86",
     showPrice: "3425.86",
     remark:
-      "Series: S800 | Rated current: 16A | Number of poles: 2P | 脱扣特性：UCB | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 16A | Number of poles: 2P | Trip characteristic：UCB | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/208517/9/20845/38654/625ee9dcE46c0b9a6/26dc427c6541cf49.jpg.avif",
   },
   {
@@ -374,7 +374,7 @@ const list = [
     price: "2447.09",
     showPrice: "2447.09",
     remark:
-      "Series: S800 | Rated current: 63A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 63A | Number of poles: 4P | Trip characteristic：C | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/89967/8/27591/51170/625ee9c7Ed036e5d0/5f9e52c0209fdeed.jpg.avif",
   },
   {
@@ -383,7 +383,7 @@ const list = [
     price: "2386.56",
     showPrice: "2386.56",
     remark:
-      "Series: S800 | Rated current: 25A | Number of poles: 4P | 脱扣特性：C | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 25A | Number of poles: 4P | Trip characteristic：C | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/89967/8/27591/51170/625ee9c7Ed036e5d0/5f9e52c0209fdeed.jpg.avif",
   },
   {
@@ -392,7 +392,7 @@ const list = [
     price: "1139.82",
     showPrice: "1139.82",
     remark:
-      "Series: S800 | Rated current: 40A | Number of poles: 2P | 脱扣特性：D | 额定分断能力：25kA",
+      "Series: S800 | Rated current: 40A | Number of poles: 2P | Trip characteristic：D | Rated breaking capacity：25kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116131/8/23889/38654/625f2c68Ef8779d71/7f11d4ac99ea5e58.jpg.avif",
   },
   {
@@ -401,7 +401,7 @@ const list = [
     price: "1683.82",
     showPrice: "1683.82",
     remark:
-      "Series: S800 | Rated current: 40A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：25kA",
+      "Series: S800 | Rated current: 40A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：25kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197729/23/22476/44749/625f2c69E091be8c5/7abc6e0f0081b653.jpg.avif",
   },
   {
@@ -410,7 +410,7 @@ const list = [
     price: "762.6",
     showPrice: "762.6",
     remark:
-      "Series: S800 | Rated current: 13A | Number of poles: 2P | 脱扣特性：B | 额定分断能力：25kA",
+      "Series: S800 | Rated current: 13A | Number of poles: 2P | Trip characteristic：B | Rated breaking capacity：25kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116131/8/23889/38654/625f2c68Ef8779d71/7f11d4ac99ea5e58.jpg.avif",
   },
   {
@@ -419,7 +419,7 @@ const list = [
     price: "428.13",
     showPrice: "428.13",
     remark:
-      "Series: S800 | Rated current: 10A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：25kA",
+      "Series: S800 | Rated current: 10A | Number of poles: 1P | Trip characteristic：D | Rated breaking capacity：25kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/185295/23/22568/30928/625f2c67Eee87e5ee/fb2d27506c9bc8f8.jpg.avif",
   },
   {
@@ -428,7 +428,7 @@ const list = [
     price: "1505.61",
     showPrice: "1505.61",
     remark:
-      "Series: S800 | Rated current: 25A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：25kA",
+      "Series: S800 | Rated current: 25A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：25kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/197729/23/22476/44749/625f2c69E091be8c5/7abc6e0f0081b653.jpg.avif",
   },
   {
@@ -437,7 +437,7 @@ const list = [
     price: "2141.52",
     showPrice: "2141.52",
     remark:
-      "Series: S800 | Rated current: 40A | Number of poles: 4P | 脱扣特性：D | 额定分断能力：25kA",
+      "Series: S800 | Rated current: 40A | Number of poles: 4P | Trip characteristic：D | Rated breaking capacity：25kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/121086/31/20933/49001/625f2c69E88a6811a/7a75d84630c1b92a.jpg.avif",
   },
   {
@@ -446,7 +446,7 @@ const list = [
     price: "3056.23",
     showPrice: "3056.23",
     remark:
-      "Series: S800 | Rated current: 6A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：50kA",
+      "Series: S800 | Rated current: 6A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：50kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/21485/38/16955/32203/63bd3786F5cfadc08/b8a5bbf7902df0a4.jpg.avif",
   },
   {
@@ -455,7 +455,7 @@ const list = [
     price: "3079.09",
     showPrice: "3079.09",
     remark:
-      "Series: S800 | Rated current: 32A | Number of poles: 3P | 脱扣特性：C | 额定分断能力：4kA",
+      "Series: S800 | Rated current: 32A | Number of poles: 3P | Trip characteristic：C | Rated breaking capacity：4kA",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -464,7 +464,7 @@ const list = [
     price: "7155.31",
     showPrice: "7155.31",
     remark:
-      "Series: S800 | Rated current: 10A | Number of poles: 3P | 脱扣特性：K | 额定分断能力：4kA",
+      "Series: S800 | Rated current: 10A | Number of poles: 3P | Trip characteristic：K | Rated breaking capacity：4kA",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -473,7 +473,7 @@ const list = [
     price: "1233.23",
     showPrice: "1233.23",
     remark:
-      "Series: S800 | Rated current: 20A | Number of poles: 2P | 脱扣特性：C | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 20A | Number of poles: 2P | Trip characteristic：C | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/191097/21/23465/38654/625ee9c5Ea5a8aa20/b6d7a87a3b4d41c0.jpg.avif",
   },
   {
@@ -482,7 +482,7 @@ const list = [
     price: "762.37",
     showPrice: "762.37",
     remark:
-      "Series: S800 | Rated current: 40A | Number of poles: 1P | 脱扣特性：D | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 40A | Number of poles: 1P | Trip characteristic：D | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223115/7/10886/27700/625ee9c4E9fdf5ebc/c89406c79493815c.jpg.avif",
   },
   {
@@ -491,7 +491,7 @@ const list = [
     price: "646.93",
     showPrice: "646.93",
     remark:
-      "Series: S800 | Rated current: 32A | Number of poles: 1P | 脱扣特性：C | 额定分断能力：36kA",
+      "Series: S800 | Rated current: 32A | Number of poles: 1P | Trip characteristic：C | Rated breaking capacity：36kA",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223115/7/10886/27700/625ee9c4E9fdf5ebc/c89406c79493815c.jpg.avif",
   },
 ];

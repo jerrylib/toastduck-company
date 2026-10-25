@@ -5,7 +5,7 @@ const list = [
     price: "9188.03",
     showPrice: "9188.03",
     remark:
-      "Series: ATV630 | Rated motor power: 轻载11kW/重载7.5kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
+      "Series: ATV630 | Rated motor power: Light duty11kW/Heavy duty7.5kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/231255/18/7850/18986/65785be4F9cfc0568/ec8b18238ceefda4.png.avif",
   },
   {
@@ -14,7 +14,7 @@ const list = [
     price: "22903.97",
     showPrice: "22903.97",
     remark:
-      "Series: ATV630 | Rated motor power: 轻载45kW/重载37kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
+      "Series: ATV630 | Rated motor power: Light duty45kW/Heavy duty37kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/231816/33/7831/19067/65785be6F931ae442/b117f8163481dc72.png.avif",
   },
   {
@@ -23,7 +23,7 @@ const list = [
     price: "19837.15",
     showPrice: "19837.15",
     remark:
-      "Series: ATV630 | Rated motor power: 轻载37kW/重载30kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
+      "Series: ATV630 | Rated motor power: Light duty37kW/Heavy duty30kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/224151/37/8152/19067/65785be6F3f18475b/331916f6ba5d58d2.png.avif",
   },
   {
@@ -32,7 +32,7 @@ const list = [
     price: "11733.92",
     showPrice: "11733.92",
     remark:
-      "Series: ATV630 | Rated motor power: 轻载15kW/重载11kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
+      "Series: ATV630 | Rated motor power: Light duty15kW/Heavy duty11kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/224683/37/7978/16213/65785be5F59615d5c/9f72fc8db6b089b8.png.avif",
   },
   {
@@ -41,7 +41,7 @@ const list = [
     price: "44712.97",
     showPrice: "44712.97",
     remark:
-      "Series: ATV630 | Rated motor power: 轻载90kW/重载75kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
+      "Series: ATV630 | Rated motor power: Light duty90kW/Heavy duty75kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/224393/22/6904/16245/65785be7Fd4c6dc0d/0d49be9c58a60793.png.avif",
   },
   {
@@ -50,7 +50,7 @@ const list = [
     price: "27862.41",
     showPrice: "27862.41",
     remark:
-      "Series: ATV630 | Rated motor power: 轻载55kW/重载45kW | Number of phases: 三相 | Power supply voltage: AC380-480V | 应用类型：通用型",
+      "Series: ATV630 | Rated motor power: Light duty55kW/Heavy duty45kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/229776/26/7342/16245/65785be7Fa3158621/7713d761336eade7.png.avif",
   },
   {

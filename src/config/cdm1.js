@@ -5,7 +5,7 @@ const list = [
     price: "471",
     showPrice: "136",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/230120/2/13304/46406/65ea8b09Fb3340c9a/09d4f93b1025e508.jpg.avif",
   },
   {
@@ -14,7 +14,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/162724/32/41198/41169/65ea8b1dF037024fa/9871da66a5f29f07.jpg.avif",
   },
   {
@@ -23,7 +23,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/129754/20/49476/51462/670d0b93F0ebd2c9c/4152ffff9534e1ea.jpg.avif",
   },
   {
@@ -32,7 +32,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/24154/6/20387/30202/65ea827bFd63cbbf0/446408b7347a3fb1.jpg.avif",
   },
   {
@@ -41,7 +41,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/170525/20/43803/32324/65ea8b22F3e83ab32/471dbb231531c50c.jpg.avif",
   },
   {
@@ -50,7 +50,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/237993/3/12966/34900/65ea8b21F97811fa0/0fe3a9dcb8f5b2d7.jpg.avif",
   },
   {
@@ -59,7 +59,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/164210/13/30222/36464/6206b948Ea3f76354/44373135a9d7637f.jpg.avif",
   },
   {
@@ -68,7 +68,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/94205/13/47554/37784/660a9500Fc6ba3bed/f2c667d86717b7e9.jpg.avif",
   },
   {
@@ -77,7 +77,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/249678/13/20834/45974/670d0b9bF6a15c8cc/df60491283c065e5.jpg.avif",
   },
   {
@@ -86,7 +86,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/191550/18/23400/44660/625ef476E5489633c/b2087ae233cd60f9.jpg.avif",
   },
   {
@@ -95,7 +95,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/164210/13/30222/36464/6206b948Ea3f76354/44373135a9d7637f.jpg.avif",
   },
   {
@@ -104,7 +104,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/242197/4/4929/41175/65ea8b1eF62055eb8/98f222bf34958734.jpg.avif",
   },
   {
@@ -113,16 +113,16 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
     orderId: "CDM1225M1003E",
-    model: "CDM1-225M/3300 100A 英文标牌",
+    model: "CDM1-225M/3300 100A English nameplate",
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 225A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 225A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/99501/3/21760/41221/6205fbddE00840de7/6463fb670f4bb56e.jpg.avif",
   },
   {
@@ -131,7 +131,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -140,16 +140,16 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/222134/14/43006/47340/670d0b97F75e7be2a/aafa469944466e80.jpg.avif",
   },
   {
     orderId: "CDM1225L2003E",
-    model: "CDM1-225L/3300 200A 英文标牌",
+    model: "CDM1-225L/3300 200A English nameplate",
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 225A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 225A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -158,7 +158,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -167,7 +167,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -176,16 +176,16 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/187589/13/22811/44660/625ef476E470e66f9/6491808c3f94f793.jpg.avif",
   },
   {
     orderId: "CDM1100M1003E",
-    model: "CDM1-100M/3300 100A 英文标牌",
+    model: "CDM1-100M/3300 100A English nameplate",
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -194,7 +194,7 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -203,7 +203,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148135/18/27885/38815/625ef448E213cc64f/a95b9b5204ff6d6b.jpg.avif",
   },
   {
@@ -212,16 +212,16 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
     orderId: "CDM1100L1003E",
-    model: "CDM1-100L/3300 100A 英文标牌",
+    model: "CDM1-100L/3300 100A English nameplate",
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -230,7 +230,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/100027/35/27524/45555/625ef444E8081633d/c456b79b5ace3f52.jpg.avif",
   },
   {
@@ -239,7 +239,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/160850/29/42878/38409/65ea8b1fF6cb87e72/574882d1f24b6dff.jpg.avif",
   },
   {
@@ -248,7 +248,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/194009/20/23620/44660/625ef47bEd3fdf5aa/727eb06581d29497.jpg.avif",
   },
   {
@@ -257,16 +257,16 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 10A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 10A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
     orderId: "CDM1400H4003340AD",
-    model: "CDM1-400H/3340 400A AC220V 引线500MM",
+    model: "CDM1-400H/3340 400A AC220V Lead wire500MM",
     price: "3350",
     showPrice: "3350",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -275,7 +275,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/109487/12/26968/44660/625ef45dE48894b48/5ce42a2d558558a2.jpg.avif",
   },
   {
@@ -284,7 +284,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -293,7 +293,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -302,7 +302,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/107167/14/28561/47853/625ef446Ed1df93b2/fc2a26cf077aae28.jpg.avif",
   },
   {
@@ -311,7 +311,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/116482/12/24659/44660/625ef470Ec6206e04/10f981bd93fb177b.jpg.avif",
   },
   {
@@ -320,7 +320,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -329,7 +329,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 10A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -338,7 +338,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -347,7 +347,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -356,7 +356,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -365,7 +365,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207831/39/20860/42079/625ef45eE78c1d86b/cc7a1d25f60e4fed.jpg.avif",
   },
   {
@@ -374,7 +374,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -383,7 +383,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -392,7 +392,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -401,7 +401,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/244620/24/15778/38313/669e20a1F0a9f953d/4f6e6069ebd7af3f.jpg.avif",
   },
   {
@@ -410,7 +410,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -419,7 +419,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -428,7 +428,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 10A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 10A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -437,7 +437,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -446,7 +446,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -455,7 +455,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -464,7 +464,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -473,7 +473,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -482,7 +482,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -491,7 +491,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -500,7 +500,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -509,7 +509,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -518,7 +518,7 @@ const list = [
     price: "458.99",
     showPrice: "458.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -527,7 +527,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -536,7 +536,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 10A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -545,7 +545,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -554,16 +554,16 @@ const list = [
     price: "458.99",
     showPrice: "458.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
     orderId: "CDM163L633E",
-    model: "CDM1-63L/3300 63A 英文标牌",
+    model: "CDM1-63L/3300 63A English nameplate",
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -572,7 +572,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -581,7 +581,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -590,7 +590,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -599,7 +599,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -608,7 +608,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -617,7 +617,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -626,7 +626,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -635,7 +635,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -644,7 +644,7 @@ const list = [
     price: "458.99",
     showPrice: "458.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -653,7 +653,7 @@ const list = [
     price: "458.99",
     showPrice: "458.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -662,7 +662,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -671,7 +671,7 @@ const list = [
     price: "458.99",
     showPrice: "458.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -680,16 +680,16 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
     orderId: "CDM163L633PF",
-    model: "CDM1-63L/3300 63A 插入式板前接线",
+    model: "CDM1-63L/3300 63A Plug-in front wiring",
     price: "859",
     showPrice: "859",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -698,34 +698,34 @@ const list = [
     price: "624",
     showPrice: "624",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
     orderId: "CDM1100L1003PPC",
-    model: "CDM1-125L/3300 100A 预付费",
+    model: "CDM1-125L/3300 100A Prepaid",
     price: "669.01",
     showPrice: "669.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122920/9/22813/40035/6205d95cE281e98e3/bf21d343efa7f967.jpg.avif",
   },
   {
     orderId: "CDM1225L2253E",
-    model: "CDM1-250L/3300 225A 英文标牌",
+    model: "CDM1-250L/3300 225A English nameplate",
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/221300/9/20914/23844/64c7574bFa3ea5ae9/b1b06d866a359755.jpg.avif",
   },
   {
     orderId: "CDM1225L1603310AD",
-    model: "CDM1-250L/3310 160A AC220V 引线500MM",
+    model: "CDM1-250L/3310 160A AC220V Lead wire500MM",
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -734,7 +734,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -743,7 +743,7 @@ const list = [
     price: "2341",
     showPrice: "2341",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -752,7 +752,7 @@ const list = [
     price: "2929.01",
     showPrice: "2929.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -761,7 +761,7 @@ const list = [
     price: "2886",
     showPrice: "2886",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -770,7 +770,7 @@ const list = [
     price: "3874",
     showPrice: "3874",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -779,7 +779,7 @@ const list = [
     price: "4307",
     showPrice: "4307",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -788,7 +788,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -797,7 +797,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -806,7 +806,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -815,16 +815,16 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1100L1004APPC",
-    model: "CDM1-125L/4300A 100A 预付费",
+    model: "CDM1-125L/4300A 100A Prepaid",
     price: "844",
     showPrice: "844",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122920/9/22813/40035/6205d95cE281e98e3/bf21d343efa7f967.jpg.avif",
   },
   {
@@ -833,7 +833,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -842,7 +842,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -851,7 +851,7 @@ const list = [
     price: "4058",
     showPrice: "4058",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -860,7 +860,7 @@ const list = [
     price: "12123",
     showPrice: "12123",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 1000A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -869,7 +869,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -878,7 +878,7 @@ const list = [
     price: "551",
     showPrice: "551",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -887,7 +887,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -896,7 +896,7 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -905,7 +905,7 @@ const list = [
     price: "717",
     showPrice: "717",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/100027/35/27524/45555/625ef444E8081633d/c456b79b5ace3f52.jpg.avif",
   },
   {
@@ -914,16 +914,16 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1225L2253310ACD",
-    model: "CDM1-250L/3310 225A AC220V带端子",
+    model: "CDM1-250L/3310 225A AC220VWith terminal",
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/105250/39/22283/38688/6205d56dEf52ab32e/bc9bb30b8ba2ad04.jpg.avif",
   },
   {
@@ -932,7 +932,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -941,7 +941,7 @@ const list = [
     price: "1276",
     showPrice: "1276",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -950,7 +950,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -959,16 +959,16 @@ const list = [
     price: "3011",
     showPrice: "3011",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1400L3153FR",
-    model: "CDM1-400L/3300 315A 板后接线",
+    model: "CDM1-400L/3300 315A Rear wiring",
     price: "2653",
     showPrice: "2653",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Rear wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -977,7 +977,7 @@ const list = [
     price: "4011",
     showPrice: "4011",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -986,7 +986,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -995,7 +995,7 @@ const list = [
     price: "717",
     showPrice: "717",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1004,7 +1004,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -1013,34 +1013,34 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
     orderId: "CDM1100L403PF",
-    model: "CDM1-125L/3300 40A 插入式板前接线",
+    model: "CDM1-125L/3300 40A Plug-in front wiring",
     price: "970",
     showPrice: "970",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
     orderId: "CDM1100M803PR",
-    model: "CDM1-125M/3300 80A 插入式",
+    model: "CDM1-125M/3300 80A Plug-in type",
     price: "1027.99",
     showPrice: "1027.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Rear wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
     orderId: "CDM1225L2253FR",
-    model: "CDM1-250L/3300 225A 板后接线",
+    model: "CDM1-250L/3300 225A Rear wiring",
     price: "1014.01",
     showPrice: "1014.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Rear wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1049,7 +1049,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1058,7 +1058,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1067,7 +1067,7 @@ const list = [
     price: "3066",
     showPrice: "3066",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1076,7 +1076,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -1085,7 +1085,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -1094,7 +1094,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1103,7 +1103,7 @@ const list = [
     price: "569.99",
     showPrice: "569.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1112,7 +1112,7 @@ const list = [
     price: "717",
     showPrice: "717",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1121,7 +1121,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1130,7 +1130,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1139,7 +1139,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1148,7 +1148,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1157,7 +1157,7 @@ const list = [
     price: "3994",
     showPrice: "3994",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1166,7 +1166,7 @@ const list = [
     price: "4058",
     showPrice: "4058",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 700A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 700A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1175,7 +1175,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1184,16 +1184,16 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1100L1003PF",
-    model: "CDM1-125L/3300 100A 插入式板前接线",
+    model: "CDM1-125L/3300 100A Plug-in front wiring",
     price: "970",
     showPrice: "970",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1202,7 +1202,7 @@ const list = [
     price: "2766",
     showPrice: "2766",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1211,25 +1211,25 @@ const list = [
     price: "3667",
     showPrice: "3667",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/211828/25/12131/37473/6205d95cE57996385/69cc833adeda897f.jpg.avif",
   },
   {
     orderId: "CDM1800M8003TP",
-    model: "CDM1-800M/3300 800A带6块铜牌",
+    model: "CDM1-800M/3300 800A带6块Copper busbar",
     price: "5311.99",
     showPrice: "5311.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/149075/33/20756/39362/6205e416E2f3b59f4/a3c7c1de58dea063.jpg.avif",
   },
   {
     orderId: "CDM1800L8003P2",
-    model: "CDM1-800L/3300D 800A 电操AC220V",
+    model: "CDM1-800L/3300D 800A Electric operationAC220V",
     price: "7067",
     showPrice: "7067",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1238,7 +1238,7 @@ const list = [
     price: "12123",
     showPrice: "12123",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 1000A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/91694/34/27701/46605/625ef461E8db41264/fd4969de05f7c7e9.jpg.avif",
   },
   {
@@ -1247,7 +1247,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1256,7 +1256,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1265,16 +1265,16 @@ const list = [
     price: "1078",
     showPrice: "1078",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1225L1253PF",
-    model: "CDM1-250L/3300 125A 插入式板前",
+    model: "CDM1-250L/3300 125A Plug-in front",
     price: "1775",
     showPrice: "1775",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1283,7 +1283,7 @@ const list = [
     price: "2929.01",
     showPrice: "2929.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1292,7 +1292,7 @@ const list = [
     price: "2929.01",
     showPrice: "2929.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1301,7 +1301,7 @@ const list = [
     price: "3213",
     showPrice: "3213",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1310,7 +1310,7 @@ const list = [
     price: "4058",
     showPrice: "4058",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1319,16 +1319,16 @@ const list = [
     price: "5698",
     showPrice: "5698",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
     orderId: "CDM1630L6303320PAC",
-    model: "CDM1-630L/3320D 630A 电操AC220V",
+    model: "CDM1-630L/3320D 630A Electric operationAC220V",
     price: "5662",
     showPrice: "5662",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1337,7 +1337,7 @@ const list = [
     price: "11986",
     showPrice: "11986",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 1000A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/94012/19/43956/38313/669e62ffF1c4f57f3/5fbb6f889701696c.jpg.avif",
   },
   {
@@ -1346,7 +1346,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1355,7 +1355,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1364,7 +1364,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1373,25 +1373,25 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1100L633PF",
-    model: "CDM1-125L/3300 63A 插入式板前接线",
+    model: "CDM1-125L/3300 63A Plug-in front wiring",
     price: "970",
     showPrice: "970",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
     orderId: "CDM1225L2004APPC",
-    model: "CDM1-250L/4300A 200A 预付费",
+    model: "CDM1-250L/4300A 200A Prepaid",
     price: "1243",
     showPrice: "1243",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/105250/39/22283/38688/6205d56dEf52ab32e/bc9bb30b8ba2ad04.jpg.avif",
   },
   {
@@ -1400,7 +1400,7 @@ const list = [
     price: "1895",
     showPrice: "1895",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1409,7 +1409,7 @@ const list = [
     price: "3213",
     showPrice: "3213",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1418,7 +1418,7 @@ const list = [
     price: "11487",
     showPrice: "11487",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1427,7 +1427,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -1436,7 +1436,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1445,7 +1445,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1454,7 +1454,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1463,7 +1463,7 @@ const list = [
     price: "686.99",
     showPrice: "686.99",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1472,7 +1472,7 @@ const list = [
     price: "1895",
     showPrice: "1895",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1481,16 +1481,16 @@ const list = [
     price: "1895",
     showPrice: "1895",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1225L2253P2",
-    model: "CDM1-250L/3300D 225A 电操AC220V",
+    model: "CDM1-250L/3300D 225A Electric operationAC220V",
     price: "2355",
     showPrice: "2355",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1499,7 +1499,7 @@ const list = [
     price: "3011",
     showPrice: "3011",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1508,43 +1508,43 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1800L8003HL2",
-    model: "CDM1-800L/3300 800A 延伸方形手操",
+    model: "CDM1-800L/3300 800A Extended square manual handle",
     price: "3955.99",
     showPrice: "3955.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/149075/33/20756/39362/6205e416E2f3b59f4/a3c7c1de58dea063.jpg.avif",
   },
   {
     orderId: "CDM1400L003",
-    model: "CDM1-400L/3320D 400A 带电操",
+    model: "CDM1-400L/3320D 400A With electric operation",
     price: "4791",
     showPrice: "4791",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1125010003P2",
-    model: "CDM1-1250/3300D 1000A 电操AC220V",
+    model: "CDM1-1250/3300D 1000A Electric operationAC220V",
     price: "15106",
     showPrice: "15106",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 1000A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/41329/11/21862/38313/669e20a1Fa66cd78e/db0137ccc2bb9624.jpg.avif",
   },
   {
     orderId: "CDM1125010003320P2",
-    model: "CDM1-1250/3320D 1000A 电操AC220V",
+    model: "CDM1-1250/3320D 1000A Electric operationAC220V",
     price: "15243",
     showPrice: "15243",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 1000A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1553,7 +1553,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1562,7 +1562,7 @@ const list = [
     price: "569.99",
     showPrice: "569.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1571,7 +1571,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -1580,16 +1580,16 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1100L323PF",
-    model: "CDM1-125L/3300 32A 插入式板前接线",
+    model: "CDM1-125L/3300 32A Plug-in front wiring",
     price: "970",
     showPrice: "970",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1598,7 +1598,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1607,7 +1607,7 @@ const list = [
     price: "2421",
     showPrice: "2421",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1616,7 +1616,7 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1625,16 +1625,16 @@ const list = [
     price: "3294",
     showPrice: "3294",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/153460/11/26880/23844/63475e20Ebaafb0e6/a753c794fadfe98f.jpg.avif",
   },
   {
     orderId: "CDM1400L3503PF",
-    model: "CDM1-400L/3300 350A插入式板前接线",
+    model: "CDM1-400L/3300 350APlug-in front wiring",
     price: "3305",
     showPrice: "3305",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/159372/14/26992/35391/6205e412Ea7c80705/abfcd84fe7bc2fc5.jpg.avif",
   },
   {
@@ -1643,7 +1643,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1652,7 +1652,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1661,7 +1661,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1670,7 +1670,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1679,7 +1679,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1688,16 +1688,16 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1400L400P",
-    model: "CDM1-400L/3300D 400A 带电操",
+    model: "CDM1-400L/3300D 400A With electric operation",
     price: "4709",
     showPrice: "4709",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1706,7 +1706,7 @@ const list = [
     price: "606",
     showPrice: "606",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1715,7 +1715,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -1724,7 +1724,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -1733,7 +1733,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -1742,7 +1742,7 @@ const list = [
     price: "963",
     showPrice: "963",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1751,25 +1751,25 @@ const list = [
     price: "1078",
     showPrice: "1078",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1225L2003PF",
-    model: "CDM1-250L/3300 200A 插入式板前接线",
+    model: "CDM1-250L/3300 200A Plug-in front wiring",
     price: "1775",
     showPrice: "1775",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1400L4003FR",
-    model: "CDM1-400L/3300 400A 板后接线",
+    model: "CDM1-400L/3300 400A Rear wiring",
     price: "2653",
     showPrice: "2653",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Rear wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1778,7 +1778,7 @@ const list = [
     price: "3729",
     showPrice: "3729",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1787,7 +1787,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1796,25 +1796,25 @@ const list = [
     price: "963",
     showPrice: "963",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1100L253PF",
-    model: "CDM1-125L/3300 25A 插入式板前接线",
+    model: "CDM1-125L/3300 25A Plug-in front wiring",
     price: "970",
     showPrice: "970",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
     orderId: "CDM1225M1603PR",
-    model: "CDM1-250M/3300 160A 插入式",
+    model: "CDM1-250M/3300 160A Plug-in type",
     price: "1882",
     showPrice: "1882",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Rear wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1823,7 +1823,7 @@ const list = [
     price: "2886",
     showPrice: "2886",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1832,16 +1832,16 @@ const list = [
     price: "3888",
     showPrice: "3888",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1400L4003PF",
-    model: "CDM1-400L/3300 400A插入式板前接线",
+    model: "CDM1-400L/3300 400APlug-in front wiring",
     price: "3305",
     showPrice: "3305",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1850,7 +1850,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1859,7 +1859,7 @@ const list = [
     price: "717",
     showPrice: "717",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1868,7 +1868,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -1877,7 +1877,7 @@ const list = [
     price: "758",
     showPrice: "758",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1886,7 +1886,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1895,7 +1895,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1904,7 +1904,7 @@ const list = [
     price: "1895",
     showPrice: "1895",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1913,16 +1913,16 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1400L4003Z350",
-    model: "CDM1-400L/3300 400A带圆形手操杆长350MM",
+    model: "CDM1-400L/3300 400AWith round handle, rod length350MM",
     price: "2095",
     showPrice: "2095",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/159372/14/26992/35391/6205e412Ea7c80705/abfcd84fe7bc2fc5.jpg.avif",
   },
   {
@@ -1931,7 +1931,7 @@ const list = [
     price: "3066",
     showPrice: "3066",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1940,7 +1940,7 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -1949,34 +1949,34 @@ const list = [
     price: "4011",
     showPrice: "4011",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1800L8003FR",
-    model: "CDM1-800L/3300 800A 板后接线",
+    model: "CDM1-800L/3300 800A Rear wiring",
     price: "5015",
     showPrice: "5015",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Rear wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1800L8003320PAC",
-    model: "CDM1-800L/3320D 800A 电操AC220V",
+    model: "CDM1-800L/3320D 800A Electric operationAC220V",
     price: "7204",
     showPrice: "7204",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1125012503ZK",
-    model: "CDM1-1250/3300 1250A带端子罩壳",
+    model: "CDM1-1250/3300 1250AWith terminal cover",
     price: "11631",
     showPrice: "11631",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 1250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/119823/21/22244/27957/6205e41eE8effe82d/58895eb3d8906758.jpg.avif",
   },
   {
@@ -1985,7 +1985,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -1994,7 +1994,7 @@ const list = [
     price: "569.99",
     showPrice: "569.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2003,7 +2003,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2012,7 +2012,7 @@ const list = [
     price: "624",
     showPrice: "624",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2021,7 +2021,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2030,16 +2030,16 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1225L1603PF",
-    model: "CDM1-250L/3300 160A插入式板前接线",
+    model: "CDM1-250L/3300 160APlug-in front wiring",
     price: "1775",
     showPrice: "1775",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2048,16 +2048,16 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1630L6303H300",
-    model: "CDM1-630L/3300 630A直接方形手操杆长300MM",
+    model: "CDM1-630L/3300 630ADirect square handle, rod length300MM",
     price: "2966",
     showPrice: "2966",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/211828/25/12131/37473/6205d95cE57996385/69cc833adeda897f.jpg.avif",
   },
   {
@@ -2066,25 +2066,25 @@ const list = [
     price: "3874",
     showPrice: "3874",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1630L5003PAC",
-    model: "CDM1-630L/3300D 500A 电操AC220V",
+    model: "CDM1-630L/3300D 500A Electric operationAC220V",
     price: "5580",
     showPrice: "5580",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1800L8003300P",
-    model: "CDM1-800L/3300D 800A 带电操",
+    model: "CDM1-800L/3300D 800A With electric operation",
     price: "7067",
     showPrice: "7067",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2093,7 +2093,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2102,7 +2102,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/100027/35/27524/45555/625ef444E8081633d/c456b79b5ace3f52.jpg.avif",
   },
   {
@@ -2111,7 +2111,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -2120,7 +2120,7 @@ const list = [
     price: "843",
     showPrice: "843",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2129,7 +2129,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -2138,7 +2138,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2147,7 +2147,7 @@ const list = [
     price: "2766",
     showPrice: "2766",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2156,7 +2156,7 @@ const list = [
     price: "3066",
     showPrice: "3066",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2165,7 +2165,7 @@ const list = [
     price: "3166",
     showPrice: "3166",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2174,16 +2174,16 @@ const list = [
     price: "11986",
     showPrice: "11986",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 1000A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/91694/34/27701/46605/625ef461E8db41264/fd4969de05f7c7e9.jpg.avif",
   },
   {
     orderId: "CDM1125012503P",
-    model: "CDM1-1250/3300D 1250A 电操AC380V",
+    model: "CDM1-1250/3300D 1250A Electric operationAC380V",
     price: "15106",
     showPrice: "15106",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 1250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/240404/40/9407/38313/669e5b96F9f28c5fd/af41f117f9e1c6ce.jpg.avif",
   },
   {
@@ -2192,7 +2192,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -2201,16 +2201,16 @@ const list = [
     price: "554.01",
     showPrice: "554.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
     orderId: "CDM1225L1253FR",
-    model: "CDM1-250L/3300 125A 板后接线",
+    model: "CDM1-250L/3300 125A Rear wiring",
     price: "1014.01",
     showPrice: "1014.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Rear wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2219,7 +2219,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2228,7 +2228,7 @@ const list = [
     price: "2219",
     showPrice: "2219",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2237,7 +2237,7 @@ const list = [
     price: "2219",
     showPrice: "2219",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2246,7 +2246,7 @@ const list = [
     price: "2766",
     showPrice: "2766",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2255,34 +2255,34 @@ const list = [
     price: "3066",
     showPrice: "3066",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1400L4003PR",
-    model: "CDM1-400L/3300 400A 插入式",
+    model: "CDM1-400L/3300 400A Plug-in type",
     price: "3305",
     showPrice: "3305",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Rear wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1630L6303PR",
-    model: "CDM1-630L/3300 630A 插入式",
+    model: "CDM1-630L/3300 630A Plug-in type",
     price: "5509",
     showPrice: "5509",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Rear wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1630L5003320PAC",
-    model: "CDM1-630L/3320D 500A 电操AC220V",
+    model: "CDM1-630L/3320D 500A Electric operationAC220V",
     price: "5662",
     showPrice: "5662",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2291,7 +2291,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/230311/33/29330/41656/675bee32Fd1837456/e0b3e99b982db2b0.jpg.avif",
   },
   {
@@ -2300,7 +2300,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/72173/40/25301/36327/669e5b96F7610b202/1f6bcc1bf66be712.jpg.avif",
   },
   {
@@ -2309,7 +2309,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2318,7 +2318,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2327,16 +2327,16 @@ const list = [
     price: "1037",
     showPrice: "1037",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1100L503PR",
-    model: "CDM1-125L/3300 50A 插入式",
+    model: "CDM1-125L/3300 50A Plug-in type",
     price: "970",
     showPrice: "970",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Rear wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2345,16 +2345,16 @@ const list = [
     price: "3011",
     showPrice: "3011",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1400L2503PF",
-    model: "CDM1-400L/3300 250A 插入式板前接线",
+    model: "CDM1-400L/3300 250A Plug-in front wiring",
     price: "3305",
     showPrice: "3305",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/159372/14/26992/35391/6205e412Ea7c80705/abfcd84fe7bc2fc5.jpg.avif",
   },
   {
@@ -2363,7 +2363,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2372,16 +2372,16 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
     orderId: "CDM1225L1253E",
-    model: "CDM1-225L/3300 125A 英文标牌",
+    model: "CDM1-225L/3300 125A English nameplate",
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 225A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 225A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2390,25 +2390,25 @@ const list = [
     price: "817",
     showPrice: "817",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1225M2253E",
-    model: "CDM1-225M/3300 225A 英文标牌",
+    model: "CDM1-225M/3300 225A English nameplate",
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 225A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 225A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1100L633PR",
-    model: "CDM1-125L/3300 63A 插入式",
+    model: "CDM1-125L/3300 63A Plug-in type",
     price: "970",
     showPrice: "970",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板后接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Rear wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2417,7 +2417,7 @@ const list = [
     price: "1078",
     showPrice: "1078",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2426,7 +2426,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2435,25 +2435,25 @@ const list = [
     price: "3888",
     showPrice: "3888",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 700A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 700A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1400L3153PF",
-    model: "CDM1-400L/3300 315A插入式板前接线",
+    model: "CDM1-400L/3300 315APlug-in front wiring",
     price: "3305",
     showPrice: "3305",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/159372/14/26992/35391/6205e412Ea7c80705/abfcd84fe7bc2fc5.jpg.avif",
   },
   {
     orderId: "CDM1630L630PAC",
-    model: "CDM1-630L/3300D 630A 电操220V",
+    model: "CDM1-630L/3300D 630A Electric operation220V",
     price: "5580",
     showPrice: "5580",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2462,7 +2462,7 @@ const list = [
     price: "11986",
     showPrice: "11986",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 1250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/91694/34/27701/46605/625ef461E8db41264/fd4969de05f7c7e9.jpg.avif",
   },
   {
@@ -2471,7 +2471,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2480,7 +2480,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -2489,7 +2489,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -2498,16 +2498,16 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1100L803PF",
-    model: "CDM1-125L/3300 80A 插入式板前接线",
+    model: "CDM1-125L/3300 80A Plug-in front wiring",
     price: "970",
     showPrice: "970",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：插入式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Plug-in type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2516,16 +2516,16 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1400L4003Z400",
-    model: "CDM1-400L/3300 400A带圆形手操杆长400MM",
+    model: "CDM1-400L/3300 400AWith round handle, rod length400MM",
     price: "2095",
     showPrice: "2095",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/159372/14/26992/35391/6205e412Ea7c80705/abfcd84fe7bc2fc5.jpg.avif",
   },
   {
@@ -2534,34 +2534,34 @@ const list = [
     price: "4011",
     showPrice: "4011",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1630L630P",
-    model: "CDM1-630L/3300D 630A 带电操",
+    model: "CDM1-630L/3300D 630A With electric operation",
     price: "5580",
     showPrice: "5580",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1125012503ACP",
-    model: "CDM1-1250/3300D 1250A 电操AC220V",
+    model: "CDM1-1250/3300D 1250A Electric operationAC220V",
     price: "15106",
     showPrice: "15106",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 1250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/221916/27/37662/38313/669e3e15Fa41efff4/1659c72fd780ec98.jpg.avif",
   },
   {
     orderId: "CDM1225M2254210MDZ",
-    model: "CDM1-250M/42102 225A DC24V螺丝3公分长",
+    model: "CDM1-250M/42102 225A DC24VScrew3公分长",
     price: "1276",
     showPrice: "1276",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/105250/39/22283/38688/6205d56dEf52ab32e/bc9bb30b8ba2ad04.jpg.avif",
   },
   {
@@ -2570,16 +2570,16 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/105250/39/22283/38688/6205d56dEf52ab32e/bc9bb30b8ba2ad04.jpg.avif",
   },
   {
     orderId: "CDM1400L4003Z500",
-    model: "CDM1-400L/3300 400A带圆形手操杆长500MM",
+    model: "CDM1-400L/3300 400AWith round handle, rod length500MM",
     price: "2095",
     showPrice: "2095",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/142687/4/27456/34453/6205fbdfEcf54e4f8/feace2b2387e05ee.jpg.avif",
   },
   {
@@ -2588,16 +2588,16 @@ const list = [
     price: "727",
     showPrice: "727",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/70055/8/18233/34787/628cf9caE565baf25/f79f264dcc7f47e5.jpg.avif",
   },
   {
     orderId: "CDM1100M1004ME",
-    model: "CDM1-100M/43002 100A英文标牌",
+    model: "CDM1-100M/43002 100AEnglish nameplate",
     price: "706",
     showPrice: "706",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 100A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/99501/3/21760/41221/6205fbddE00840de7/6463fb670f4bb56e.jpg.avif",
   },
   {
@@ -2606,7 +2606,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2615,7 +2615,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2624,7 +2624,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2633,7 +2633,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 10A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2642,7 +2642,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2651,7 +2651,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2660,7 +2660,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2669,7 +2669,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2678,7 +2678,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -2687,7 +2687,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2696,7 +2696,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2705,7 +2705,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2714,7 +2714,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2723,7 +2723,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2732,7 +2732,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2741,7 +2741,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2750,7 +2750,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/107167/14/28561/47853/625ef446Ed1df93b2/fc2a26cf077aae28.jpg.avif",
   },
   {
@@ -2759,7 +2759,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2768,7 +2768,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2777,7 +2777,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2786,7 +2786,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -2795,7 +2795,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2804,7 +2804,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2813,7 +2813,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/107167/14/28561/47853/625ef446Ed1df93b2/fc2a26cf077aae28.jpg.avif",
   },
   {
@@ -2822,7 +2822,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2831,7 +2831,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207831/39/20860/42079/625ef45eE78c1d86b/cc7a1d25f60e4fed.jpg.avif",
   },
   {
@@ -2840,7 +2840,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/123734/15/42778/35552/65ea8b1cFbc8bc9b3/603f83565e655534.jpg.avif",
   },
   {
@@ -2849,7 +2849,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -2858,7 +2858,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2867,7 +2867,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2876,7 +2876,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2885,7 +2885,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2894,7 +2894,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2903,7 +2903,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 10A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2912,7 +2912,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2921,7 +2921,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2930,7 +2930,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2939,7 +2939,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2948,7 +2948,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -2957,7 +2957,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2966,7 +2966,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -2975,7 +2975,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/90492/24/25288/44660/625ef475Ea43ff885/ebbb959d98246464.jpg.avif",
   },
   {
@@ -2984,7 +2984,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -2993,7 +2993,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3002,7 +3002,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3011,7 +3011,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 10A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3020,7 +3020,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3029,7 +3029,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3038,7 +3038,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3047,7 +3047,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/107167/14/28561/47853/625ef446Ed1df93b2/fc2a26cf077aae28.jpg.avif",
   },
   {
@@ -3056,7 +3056,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3065,7 +3065,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/107167/14/28561/47853/625ef446Ed1df93b2/fc2a26cf077aae28.jpg.avif",
   },
   {
@@ -3074,7 +3074,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3083,7 +3083,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3092,7 +3092,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3101,7 +3101,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3110,7 +3110,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3119,7 +3119,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3128,7 +3128,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3137,7 +3137,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3146,7 +3146,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3155,7 +3155,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3164,7 +3164,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3173,7 +3173,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 10A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/107167/14/28561/47853/625ef446Ed1df93b2/fc2a26cf077aae28.jpg.avif",
   },
   {
@@ -3182,7 +3182,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3191,7 +3191,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3200,7 +3200,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/107167/14/28561/47853/625ef446Ed1df93b2/fc2a26cf077aae28.jpg.avif",
   },
   {
@@ -3209,7 +3209,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/107167/14/28561/47853/625ef446Ed1df93b2/fc2a26cf077aae28.jpg.avif",
   },
   {
@@ -3218,7 +3218,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3227,7 +3227,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3236,7 +3236,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3245,7 +3245,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/100027/35/27524/45555/625ef444E8081633d/c456b79b5ace3f52.jpg.avif",
   },
   {
@@ -3254,7 +3254,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3263,7 +3263,7 @@ const list = [
     price: "360",
     showPrice: "360",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 10A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 10A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3272,7 +3272,7 @@ const list = [
     price: "418",
     showPrice: "418",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3281,7 +3281,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207831/39/20860/42079/625ef45eE78c1d86b/cc7a1d25f60e4fed.jpg.avif",
   },
   {
@@ -3290,7 +3290,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3299,7 +3299,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3308,7 +3308,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207831/39/20860/42079/625ef45eE78c1d86b/cc7a1d25f60e4fed.jpg.avif",
   },
   {
@@ -3317,7 +3317,7 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3326,7 +3326,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148135/18/27885/38815/625ef448E213cc64f/a95b9b5204ff6d6b.jpg.avif",
   },
   {
@@ -3335,7 +3335,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3344,7 +3344,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3353,7 +3353,7 @@ const list = [
     price: "551",
     showPrice: "551",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3362,7 +3362,7 @@ const list = [
     price: "553",
     showPrice: "553",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3371,7 +3371,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3380,7 +3380,7 @@ const list = [
     price: "606",
     showPrice: "606",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3389,7 +3389,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3398,7 +3398,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/187465/14/23099/48198/625ef465E3f9e2eca/6b330b04395abd6c.jpg.avif",
   },
   {
@@ -3407,7 +3407,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3416,7 +3416,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3425,7 +3425,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3434,7 +3434,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -3443,7 +3443,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -3452,7 +3452,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -3461,7 +3461,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3470,7 +3470,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3479,7 +3479,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3488,7 +3488,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3497,7 +3497,7 @@ const list = [
     price: "551",
     showPrice: "551",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179555/28/23416/37325/625ef47aE890705b8/db8a1ff928f55be0.jpg.avif",
   },
   {
@@ -3506,7 +3506,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207831/39/20860/42079/625ef45eE78c1d86b/cc7a1d25f60e4fed.jpg.avif",
   },
   {
@@ -3515,7 +3515,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -3524,7 +3524,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -3533,7 +3533,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3542,7 +3542,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3551,7 +3551,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3560,7 +3560,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -3569,7 +3569,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -3578,7 +3578,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -3587,7 +3587,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -3596,7 +3596,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3605,7 +3605,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3614,7 +3614,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3623,7 +3623,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -3632,7 +3632,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/121520/6/20958/39388/625ef464E76de250f/7fabb3e19c191274.jpg.avif",
   },
   {
@@ -3641,7 +3641,7 @@ const list = [
     price: "842",
     showPrice: "842",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3650,7 +3650,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -3659,7 +3659,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -3668,7 +3668,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3677,7 +3677,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3686,7 +3686,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3695,7 +3695,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3704,7 +3704,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3713,7 +3713,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -3722,7 +3722,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3731,7 +3731,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3740,7 +3740,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3749,7 +3749,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3758,7 +3758,7 @@ const list = [
     price: "686.99",
     showPrice: "686.99",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3767,7 +3767,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -3776,7 +3776,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3785,7 +3785,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3794,7 +3794,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3803,7 +3803,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148135/18/27885/38815/625ef448E213cc64f/a95b9b5204ff6d6b.jpg.avif",
   },
   {
@@ -3812,7 +3812,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -3821,7 +3821,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3830,7 +3830,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3839,7 +3839,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3848,7 +3848,7 @@ const list = [
     price: "551",
     showPrice: "551",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3857,7 +3857,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3866,7 +3866,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -3875,7 +3875,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3884,7 +3884,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -3893,7 +3893,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -3902,7 +3902,7 @@ const list = [
     price: "551",
     showPrice: "551",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3911,7 +3911,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3920,7 +3920,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -3929,7 +3929,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -3938,7 +3938,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3947,7 +3947,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3956,7 +3956,7 @@ const list = [
     price: "551",
     showPrice: "551",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3965,7 +3965,7 @@ const list = [
     price: "624",
     showPrice: "624",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3974,7 +3974,7 @@ const list = [
     price: "624",
     showPrice: "624",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3983,7 +3983,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -3992,7 +3992,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148135/18/27885/38815/625ef448E213cc64f/a95b9b5204ff6d6b.jpg.avif",
   },
   {
@@ -4001,7 +4001,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -4010,7 +4010,7 @@ const list = [
     price: "842",
     showPrice: "842",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4019,7 +4019,7 @@ const list = [
     price: "842",
     showPrice: "842",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4028,7 +4028,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4037,7 +4037,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -4046,7 +4046,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4055,7 +4055,7 @@ const list = [
     price: "842",
     showPrice: "842",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4064,7 +4064,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 16A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -4073,7 +4073,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4082,7 +4082,7 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4091,7 +4091,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4100,7 +4100,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -4109,7 +4109,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -4118,7 +4118,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -4127,7 +4127,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4136,7 +4136,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -4145,7 +4145,7 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4154,7 +4154,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4163,7 +4163,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -4172,7 +4172,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4181,7 +4181,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4190,7 +4190,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4199,7 +4199,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148135/18/27885/38815/625ef448E213cc64f/a95b9b5204ff6d6b.jpg.avif",
   },
   {
@@ -4208,7 +4208,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148135/18/27885/38815/625ef448E213cc64f/a95b9b5204ff6d6b.jpg.avif",
   },
   {
@@ -4217,7 +4217,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4226,7 +4226,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4235,7 +4235,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -4244,7 +4244,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4253,7 +4253,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4262,7 +4262,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -4271,7 +4271,7 @@ const list = [
     price: "454.99",
     showPrice: "454.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/179918/28/23160/31998/625ef475Ebc229ed5/646803aa0854f38a.jpg.avif",
   },
   {
@@ -4280,7 +4280,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4289,7 +4289,7 @@ const list = [
     price: "496",
     showPrice: "496",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4298,7 +4298,7 @@ const list = [
     price: "551",
     showPrice: "551",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4307,7 +4307,7 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4316,7 +4316,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -4325,7 +4325,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -4334,7 +4334,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -4343,7 +4343,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -4352,7 +4352,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/100027/35/27524/45555/625ef444E8081633d/c456b79b5ace3f52.jpg.avif",
   },
   {
@@ -4361,7 +4361,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4370,7 +4370,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4379,7 +4379,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -4388,7 +4388,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4397,7 +4397,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4406,7 +4406,7 @@ const list = [
     price: "2929.01",
     showPrice: "2929.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/182542/4/23767/31998/625ef472Ebc50f78c/53511f293c721612.jpg.avif",
   },
   {
@@ -4415,7 +4415,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4424,7 +4424,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4433,7 +4433,7 @@ const list = [
     price: "963",
     showPrice: "963",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4442,7 +4442,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/26/20776/45502/625ef467E3ff9a9e7/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -4451,7 +4451,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/245129/15/5603/34292/65ea8b1fFd18ce5b5/b08a1e7e3fba3dad.jpg.avif",
   },
   {
@@ -4460,7 +4460,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4469,7 +4469,7 @@ const list = [
     price: "2886",
     showPrice: "2886",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4478,7 +4478,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 700A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 700A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4487,7 +4487,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4496,7 +4496,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -4505,7 +4505,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4514,7 +4514,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4523,7 +4523,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4532,7 +4532,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4541,7 +4541,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -4550,7 +4550,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -4559,7 +4559,7 @@ const list = [
     price: "2886",
     showPrice: "2886",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4568,7 +4568,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4577,7 +4577,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4586,7 +4586,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4595,7 +4595,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4604,7 +4604,7 @@ const list = [
     price: "2421",
     showPrice: "2421",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4613,7 +4613,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4622,7 +4622,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4631,7 +4631,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4640,7 +4640,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4649,7 +4649,7 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4658,7 +4658,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4667,7 +4667,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4676,7 +4676,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4685,7 +4685,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4694,7 +4694,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4703,7 +4703,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4712,7 +4712,7 @@ const list = [
     price: "2882",
     showPrice: "2882",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/210944/16/20948/32510/625ef46eE8cfe0325/22e4b51cea5dad46.jpg.avif",
   },
   {
@@ -4721,7 +4721,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4730,7 +4730,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -4739,7 +4739,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4748,7 +4748,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4757,7 +4757,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -4766,7 +4766,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -4775,7 +4775,7 @@ const list = [
     price: "2882",
     showPrice: "2882",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/210944/16/20948/32510/625ef46eE8cfe0325/22e4b51cea5dad46.jpg.avif",
   },
   {
@@ -4784,7 +4784,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -4793,7 +4793,7 @@ const list = [
     price: "2421",
     showPrice: "2421",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4802,7 +4802,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4811,7 +4811,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4820,7 +4820,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4829,7 +4829,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4838,7 +4838,7 @@ const list = [
     price: "2882",
     showPrice: "2882",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/210944/16/20948/32510/625ef46eE8cfe0325/22e4b51cea5dad46.jpg.avif",
   },
   {
@@ -4847,7 +4847,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -4856,7 +4856,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4865,7 +4865,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -4874,7 +4874,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -4883,7 +4883,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/108015/9/21016/31998/625ef446Ea83e553f/1b7dde5cfe572736.jpg.avif",
   },
   {
@@ -4892,7 +4892,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/100027/35/27524/45555/625ef444E8081633d/c456b79b5ace3f52.jpg.avif",
   },
   {
@@ -4901,7 +4901,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4910,7 +4910,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4919,7 +4919,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144860/37/28072/45575/625ef463E51272fe4/a751eed0afc18ba2.jpg.avif",
   },
   {
@@ -4928,7 +4928,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4937,7 +4937,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4946,7 +4946,7 @@ const list = [
     price: "2929.01",
     showPrice: "2929.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/182542/4/23767/31998/625ef472Ebc50f78c/53511f293c721612.jpg.avif",
   },
   {
@@ -4955,7 +4955,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4964,7 +4964,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4973,7 +4973,7 @@ const list = [
     price: "963",
     showPrice: "963",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -4982,7 +4982,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/209033/26/20776/45502/625ef467E3ff9a9e7/294caacd72d7c82d.jpg.avif",
   },
   {
@@ -4991,7 +4991,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/245129/15/5603/34292/65ea8b1fFd18ce5b5/b08a1e7e3fba3dad.jpg.avif",
   },
   {
@@ -5000,7 +5000,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5009,7 +5009,7 @@ const list = [
     price: "2886",
     showPrice: "2886",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5018,7 +5018,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 700A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 700A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5027,7 +5027,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5036,7 +5036,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -5045,7 +5045,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5054,7 +5054,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5063,7 +5063,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5072,7 +5072,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5081,7 +5081,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -5090,7 +5090,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -5099,7 +5099,7 @@ const list = [
     price: "2886",
     showPrice: "2886",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5108,7 +5108,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5117,7 +5117,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5126,7 +5126,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5135,7 +5135,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5144,7 +5144,7 @@ const list = [
     price: "2421",
     showPrice: "2421",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5153,7 +5153,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5162,7 +5162,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5171,7 +5171,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5180,7 +5180,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5189,7 +5189,7 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5198,7 +5198,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5207,7 +5207,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5216,7 +5216,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -5225,7 +5225,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5234,7 +5234,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5243,7 +5243,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5252,7 +5252,7 @@ const list = [
     price: "2882",
     showPrice: "2882",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/210944/16/20948/32510/625ef46eE8cfe0325/22e4b51cea5dad46.jpg.avif",
   },
   {
@@ -5261,7 +5261,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5270,7 +5270,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -5279,7 +5279,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5288,7 +5288,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5297,7 +5297,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -5306,7 +5306,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -5315,7 +5315,7 @@ const list = [
     price: "2882",
     showPrice: "2882",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/210944/16/20948/32510/625ef46eE8cfe0325/22e4b51cea5dad46.jpg.avif",
   },
   {
@@ -5324,7 +5324,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -5333,7 +5333,7 @@ const list = [
     price: "2421",
     showPrice: "2421",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5342,7 +5342,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5351,7 +5351,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5360,7 +5360,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5369,7 +5369,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5378,7 +5378,7 @@ const list = [
     price: "2882",
     showPrice: "2882",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/210944/16/20948/32510/625ef46eE8cfe0325/22e4b51cea5dad46.jpg.avif",
   },
   {
@@ -5387,7 +5387,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/122364/22/27147/39309/625ef467E82238b54/32059919d9e5190e.jpg.avif",
   },
   {
@@ -5396,7 +5396,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5405,7 +5405,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5414,7 +5414,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5423,7 +5423,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5432,7 +5432,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5441,7 +5441,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5450,7 +5450,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5459,7 +5459,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5468,7 +5468,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5477,7 +5477,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5486,7 +5486,7 @@ const list = [
     price: "1317",
     showPrice: "1317",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -5495,7 +5495,7 @@ const list = [
     price: "1812.99",
     showPrice: "1812.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5504,7 +5504,7 @@ const list = [
     price: "2137",
     showPrice: "2137",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5513,7 +5513,7 @@ const list = [
     price: "2097",
     showPrice: "2097",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5522,7 +5522,7 @@ const list = [
     price: "2882",
     showPrice: "2882",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/210944/16/20948/32510/625ef46eE8cfe0325/22e4b51cea5dad46.jpg.avif",
   },
   {
@@ -5531,7 +5531,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5540,7 +5540,7 @@ const list = [
     price: "3994",
     showPrice: "3994",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/92912/22/26144/35984/625ef473Ee9e2b933/6d7db9faee3bd6df.jpg.avif",
   },
   {
@@ -5549,7 +5549,7 @@ const list = [
     price: "2929.01",
     showPrice: "2929.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5558,7 +5558,7 @@ const list = [
     price: "11487",
     showPrice: "11487",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1000A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 1000A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/91694/34/27701/46605/625ef461E8db41264/fd4969de05f7c7e9.jpg.avif",
   },
   {
@@ -5567,7 +5567,7 @@ const list = [
     price: "11487",
     showPrice: "11487",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 1250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/91694/34/27701/46605/625ef461E8db41264/fd4969de05f7c7e9.jpg.avif",
   },
   {
@@ -5576,7 +5576,7 @@ const list = [
     price: "2929.01",
     showPrice: "2929.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5585,7 +5585,7 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5594,7 +5594,7 @@ const list = [
     price: "3994",
     showPrice: "3994",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/92912/22/26144/35984/625ef473Ee9e2b933/6d7db9faee3bd6df.jpg.avif",
   },
   {
@@ -5603,7 +5603,7 @@ const list = [
     price: "3888",
     showPrice: "3888",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5612,7 +5612,7 @@ const list = [
     price: "3888",
     showPrice: "3888",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5621,7 +5621,7 @@ const list = [
     price: "5698",
     showPrice: "5698",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
@@ -5630,16 +5630,16 @@ const list = [
     price: "3066",
     showPrice: "3066",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 100kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
     orderId: "CDM1400L400PAC",
-    model: "CDM1-400L/3300D 400A 电操220V",
+    model: "CDM1-400L/3300D 400A Electric operation220V",
     price: "4709",
     showPrice: "4709",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/199347/17/22138/35400/625ef462E9a2fe721/1b16be838bc40861.jpg.avif",
   },
   {
@@ -5648,7 +5648,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148135/18/27885/38815/625ef448E213cc64f/a95b9b5204ff6d6b.jpg.avif",
   },
   {
@@ -5657,7 +5657,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/207831/39/20860/42079/625ef45eE78c1d86b/cc7a1d25f60e4fed.jpg.avif",
   },
   {
@@ -5666,7 +5666,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/149167/6/23587/41043/620672adE7d829e1d/a8c3e83cbda5fbb6.jpg.avif",
   },
   {
@@ -5675,7 +5675,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/149167/6/23587/41043/620672adE7d829e1d/a8c3e83cbda5fbb6.jpg.avif",
   },
   {
@@ -5684,16 +5684,16 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/149167/6/23587/41043/620672adE7d829e1d/a8c3e83cbda5fbb6.jpg.avif",
   },
   {
     orderId: "CDM1225L2003PPC",
-    model: "CDM1-250L/3300 200A 预付费",
+    model: "CDM1-250L/3300 200A Prepaid",
     price: "981",
     showPrice: "981",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/105250/39/22283/38688/6205d56dEf52ab32e/bc9bb30b8ba2ad04.jpg.avif",
   },
   {
@@ -5702,70 +5702,70 @@ const list = [
     price: "2625",
     showPrice: "2625",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/219320/36/12326/37527/620672aaEda97e189/752f9ca1ae146f0a.jpg.avif",
   },
   {
     orderId: "CDM1400M4004APPC",
-    model: "CDM1-400M/4300A 400A 预付费",
+    model: "CDM1-400M/4300A 400A Prepaid",
     price: "3301",
     showPrice: "3301",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/159372/14/26992/35391/6205e412Ea7c80705/abfcd84fe7bc2fc5.jpg.avif",
   },
   {
     orderId: "CDM1225L1604APPC",
-    model: "CDM1-250L/4300A 160A 预付费",
+    model: "CDM1-250L/4300A 160A Prepaid",
     price: "1243",
     showPrice: "1243",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/105250/39/22283/38688/6205d56dEf52ab32e/bc9bb30b8ba2ad04.jpg.avif",
   },
   {
     orderId: "CDM1630L6303ZK",
-    model: "CDM1-630L/3300 630A 带端子罩壳",
+    model: "CDM1-630L/3300 630A With terminal cover",
     price: "2773",
     showPrice: "2773",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/117406/30/21383/37690/620672acE74bdd083/867bb1073978537f.jpg.avif",
   },
   {
     orderId: "CDM1225L1603P",
-    model: "CDM1-250L/3300D 160A 电操380V",
+    model: "CDM1-250L/3300D 160A Electric operation380V",
     price: "2355",
     showPrice: "2355",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/70055/8/18233/34787/628cf9caE565baf25/f79f264dcc7f47e5.jpg.avif",
   },
   {
     orderId: "CDM1400M3154APPC",
-    model: "CDM1-400M/4300A 315A 预付费",
+    model: "CDM1-400M/4300A 315A Prepaid",
     price: "3301",
     showPrice: "3301",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 70kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/219320/36/12326/37527/620672aaEda97e189/752f9ca1ae146f0a.jpg.avif",
   },
   {
     orderId: "CDM1225L1253PPC",
-    model: "CDM1-250L/3300 125A 预付费",
+    model: "CDM1-250L/3300 125A Prepaid",
     price: "981",
     showPrice: "981",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/212346/21/12270/40882/620672aaE32a6043a/6bd42697df94c9c3.jpg.avif",
   },
   {
     orderId: "CDM1225L2253PPC",
-    model: "CDM1-250L/3300 225A 预付费",
+    model: "CDM1-250L/3300 225A Prepaid",
     price: "981",
     showPrice: "981",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/2689/35/24251/38313/669e44b6F52edc397/de46b852f35af1eb.jpg.avif",
   },
   {
@@ -5774,7 +5774,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/149167/6/23587/41043/620672adE7d829e1d/a8c3e83cbda5fbb6.jpg.avif",
   },
   {
@@ -5783,25 +5783,25 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/52587/35/18499/34408/628cf9d8E5d656e48/0fec9cd91131eaa1.jpg.avif",
   },
   {
     orderId: "CDM1225L2253Z500",
-    model: "CDM1-250L/3300 225A带圆形手操杆长500MM",
+    model: "CDM1-250L/3300 225AWith round handle, rod length500MM",
     price: "960",
     showPrice: "960",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 225A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Manual handle operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 225A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/212346/21/12270/40882/620672aaE32a6043a/6bd42697df94c9c3.jpg.avif",
   },
   {
     orderId: "CDM1100L804APPC",
-    model: "CDM1-125L/4300A 80A 预付费",
+    model: "CDM1-125L/4300A 80A Prepaid",
     price: "844",
     showPrice: "844",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/85112/10/20692/40239/620672a8Ef897192a/c857f636b3b16955.jpg.avif",
   },
   {
@@ -5810,16 +5810,16 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/117406/30/21383/37690/620672acE74bdd083/867bb1073978537f.jpg.avif",
   },
   {
     orderId: "CDM1225L1603PPC",
-    model: "CDM1-250L/3300 160A 预付费",
+    model: "CDM1-250L/3300 160A Prepaid",
     price: "981",
     showPrice: "981",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/105250/39/22283/38688/6205d56dEf52ab32e/bc9bb30b8ba2ad04.jpg.avif",
   },
   {
@@ -5828,16 +5828,16 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/85112/10/20692/40239/620672a8Ef897192a/c857f636b3b16955.jpg.avif",
   },
   {
     orderId: "CDM1100L633PPC",
-    model: "CDM1-125L/3300 63A 预付费",
+    model: "CDM1-125L/3300 63A Prepaid",
     price: "669.01",
     showPrice: "669.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/85112/10/20692/40239/620672a8Ef897192a/c857f636b3b16955.jpg.avif",
   },
   {
@@ -5846,34 +5846,34 @@ const list = [
     price: "11986",
     showPrice: "11986",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 1250A | Rated current: 1250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 1250A | Rated current: 1250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148334/37/26002/13074/630c9392Ee0fe1916/8012112a932c8b4a.jpg.avif",
   },
   {
     orderId: "CDM1100L803PPC",
-    model: "CDM1-125L/3300 80A 预付费",
+    model: "CDM1-125L/3300 80A Prepaid",
     price: "669.01",
     showPrice: "669.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/85112/10/20692/40239/620672a8Ef897192a/c857f636b3b16955.jpg.avif",
   },
   {
     orderId: "CDM1630L6303Z300",
-    model: "CDM1-630L/3300 630A直接圆形手操杆长300MM",
+    model: "CDM1-630L/3300 630ADirect round handle, rod length300MM",
     price: "2966",
     showPrice: "2966",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Manual handle operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/230137/13/22408/38313/669e44b6F3b5faa33/b9ae25a555a3ecbe.jpg.avif",
   },
   {
     orderId: "CDM1400L4003PPC",
-    model: "CDM1-400L/3300 400A 预付费",
+    model: "CDM1-400L/3300 400A Prepaid",
     price: "2232",
     showPrice: "2232",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/159372/14/26992/35391/6205e412Ea7c80705/abfcd84fe7bc2fc5.jpg.avif",
   },
   {
@@ -5882,16 +5882,16 @@ const list = [
     price: "817",
     showPrice: "817",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/212346/21/12270/40882/620672aaE32a6043a/6bd42697df94c9c3.jpg.avif",
   },
   {
     orderId: "CDM1630L6303H400",
-    model: "CDM1-630L/3300 630A方形手操杆长400MM",
+    model: "CDM1-630L/3300 630ASquare handle, rod length400MM",
     price: "2966",
     showPrice: "2966",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Manual handle operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/117406/30/21383/37690/620672acE74bdd083/867bb1073978537f.jpg.avif",
   },
   {
@@ -5900,7 +5900,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/100010/40/21618/42484/62064afcEde075201/6c8803ddce6e324e.jpg.avif",
   },
   {
@@ -5909,7 +5909,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/100010/40/21618/42484/62064afcEde075201/6c8803ddce6e324e.jpg.avif",
   },
   {
@@ -5918,7 +5918,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/164210/13/30222/36464/6206b948Ea3f76354/44373135a9d7637f.jpg.avif",
   },
   {
@@ -5927,7 +5927,7 @@ const list = [
     price: "963",
     showPrice: "963",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -5936,7 +5936,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148630/30/21440/41689/6206b94aE34b6dc66/29c73ad58c70aa42.jpg.avif",
   },
   {
@@ -5945,7 +5945,7 @@ const list = [
     price: "1317",
     showPrice: "1317",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/164210/13/30222/36464/6206b948Ea3f76354/44373135a9d7637f.jpg.avif",
   },
   {
@@ -5954,7 +5954,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -5963,7 +5963,7 @@ const list = [
     price: "1118",
     showPrice: "1118",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/164210/13/30222/36464/6206b948Ea3f76354/44373135a9d7637f.jpg.avif",
   },
   {
@@ -5972,7 +5972,7 @@ const list = [
     price: "842",
     showPrice: "842",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/164210/13/30222/36464/6206b948Ea3f76354/44373135a9d7637f.jpg.avif",
   },
   {
@@ -5981,7 +5981,7 @@ const list = [
     price: "1159",
     showPrice: "1159",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/164210/13/30222/36464/6206b948Ea3f76354/44373135a9d7637f.jpg.avif",
   },
   {
@@ -5990,7 +5990,7 @@ const list = [
     price: "706",
     showPrice: "706",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/164210/13/30222/36464/6206b948Ea3f76354/44373135a9d7637f.jpg.avif",
   },
   {
@@ -5999,7 +5999,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6008,7 +6008,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6017,7 +6017,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6026,7 +6026,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6035,16 +6035,16 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
     orderId: "CDM1225L2003DA",
-    model: "CDM1-250L/3300D 200A 电操AC220V",
+    model: "CDM1-250L/3300D 200A Electric operationAC220V",
     price: "2355",
     showPrice: "2355",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Motorized operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6053,7 +6053,7 @@ const list = [
     price: "761",
     showPrice: "761",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6062,7 +6062,7 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6071,16 +6071,16 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
     orderId: "CDM1225L1803PPC",
-    model: "CDM1-250L/3300 180A 预付费",
+    model: "CDM1-250L/3300 180A Prepaid",
     price: "981",
     showPrice: "981",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6089,7 +6089,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6098,7 +6098,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6107,7 +6107,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6116,7 +6116,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6125,7 +6125,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6134,7 +6134,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148630/30/21440/41689/6206b94aE34b6dc66/29c73ad58c70aa42.jpg.avif",
   },
   {
@@ -6143,7 +6143,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6152,7 +6152,7 @@ const list = [
     price: "624",
     showPrice: "624",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6161,7 +6161,7 @@ const list = [
     price: "569.99",
     showPrice: "569.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6170,7 +6170,7 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6179,7 +6179,7 @@ const list = [
     price: "1181",
     showPrice: "1181",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/164210/13/30222/36464/6206b948Ea3f76354/44373135a9d7637f.jpg.avif",
   },
   {
@@ -6188,7 +6188,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6197,7 +6197,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6206,7 +6206,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6215,7 +6215,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6224,7 +6224,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6233,7 +6233,7 @@ const list = [
     price: "471",
     showPrice: "471",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6242,7 +6242,7 @@ const list = [
     price: "529",
     showPrice: "529",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6251,7 +6251,7 @@ const list = [
     price: "1118",
     showPrice: "1118",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/164210/13/30222/36464/6206b948Ea3f76354/44373135a9d7637f.jpg.avif",
   },
   {
@@ -6260,7 +6260,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6269,7 +6269,7 @@ const list = [
     price: "1118",
     showPrice: "1118",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/164210/13/30222/36464/6206b948Ea3f76354/44373135a9d7637f.jpg.avif",
   },
   {
@@ -6278,16 +6278,16 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148630/30/21440/41689/6206b94aE34b6dc66/29c73ad58c70aa42.jpg.avif",
   },
   {
     orderId: "CDM1225L2003320DA",
-    model: "CDM1-250L/3320D 200A 电操AC220V",
+    model: "CDM1-250L/3320D 200A Electric operationAC220V",
     price: "2396",
     showPrice: "2396",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Motorized operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6296,7 +6296,7 @@ const list = [
     price: "856",
     showPrice: "856",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6305,7 +6305,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6314,7 +6314,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148630/30/21440/41689/6206b94aE34b6dc66/29c73ad58c70aa42.jpg.avif",
   },
   {
@@ -6323,7 +6323,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6332,7 +6332,7 @@ const list = [
     price: "741",
     showPrice: "741",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/164210/13/30222/36464/6206b948Ea3f76354/44373135a9d7637f.jpg.avif",
   },
   {
@@ -6341,7 +6341,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6350,7 +6350,7 @@ const list = [
     price: "565.99",
     showPrice: "565.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6359,7 +6359,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6368,7 +6368,7 @@ const list = [
     price: "868",
     showPrice: "868",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6377,7 +6377,7 @@ const list = [
     price: "782.01",
     showPrice: "782.01",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/164210/13/30222/36464/6206b948Ea3f76354/44373135a9d7637f.jpg.avif",
   },
   {
@@ -6386,7 +6386,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
@@ -6395,7 +6395,7 @@ const list = [
     price: "1159",
     showPrice: "1159",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/164210/13/30222/36464/6206b948Ea3f76354/44373135a9d7637f.jpg.avif",
   },
   {
@@ -6404,16 +6404,16 @@ const list = [
     price: "908.99",
     showPrice: "908.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/215355/5/12313/52724/6206b949Ebf38b82f/7bf49870350bb218.jpg.avif",
   },
   {
     orderId: "CDM1100H2350",
-    model: "CDM1-125 方形延伸手操杆长350MM",
+    model: "CDM1-125 Square extended handle, rod length350MM",
     price: "186",
     showPrice: "186",
     remark:
-      "Series: CDM1 | Number of poles: - | Rated ultimate breaking capacity: - | Trip unit type: - | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Rated current: -",
+      "Series: CDM1 | Number of poles: - | Rated ultimate breaking capacity: - | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Rated current: -",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/173391/31/45129/14529/6630b335F29b3b2a1/63a56299ff77a38b.jpg.avif",
   },
   {
@@ -6422,34 +6422,34 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/96701/32/27198/54083/625ed266E548a86e1/dc468774f583d488.jpg.avif",
   },
   {
     orderId: "CDM1225L2003PPCX15",
-    model: "CDM1-250L/3310F 200A 预付费 线长1.5米",
+    model: "CDM1-250L/3310F 200A Prepaid Wire length1.5米",
     price: "981",
     showPrice: "981",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 200A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 200A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1400L3153200PF",
-    model: "CDM1-400L/3200 315A 插入式板前接线",
+    model: "CDM1-400L/3200 315A Plug-in front wiring",
     price: "3305",
     showPrice: "3305",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1250L2503PPC",
-    model: "CDM1-250L/3310F 250A 预付费",
+    model: "CDM1-250L/3310F 250A Prepaid",
     price: "981",
     showPrice: "981",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/44023/9/23185/36327/669e5a45Fac5ece52/9e51657acdf1e6be.jpg.avif",
   },
   {
@@ -6458,7 +6458,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/19757/38/21218/36327/669e5a43Fce3eb54c/7b4288be2443930d.jpg.avif",
   },
   {
@@ -6467,7 +6467,7 @@ const list = [
     price: "717",
     showPrice: "717",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/83542/40/25990/38313/669e5a42Fda1d73d2/0f8d04ffc1de67ff.jpg.avif",
   },
   {
@@ -6476,7 +6476,7 @@ const list = [
     price: "1078",
     showPrice: "1078",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6485,7 +6485,7 @@ const list = [
     price: "924",
     showPrice: "924",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6494,16 +6494,16 @@ const list = [
     price: "2909",
     showPrice: "2909",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1630L5003MZ300",
-    model: "CDM1-630L/33002 500A带延伸圆形手操杆长300MM",
+    model: "CDM1-630L/33002 500AWith extended round handle, rod length300MM",
     price: "2966",
     showPrice: "2966",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6512,7 +6512,7 @@ const list = [
     price: "554.01",
     showPrice: "554.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/243724/35/13137/31493/669e5a49F90531d4c/3adfb07a2854c1fe.jpg.avif",
   },
   {
@@ -6521,25 +6521,25 @@ const list = [
     price: "3951",
     showPrice: "3951",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1630L6303340DCZ",
-    model: "CDM1-630L/3340 630A DC24V 延伸方形手操杆长300MM",
+    model: "CDM1-630L/3340 630A DC24V Extended square handle, rod length300MM",
     price: "3250",
     showPrice: "3250",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1250L2503HL2400",
-    model: "CDM1-250L/3300 250A带延伸方形手操杆长400MM",
+    model: "CDM1-250L/3300 250AWith extended square handle, rod length400MM",
     price: "960",
     showPrice: "960",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/228022/21/24305/36327/669e5a47Fb27a05dd/b64c730daa9671b3.jpg.avif",
   },
   {
@@ -6548,25 +6548,25 @@ const list = [
     price: "515",
     showPrice: "515",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1100L1003320PAC",
-    model: "CDM1-125L/3320D 100A 电操AC220V",
+    model: "CDM1-125L/3320D 100A Electric operationAC220V",
     price: "2032",
     showPrice: "2032",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1630L4003340DCZ",
-    model: "CDM1-630L/3340 400A DC24V 延伸方形手操杆长300MM",
+    model: "CDM1-630L/3340 400A DC24V Extended square handle, rod length300MM",
     price: "3250",
     showPrice: "3250",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 400A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6575,34 +6575,34 @@ const list = [
     price: "3951",
     showPrice: "3951",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1250L2503DA",
-    model: "CDM1-250L/3300D 250A 带电操AC220V",
+    model: "CDM1-250L/3300D 250A With electric operationAC220V",
     price: "2355",
     showPrice: "2355",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/74439/15/26420/38313/669e5a44Fd0894c79/50bc57b92e963569.jpg.avif",
   },
   {
     orderId: "CDM1125L1253PPC",
-    model: "CDM1-125L/3310F 125A 预付费",
+    model: "CDM1-125L/3310F 125A Prepaid",
     price: "669.01",
     showPrice: "669.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1100L1003PPCX15",
-    model: "CDM1-125L/3310F 100A 预付费 线长1.5米",
+    model: "CDM1-125L/3310F 100A Prepaid Wire length1.5米",
     price: "669.01",
     showPrice: "669.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6611,25 +6611,25 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1100L503PPC",
-    model: "CDM1-125L/3310F 50A 预付费",
+    model: "CDM1-125L/3310F 50A Prepaid",
     price: "669.01",
     showPrice: "669.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/236120/20/22158/38313/669e5a41Fd0d1ae38/5b769130e6e960da.jpg.avif",
   },
   {
     orderId: "CDM1400L3153PPC",
-    model: "CDM1-400L/3310F 315A 预付费",
+    model: "CDM1-400L/3310F 315A Prepaid",
     price: "2232",
     showPrice: "2232",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6638,7 +6638,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6647,16 +6647,16 @@ const list = [
     price: "843",
     showPrice: "843",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/66582/2/25097/38313/669e5a3fFd6c35f0e/58b2c238285a262a.jpg.avif",
   },
   {
     orderId: "CDM1400L3503PPC",
-    model: "CDM1-400L/3310F 350A 预付费",
+    model: "CDM1-400L/3310F 350A Prepaid",
     price: "2232",
     showPrice: "2232",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/29956/26/21433/38313/669e5a45F366c37a6/b6a2885470d7cf42.jpg.avif",
   },
   {
@@ -6665,7 +6665,7 @@ const list = [
     price: "2827",
     showPrice: "2827",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6674,7 +6674,7 @@ const list = [
     price: "912",
     showPrice: "912",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/188529/24/32482/38313/669e5a44F7e3085d3/c8d860c2eb92da14.jpg.avif",
   },
   {
@@ -6683,25 +6683,25 @@ const list = [
     price: "515",
     showPrice: "515",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1225L1603DA",
-    model: "CDM1-250L/3300D 160A 电操AC220V",
+    model: "CDM1-250L/3300D 160A Electric operationAC220V",
     price: "2355",
     showPrice: "2355",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1800L8003Z350",
-    model: "CDM1-800L/3300 800A直接方形手操杆长350MM",
+    model: "CDM1-800L/3300 800ADirect square handle, rod length350MM",
     price: "3955.99",
     showPrice: "3955.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6710,7 +6710,7 @@ const list = [
     price: "3869",
     showPrice: "3869",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 500A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 500A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6719,34 +6719,34 @@ const list = [
     price: "527",
     showPrice: "527",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1250L2504APPC",
-    model: "CDM1-250L/4310FA 250A 预付费",
+    model: "CDM1-250L/4310FA 250A Prepaid",
     price: "1243",
     showPrice: "1243",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1400L4003Z300",
-    model: "CDM1-400L/3300 400A带方形手操杆长300MM",
+    model: "CDM1-400L/3300 400AWith square handle, rod length300MM",
     price: "2095",
     showPrice: "2095",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1225L1003PPCX15",
-    model: "CDM1-250L/3310F 100A 预付费 线长1.5米",
+    model: "CDM1-250L/3310F 100A Prepaid Wire length1.5米",
     price: "981",
     showPrice: "981",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 100A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6755,7 +6755,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 100A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6764,7 +6764,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/24944/10/21085/38313/669e5a3fF12ad8eb9/0d9616102ff026ae.jpg.avif",
   },
   {
@@ -6773,7 +6773,7 @@ const list = [
     price: "420",
     showPrice: "420",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 16A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 16A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6782,16 +6782,16 @@ const list = [
     price: "1037",
     showPrice: "1037",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/46182/32/25628/38313/669e5a44F4555f6f7/ac60ad59a2a6a03a.jpg.avif",
   },
   {
     orderId: "CDM1125L1254APPC",
-    model: "CDM1-125L/4310FA 125A 预付费",
+    model: "CDM1-125L/4310FA 125A Prepaid",
     price: "844",
     showPrice: "844",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6800,7 +6800,7 @@ const list = [
     price: "2909",
     showPrice: "2909",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6809,7 +6809,7 @@ const list = [
     price: "2684",
     showPrice: "2684",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 400A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6818,7 +6818,7 @@ const list = [
     price: "2968",
     showPrice: "2968",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6827,16 +6827,16 @@ const list = [
     price: "1037",
     showPrice: "1037",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1250L2503320DA",
-    model: "CDM1-250L/3320D 250A 电操AC220V",
+    model: "CDM1-250L/3320D 250A Electric operationAC220V",
     price: "2396",
     showPrice: "2396",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6845,7 +6845,7 @@ const list = [
     price: "632",
     showPrice: "632",
     remark:
-      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 2P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 100A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6854,25 +6854,25 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/6276/36/36656/38313/669e5a42Ff6d956f5/2f3c41173dfe343f.jpg.avif",
   },
   {
     orderId: "CDM1125L1253Z200",
-    model: "CDM1-125L/3300 125A带延伸圆形手操杆长200MM",
+    model: "CDM1-125L/3300 125AWith extended round handle, rod length200MM",
     price: "657",
     showPrice: "657",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1125L1253DA",
-    model: "CDM1-125L/3300D 125A 电操220V",
+    model: "CDM1-125L/3300D 125A Electric operation220V",
     price: "1991",
     showPrice: "1991",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 125A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6881,16 +6881,16 @@ const list = [
     price: "924",
     showPrice: "924",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 250A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 250A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
     orderId: "CDM1225H2150",
-    model: "CDM1-250 方形手操杆长150MM",
+    model: "CDM1-250 Square handle, rod length150MM",
     price: "199",
     showPrice: "199",
     remark:
-      "Series: CDM1 | Number of poles: - | Rated ultimate breaking capacity: - | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: -",
+      "Series: CDM1 | Number of poles: - | Rated ultimate breaking capacity: - | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 250A | Rated current: -",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6899,7 +6899,7 @@ const list = [
     price: "3592",
     showPrice: "3592",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | 安装方式：固定式 | 操作方式：手动操作 | 接线方式：板前接线 | Frame current: 800A | Rated current: 800A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 800A | Rated current: 800A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -6908,7 +6908,7 @@ const list = [
     price: "554.01",
     showPrice: "554.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144183/29/21824/50226/6206a273E6f35fdc5/bbe6b313864d32dc.jpg.avif",
   },
   {
@@ -6917,7 +6917,7 @@ const list = [
     price: "3667",
     showPrice: "3667",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 630A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 630A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/121836/1/22570/63574/6206a267Ed1dea1e6/fc50fb06b1ce5625.jpg.avif",
   },
   {
@@ -6926,7 +6926,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148753/28/21663/41969/6206a264E10fc49c2/33b9cb150724f4a1.jpg.avif",
   },
   {
@@ -6935,16 +6935,16 @@ const list = [
     price: "646",
     showPrice: "646",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/162098/37/25090/45991/6206a26bE329ac208/cd4095b649de963d.jpg.avif",
   },
   {
     orderId: "CDM163L633Z350",
-    model: "CDM1-63L/3300 63A 带延伸方形手操杆长350MM",
+    model: "CDM1-63L/3300 63A With extended square handle, rod length350MM",
     price: "546",
     showPrice: "546",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Manual handle operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144183/29/21824/50226/6206a273E6f35fdc5/bbe6b313864d32dc.jpg.avif",
   },
   {
@@ -6953,7 +6953,7 @@ const list = [
     price: "626",
     showPrice: "626",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 40A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 40A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/173190/8/27755/46534/6206a275E46e6764a/96c6abb8ff789401.jpg.avif",
   },
   {
@@ -6962,7 +6962,7 @@ const list = [
     price: "490",
     showPrice: "490",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 63A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 63A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/173190/8/27755/46534/6206a275E46e6764a/96c6abb8ff789401.jpg.avif",
   },
   {
@@ -6971,7 +6971,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 20A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 20A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144183/29/21824/50226/6206a273E6f35fdc5/bbe6b313864d32dc.jpg.avif",
   },
   {
@@ -6980,7 +6980,7 @@ const list = [
     price: "1004.01",
     showPrice: "1004.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A | 额定电压：AC220V",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A | Rated voltage：AC220V",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/158301/24/26262/56458/6206a26dE85a18b22/8dc66b1ad655cbe7.jpg.avif",
   },
   {
@@ -6989,7 +6989,7 @@ const list = [
     price: "401",
     showPrice: "401",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 63A | Rated current: 32A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 63A | Rated current: 32A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/144183/29/21824/50226/6206a273E6f35fdc5/bbe6b313864d32dc.jpg.avif",
   },
   {
@@ -6998,7 +6998,7 @@ const list = [
     price: "2625",
     showPrice: "2625",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/65515/30/22819/37347/6406a21bFae4e9037/ffca042c6a1752e6.jpg.avif",
   },
   {
@@ -7007,7 +7007,7 @@ const list = [
     price: "2827",
     showPrice: "2827",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 350A | 额定电压：AC230V",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 350A | Rated voltage：AC230V",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/65515/30/22819/37347/6406a21bFae4e9037/ffca042c6a1752e6.jpg.avif",
   },
   {
@@ -7016,7 +7016,7 @@ const list = [
     price: "527",
     showPrice: "527",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 100A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 100A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148753/28/21663/41969/6206a264E10fc49c2/33b9cb150724f4a1.jpg.avif",
   },
   {
@@ -7025,7 +7025,7 @@ const list = [
     price: "2625",
     showPrice: "2625",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/65515/30/22819/37347/6406a21bFae4e9037/ffca042c6a1752e6.jpg.avif",
   },
   {
@@ -7034,25 +7034,25 @@ const list = [
     price: "2909",
     showPrice: "2909",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 250A | 额定电压：AC220V",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 250A | Rated voltage：AC220V",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/65515/30/22819/37347/6406a21bFae4e9037/ffca042c6a1752e6.jpg.avif",
   },
   {
     orderId: "CDM1400L4004PPC",
-    model: "CDM1-400L/4300 400A 预付费",
+    model: "CDM1-400L/4300 400A Prepaid",
     price: "3044.01",
     showPrice: "3044.01",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/65515/30/22819/37347/6406a21bFae4e9037/ffca042c6a1752e6.jpg.avif",
   },
   {
     orderId: "CDM1400L4003300D",
-    model: "CDM1-400L/3300 400A 带电操AC230V",
+    model: "CDM1-400L/3300 400A With electric operationAC230V",
     price: "4709",
     showPrice: "4709",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：电动操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A | 额定电压：AC230V",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Motorized operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A | Rated voltage：AC230V",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/175714/3/28247/49538/6206a270E8b910548/dc4278fa57118d17.jpg.avif",
   },
   {
@@ -7061,7 +7061,7 @@ const list = [
     price: "665.01",
     showPrice: "665.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 50A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 50A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148753/28/21663/41969/6206a264E10fc49c2/33b9cb150724f4a1.jpg.avif",
   },
   {
@@ -7070,7 +7070,7 @@ const list = [
     price: "2015",
     showPrice: "2015",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/175714/3/28247/49538/6206a270E8b910548/dc4278fa57118d17.jpg.avif",
   },
   {
@@ -7079,7 +7079,7 @@ const list = [
     price: "1023",
     showPrice: "1023",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/166192/26/18147/49728/6206a26eE851cf718/ba9ba2b08d324865.jpg.avif",
   },
   {
@@ -7088,7 +7088,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148753/28/21663/41969/6206a264E10fc49c2/33b9cb150724f4a1.jpg.avif",
   },
   {
@@ -7097,7 +7097,7 @@ const list = [
     price: "2625",
     showPrice: "2625",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/100010/40/21618/42484/62064afcEde075201/6c8803ddce6e324e.jpg.avif",
   },
   {
@@ -7106,7 +7106,7 @@ const list = [
     price: "2827",
     showPrice: "2827",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A | 额定电压：AC230V",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A | Rated voltage：AC230V",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/65515/30/22819/37347/6406a21bFae4e9037/ffca042c6a1752e6.jpg.avif",
   },
   {
@@ -7115,16 +7115,16 @@ const list = [
     price: "2909",
     showPrice: "2909",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 315A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 315A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/65515/30/22819/37347/6406a21bFae4e9037/ffca042c6a1752e6.jpg.avif",
   },
   {
     orderId: "CDM1225L1603Z250",
-    model: "CDM1-250L/3300 160A直接圆形手操杆长250MM",
+    model: "CDM1-250L/3300 160ADirect round handle, rod length250MM",
     price: "960",
     showPrice: "960",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：手操操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 160A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Manual handle operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 160A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/158301/24/26262/56458/6206a26dE85a18b22/8dc66b1ad655cbe7.jpg.avif",
   },
   {
@@ -7133,7 +7133,7 @@ const list = [
     price: "3667",
     showPrice: "3667",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 630A | Rated current: 400A",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 630A | Rated current: 400A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/121836/1/22570/63574/6206a267Ed1dea1e6/fc50fb06b1ce5625.jpg.avif",
   },
   {
@@ -7142,7 +7142,7 @@ const list = [
     price: "2909",
     showPrice: "2909",
     remark:
-      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 400A | Rated current: 400A | 额定电压：AC230V",
+      "Series: CDM1 | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 400A | Rated current: 400A | Rated voltage：AC230V",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/65515/30/22819/37347/6406a21bFae4e9037/ffca042c6a1752e6.jpg.avif",
   },
   {
@@ -7151,7 +7151,7 @@ const list = [
     price: "897.01",
     showPrice: "897.01",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 180A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 180A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/158301/24/26262/56458/6206a26dE85a18b22/8dc66b1ad655cbe7.jpg.avif",
   },
   {
@@ -7160,7 +7160,7 @@ const list = [
     price: "801.99",
     showPrice: "801.99",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 电磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 250A | Rated current: 125A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Electromagnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 250A | Rated current: 125A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/158301/24/26262/56458/6206a26dE85a18b22/8dc66b1ad655cbe7.jpg.avif",
   },
   {
@@ -7169,7 +7169,7 @@ const list = [
     price: "607",
     showPrice: "607",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 25A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 25A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148753/28/21663/41969/6206a264E10fc49c2/33b9cb150724f4a1.jpg.avif",
   },
   {
@@ -7178,7 +7178,7 @@ const list = [
     price: "512",
     showPrice: "512",
     remark:
-      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: 热磁式 | 安装方式：固定式 | 操作方式：本体操作 | 接线方式：板前接线 | Frame current: 125A | Rated current: 80A",
+      "Series: CDM1 | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: Thermal-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 125A | Rated current: 80A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/148753/28/21663/41969/6206a264E10fc49c2/33b9cb150724f4a1.jpg.avif",
   },
 ];
