@@ -1,4 +1,4 @@
-import React, { useMemo, useEffect, useState } from "react";
+import { useMemo, useEffect, useState } from "react";
 import { useParams, Link, useSearchParams } from "react-router-dom";
 import PRODUCTS from "../config/products";
 
@@ -55,7 +55,10 @@ const Tmax = () => {
   // 当前放大预览的图片地址；null 表示关闭预览
   const [previewUrl, setPreviewUrl] = useState(null);
   // 搜索关键词（模糊匹配 orderId / model / specification）
-  const [keyword, setKeyword] = useState("");
+  // 初始值优先取自 URL 的 keyword 参数，如 /products/NM1?keyword=xxx
+  const [keyword, setKeyword] = useState(
+    () => searchParams.get("keyword") || ""
+  );
 
   // 打开 / 关闭图片放大预览
   const openPreview = (url) => setPreviewUrl(url);
@@ -63,9 +66,14 @@ const Tmax = () => {
 
   const filtered = useMemo(() => PRODUCTS[type] || [], [type]);
 
-  // 关键词变化时回到第 1 页，避免停留在超出搜索结果范围的页码
+  // 关键词变化时回到第 1 页，避免停留在超出搜索结果范围的页码；
+  // 同时把 keyword 参数保留并写回 URL，方便刷新 / 分享后仍保持筛选
   useEffect(() => {
-    if (keyword.trim()) {
+    const kw = keyword.trim();
+    if (kw) {
+      setSearchParams({ keyword: kw }, { replace: true });
+    } else {
+      // 关键词清空时，移除 keyword / page 参数回到默认状态
       setSearchParams({}, { replace: true });
     }
   }, [keyword, setSearchParams]);
