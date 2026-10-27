@@ -37,9 +37,12 @@ const ProductList = () => {
       { model: "NXC", type: "Miniature circuit breaker" },
     ],
     DELIXI: [
+      { model: "DZ15LE", type: "Molded case circuit breaker" },
+      { model: "CDM1L", type: "Residual Current Circuit Breaker" },
+      { model: "CDM3LS", type: "Residual Current Circuit Breaker" },
+      { model: "CM3L", type: "Molded case circuit breaker" },
       { model: "CDM1", type: "Molded case circuit breaker" },
       { model: "CDM3S", type: "Molded case circuit breaker" },
-      { model: "CDM3LS", type: "Molded case circuit breaker" },
       { model: "CDM3E", type: "Molded case circuit breaker" },
       { model: "JZ7", type: "Contactor Relay" },
       { model: "JZC1", type: "Contactor Relay" },
@@ -86,6 +89,7 @@ const ProductList = () => {
       },
     ],
     Schneider: [
+      { model: "EZD", type: "Molded case circuit breaker" },
       { model: "CVS", type: "Molded case circuit breaker" },
       { model: "LC1D", type: "AC contactor" },
       {

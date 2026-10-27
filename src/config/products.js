@@ -18,6 +18,7 @@ import NXB63G from "./nxb-63g";
 import NXMS from "./nxms";
 import NXM from "./nxm";
 import CDM1 from "./cdm1";
+import CDM1L from "./CDM1L";
 import CDM3S from "./cdm3s";
 import CDM3LS from "./cdm3ls";
 import CDM3E from "./cdm3e";
@@ -65,8 +66,15 @@ import JZC1 from "./JZC1";
 import JZC4s from "./JZC4s";
 import HMI from './HMI'
 import NXC from './nxc'
+import CM3L from './CM3L'
+import DZ15LE from './DZ15LE'
+import EZD from './EZD'
 
 const obj = {
+  EZD,
+  DZ15LE,
+  CM3L,
+  CDM1L,
   NXC,
   HMI,
   JZ7,

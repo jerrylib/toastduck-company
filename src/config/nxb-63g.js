@@ -5,7 +5,7 @@ const list = [
     price: "55.83",
     showPrice: "55.83",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000315",
@@ -13,7 +13,7 @@ const list = [
     price: "24.65",
     showPrice: "24.65",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000329",
@@ -21,7 +21,7 @@ const list = [
     price: "51.77",
     showPrice: "51.77",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000313",
@@ -29,7 +29,7 @@ const list = [
     price: "27.51",
     showPrice: "27.51",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000309",
@@ -37,7 +37,7 @@ const list = [
     price: "28.43",
     showPrice: "28.43",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000324",
@@ -45,7 +45,7 @@ const list = [
     price: "59.71",
     showPrice: "59.71",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000314",
@@ -53,7 +53,7 @@ const list = [
     price: "24.65",
     showPrice: "24.65",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000320",
@@ -61,7 +61,7 @@ const list = [
     price: "28.89",
     showPrice: "28.89",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000322",
@@ -69,7 +69,7 @@ const list = [
     price: "59.71",
     showPrice: "59.71",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000341",
@@ -77,7 +77,7 @@ const list = [
     price: "76.25",
     showPrice: "76.25",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000330",
@@ -85,7 +85,7 @@ const list = [
     price: "51.77",
     showPrice: "51.77",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000334",
@@ -93,7 +93,7 @@ const list = [
     price: "60.73",
     showPrice: "60.73",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000340",
@@ -101,7 +101,7 @@ const list = [
     price: "76.25",
     showPrice: "76.25",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000336",
@@ -109,7 +109,7 @@ const list = [
     price: "87.79",
     showPrice: "87.79",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000312",
@@ -117,7 +117,7 @@ const list = [
     price: "28.43",
     showPrice: "28.43",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000335",
@@ -125,7 +125,7 @@ const list = [
     price: "87.79",
     showPrice: "87.79",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000311",
@@ -133,7 +133,7 @@ const list = [
     price: "28.43",
     showPrice: "28.43",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000317",
@@ -141,7 +141,7 @@ const list = [
     price: "24.65",
     showPrice: "24.65",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000327",
@@ -149,7 +149,7 @@ const list = [
     price: "51.77",
     showPrice: "51.77",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000325",
@@ -157,7 +157,7 @@ const list = [
     price: "59.71",
     showPrice: "59.71",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000326",
@@ -165,7 +165,7 @@ const list = [
     price: "57.79",
     showPrice: "57.79",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000333",
@@ -173,7 +173,7 @@ const list = [
     price: "60.73",
     showPrice: "60.73",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000343",
@@ -181,7 +181,7 @@ const list = [
     price: "76.25",
     showPrice: "76.25",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000339",
@@ -189,7 +189,7 @@ const list = [
     price: "85.24",
     showPrice: "85.24",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000344",
@@ -197,7 +197,7 @@ const list = [
     price: "76.25",
     showPrice: "76.25",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000346",
@@ -205,7 +205,7 @@ const list = [
     price: "89.97",
     showPrice: "89.97",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000347",
@@ -213,7 +213,7 @@ const list = [
     price: "89.97",
     showPrice: "89.97",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000319",
@@ -221,7 +221,7 @@ const list = [
     price: "27.81",
     showPrice: "27.81",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000338",
@@ -229,7 +229,7 @@ const list = [
     price: "87.79",
     showPrice: "87.79",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000321",
@@ -237,7 +237,7 @@ const list = [
     price: "28.89",
     showPrice: "28.89",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000337",
@@ -245,7 +245,7 @@ const list = [
     price: "87.79",
     showPrice: "87.79",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000310",
@@ -253,7 +253,7 @@ const list = [
     price: "28.43",
     showPrice: "28.43",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000331",
@@ -261,7 +261,7 @@ const list = [
     price: "51.77",
     showPrice: "51.77",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000316",
@@ -269,7 +269,7 @@ const list = [
     price: "24.65",
     showPrice: "24.65",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000318",
@@ -277,7 +277,7 @@ const list = [
     price: "24.65",
     showPrice: "24.65",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000342",
@@ -285,7 +285,7 @@ const list = [
     price: "76.25",
     showPrice: "76.25",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000328",
@@ -293,7 +293,7 @@ const list = [
     price: "51.77",
     showPrice: "51.77",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000323",
@@ -301,7 +301,7 @@ const list = [
     price: "59.71",
     showPrice: "59.71",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000345",
@@ -309,7 +309,7 @@ const list = [
     price: "86.27",
     showPrice: "86.27",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000332",
@@ -317,7 +317,7 @@ const list = [
     price: "58.54",
     showPrice: "58.54",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000358",
@@ -325,7 +325,7 @@ const list = [
     price: "117.27",
     showPrice: "117.27",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000369",
@@ -333,7 +333,7 @@ const list = [
     price: "27.76",
     showPrice: "27.76",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000375",
@@ -341,7 +341,7 @@ const list = [
     price: "63.79",
     showPrice: "63.79",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000393",
@@ -349,7 +349,7 @@ const list = [
     price: "84.3",
     showPrice: "84.3",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000404",
@@ -357,7 +357,7 @@ const list = [
     price: "124.31",
     showPrice: "124.31",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000352",
@@ -365,7 +365,7 @@ const list = [
     price: "116.03",
     showPrice: "116.03",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000359",
@@ -373,7 +373,7 @@ const list = [
     price: "122.91",
     showPrice: "122.91",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000364",
@@ -381,7 +381,7 @@ const list = [
     price: "31.57",
     showPrice: "31.57",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000388",
@@ -389,7 +389,7 @@ const list = [
     price: "96.36",
     showPrice: "96.36",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000385",
@@ -397,7 +397,7 @@ const list = [
     price: "65.47",
     showPrice: "65.47",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000387",
@@ -405,7 +405,7 @@ const list = [
     price: "96.36",
     showPrice: "96.36",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000399",
@@ -413,7 +413,7 @@ const list = [
     price: "99.39",
     showPrice: "99.39",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000370",
@@ -421,7 +421,7 @@ const list = [
     price: "27.76",
     showPrice: "27.76",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000391",
@@ -429,7 +429,7 @@ const list = [
     price: "94.17",
     showPrice: "94.17",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000403",
@@ -437,7 +437,7 @@ const list = [
     price: "128.06",
     showPrice: "128.06",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000360",
@@ -445,7 +445,7 @@ const list = [
     price: "122.91",
     showPrice: "122.91",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000363",
@@ -453,7 +453,7 @@ const list = [
     price: "31.57",
     showPrice: "31.57",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000392",
@@ -461,7 +461,7 @@ const list = [
     price: "84.3",
     showPrice: "84.3",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000397",
@@ -469,7 +469,7 @@ const list = [
     price: "95.33",
     showPrice: "95.33",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000390",
@@ -477,7 +477,7 @@ const list = [
     price: "96.36",
     showPrice: "96.36",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000410",
@@ -485,7 +485,7 @@ const list = [
     price: "125.72",
     showPrice: "125.72",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000356",
@@ -493,7 +493,7 @@ const list = [
     price: "103.61",
     showPrice: "103.61",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000357",
@@ -501,7 +501,7 @@ const list = [
     price: "103.61",
     showPrice: "103.61",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000365",
@@ -509,7 +509,7 @@ const list = [
     price: "30.82",
     showPrice: "30.82",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000382",
@@ -517,7 +517,7 @@ const list = [
     price: "55.83",
     showPrice: "55.83",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000373",
@@ -525,7 +525,7 @@ const list = [
     price: "32.58",
     showPrice: "32.58",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000401",
@@ -533,7 +533,7 @@ const list = [
     price: "128.06",
     showPrice: "128.06",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000411",
@@ -541,7 +541,7 @@ const list = [
     price: "131.84",
     showPrice: "131.84",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000412",
@@ -549,7 +549,7 @@ const list = [
     price: "131.84",
     showPrice: "131.84",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000366",
@@ -557,7 +557,7 @@ const list = [
     price: "27.76",
     showPrice: "27.76",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000386",
@@ -565,7 +565,7 @@ const list = [
     price: "65.47",
     showPrice: "65.47",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000408",
@@ -573,7 +573,7 @@ const list = [
     price: "111",
     showPrice: "111",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000377",
@@ -581,7 +581,7 @@ const list = [
     price: "63.79",
     showPrice: "63.79",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000389",
@@ -589,7 +589,7 @@ const list = [
     price: "96.36",
     showPrice: "96.36",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000350",
@@ -597,7 +597,7 @@ const list = [
     price: "119.52",
     showPrice: "119.52",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000367",
@@ -605,7 +605,7 @@ const list = [
     price: "27.76",
     showPrice: "27.76",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000376",
@@ -613,7 +613,7 @@ const list = [
     price: "63.79",
     showPrice: "63.79",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000395",
@@ -621,7 +621,7 @@ const list = [
     price: "84.3",
     showPrice: "84.3",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000402",
@@ -629,7 +629,7 @@ const list = [
     price: "128.06",
     showPrice: "128.06",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000354",
@@ -637,7 +637,7 @@ const list = [
     price: "103.61",
     showPrice: "103.61",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000362",
@@ -645,7 +645,7 @@ const list = [
     price: "31.57",
     showPrice: "31.57",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000368",
@@ -653,7 +653,7 @@ const list = [
     price: "27.76",
     showPrice: "27.76",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000383",
@@ -661,7 +661,7 @@ const list = [
     price: "55.83",
     showPrice: "55.83",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000409",
@@ -669,7 +669,7 @@ const list = [
     price: "111",
     showPrice: "111",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000396",
@@ -677,7 +677,7 @@ const list = [
     price: "84.3",
     showPrice: "84.3",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000398",
@@ -685,7 +685,7 @@ const list = [
     price: "99.39",
     showPrice: "99.39",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000349",
@@ -693,7 +693,7 @@ const list = [
     price: "119.52",
     showPrice: "119.52",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000355",
@@ -701,7 +701,7 @@ const list = [
     price: "103.61",
     showPrice: "103.61",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000407",
@@ -709,7 +709,7 @@ const list = [
     price: "111",
     showPrice: "111",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000406",
@@ -717,7 +717,7 @@ const list = [
     price: "111",
     showPrice: "111",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000361",
@@ -725,7 +725,7 @@ const list = [
     price: "31.57",
     showPrice: "31.57",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000400",
@@ -733,7 +733,7 @@ const list = [
     price: "128.06",
     showPrice: "128.06",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000394",
@@ -741,7 +741,7 @@ const list = [
     price: "84.3",
     showPrice: "84.3",
     remark:
-      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 3P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000405",
@@ -749,7 +749,7 @@ const list = [
     price: "111",
     showPrice: "111",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000353",
@@ -757,7 +757,7 @@ const list = [
     price: "103.61",
     showPrice: "103.61",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000371",
@@ -765,7 +765,7 @@ const list = [
     price: "31.35",
     showPrice: "31.35",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000374",
@@ -773,7 +773,7 @@ const list = [
     price: "63.79",
     showPrice: "63.79",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000348",
@@ -781,7 +781,7 @@ const list = [
     price: "119.52",
     showPrice: "119.52",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000372",
@@ -789,7 +789,7 @@ const list = [
     price: "32.58",
     showPrice: "32.58",
     remark:
-      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
+      "Series: NXB-63G | Number of poles: 1P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC230V",
   },
   {
     orderId: "710054200000378",
@@ -797,7 +797,7 @@ const list = [
     price: "62.33",
     showPrice: "62.33",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000381",
@@ -805,7 +805,7 @@ const list = [
     price: "55.83",
     showPrice: "55.83",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000351",
@@ -813,7 +813,7 @@ const list = [
     price: "119.52",
     showPrice: "119.52",
     remark:
-      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 4P | Rated ultimate breaking capacity: 6kA | Trip unit type: C type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000380",
@@ -821,7 +821,7 @@ const list = [
     price: "55.83",
     showPrice: "55.83",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
   {
     orderId: "710054200000384",
@@ -829,7 +829,7 @@ const list = [
     price: "63.07",
     showPrice: "63.07",
     remark:
-      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D型 | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
+      "Series: NXB-63G | Number of poles: 2P | Rated ultimate breaking capacity: 6kA | Trip unit type: D type | Installation method：DIN rail mounting | Operation method：Manual operation | Wiring method：Front wiring | Frame current: 63A | Rated voltage：AC400V",
   },
 ];
 

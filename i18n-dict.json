@@ -209,5 +209,12 @@
   "额定电流：": "Rated current: ",
   "风机水泵专用": "For fans and pumps",
   "高性能型": "High-performance type",
-  "高惯量": "High inertia"
+  "高惯量": "High inertia",
+  "剩余动作电流：": "Residual operating current: ",
+  "带引线": "with lead wire",
+  "停用": "discontinued",
+  "可调": "adjustable",
+  "延时": "delayed",
+  "非延": "instantaneous",
+  "延": "delay"
 }
