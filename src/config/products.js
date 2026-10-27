@@ -20,7 +20,7 @@ import NXM from "./nxm";
 import CDM1 from "./cdm1";
 import CDM1L from "./CDM1L";
 import CDM3S from "./cdm3s";
-import CDM3LS from "./cdm3ls";
+import CDM3LS from "./CDM3LS";
 import CDM3E from "./cdm3e";
 import s71200 from "./S7-1200";
 import s71200G2 from "./S7-1200-G2";
