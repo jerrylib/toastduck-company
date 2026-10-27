@@ -1,7 +1,7 @@
 // Post-build: prerender /products and /products/:type routes into dist/
 // so GitHub Pages returns HTTP 200 with correct per-route SEO meta.
 // Also generates dist/sitemap.xml with all product child routes.
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { SITE_URL, getProductSEO, PRODUCTS_INDEX_SEO } from "../src/config/product-seo.js";
@@ -77,13 +77,16 @@ function writeHtml(relativePath, html) {
   console.log("  wrote", relativePath);
 }
 
-function buildSitemap(productRoutes) {
+function buildSitemap(productRoutes, newsRoutes) {
   const urls = [];
   urls.push({ loc: `${SITE_URL}/`, priority: "0.1", changefreq: "weekly" });
   urls.push({ loc: `${SITE_URL}/news`, priority: "0.1", changefreq: "daily" });
   urls.push({ loc: `${SITE_URL}/products`, priority: "0.1", changefreq: "weekly" });
   for (const r of productRoutes) {
     urls.push({ loc: r.url, priority: "1.0", changefreq: "weekly" });
+  }
+  for (const r of newsRoutes || []) {
+    urls.push({ loc: r.url, priority: "0.6", changefreq: "weekly" });
   }
   const lastmod = today();
   const body = urls
@@ -103,6 +106,24 @@ function main() {
   const template = readFileSync(join(distDir, "index.html"), "utf-8");
   const productRoutes = Object.values(getProductSEO());
 
+  // News article routes (/news/:id) derived from public/news/data.json (the
+  // source of truth). Fall back to the dist copy if the source is unavailable.
+  let newsRoutes = [];
+  const publicNewsDataPath = join(__dirname, "..", "public", "news", "data.json");
+  const distNewsDataPath = join(distDir, "news", "data.json");
+  const newsDataPath = existsSync(publicNewsDataPath)
+    ? publicNewsDataPath
+    : distNewsDataPath;
+  try {
+    const newsData = JSON.parse(readFileSync(newsDataPath, "utf-8"));
+    newsRoutes = (newsData.articles || [])
+      .map((a) => a.url)
+      .filter(Boolean)
+      .map((id) => ({ url: `${SITE_URL}/news/${encodeURIComponent(id)}` }));
+  } catch (err) {
+    console.warn(`  Skipping news sitemap entries (${newsDataPath}): ${err.message}`);
+  }
+
   console.log(`Prerendering ${productRoutes.length} product routes...`);
 
   // /products index page
@@ -120,9 +141,11 @@ function main() {
   }
 
   // sitemap.xml
-  const sitemap = buildSitemap(productRoutes);
+  const sitemap = buildSitemap(productRoutes, newsRoutes);
   writeFileSync(join(distDir, "sitemap.xml"), sitemap, "utf-8");
-  console.log(`  wrote sitemap.xml (${productRoutes.length + 3} URLs)`);
+  console.log(
+    `  wrote sitemap.xml (${productRoutes.length + 3 + newsRoutes.length} URLs)`,
+  );
 
   console.log("Post-build SEO prerender complete.");
 }
