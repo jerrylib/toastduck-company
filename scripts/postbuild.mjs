@@ -206,12 +206,15 @@ ${tableHtml}
 }
 
 // 生成产品页 Product JSON-LD，插入 </head> 前。
-function renderProductJsonLd({ brand, model, type, url, description, price }) {
+// image 必填（Google Product 富媒体结果要求），优先用首张产品图，无则回退品牌 banner。
+function renderProductJsonLd({ brand, model, type, url, description, price, image }) {
+  const imageUrl = image || `${SITE_URL}/images/toastduck_banner_3x_black.png`;
   const data = {
     "@context": "https://schema.org",
     "@type": "Product",
     name: `${brand} ${model} ${type}`,
     description,
+    image: [imageUrl],
     brand: { "@type": "Brand", name: brand },
     sku: model,
     url,
@@ -324,6 +327,8 @@ async function main() {
   for (const route of productRoutes) {
     const items = await loadProductItems(route.model);
     const firstPrice = items.find((it) => it.price)?.price || "";
+    // 首张产品图（item.url），供 Product schema 的 image 使用
+    const firstImage = items.find((it) => it.url)?.url || "";
     let html = renderPage(template, {
       url: route.url,
       title: route.title,
@@ -335,7 +340,7 @@ async function main() {
     );
     html = injectJsonLd(
       html,
-      renderProductJsonLd({ ...route, price: firstPrice }),
+      renderProductJsonLd({ ...route, price: firstPrice, image: firstImage }),
     );
     writeHtml(`products/${route.model}/index.html`, html);
   }
