@@ -4,7 +4,7 @@ const list = [
     model: "CM3L-100/4300B U 0.03A 63A",
     price: "1808.00",
     showPrice: "1176.29",
-    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 63A",
+    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/3eecae24ae70a065.jpg",
   },
   {
@@ -12,7 +12,7 @@ const list = [
     model: "CM3L-100/4300A U 0.03A 80A",
     price: "1808.00",
     showPrice: "1176.29",
-    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 80A",
+    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/3eecae24ae70a065.jpg",
   },
   {
@@ -20,7 +20,7 @@ const list = [
     model: "CM3L-250/4300A U 0.5A 160A",
     price: "2410.00",
     showPrice: "1567.95",
-    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 160A",
+    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/5a07850a5e1f680c.jpg",
   },
   {
@@ -28,7 +28,7 @@ const list = [
     model: "CM3L-100/4300B U 0.03A 100A",
     price: "1808.00",
     showPrice: "1176.29",
-    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 100A",
+    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/3eecae24ae70a065.jpg",
   },
   {
@@ -36,7 +36,7 @@ const list = [
     model: "CM3L-100/4300A U 0.03A 100A",
     price: "1808.00",
     showPrice: "1176.29",
-    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 100A",
+    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/3eecae24ae70a065.jpg",
   },
   {
@@ -44,7 +44,7 @@ const list = [
     model: "CM3L-100/4300A U 0.03A 63A",
     price: "1808.00",
     showPrice: "1176.29",
-    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 63A",
+    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/3eecae24ae70a065.jpg",
   },
   {
@@ -52,7 +52,7 @@ const list = [
     model: "CM3L-100/4300B U 0.03A 20A",
     price: "1808.00",
     showPrice: "1176.29",
-    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 20A",
+    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 20A",
     url: "https://images.toastduck.com/004a01!450450.jpg",
   },
   {
@@ -60,7 +60,7 @@ const list = [
     model: "CM3L-100/4300B U 0.03A 40A",
     price: "1808.00",
     showPrice: "1176.29",
-    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 40A",
+    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 40A",
     url: "https://images.toastduck.com/8b89194fb3da9c70.jpg",
   },
   {
@@ -68,7 +68,7 @@ const list = [
     model: "CM3L-100/4300B U 0.03A 80A",
     price: "1808.00",
     showPrice: "1176.29",
-    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 80A",
+    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/3eecae24ae70a065.jpg",
   },
   {
@@ -76,7 +76,7 @@ const list = [
     model: "CM3L-100/4300B V 0.5A 50A",
     price: "1808.00",
     showPrice: "1176.29",
-    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/004a01!450450.jpg",
   },
   {
@@ -84,7 +84,7 @@ const list = [
     model: "CM3L-100/4300B V 0.5A 63A",
     price: "1808.00",
     showPrice: "1176.29",
-    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/3eecae24ae70a065.jpg",
   },
   {
@@ -92,7 +92,7 @@ const list = [
     model: "CM3L-100H/3300 U 0.03A 100A",
     price: "1579.00",
     showPrice: "1027.30",
-    remark: "Series: CM3L | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 100A",
+    remark: "Series: CM3L | Number of poles: 3P | Rated ultimate breaking capacity: 85kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/712ea3a2f7eb9aa4.jpg",
   },
   {
@@ -100,7 +100,7 @@ const list = [
     model: "CM3L-250/4300B U 0.5A 125A",
     price: "2410.00",
     showPrice: "1567.95",
-    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 125A",
+    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/ea44697a3bc5438e.jpg",
   },
   {
@@ -108,7 +108,7 @@ const list = [
     model: "CM3L-250/4300B U 0.5A 160A",
     price: "2410.00",
     showPrice: "1567.95",
-    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 160A",
+    remark: "Series: CM3L | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/5a07850a5e1f680c.jpg",
   },
   {
@@ -116,7 +116,7 @@ const list = [
     model: "CM3L-400M/3300 V 0.5A 350A",
     price: "3011.00",
     showPrice: "1958.96",
-    remark: "Series: CM3L | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
+    remark: "Series: CM3L | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
     url: "https://images.toastduck.com/8b89194fb3da9c70.jpg",
   },
   {
@@ -124,7 +124,7 @@ const list = [
     model: "CM3L-630M/3300 V 1A 500A",
     price: "3773.00",
     showPrice: "2454.72",
-    remark: "Series: CM3L | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 500A",
+    remark: "Series: CM3L | Number of poles: 3P | Rated ultimate breaking capacity: 65kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 500A",
     url: "https://images.toastduck.com/8b89194fb3da9c70.jpg",
   },
 ];

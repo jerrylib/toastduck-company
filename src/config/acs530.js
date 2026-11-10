@@ -5,7 +5,7 @@ const list = [
     price: "2060",
     showPrice: "2060",
     remark:
-      "Series: ACS530 | Rated motor power: 1.5kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 1.5kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/311758/31/3165/13350/682edbdbFcc03fd2b/2c9f61485ce936df.jpg.avif",
   },
   {
@@ -14,7 +14,7 @@ const list = [
     price: "2730",
     showPrice: "2730",
     remark:
-      "Series: ACS530 | Rated motor power: 4kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 4kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/311758/31/3165/13350/682edbdbFcc03fd2b/2c9f61485ce936df.jpg.avif",
   },
   {
@@ -23,7 +23,7 @@ const list = [
     price: "29640",
     showPrice: "29640",
     remark:
-      "Series: ACS530 | Rated motor power: 110kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 110kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -32,7 +32,7 @@ const list = [
     price: "15300",
     showPrice: "15300",
     remark:
-      "Series: ACS530 | Rated motor power: 55kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 55kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -41,7 +41,7 @@ const list = [
     price: "3380",
     showPrice: "3380",
     remark:
-      "Series: ACS530 | Rated motor power: 7.5kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 7.5kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/311758/31/3165/13350/682edbdbFcc03fd2b/2c9f61485ce936df.jpg.avif",
   },
   {
@@ -50,7 +50,7 @@ const list = [
     price: "25140",
     showPrice: "25140",
     remark:
-      "Series: ACS530 | Rated motor power: 90kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 90kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -59,7 +59,7 @@ const list = [
     price: "5530",
     showPrice: "5530",
     remark:
-      "Series: ACS530 | Rated motor power: 15kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 15kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -68,7 +68,7 @@ const list = [
     price: "43330",
     showPrice: "43330",
     remark:
-      "Series: ACS530 | Rated motor power: 160kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 160kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -77,7 +77,7 @@ const list = [
     price: "4040",
     showPrice: "4040",
     remark:
-      "Series: ACS530 | Rated motor power: 11kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 11kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/289340/6/22869/13350/68a2ba5aF1029f604/6810f060f70c7e4e.jpg.avif",
   },
   {
@@ -86,7 +86,7 @@ const list = [
     price: "1980",
     showPrice: "1980",
     remark:
-      "Series: ACS530 | Rated motor power: 1.1kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 1.1kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -95,7 +95,7 @@ const list = [
     price: "7970",
     showPrice: "7970",
     remark:
-      "Series: ACS530 | Rated motor power: 22kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 22kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -104,7 +104,7 @@ const list = [
     price: "34230",
     showPrice: "34230",
     remark:
-      "Series: ACS530 | Rated motor power: 132kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 132kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -113,7 +113,7 @@ const list = [
     price: "2300",
     showPrice: "2300",
     remark:
-      "Series: ACS530 | Rated motor power: 2.2kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 2.2kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -122,7 +122,7 @@ const list = [
     price: "2480",
     showPrice: "2480",
     remark:
-      "Series: ACS530 | Rated motor power: 3kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 3kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -131,7 +131,7 @@ const list = [
     price: "6690",
     showPrice: "6690",
     remark:
-      "Series: ACS530 | Rated motor power: 18.5kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 18.5kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -140,7 +140,7 @@ const list = [
     price: "8880",
     showPrice: "8880",
     remark:
-      "Series: ACS530 | Rated motor power: 30kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 30kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -149,7 +149,7 @@ const list = [
     price: "58380",
     showPrice: "58380",
     remark:
-      "Series: ACS530 | Rated motor power: 250kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 250kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -158,7 +158,7 @@ const list = [
     price: "19420",
     showPrice: "19420",
     remark:
-      "Series: ACS530 | Rated motor power: 75kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 75kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -167,7 +167,7 @@ const list = [
     price: "10260",
     showPrice: "10260",
     remark:
-      "Series: ACS530 | Rated motor power: 37kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 37kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -176,7 +176,7 @@ const list = [
     price: "53140",
     showPrice: "53140",
     remark:
-      "Series: ACS530 | Rated motor power: 200kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 200kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {
@@ -185,7 +185,7 @@ const list = [
     price: "1900",
     showPrice: "1900",
     remark:
-      "Series: ACS530 | Rated motor power: 0.75kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：General purpose",
+      "Series: ACS530 | Rated motor power: 0.75kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:General purpose",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/267192/34/21439/13350/67b47b78F7b4eb485/e8bf3e2ad0e0e9eb.jpg.avif",
   },
   {

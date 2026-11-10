@@ -4,7 +4,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 75mA",
     price: "415.00",
     showPrice: "155.00",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 100A",
     url: "https://images.toastduck.com/9d3a35b780d95df5.jpg",
   },
   {
@@ -12,7 +12,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 75mA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 100A",
     url: "https://images.toastduck.com/58e456384a4b76bb.jpg",
   },
   {
@@ -20,7 +20,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 50mA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 100A",
     url: "https://images.toastduck.com/78e0ab19637651e7.jpg",
   },
   {
@@ -28,7 +28,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 30mA",
     price: "431.00",
     showPrice: "160.98",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 100A",
     url: "https://images.toastduck.com/bf2d99d38e6b55e6.jpg",
   },
   {
@@ -36,7 +36,7 @@ const list = [
     model: "DZ15LE-100/3902 100A 50mA",
     price: "355.00",
     showPrice: "132.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 100A",
     url: "https://images.toastduck.com/5aa5201962ffc924.jpg",
   },
   {
@@ -44,7 +44,7 @@ const list = [
     model: "DZ15LE-40/4901 40A 50mA instantaneous<0.1",
     price: "306.00",
     showPrice: "105.08",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 40A",
     url: "https://images.toastduck.com/6d9aaa0ed949e40e.jpg",
   },
   {
@@ -52,7 +52,7 @@ const list = [
     model: "DZ15LE-100/3N901 100A 75mA",
     price: "415.00",
     showPrice: "159.65",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 75mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 75mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -60,7 +60,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 50mATransparent",
     price: "376.00",
     showPrice: "140.43",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 100A",
     url: "https://images.toastduck.com/849f7b1e24fb75ef.jpg",
   },
   {
@@ -68,7 +68,7 @@ const list = [
     model: "DZ15LE-40/3901 40A 50mA instantaneous<0.1",
     price: "290.00",
     showPrice: "99.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 40A",
     url: "https://images.toastduck.com/93cf478c0631140c.jpg",
   },
   {
@@ -76,7 +76,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 50mA",
     price: "415.00",
     showPrice: "155.00",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 100A",
     url: "https://images.toastduck.com/bf2d99d38e6b55e6.jpg",
   },
   {
@@ -84,7 +84,7 @@ const list = [
     model: "DZ15LE-100/2901 100A 50mA instantaneous<0.1",
     price: "232.99",
     showPrice: "80.01",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 100A",
     url: "https://images.toastduck.com/c08d98e57abcbe01.jpg",
   },
   {
@@ -92,7 +92,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 300mA",
     price: "415.00",
     showPrice: "155.00",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300mA | Rated current: 100A",
     url: "https://images.toastduck.com/bf2d99d38e6b55e6.jpg",
   },
   {
@@ -100,7 +100,7 @@ const list = [
     model: "DZ15LE-100/3901 100A 50mA",
     price: "355.00",
     showPrice: "132.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 100A",
     url: "https://images.toastduck.com/5aa5201962ffc924.jpg",
   },
   {
@@ -108,7 +108,7 @@ const list = [
     model: "DZ15LE-100/4901 63A 50mA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 63A",
     url: "https://images.toastduck.com/a0f6c12bceb1bf80.jpg",
   },
   {
@@ -116,7 +116,7 @@ const list = [
     model: "DZ15LE-100/3901 100A 50mA instantaneous<0.1",
     price: "355.00",
     showPrice: "121.90",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 100A",
     url: "https://images.toastduck.com/eb6d6dab7c3a4ea0.jpg",
   },
   {
@@ -124,7 +124,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 100mA",
     price: "415.00",
     showPrice: "155.00",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100mA | Rated current: 100A",
     url: "https://images.toastduck.com/bf2d99d38e6b55e6.jpg",
   },
   {
@@ -132,7 +132,7 @@ const list = [
     model: "DZ15LE-100/2901T 100A 30mA",
     price: "220.00",
     showPrice: "84.63",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -140,7 +140,7 @@ const list = [
     model: "DZ15LE-100/2901 80A 50mA instantaneous<0.1",
     price: "232.99",
     showPrice: "80.01",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 80A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 80A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -148,7 +148,7 @@ const list = [
     model: "DZ15LE-40/4901 32A 100MA instantaneous<0.1",
     price: "306.00",
     showPrice: "105.08",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100mA | Rated current: 32A",
     url: "https://images.toastduck.com/ab686ee1be8af644.jpg",
   },
   {
@@ -156,7 +156,7 @@ const list = [
     model: "DZ15LE-40/4901 25A 50mA instantaneous<0.1",
     price: "306.00",
     showPrice: "105.08",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 25A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 25A",
     url: "https://images.toastduck.com/82dd61b4cdaf98c5.jpg",
   },
   {
@@ -164,7 +164,7 @@ const list = [
     model: "DZ15LE-40/4901 40A 75mA",
     price: "306.00",
     showPrice: "114.29",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 40A",
     url: "https://images.toastduck.com/c03c9ca9d622aee1.jpg",
   },
   {
@@ -172,7 +172,7 @@ const list = [
     model: "DZ15LE-40/4901 40A 50mATransparent",
     price: "278.00",
     showPrice: "103.83",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 40A",
     url: "https://images.toastduck.com/f8892f6542ebe023.jpg",
   },
   {
@@ -180,7 +180,7 @@ const list = [
     model: "DZ15LE-40/4901 40A 50mA",
     price: "306.00",
     showPrice: "114.29",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 40A",
     url: "https://images.toastduck.com/c03c9ca9d622aee1.jpg",
   },
   {
@@ -188,7 +188,7 @@ const list = [
     model: "DZ15LE-40/4901 40A 30mATransparent",
     price: "284.00",
     showPrice: "106.07",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 40A",
     url: "https://images.toastduck.com/f8892f6542ebe023.jpg",
   },
   {
@@ -196,7 +196,7 @@ const list = [
     model: "DZ15LE-40/4901 40A 30mA",
     price: "316.00",
     showPrice: "118.02",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 40A",
     url: "https://images.toastduck.com/c03c9ca9d622aee1.jpg",
   },
   {
@@ -204,7 +204,7 @@ const list = [
     model: "DZ15LE-40/4901 32A 50mA",
     price: "306.00",
     showPrice: "114.29",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 32A",
     url: "https://images.toastduck.com/c03c9ca9d622aee1.jpg",
   },
   {
@@ -212,7 +212,7 @@ const list = [
     model: "DZ15LE-40/4901 32A 30mATransparent",
     price: "284.00",
     showPrice: "106.07",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 32A",
     url: "https://images.toastduck.com/f8892f6542ebe023.jpg",
   },
   {
@@ -220,7 +220,7 @@ const list = [
     model: "DZ15LE-40/4901 32A 30mA",
     price: "316.00",
     showPrice: "118.02",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 32A",
     url: "https://images.toastduck.com/034ef48cf00c2e37.jpg",
   },
   {
@@ -228,7 +228,7 @@ const list = [
     model: "DZ15LE-40/3902 40A 75mA",
     price: "290.00",
     showPrice: "108.31",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 40A",
     url: "https://images.toastduck.com/ff3429636acfb1bd.jpg",
   },
   {
@@ -236,7 +236,7 @@ const list = [
     model: "DZ15LE-40/3902 40A 50mATransparent",
     price: "258.00",
     showPrice: "96.36",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 40A",
     url: "https://images.toastduck.com/be60186d8a861163.jpg",
   },
   {
@@ -244,7 +244,7 @@ const list = [
     model: "DZ15LE-40/3902 40A 50mA",
     price: "290.00",
     showPrice: "108.31",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 40A",
     url: "https://images.toastduck.com/a7314d063a56eba6.jpg",
   },
   {
@@ -252,7 +252,7 @@ const list = [
     model: "DZ15LE-40/3902 40A 30mATransparent",
     price: "269.00",
     showPrice: "100.47",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 40A",
     url: "https://images.toastduck.com/859844323c7f268c.jpg",
   },
   {
@@ -260,7 +260,7 @@ const list = [
     model: "DZ15LE-40/3902 40A 30mA",
     price: "303.00",
     showPrice: "113.17",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 40A",
     url: "https://images.toastduck.com/a7314d063a56eba6.jpg",
   },
   {
@@ -268,7 +268,7 @@ const list = [
     model: "DZ15LE-40/3902 32A 50mA",
     price: "290.00",
     showPrice: "108.31",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 32A",
     url: "https://images.toastduck.com/a7314d063a56eba6.jpg",
   },
   {
@@ -276,7 +276,7 @@ const list = [
     model: "DZ15LE-40/3902 32A 30mATransparent",
     price: "269.00",
     showPrice: "100.47",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 32A",
     url: "https://images.toastduck.com/fa38f55e681d0b95.jpg",
   },
   {
@@ -284,7 +284,7 @@ const list = [
     model: "DZ15LE-40/3902 32A 30mA",
     price: "303.00",
     showPrice: "113.17",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 32A",
     url: "https://images.toastduck.com/ff3429636acfb1bd.jpg",
   },
   {
@@ -292,7 +292,7 @@ const list = [
     model: "DZ15LE-40/3902 20A 50mA",
     price: "290.00",
     showPrice: "108.31",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 20A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 20A",
     url: "https://images.toastduck.com/ff3429636acfb1bd.jpg",
   },
   {
@@ -300,7 +300,7 @@ const list = [
     model: "DZ15LE-40/3902 20A 30mA",
     price: "303.00",
     showPrice: "113.17",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 20A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 20A",
     url: "https://images.toastduck.com/ff3429636acfb1bd.jpg",
   },
   {
@@ -308,7 +308,7 @@ const list = [
     model: "DZ15LE-40/3901 40A 50mA",
     price: "290.00",
     showPrice: "108.31",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 40A",
     url: "https://images.toastduck.com/a7314d063a56eba6.jpg",
   },
   {
@@ -316,7 +316,7 @@ const list = [
     model: "DZ15LE-40/3901 40A 30mATransparent",
     price: "269.00",
     showPrice: "100.47",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 40A",
     url: "https://images.toastduck.com/eab48dc9ed8ab516.jpg",
   },
   {
@@ -324,7 +324,7 @@ const list = [
     model: "DZ15LE-40/3901 40A 30mA",
     price: "303.00",
     showPrice: "113.17",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 40A",
     url: "https://images.toastduck.com/a7314d063a56eba6.jpg",
   },
   {
@@ -332,7 +332,7 @@ const list = [
     model: "DZ15LE-40/2901 40A 75mA",
     price: "184.00",
     showPrice: "68.72",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 40A",
     url: "https://images.toastduck.com/a7e5a48350608e42.jpg",
   },
   {
@@ -340,7 +340,7 @@ const list = [
     model: "DZ15LE-40/2901 40A 50mATransparent",
     price: "169.00",
     showPrice: "63.12",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 40A",
     url: "https://images.toastduck.com/bf4bee8e9938acd5.jpg",
   },
   {
@@ -348,7 +348,7 @@ const list = [
     model: "DZ15LE-40/2901 40A 50mA",
     price: "184.00",
     showPrice: "68.72",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 40A",
     url: "https://images.toastduck.com/782a8bbc7b74cb0e.jpg",
   },
   {
@@ -356,7 +356,7 @@ const list = [
     model: "DZ15LE-40/2901 40A 30mATransparent",
     price: "181.00",
     showPrice: "67.60",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 40A",
     url: "https://images.toastduck.com/e04f4d9e9956a76f.jpg",
   },
   {
@@ -364,7 +364,7 @@ const list = [
     model: "DZ15LE-40/2901 40A 30mA",
     price: "203.00",
     showPrice: "75.82",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 40A",
     url: "https://images.toastduck.com/782a8bbc7b74cb0e.jpg",
   },
   {
@@ -372,7 +372,7 @@ const list = [
     model: "DZ15LE-40/2901 32A 50mA",
     price: "184.00",
     showPrice: "68.72",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 32A",
     url: "https://images.toastduck.com/a7e5a48350608e42.jpg",
   },
   {
@@ -380,7 +380,7 @@ const list = [
     model: "DZ15LE-40/2901 32A 30mATransparent",
     price: "181.00",
     showPrice: "67.60",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 32A",
     url: "https://images.toastduck.com/bf4bee8e9938acd5.jpg",
   },
   {
@@ -388,7 +388,7 @@ const list = [
     model: "DZ15LE-40/2901 32A 30mA",
     price: "203.00",
     showPrice: "75.82",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 32A",
     url: "https://images.toastduck.com/a7e5a48350608e42.jpg",
   },
   {
@@ -396,7 +396,7 @@ const list = [
     model: "DZ15LE-40/2901 20A 30mATransparent",
     price: "181.00",
     showPrice: "67.60",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 20A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 20A",
     url: "https://images.toastduck.com/bf4bee8e9938acd5.jpg",
   },
   {
@@ -404,7 +404,7 @@ const list = [
     model: "DZ15LE-40/2901 20A 30mA",
     price: "203.00",
     showPrice: "75.82",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 20A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 20A",
     url: "https://images.toastduck.com/a7e5a48350608e42.jpg",
   },
   {
@@ -412,7 +412,7 @@ const list = [
     model: "DZ15LE-100/4901 63A 75mA",
     price: "415.00",
     showPrice: "155.00",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 63A",
     url: "https://images.toastduck.com/bf2d99d38e6b55e6.jpg",
   },
   {
@@ -420,7 +420,7 @@ const list = [
     model: "DZ15LE-100/4901 63A 50mATransparent",
     price: "376.00",
     showPrice: "140.43",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 63A",
     url: "https://images.toastduck.com/f8892f6542ebe023.jpg",
   },
   {
@@ -428,7 +428,7 @@ const list = [
     model: "DZ15LE-100/4901 63A 50mA",
     price: "415.00",
     showPrice: "155.00",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 63A",
     url: "https://images.toastduck.com/bf2d99d38e6b55e6.jpg",
   },
   {
@@ -436,7 +436,7 @@ const list = [
     model: "DZ15LE-100/4901 63A 30mATransparent",
     price: "386.00",
     showPrice: "144.17",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 63A",
     url: "https://images.toastduck.com/f8892f6542ebe023.jpg",
   },
   {
@@ -444,7 +444,7 @@ const list = [
     model: "DZ15LE-100/4901 63A 30mA",
     price: "431.00",
     showPrice: "160.98",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 63A",
     url: "https://images.toastduck.com/bf2d99d38e6b55e6.jpg",
   },
   {
@@ -452,7 +452,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 75mATransparent",
     price: "376.00",
     showPrice: "140.43",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 100A",
     url: "https://images.toastduck.com/f8892f6542ebe023.jpg",
   },
   {
@@ -460,7 +460,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 30mATransparent",
     price: "386.00",
     showPrice: "144.17",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 100A",
     url: "https://images.toastduck.com/0711320320e4f576.jpg",
   },
   {
@@ -468,7 +468,7 @@ const list = [
     model: "DZ15LE-100/3902 63A 75mA",
     price: "355.00",
     showPrice: "132.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 63A",
     url: "https://images.toastduck.com/ff3429636acfb1bd.jpg",
   },
   {
@@ -476,7 +476,7 @@ const list = [
     model: "DZ15LE-100/3902 63A 50mA",
     price: "355.00",
     showPrice: "132.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 63A",
     url: "https://images.toastduck.com/5aa5201962ffc924.jpg",
   },
   {
@@ -484,7 +484,7 @@ const list = [
     model: "DZ15LE-100/3902 63A 30mATransparent",
     price: "334.00",
     showPrice: "124.75",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 63A",
     url: "https://images.toastduck.com/ec838ac03b166d0d.jpg",
   },
   {
@@ -492,7 +492,7 @@ const list = [
     model: "DZ15LE-100/3902 63A 30mA",
     price: "375.00",
     showPrice: "140.06",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 63A",
     url: "https://images.toastduck.com/5aa5201962ffc924.jpg",
   },
   {
@@ -500,7 +500,7 @@ const list = [
     model: "DZ15LE-100/3902 100A 75mA",
     price: "355.00",
     showPrice: "132.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 100A",
     url: "https://images.toastduck.com/5aa5201962ffc924.jpg",
   },
   {
@@ -508,7 +508,7 @@ const list = [
     model: "DZ15LE-100/3902 100A 30mATransparent",
     price: "334.00",
     showPrice: "124.75",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 100A",
     url: "https://images.toastduck.com/859844323c7f268c.jpg",
   },
   {
@@ -516,7 +516,7 @@ const list = [
     model: "DZ15LE-100/3902 100A 30mA",
     price: "375.00",
     showPrice: "140.06",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 100A",
     url: "https://images.toastduck.com/6c00fd8876962453.jpg",
   },
   {
@@ -524,7 +524,7 @@ const list = [
     model: "DZ15LE-100/2901 63A 75mA",
     price: "233.00",
     showPrice: "87.02",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 63A",
     url: "https://images.toastduck.com/7f9f37498b4b605f.jpg",
   },
   {
@@ -532,7 +532,7 @@ const list = [
     model: "DZ15LE-100/2901 63A 50mA",
     price: "233.00",
     showPrice: "87.02",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 63A",
     url: "https://images.toastduck.com/7f9f37498b4b605f.jpg",
   },
   {
@@ -540,7 +540,7 @@ const list = [
     model: "DZ15LE-100/2901 63A 30mATransparent",
     price: "220.00",
     showPrice: "82.17",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 63A",
     url: "https://images.toastduck.com/e04f4d9e9956a76f.jpg",
   },
   {
@@ -548,7 +548,7 @@ const list = [
     model: "DZ15LE-100/2901 63A 30mA",
     price: "246.00",
     showPrice: "91.88",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 63A",
     url: "https://images.toastduck.com/7f9f37498b4b605f.jpg",
   },
   {
@@ -556,7 +556,7 @@ const list = [
     model: "DZ15LE-100/2901 100A 75mA",
     price: "233.00",
     showPrice: "87.02",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 100A",
     url: "https://images.toastduck.com/7f9f37498b4b605f.jpg",
   },
   {
@@ -564,7 +564,7 @@ const list = [
     model: "DZ15LE-100/2901 100A 50mATransparent",
     price: "204.00",
     showPrice: "76.19",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 100A",
     url: "https://images.toastduck.com/e04f4d9e9956a76f.jpg",
   },
   {
@@ -572,7 +572,7 @@ const list = [
     model: "DZ15LE-100/2901 100A 50mA",
     price: "233.00",
     showPrice: "87.02",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 100A",
     url: "https://images.toastduck.com/7f9f37498b4b605f.jpg",
   },
   {
@@ -580,7 +580,7 @@ const list = [
     model: "DZ15LE-100/2901 100A 30mATransparent",
     price: "220.00",
     showPrice: "82.17",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 100A",
     url: "https://images.toastduck.com/d83893d1d4eeecbf.jpg",
   },
   {
@@ -588,7 +588,7 @@ const list = [
     model: "DZ15LE-100/2901 100A 30mA",
     price: "246.00",
     showPrice: "91.88",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 100A",
     url: "https://images.toastduck.com/7f9f37498b4b605f.jpg",
   },
   {
@@ -596,7 +596,7 @@ const list = [
     model: "DZ15LE-100/3N901T 100A 30mA",
     price: "386.00",
     showPrice: "148.48",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -604,7 +604,7 @@ const list = [
     model: "DZ15LE-40/2901T 32A 30mA",
     price: "181.00",
     showPrice: "69.64",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 40A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 40A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f5ee43.jpg",
   },
   {
@@ -612,7 +612,7 @@ const list = [
     model: "DZ15LE-100/3901T 100A 30mA",
     price: "334.00",
     showPrice: "128.48",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -620,7 +620,7 @@ const list = [
     model: "DZ15LE-40/2901T 40A 30mA",
     price: "181.00",
     showPrice: "69.64",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 40A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 40A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f5ee43.jpg",
   },
   {
@@ -628,7 +628,7 @@ const list = [
     model: "DZ15LE-40/3N901T 40A 30mA",
     price: "284.00",
     showPrice: "109.24",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 40A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 40A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f5ee43.jpg",
   },
   {
@@ -636,7 +636,7 @@ const list = [
     model: "DZ15LE-40/3901T 40A 30mA",
     price: "269.00",
     showPrice: "103.48",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 40A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 40A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f5ee43.jpg",
   },
   {
@@ -644,7 +644,7 @@ const list = [
     model: "DZ15LE-100/3901 100A 30mA",
     price: "375.00",
     showPrice: "144.25",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -652,7 +652,7 @@ const list = [
     model: "DZ15LE-100/2901 100A 30mA",
     price: "246.00",
     showPrice: "94.63",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -660,7 +660,7 @@ const list = [
     model: "DZ15LE-100/3N901 100A 30mA",
     price: "431.00",
     showPrice: "165.80",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -668,7 +668,7 @@ const list = [
     model: "DZ15LE-40/2901 40A 30mA",
     price: "203.00",
     showPrice: "78.10",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 40A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 40A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f5ee43.jpg",
   },
   {
@@ -676,7 +676,7 @@ const list = [
     model: "DZ15LE-40/3N901 40A 30mA",
     price: "316.00",
     showPrice: "121.55",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 40A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 40A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f5ee43.jpg",
   },
   {
@@ -684,7 +684,7 @@ const list = [
     model: "DZ15LE-100/2901 100A 75mA instantaneous<0.1",
     price: "232.99",
     showPrice: "80.01",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 100A",
     url: "https://images.toastduck.com/9604261fb0b5219f.jpg",
   },
   {
@@ -692,7 +692,7 @@ const list = [
     model: "DZ15LE-40/2901 40A 75mA instantaneous<0.1",
     price: "184.00",
     showPrice: "63.18",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 40A",
     url: "https://images.toastduck.com/d68caeced79851c5.jpg",
   },
   {
@@ -700,7 +700,7 @@ const list = [
     model: "DZ15LE-40/2901 40A 50mA instantaneous<0.1",
     price: "184.00",
     showPrice: "63.18",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 40A",
     url: "https://images.toastduck.com/3844d872beb747d8.jpg",
   },
   {
@@ -708,7 +708,7 @@ const list = [
     model: "DZ15LE-100/2901 63A 50mA instantaneous<0.1",
     price: "232.99",
     showPrice: "80.01",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 63A",
     url: "https://images.toastduck.com/b3456d30d094e0b9.jpg",
   },
   {
@@ -716,7 +716,7 @@ const list = [
     model: "DZ15LE-100/3901 63A 50mA instantaneous<0.1",
     price: "355.00",
     showPrice: "121.90",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 63A",
     url: "https://images.toastduck.com/5ea0d1e76217dedd.jpg",
   },
   {
@@ -724,7 +724,7 @@ const list = [
     model: "DZ15LE-100/3901 63A 75mA instantaneous<0.1",
     price: "355.00",
     showPrice: "121.90",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 63A",
     url: "https://images.toastduck.com/d68caeced79851c5.jpg",
   },
   {
@@ -732,7 +732,7 @@ const list = [
     model: "DZ15LE-100/3901 63A 30mA instantaneous<0.1",
     price: "375.00",
     showPrice: "128.77",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 63A",
     url: "https://images.toastduck.com/d68caeced79851c5.jpg",
   },
   {
@@ -740,7 +740,7 @@ const list = [
     model: "DZ15LE-100/3901 100A 30mA instantaneous<0.1",
     price: "375.00",
     showPrice: "128.77",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 100A",
     url: "https://images.toastduck.com/d68caeced79851c5.jpg",
   },
   {
@@ -748,7 +748,7 @@ const list = [
     model: "DZ15LE-100/3901 100A 50mA",
     price: "355.00",
     showPrice: "136.57",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -756,7 +756,7 @@ const list = [
     model: "DZ15LE-100/2901 100A 50mA",
     price: "233.00",
     showPrice: "89.64",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -764,7 +764,7 @@ const list = [
     model: "DZ15LE-100/3N901 100A 50mA",
     price: "415.00",
     showPrice: "159.65",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -772,7 +772,7 @@ const list = [
     model: "DZ15LE-100/2901T 100A 50mA",
     price: "204.00",
     showPrice: "78.47",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -780,7 +780,7 @@ const list = [
     model: "DZ15LE-100/3N901T 100A 50mA",
     price: "376.00",
     showPrice: "144.64",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -788,7 +788,7 @@ const list = [
     model: "DZ15LE-100/3901 100A 75mA",
     price: "355.00",
     showPrice: "132.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 100A",
     url: "https://images.toastduck.com/8b1fbb4768dedeea.jpg",
   },
   {
@@ -796,7 +796,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 100mATransparent",
     price: "376.00",
     showPrice: "140.43",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100mA | Rated current: 100A",
     url: "https://images.toastduck.com/849f7b1e24fb75ef.jpg",
   },
   {
@@ -804,7 +804,7 @@ const list = [
     model: "DZ15LE-100/4901 63A 75mATransparent",
     price: "376.00",
     showPrice: "140.43",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 63A",
     url: "https://images.toastduck.com/58be955342365296.jpg",
   },
   {
@@ -812,7 +812,7 @@ const list = [
     model: "DZ15LE-100/3902 63A 50mATransparent",
     price: "315.00",
     showPrice: "117.65",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 63A",
     url: "https://images.toastduck.com/0a76cabccf5ff556.jpg",
   },
   {
@@ -820,7 +820,7 @@ const list = [
     model: "DZ15LE-100/3901 100A 75mATransparent",
     price: "315.00",
     showPrice: "117.65",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 100A",
     url: "https://images.toastduck.com/0a76cabccf5ff556.jpg",
   },
   {
@@ -828,7 +828,7 @@ const list = [
     model: "DZ15LE-40/4901 40A 75mATransparent",
     price: "278.00",
     showPrice: "103.83",
-    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 4P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 40A",
     url: "https://images.toastduck.com/58be955342365296.jpg",
   },
   {
@@ -836,7 +836,7 @@ const list = [
     model: "DZ15LE-40/3901 40A 50mATransparent",
     price: "258.00",
     showPrice: "96.36",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 40A",
     url: "https://images.toastduck.com/0a76cabccf5ff556.jpg",
   },
   {
@@ -844,7 +844,7 @@ const list = [
     model: "DZ15LE-100/3901 63A 50mA",
     price: "355.00",
     showPrice: "132.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 63A",
     url: "https://images.toastduck.com/007a01!450450.jpg",
   },
   {
@@ -852,7 +852,7 @@ const list = [
     model: "DZ15LE-40/3N901T 40A 50mA",
     price: "278.00",
     showPrice: "106.94",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 40A | Residual operating current: 50mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 40A | Residual operating current: 50mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f5ee43.jpg",
   },
   {
@@ -860,7 +860,7 @@ const list = [
     model: "DZ15LE-100/2901 100A 75mA",
     price: "233.00",
     showPrice: "89.64",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 75mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 75mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -868,7 +868,7 @@ const list = [
     model: "DZ15LE-100/2901 63A 30mA",
     price: "246.00",
     showPrice: "94.63",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -876,7 +876,7 @@ const list = [
     model: "DZ15LE-100/2901 63A 50mA",
     price: "233.00",
     showPrice: "89.64",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -884,7 +884,7 @@ const list = [
     model: "DZ15LE-100/2901T 63A 30mA",
     price: "220.00",
     showPrice: "84.63",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -892,7 +892,7 @@ const list = [
     model: "DZ15LE-100/3901 100A 75mA",
     price: "355.00",
     showPrice: "136.57",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 75mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 75mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -900,7 +900,7 @@ const list = [
     model: "DZ15LE-100/3901T 63A 30mA",
     price: "334.00",
     showPrice: "128.48",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -908,7 +908,7 @@ const list = [
     model: "DZ15LE-100/3N901 63A 30mA",
     price: "431.00",
     showPrice: "165.80",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -916,7 +916,7 @@ const list = [
     model: "DZ15LE-100/3N901 63A 50mA",
     price: "415.00",
     showPrice: "159.65",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -924,7 +924,7 @@ const list = [
     model: "DZ15LE-100/3N901T 100A 100mA",
     price: "376.00",
     showPrice: "144.64",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 100mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 100mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -932,7 +932,7 @@ const list = [
     model: "DZ15LE-100/3N901T 100A 100mA 0.2s",
     price: "376.00",
     showPrice: "144.64",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 100mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 100mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -940,7 +940,7 @@ const list = [
     model: "DZ15LE-100/3N901T 100A 75mA",
     price: "376.00",
     showPrice: "144.64",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 75mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 75mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -948,7 +948,7 @@ const list = [
     model: "DZ15LE-100/3N901T 100A 75mA 0.2s",
     price: "376.00",
     showPrice: "144.64",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 75mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 75mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -956,7 +956,7 @@ const list = [
     model: "DZ15LE-100/3N901T 63A 30mA",
     price: "386.00",
     showPrice: "148.48",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -964,7 +964,7 @@ const list = [
     model: "DZ15LE-100/3N901T 63A 50mA",
     price: "376.00",
     showPrice: "144.64",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -972,7 +972,7 @@ const list = [
     model: "DZ15LE-40/2901 40A 50mA",
     price: "184.00",
     showPrice: "70.78",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 40A | Residual operating current: 50mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 40A | Residual operating current: 50mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f5ee43.jpg",
   },
   {
@@ -980,7 +980,7 @@ const list = [
     model: "DZ15LE-40/2901T 40A 50mA",
     price: "169.00",
     showPrice: "65.01",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 40A | Residual operating current: 50mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 40A | Residual operating current: 50mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f5ee43.jpg",
   },
   {
@@ -988,7 +988,7 @@ const list = [
     model: "DZ15LE-40/3N901 40A 50mA",
     price: "306.00",
     showPrice: "117.71",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 40A | Residual operating current: 50mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 40A | Residual operating current: 50mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f5ee43.jpg",
   },
   {
@@ -996,7 +996,7 @@ const list = [
     model: "DZ15LE-100/3901 100A 75mA instantaneous<0.1",
     price: "355.00",
     showPrice: "121.90",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 100A",
     url: "https://images.toastduck.com/7cd40c8dcf6b0ff8.jpg",
   },
   {
@@ -1004,7 +1004,7 @@ const list = [
     model: "DZ15LE-40/4901 40A 30mA instantaneous<0.1",
     price: "316.00",
     showPrice: "108.52",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 40A",
     url: "https://images.toastduck.com/ab686ee1be8af644.jpg",
   },
   {
@@ -1012,7 +1012,7 @@ const list = [
     model: "DZ15LE-100/2901 100A 100mA instantaneous<0.1",
     price: "232.99",
     showPrice: "80.01",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100mA | Rated current: 100A",
     url: "https://images.toastduck.com/82dd61b4cdaf98c5.jpg",
   },
   {
@@ -1020,7 +1020,7 @@ const list = [
     model: "DZ15LE-100/3902 100A 50mA instantaneous<0.1",
     price: "355.00",
     showPrice: "121.90",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 100A",
     url: "https://images.toastduck.com/d68caeced79851c5.jpg",
   },
   {
@@ -1028,7 +1028,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 100mA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100mA | Rated current: 100A",
     url: "https://images.toastduck.com/ab686ee1be8af644.jpg",
   },
   {
@@ -1036,7 +1036,7 @@ const list = [
     model: "DZ15LE-40/2901 40A 100mA instantaneous<0.1",
     price: "184.00",
     showPrice: "63.18",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100mA | Rated current: 40A",
     url: "https://images.toastduck.com/68110c9bfcff509a.jpg",
   },
   {
@@ -1044,7 +1044,7 @@ const list = [
     model: "DZ15LE-40/2901 25A 50mA instantaneous<0.1",
     price: "184.00",
     showPrice: "63.18",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 25A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 25A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1052,7 +1052,7 @@ const list = [
     model: "DZ15LE-40/2901 16A 50mA instantaneous<0.1",
     price: "184.00",
     showPrice: "63.18",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 16A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 16A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1060,7 +1060,7 @@ const list = [
     model: "DZ15LE-40/2901 10A 50mA instantaneous<0.1",
     price: "184.00",
     showPrice: "63.18",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 10A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 10A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1068,7 +1068,7 @@ const list = [
     model: "DZ15LE-40/2901 20A 50mA instantaneous<0.1",
     price: "184.00",
     showPrice: "63.18",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 20A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 20A",
     url: "https://images.toastduck.com/82dd61b4cdaf98c5.jpg",
   },
   {
@@ -1076,7 +1076,7 @@ const list = [
     model: "DZ15LE-40/2901 25A 30mA instantaneous<0.1",
     price: "203.00",
     showPrice: "69.71",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 25A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 25A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1084,7 +1084,7 @@ const list = [
     model: "DZ15LE-40/2901 16A 30mA instantaneous<0.1",
     price: "203.00",
     showPrice: "69.71",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 16A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 16A",
     url: "https://images.toastduck.com/68110c9bfcff509a.jpg",
   },
   {
@@ -1092,7 +1092,7 @@ const list = [
     model: "DZ15LE-100/2901 80A 75mA instantaneous<0.1",
     price: "232.99",
     showPrice: "80.01",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 80A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 80A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1100,7 +1100,7 @@ const list = [
     model: "DZ15LE-100/2901 50A 50mA instantaneous<0.1",
     price: "232.99",
     showPrice: "80.01",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 50A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 50A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1108,7 +1108,7 @@ const list = [
     model: "DZ15LE-100/2901 100A 300mA instantaneous<0.1",
     price: "232.99",
     showPrice: "80.01",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300mA | Rated current: 100A",
     url: "https://images.toastduck.com/68110c9bfcff509a.jpg",
   },
   {
@@ -1116,7 +1116,7 @@ const list = [
     model: "DZ15LE-100/2901 50A 30mA instantaneous<0.1",
     price: "246.00",
     showPrice: "84.48",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 50A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 50A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1124,7 +1124,7 @@ const list = [
     model: "DZ15LE-40/3901 40A 100mA instantaneous<0.1",
     price: "290.00",
     showPrice: "99.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100mA | Rated current: 40A",
     url: "https://images.toastduck.com/82dd61b4cdaf98c5.jpg",
   },
   {
@@ -1132,7 +1132,7 @@ const list = [
     model: "DZ15LE-40/3901 25A 50mA instantaneous<0.1",
     price: "290.00",
     showPrice: "99.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 25A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 25A",
     url: "https://images.toastduck.com/82dd61b4cdaf98c5.jpg",
   },
   {
@@ -1140,7 +1140,7 @@ const list = [
     model: "DZ15LE-40/3901 10A 50mA instantaneous<0.1",
     price: "290.00",
     showPrice: "99.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 10A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 10A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1148,7 +1148,7 @@ const list = [
     model: "DZ15LE-40/3902 40A 50mA instantaneous<0.1",
     price: "290.00",
     showPrice: "99.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 40A",
     url: "https://images.toastduck.com/d68caeced79851c5.jpg",
   },
   {
@@ -1156,7 +1156,7 @@ const list = [
     model: "DZ15LE-40/3901 20A 50mA instantaneous<0.1",
     price: "290.00",
     showPrice: "99.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 20A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 20A",
     url: "https://images.toastduck.com/82dd61b4cdaf98c5.jpg",
   },
   {
@@ -1164,7 +1164,7 @@ const list = [
     model: "DZ15LE-40/3902 25A 30mA instantaneous<0.1",
     price: "303.00",
     showPrice: "104.05",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 25A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 25A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1172,7 +1172,7 @@ const list = [
     model: "DZ15LE-40/3901 25A 30mA instantaneous<0.1",
     price: "303.00",
     showPrice: "104.05",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 25A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 25A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1180,7 +1180,7 @@ const list = [
     model: "DZ15LE-40/3901 16A 30mA instantaneous<0.1",
     price: "303.00",
     showPrice: "104.05",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 16A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 16A",
     url: "https://images.toastduck.com/80466acfd4faa073.jpg",
   },
   {
@@ -1188,7 +1188,7 @@ const list = [
     model: "DZ15LE-40/3901 10A 30mA instantaneous<0.1",
     price: "303.00",
     showPrice: "104.05",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 10A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 10A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1196,7 +1196,7 @@ const list = [
     model: "DZ15LE-40/3902 40A 30mA instantaneous<0.1",
     price: "303.00",
     showPrice: "104.05",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 40A",
     url: "https://images.toastduck.com/9f96cb9a52bcced4.jpg",
   },
   {
@@ -1204,7 +1204,7 @@ const list = [
     model: "DZ15LE-40/3902 32A 30mA instantaneous<0.1",
     price: "303.00",
     showPrice: "104.05",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 32A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1212,7 +1212,7 @@ const list = [
     model: "DZ15LE-40/3902 20A 30mA instantaneous<0.1",
     price: "303.00",
     showPrice: "104.05",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 20A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 20A",
     url: "https://images.toastduck.com/56fe23ad74bdd4cf.jpg",
   },
   {
@@ -1220,7 +1220,7 @@ const list = [
     model: "DZ15LE-40/4901 32A 50mA instantaneous<0.1",
     price: "306.00",
     showPrice: "105.08",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 32A",
     url: "https://images.toastduck.com/ab686ee1be8af644.jpg",
   },
   {
@@ -1228,7 +1228,7 @@ const list = [
     model: "DZ15LE-40/4901 32A 75mA instantaneous<0.1",
     price: "306.00",
     showPrice: "105.08",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 32A",
     url: "https://images.toastduck.com/4fa324b5cec1f46a.jpg",
   },
   {
@@ -1236,7 +1236,7 @@ const list = [
     model: "DZ15LE-40/4901 20A 50mA instantaneous<0.1",
     price: "306.00",
     showPrice: "105.08",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 20A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 20A",
     url: "https://images.toastduck.com/82dd61b4cdaf98c5.jpg",
   },
   {
@@ -1244,7 +1244,7 @@ const list = [
     model: "DZ15LE-40/4901 40A 100mA instantaneous<0.1",
     price: "306.00",
     showPrice: "105.08",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100mA | Rated current: 40A",
     url: "https://images.toastduck.com/ab686ee1be8af644.jpg",
   },
   {
@@ -1252,7 +1252,7 @@ const list = [
     model: "DZ15LE-40/4901 25A 100mA instantaneous<0.1",
     price: "306.00",
     showPrice: "105.08",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100mA | Rated current: 25A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100mA | Rated current: 25A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1260,7 +1260,7 @@ const list = [
     model: "DZ15LE-40/4901 16A 50mA instantaneous<0.1",
     price: "306.00",
     showPrice: "105.08",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 16A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 16A",
     url: "https://images.toastduck.com/6fb09deff0422cb9.jpg",
   },
   {
@@ -1268,7 +1268,7 @@ const list = [
     model: "DZ15LE-40/4901 20A 30mA instantaneous<0.1",
     price: "316.00",
     showPrice: "108.52",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 20A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 20A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1276,7 +1276,7 @@ const list = [
     model: "DZ15LE-40/4901 25A 30mA instantaneous<0.1",
     price: "316.00",
     showPrice: "108.52",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 25A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 25A",
     url: "https://images.toastduck.com/b8d18d0cb0f4beb0.jpg",
   },
   {
@@ -1284,7 +1284,7 @@ const list = [
     model: "DZ15LE-40/4901 16A 30mA instantaneous<0.1",
     price: "316.00",
     showPrice: "108.52",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 16A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 16A",
     url: "https://images.toastduck.com/82dd61b4cdaf98c5.jpg",
   },
   {
@@ -1292,7 +1292,7 @@ const list = [
     model: "DZ15LE-40/4901 10A 30mA instantaneous<0.1",
     price: "316.00",
     showPrice: "108.52",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 10A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 10A",
     url: "https://images.toastduck.com/5052d49ac9772bdf.jpg",
   },
   {
@@ -1300,7 +1300,7 @@ const list = [
     model: "DZ15LE-100/3901 80A 75mA instantaneous<0.1",
     price: "355.00",
     showPrice: "121.90",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 80A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 80A",
     url: "https://images.toastduck.com/d68caeced79851c5.jpg",
   },
   {
@@ -1308,7 +1308,7 @@ const list = [
     model: "DZ15LE-100/3901 80A 30mA instantaneous<0.1",
     price: "375.00",
     showPrice: "128.77",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 80A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 80A",
     url: "https://images.toastduck.com/38b30c75ab726629.jpg",
   },
   {
@@ -1316,7 +1316,7 @@ const list = [
     model: "DZ15LE-100/3902 63A 50mA instantaneous<0.1",
     price: "355.00",
     showPrice: "121.90",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 63A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1324,7 +1324,7 @@ const list = [
     model: "DZ15LE-100/3902 63A 75mA instantaneous<0.1",
     price: "355.00",
     showPrice: "121.90",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 63A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1332,7 +1332,7 @@ const list = [
     model: "DZ15LE-100/3902 100A 75mA instantaneous<0.1",
     price: "355.00",
     showPrice: "121.90",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 100A",
     url: "https://images.toastduck.com/b06647bd85cbe8da.jpg",
   },
   {
@@ -1340,7 +1340,7 @@ const list = [
     model: "DZ15LE-100/3901 63A 100mA instantaneous<0.1",
     price: "355.00",
     showPrice: "121.90",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100mA | Rated current: 63A",
     url: "https://images.toastduck.com/d68caeced79851c5.jpg",
   },
   {
@@ -1348,7 +1348,7 @@ const list = [
     model: "DZ15LE-100/3901 50A 50mA instantaneous<0.1",
     price: "355.00",
     showPrice: "121.90",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 50A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 50A",
     url: "https://images.toastduck.com/d68caeced79851c5.jpg",
   },
   {
@@ -1356,7 +1356,7 @@ const list = [
     model: "DZ15LE-100/3901 100A 100mA instantaneous<0.1",
     price: "355.00",
     showPrice: "121.90",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100mA | Rated current: 100A",
     url: "https://images.toastduck.com/d68caeced79851c5.jpg",
   },
   {
@@ -1364,7 +1364,7 @@ const list = [
     model: "DZ15LE-100/3902 63A 30mA instantaneous<0.1",
     price: "375.00",
     showPrice: "128.77",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 63A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1372,7 +1372,7 @@ const list = [
     model: "DZ15LE-100/3902 100A 30mA instantaneous<0.1",
     price: "375.00",
     showPrice: "128.77",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 100A",
     url: "https://images.toastduck.com/d68caeced79851c5.jpg",
   },
   {
@@ -1380,7 +1380,7 @@ const list = [
     model: "DZ15LE-100/4901 80A 50mA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 80A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 80A",
     url: "https://images.toastduck.com/ab686ee1be8af644.jpg",
   },
   {
@@ -1388,7 +1388,7 @@ const list = [
     model: "DZ15LE-100/4901 80A 75mA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 80A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 80A",
     url: "https://images.toastduck.com/ab686ee1be8af644.jpg",
   },
   {
@@ -1396,7 +1396,7 @@ const list = [
     model: "DZ15LE-100/4901 80A 30mA instantaneous<0.1",
     price: "431.00",
     showPrice: "148.00",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 80A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 80A",
     url: "https://images.toastduck.com/099c85151b2ad25d.jpg",
   },
   {
@@ -1404,7 +1404,7 @@ const list = [
     model: "DZ15LE-100/4901 63A 100mA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100mA | Rated current: 63A",
     url: "https://images.toastduck.com/ab686ee1be8af644.jpg",
   },
   {
@@ -1412,7 +1412,7 @@ const list = [
     model: "DZ15LE-100/4901 63A 300mA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300mA | Rated current: 63A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1420,7 +1420,7 @@ const list = [
     model: "DZ15LE-100/4901 50A 50mA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 50A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 50A",
     url: "https://images.toastduck.com/b2ee49086355ebcb.jpg",
   },
   {
@@ -1428,7 +1428,7 @@ const list = [
     model: "DZ15LE-100/4901 50A 75mA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 50A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 50A",
     url: "https://images.toastduck.com/b679ccf1a300c3d6.jpg",
   },
   {
@@ -1436,7 +1436,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 200mA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 200mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 200mA | Rated current: 100A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1444,7 +1444,7 @@ const list = [
     model: "DZ15LE-100/2901 63A 75mA instantaneous<0.1",
     price: "232.99",
     showPrice: "80.01",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 63A",
     url: "https://images.toastduck.com/68110c9bfcff509a.jpg",
   },
   {
@@ -1452,7 +1452,7 @@ const list = [
     model: "DZ15LE-40/3901 40A 30mA instantaneous<0.1",
     price: "303.00",
     showPrice: "104.05",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 40A",
     url: "https://images.toastduck.com/82dd61b4cdaf98c5.jpg",
   },
   {
@@ -1460,7 +1460,7 @@ const list = [
     model: "DZ15LE-100/4901 63A 75mA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 63A",
     url: "https://images.toastduck.com/ab686ee1be8af644.jpg",
   },
   {
@@ -1468,7 +1468,7 @@ const list = [
     model: "DZ15LE-40/2901 32A 50mA instantaneous<0.1",
     price: "184.00",
     showPrice: "63.18",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 32A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1476,7 +1476,7 @@ const list = [
     model: "DZ15LE-40/2901 32A 75mA instantaneous<0.1",
     price: "184.00",
     showPrice: "63.18",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 32A",
     url: "https://images.toastduck.com/82dd61b4cdaf98c5.jpg",
   },
   {
@@ -1484,7 +1484,7 @@ const list = [
     model: "DZ15LE-40/2901 40A 30mA instantaneous<0.1",
     price: "203.00",
     showPrice: "69.71",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 40A",
     url: "https://images.toastduck.com/68110c9bfcff509a.jpg",
   },
   {
@@ -1492,7 +1492,7 @@ const list = [
     model: "DZ15LE-40/2901 32A 30mA instantaneous<0.1",
     price: "203.00",
     showPrice: "69.71",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 32A",
     url: "https://images.toastduck.com/82dd61b4cdaf98c5.jpg",
   },
   {
@@ -1500,7 +1500,7 @@ const list = [
     model: "DZ15LE-40/2901 20A 30mA instantaneous<0.1",
     price: "203.00",
     showPrice: "69.71",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 20A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 20A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1508,7 +1508,7 @@ const list = [
     model: "DZ15LE-100/2901 63A 30mA instantaneous<0.1",
     price: "246.00",
     showPrice: "84.48",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 63A",
     url: "https://images.toastduck.com/68110c9bfcff509a.jpg",
   },
   {
@@ -1516,7 +1516,7 @@ const list = [
     model: "DZ15LE-100/2901 100A 30mA instantaneous<0.1",
     price: "246.00",
     showPrice: "84.48",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 100A",
     url: "https://images.toastduck.com/68110c9bfcff509a.jpg",
   },
   {
@@ -1524,7 +1524,7 @@ const list = [
     model: "DZ15LE-40/3901 40A 75mA instantaneous<0.1",
     price: "290.00",
     showPrice: "99.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 40A",
     url: "https://images.toastduck.com/d68caeced79851c5.jpg",
   },
   {
@@ -1532,7 +1532,7 @@ const list = [
     model: "DZ15LE-40/3901 32A 50mA instantaneous<0.1",
     price: "290.00",
     showPrice: "99.59",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 32A",
     url: "https://images.toastduck.com/d68caeced79851c5.jpg",
   },
   {
@@ -1540,7 +1540,7 @@ const list = [
     model: "DZ15LE-40/3901 32A 30mA instantaneous<0.1",
     price: "303.00",
     showPrice: "104.05",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 32A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1548,7 +1548,7 @@ const list = [
     model: "DZ15LE-40/3901 20A 30mA instantaneous<0.1",
     price: "303.00",
     showPrice: "104.05",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 20A",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 20A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1556,7 +1556,7 @@ const list = [
     model: "DZ15LE-40/4901 40A 75mA instantaneous<0.1",
     price: "306.00",
     showPrice: "105.08",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 40A",
     url: "https://images.toastduck.com/ab686ee1be8af644.jpg",
   },
   {
@@ -1564,7 +1564,7 @@ const list = [
     model: "DZ15LE-40/4901 32A 30mA instantaneous<0.1",
     price: "316.00",
     showPrice: "108.52",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 32A",
     url: "https://images.toastduck.com/6b63170116c9a943.jpg",
   },
   {
@@ -1572,7 +1572,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 300mA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300mA | Rated current: 100A",
     url: "https://images.toastduck.com/ab686ee1be8af644.jpg",
   },
   {
@@ -1580,7 +1580,7 @@ const list = [
     model: "DZ15LE-100/4901 63A 30mA instantaneous<0.1",
     price: "431.00",
     showPrice: "148.00",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 63A",
     url: "https://images.toastduck.com/ab686ee1be8af644.jpg",
   },
   {
@@ -1588,7 +1588,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 30mA instantaneous<0.1",
     price: "431.00",
     showPrice: "148.00",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 100A",
     url: "https://images.toastduck.com/ab686ee1be8af644.jpg",
   },
   {
@@ -1596,7 +1596,7 @@ const list = [
     model: "DZ15LE-100/4901 100A 15mA instantaneous<0.1",
     price: "441.01",
     showPrice: "151.43",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 15mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 15mA | Rated current: 100A",
     url: "https://images.toastduck.com/3ccb398d44b4d9ee.jpg",
   },
   {
@@ -1604,7 +1604,7 @@ const list = [
     model: "DZ15LE-40T/2901 16A 15MA Transparent instantaneous<0.1",
     price: "190.00",
     showPrice: "65.24",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 15mA | Rated current: 16A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 15mA | Rated current: 16A",
     url: "https://images.toastduck.com/819ee5d8583eb5bc.jpg",
   },
   {
@@ -1612,7 +1612,7 @@ const list = [
     model: "DZ15LE-40T/2901 32A 100MA Transparent instantaneous<0.1",
     price: "169.00",
     showPrice: "58.04",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100mA | Rated current: 32A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100mA | Rated current: 32A",
     url: "https://images.toastduck.com/cb7c74849ed25d92.jpg",
   },
   {
@@ -1620,7 +1620,7 @@ const list = [
     model: "DZ15LE-40/4902 40A 50MA instantaneous<0.1",
     price: "306.00",
     showPrice: "105.08",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 40A",
     url: "https://images.toastduck.com/18bc1a0faabad1a0.jpg",
   },
   {
@@ -1628,7 +1628,7 @@ const list = [
     model: "DZ15LE-100/4901 63A 15MA instantaneous<0.1",
     price: "441.01",
     showPrice: "151.43",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 15mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 15mA | Rated current: 63A",
     url: "https://images.toastduck.com/f3bdf9e6c97a98ad.jpg",
   },
   {
@@ -1636,7 +1636,7 @@ const list = [
     model: "DZ15LE-100/4902 100A 50MA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 100A",
     url: "https://images.toastduck.com/f3bdf9e6c97a98ad.jpg",
   },
   {
@@ -1644,7 +1644,7 @@ const list = [
     model: "DZ15LE-40/3901 40A 30mA",
     price: "303.00",
     showPrice: "116.57",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 40A | Residual operating current: 30mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 3kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 40A | Residual operating current: 30mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f5ee43.jpg",
   },
   {
@@ -1652,7 +1652,7 @@ const list = [
     model: "DZ15LE-100/3901T 100A 50mA",
     price: "315.00",
     showPrice: "121.18",
-    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage：220V/380V",
+    remark: "Series: DZ15LE | Number of poles: 3P | Rated ultimate breaking capacity: 5kA | Trip unit type: Hydraulic-magnetic | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Frame current: 100A | Residual operating current: 50mA | Rated voltage:220V/380V",
     url: "https://images.toastduck.com/0711320320f16282.jpg",
   },
   {
@@ -1660,7 +1660,7 @@ const list = [
     model: "DZ15LE-100T/4901 50A 100MA Transparent instantaneous<0.1",
     price: "376.00",
     showPrice: "129.11",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100mA | Rated current: 50A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100mA | Rated current: 50A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -1668,7 +1668,7 @@ const list = [
     model: "DZ15LE-100T/2901 100A 30MA Transparent instantaneous<0.1",
     price: "220.00",
     showPrice: "75.54",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 100A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -1676,7 +1676,7 @@ const list = [
     model: "DZ15LE-40T/4901 40A 30mA Transparent instantaneous≤0.1",
     price: "284.00",
     showPrice: "97.53",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 40A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 40A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -1684,7 +1684,7 @@ const list = [
     model: "DZ15LE-40T/4902 20A 50MA Transparent instantaneous<0.1",
     price: "278.00",
     showPrice: "95.47",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 20A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 20A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -1692,7 +1692,7 @@ const list = [
     model: "DZ15LE-40/2901 6A 30MA instantaneous<0.1",
     price: "203.00",
     showPrice: "69.71",
-    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30mA | Rated current: 6A",
+    remark: "Series: DZ15LE | Number of poles: 2P | Rated ultimate breaking capacity: 3kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30mA | Rated current: 6A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -1700,7 +1700,7 @@ const list = [
     model: "DZ15LE-100T/4902 100A 15MATransparent instantaneous<0.1",
     price: "399.00",
     showPrice: "137.01",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 15mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 15mA | Rated current: 100A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -1708,7 +1708,7 @@ const list = [
     model: "DZ15LE-100T/4902 100A 50MATransparent instantaneous<0.1",
     price: "376.00",
     showPrice: "129.11",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 100A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -1716,7 +1716,7 @@ const list = [
     model: "DZ15LE-100/4902 63A 50MA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 50mA | Rated current: 63A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 50mA | Rated current: 63A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -1724,7 +1724,7 @@ const list = [
     model: "DZ15LE-100/4902 100A 75MA instantaneous<0.1",
     price: "415.00",
     showPrice: "142.51",
-    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 75mA | Rated current: 100A",
+    remark: "Series: DZ15LE | Number of poles: 3P+N | Rated ultimate breaking capacity: 5kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 75mA | Rated current: 100A",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
 ];

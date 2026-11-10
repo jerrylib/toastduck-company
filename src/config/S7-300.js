@@ -68,7 +68,7 @@ const list = [
     model: "6ES73152AH140AB0",
     price: "25201.21",
     showPrice: "18496.39",
-    remark: "Series: S7-300 | Power supply voltage: DC24V | Communication interface：RS485 | Maximum number of expansion modules：- | Maximum number of expansion racks：- | Program memory：- | Data memory：-",
+    remark: "Series: S7-300 | Power supply voltage: DC24V | Communication interface:RS485 | Maximum number of expansion modules:- | Maximum number of expansion racks:- | Program memory:- | Data memory:-",
     url: "https://images.toastduck.com/64d115b85499c16b.jpg",
   },
   {
@@ -76,7 +76,7 @@ const list = [
     model: "6ES73152EH140AB0",
     price: "35588.45",
     showPrice: "21765.06",
-    remark: "Series: S7-300 | Power supply voltage: DC24V | Communication interface：RS485/ProfiNET | Maximum number of expansion modules：- | Maximum number of expansion racks：- | Program memory：- | Data memory：-",
+    remark: "Series: S7-300 | Power supply voltage: DC24V | Communication interface:RS485/ProfiNET | Maximum number of expansion modules:- | Maximum number of expansion racks:- | Program memory:- | Data memory:-",
     url: "https://images.toastduck.com/3a12e658c901954f.jpg",
   },
   {

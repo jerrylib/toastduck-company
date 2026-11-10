@@ -12,7 +12,7 @@ const list = [
     model: "6ES72141AG400XB0",
     price: "4516.27",
     showPrice: "3008.43",
-    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Transistor | Analog input type:Voltage | Analog output type:- | Communication interface：Ethernet",
+    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Transistor | Analog input type:Voltage | Analog output type:- | Communication interface:Ethernet",
     url: "https://images.toastduck.com/07113203205418aa.jpg",
   },
   {
@@ -76,7 +76,7 @@ const list = [
     model: "6ES72151AG400XB0",
     price: "6808.70",
     showPrice: "4353.01",
-    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:2 | Digital input voltage:DC24V | Digital output type:Solid-state-MOSFET | Analog input type:Voltage | Analog output type:Current | Communication interface：Ethernet",
+    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:2 | Digital input voltage:DC24V | Digital output type:Solid-state-MOSFET | Analog input type:Voltage | Analog output type:Current | Communication interface:Ethernet",
     url: "https://images.toastduck.com/07113203208f74fd.jpg",
   },
   {
@@ -124,7 +124,7 @@ const list = [
     model: "6ES72121AE400XB0",
     price: "2984.29",
     showPrice: "2049.40",
-    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:14 | Number of digital input points:8 | Number of digital output points:6 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Transistor | Analog input type:Voltage | Analog output type:- | Communication interface：Ethernet",
+    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:14 | Number of digital input points:8 | Number of digital output points:6 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Transistor | Analog input type:Voltage | Analog output type:- | Communication interface:Ethernet",
     url: "https://images.toastduck.com/2cc5b15f7f9d1ef2.jpg",
   },
   {
@@ -140,7 +140,7 @@ const list = [
     model: "6ES72141BG400XB0",
     price: "4516.27",
     showPrice: "2945.78",
-    remark: "Series: S7-1200 | Power supply voltage: AC85-265V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:- | Communication interface：Ethernet",
+    remark: "Series: S7-1200 | Power supply voltage: AC85-265V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:- | Communication interface:Ethernet",
     url: "https://images.toastduck.com/07113203203a303a.jpg",
   },
   {
@@ -196,7 +196,7 @@ const list = [
     model: "6ES72151HG400XB0",
     price: "6808.70",
     showPrice: "4354.22",
-    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:2 | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:Current | Communication interface：Ethernet",
+    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:2 | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:Current | Communication interface:Ethernet",
     url: "https://images.toastduck.com/4b1142e531e09c1d.jpg",
   },
   {
@@ -204,7 +204,7 @@ const list = [
     model: "6ES72141HG400XB0",
     price: "4516.27",
     showPrice: "2945.78",
-    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:- | Communication interface：Ethernet",
+    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:- | Communication interface:Ethernet",
     url: "https://images.toastduck.com/0711320320fa34cb.jpg",
   },
   {
@@ -212,7 +212,7 @@ const list = [
     model: "6ES72111BE400XB0",
     price: "2219.70",
     showPrice: "1538.55",
-    remark: "Series: S7-1200 | Power supply voltage: AC85-265V | Total I/O points:10 | Number of digital input points:6 | Number of digital output points:4 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:- | Communication interface：Ethernet",
+    remark: "Series: S7-1200 | Power supply voltage: AC85-265V | Total I/O points:10 | Number of digital input points:6 | Number of digital output points:4 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:- | Communication interface:Ethernet",
     url: "https://images.toastduck.com/3a9234f276209b72.jpg",
   },
   {
@@ -220,7 +220,7 @@ const list = [
     model: "6ES72121HE400XB0",
     price: "2984.29",
     showPrice: "2114.46",
-    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:14 | Number of digital input points:8 | Number of digital output points:6 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:- | Communication interface：Ethernet",
+    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:14 | Number of digital input points:8 | Number of digital output points:6 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:- | Communication interface:Ethernet",
     url: "https://images.toastduck.com/0711320320fed41c.jpg",
   },
   {
@@ -236,7 +236,7 @@ const list = [
     model: "6ES72121BE400XB0",
     price: "2984.29",
     showPrice: "2087.95",
-    remark: "Series: S7-1200 | Power supply voltage: AC85-265V | Total I/O points:14 | Number of digital input points:8 | Number of digital output points:6 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:- | Communication interface：Ethernet",
+    remark: "Series: S7-1200 | Power supply voltage: AC85-265V | Total I/O points:14 | Number of digital input points:8 | Number of digital output points:6 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:- | Communication interface:Ethernet",
     url: "https://images.toastduck.com/07113203208da0e6.jpg",
   },
   {
@@ -268,7 +268,7 @@ const list = [
     model: "6ES72171AG400XB0",
     price: "9842.44",
     showPrice: "6402.41",
-    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:2 | Digital input voltage:DC24V | Digital output type:Transistor | Analog input type:Voltage | Analog output type:Current | Communication interface：ProfiNet",
+    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:2 | Digital input voltage:DC24V | Digital output type:Transistor | Analog input type:Voltage | Analog output type:Current | Communication interface:ProfiNet",
     url: "https://images.toastduck.com/a087df7ac279581e.jpg",
   },
   {
@@ -300,7 +300,7 @@ const list = [
     model: "6ES72111HE400XB0",
     price: "2219.70",
     showPrice: "1485.54",
-    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:10 | Number of digital input points:6 | Number of digital output points:4 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:- | Communication interface：Ethernet",
+    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:10 | Number of digital input points:6 | Number of digital output points:4 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:- | Communication interface:Ethernet",
     url: "https://images.toastduck.com/0b55445545bedbad.jpg",
   },
   {
@@ -308,7 +308,7 @@ const list = [
     model: "6ES72151HF400XB0",
     price: "9298.31",
     showPrice: "6598.80",
-    remark: "Series: S7-1200 | Power supply voltage: DC24V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:2 | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:Current | Communication interface：Profinet",
+    remark: "Series: S7-1200 | Power supply voltage: DC24V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:2 | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:Current | Communication interface:Profinet",
     url: "https://images.toastduck.com/0aeb72049cb69c62.jpg",
   },
   {
@@ -316,7 +316,7 @@ const list = [
     model: "6ES72151BG400XB0",
     price: "6808.70",
     showPrice: "4738.55",
-    remark: "Series: S7-1200 | Power supply voltage: AC85-265V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:2 | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:Current | Communication interface：Ethernet",
+    remark: "Series: S7-1200 | Power supply voltage: AC85-265V | Total I/O points:24 | Number of digital input points:14 | Number of digital output points:10 | Number of analog input channels:2 | Number of analog output channels:2 | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:Voltage | Analog output type:Current | Communication interface:Ethernet",
     url: "https://images.toastduck.com/07113203207733d7.jpg",
   },
   {
@@ -340,7 +340,7 @@ const list = [
     model: "6ES72111AE400XB0",
     price: "2219.70",
     showPrice: "1512.05",
-    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:10 | Number of digital input points:6 | Number of digital output points:4 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Transistor | Analog input type:Voltage | Analog output type:- | Communication interface：Ethernet",
+    remark: "Series: S7-1200 | Power supply voltage: DC22-28.8V | Total I/O points:10 | Number of digital input points:6 | Number of digital output points:4 | Number of analog input channels:2 | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Transistor | Analog input type:Voltage | Analog output type:- | Communication interface:Ethernet",
     url: "https://images.toastduck.com/a3f956d05637ebbf.jpg",
   },
   {

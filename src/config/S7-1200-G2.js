@@ -4,7 +4,7 @@ const list = [
     model: "6ES72141AH500XB0",
     price: "4569.40",
     showPrice: "2357.83",
-    remark: "Series: S7-1200 G2 | Power supply voltage: DC24V | Number of digital input points:14 | Number of digital output points:10 | Total I/O points:24 | Communication interface：PROFINET",
+    remark: "Series: S7-1200 G2 | Power supply voltage: DC24V | Number of digital input points:14 | Number of digital output points:10 | Total I/O points:24 | Communication interface:PROFINET",
     url: "https://images.toastduck.com/07113203209fbc65.jpg",
   },
   {

@@ -216,5 +216,8 @@
   "可调": "adjustable",
   "延时": "delayed",
   "非延": "instantaneous",
-  "延": "delay"
+  "延": "delay",
+  "C型": "Type C",
+  "D型": "Type D",
+  "：": ":"
 }
