@@ -67,16 +67,30 @@ const Tmax = () => {
   const filtered = useMemo(() => PRODUCTS[type] || [], [type]);
 
   // 关键词变化时回到第 1 页，避免停留在超出搜索结果范围的页码；
-  // 同时把 keyword 参数保留并写回 URL，方便刷新 / 分享后仍保持筛选
+  // 同时把 keyword 参数保留并写回 URL，方便刷新 / 分享后仍保持筛选。
+  // 这里必须做"幂等"判断：URL 里的 keyword 与当前关键词一致就不写回，
+  // 否则挂载时会把地址栏已有的 ?page=N 抹掉（/products/S7-1200?page=2 会退回第 1 页）。
+  // 注意不能用 useRef 记录"首次执行"来跳过：StrictMode 下 effect 挂载时会执行两次，
+  // 第二次照旧会走到写回分支。
   useEffect(() => {
     const kw = keyword.trim();
-    if (kw) {
-      setSearchParams({ keyword: kw }, { replace: true });
-    } else {
-      // 关键词清空时，移除 keyword / page 参数回到默认状态
-      setSearchParams({}, { replace: true });
-    }
-  }, [keyword, setSearchParams]);
+    const urlKw = (searchParams.get("keyword") || "").trim();
+    if (urlKw === kw) return;
+    setSearchParams(
+      (prev) => {
+        const next = new URLSearchParams(prev);
+        if (kw) {
+          next.set("keyword", kw);
+        } else {
+          next.delete("keyword");
+        }
+        // 关键词发生变化，页码回到第 1 页
+        next.delete("page");
+        return next;
+      },
+      { replace: true }
+    );
+  }, [keyword, searchParams, setSearchParams]);
 
   // 按关键词过滤后的完整数据集
   const searched = useMemo(() => {
@@ -108,10 +122,15 @@ const Tmax = () => {
     return searched.slice(start, start + PAGE_SIZE);
   }, [searched, currentPage]);
 
-  // 生成分页链接地址：第 1 页不带 ?page=，其余页带 ?page=N
+  // 生成分页链接地址：保留当前关键词，第 1 页不带 ?page=，其余页带 ?page=N
   const getPageUrl = (page) => {
     const p = Math.max(1, page);
-    return p <= 1 ? `/products/${type}` : `/products/${type}?page=${p}`;
+    const kw = keyword.trim();
+    const params = new URLSearchParams();
+    if (kw) params.set("keyword", kw);
+    if (p > 1) params.set("page", String(p));
+    const qs = params.toString();
+    return qs ? `/products/${type}?${qs}` : `/products/${type}`;
   };
 
   // 计算可选页码：前 3 页，后 8 页
