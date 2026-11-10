@@ -5,7 +5,7 @@ const list = [
     price: "1350",
     showPrice: "1350",
     remark:
-      "Series: ACS180 | Rated motor power: 1.1kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 1.1kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/244147/5/20531/59220/6704c102F1b61981e/c12793de753f7800.jpg.avif",
   },
   {
@@ -14,7 +14,7 @@ const list = [
     price: "2270",
     showPrice: "2270",
     remark:
-      "Series: ACS180 | Rated motor power: 5.5kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 5.5kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/464069/38/16661/48104/6a4476faF2512fa15/07113203204d5099.jpg.avif",
   },
   {
@@ -23,7 +23,7 @@ const list = [
     price: "1510",
     showPrice: "1510",
     remark:
-      "Series: ACS180 | Rated motor power: 2.2kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 2.2kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/242714/20/9201/49986/6645f0aaF78a8eabe/a3cc72954eac1aa9.jpg.avif",
   },
   {
@@ -32,7 +32,7 @@ const list = [
     price: "3610",
     showPrice: "3610",
     remark:
-      "Series: ACS180 | Rated motor power: 15kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 15kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/464069/38/16661/48104/6a4476faF2512fa15/07113203204d5099.jpg.avif",
   },
   {
@@ -41,7 +41,7 @@ const list = [
     price: "3080",
     showPrice: "3080",
     remark:
-      "Series: ACS180 | Rated motor power: 11kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 11kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/464069/38/16661/48104/6a4476faF2512fa15/07113203204d5099.jpg.avif",
   },
   {
@@ -50,7 +50,7 @@ const list = [
     price: "1270",
     showPrice: "1270",
     remark:
-      "Series: ACS180 | Rated motor power: 0.55kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 0.55kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/325604/19/6793/29371/68a30a41F0acc0570/34cecc6921034cdc.jpg.avif",
   },
   {
@@ -59,7 +59,7 @@ const list = [
     price: "6290",
     showPrice: "6290",
     remark:
-      "Series: ACS180 | Rated motor power: 22kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 22kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/464069/38/16661/48104/6a4476faF2512fa15/07113203204d5099.jpg.avif",
   },
   {
@@ -68,7 +68,7 @@ const list = [
     price: "4950",
     showPrice: "4950",
     remark:
-      "Series: ACS180 | Rated motor power: 18.5kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 18.5kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/464069/38/16661/48104/6a4476faF2512fa15/07113203204d5099.jpg.avif",
   },
   {
@@ -77,7 +77,7 @@ const list = [
     price: "1740",
     showPrice: "1740",
     remark:
-      "Series: ACS180 | Rated motor power: 3kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 3kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/325604/19/6793/29371/68a30a41F0acc0570/34cecc6921034cdc.jpg.avif",
   },
   {
@@ -86,7 +86,7 @@ const list = [
     price: "2050",
     showPrice: "2050",
     remark:
-      "Series: ACS180 | Rated motor power: 4kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 4kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/464069/38/16661/48104/6a4476faF2512fa15/07113203204d5099.jpg.avif",
   },
   {
@@ -95,7 +95,7 @@ const list = [
     price: "1080",
     showPrice: "1080",
     remark:
-      "Series: ACS180 | Rated motor power: 0.37kW | Number of phases: Single-phase | Power supply voltage: AC200-240V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 0.37kW | Number of phases: Single-phase | Power supply voltage: AC200-240V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223675/35/22932/49986/648ab953F7a0ebfec/d9df92dc29a6e753.jpg.avif",
   },
   {
@@ -104,7 +104,7 @@ const list = [
     price: "2120",
     showPrice: "2120",
     remark:
-      "Series: ACS180 | Rated motor power: 3kW | Number of phases: Single-phase | Power supply voltage: AC200-240V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 3kW | Number of phases: Single-phase | Power supply voltage: AC200-240V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/464069/38/16661/48104/6a4476faF2512fa15/07113203204d5099.jpg.avif",
   },
   {
@@ -113,7 +113,7 @@ const list = [
     price: "1240",
     showPrice: "1240",
     remark:
-      "Series: ACS180 | Rated motor power: 0.75kW | Number of phases: Single-phase | Power supply voltage: AC200-240V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 0.75kW | Number of phases: Single-phase | Power supply voltage: AC200-240V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/464069/38/16661/48104/6a4476faF2512fa15/07113203204d5099.jpg.avif",
   },
   {
@@ -122,7 +122,7 @@ const list = [
     price: "7270",
     showPrice: "7270",
     remark:
-      "Series: ACS180 | Rated motor power: 22kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 22kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/464069/38/16661/48104/6a4476faF2512fa15/07113203204d5099.jpg.avif",
   },
   {
@@ -131,7 +131,7 @@ const list = [
     price: "1200",
     showPrice: "1200",
     remark:
-      "Series: ACS180 | Rated motor power: 0.55kW | Number of phases: Single-phase | Power supply voltage: AC200-240V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 0.55kW | Number of phases: Single-phase | Power supply voltage: AC200-240V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/223675/35/22932/49986/648ab953F7a0ebfec/d9df92dc29a6e753.jpg.avif",
   },
   {
@@ -140,7 +140,7 @@ const list = [
     price: "2730",
     showPrice: "2730",
     remark:
-      "Series: ACS180 | Rated motor power: 7.5kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 7.5kW | Number of phases: Three-phase | Power supply voltage: AC380-480V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/464069/38/16661/48104/6a4476faF2512fa15/07113203204d5099.jpg.avif",
   },
   {
@@ -149,7 +149,7 @@ const list = [
     price: "1570",
     showPrice: "1570",
     remark:
-      "Series: ACS180 | Rated motor power: 2.2kW | Number of phases: Single-phase | Power supply voltage: AC200-240V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 2.2kW | Number of phases: Single-phase | Power supply voltage: AC200-240V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/464069/38/16661/48104/6a4476faF2512fa15/07113203204d5099.jpg.avif",
   },
   {
@@ -167,7 +167,7 @@ const list = [
     price: "1280",
     showPrice: "1280",
     remark:
-      "Series: ACS180 | Rated motor power: 0.75kW | Number of phases: Single-phase | Power supply voltage: AC200-240V | Application type：Economy type",
+      "Series: ACS180 | Rated motor power: 0.75kW | Number of phases: Single-phase | Power supply voltage: AC200-240V | Application type:Economy type",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/464069/38/16661/48104/6a4476faF2512fa15/07113203204d5099.jpg.avif",
   },
   {

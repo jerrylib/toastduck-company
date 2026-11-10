@@ -14,7 +14,7 @@ import threeRT6 from "./three-rt6";
 import DZ15 from "./dz15";
 import DZ20 from "./dz20";
 import NM1 from "./nm1";
-import NXB63G from "./nxb-63g";
+import NXB63G from "./NXB-63G";
 import NXMS from "./nxms";
 import NXM from "./nxm";
 import CDM1 from "./cdm1";

@@ -76,7 +76,7 @@ const list = [
     model: "CPU 1512SP-1 PN 200KB",
     price: "11965.18",
     showPrice: "6657.83",
-    remark: "Series: S7-1500 | Power supply voltage: DC24V | Communication interface：Ethernet,RS485 | Maximum number of expansion modules：- | Maximum number of expansion racks：- | Program memory：200KB | Data memory：1MB",
+    remark: "Series: S7-1500 | Power supply voltage: DC24V | Communication interface:Ethernet,RS485 | Maximum number of expansion modules:- | Maximum number of expansion racks:- | Program memory:200KB | Data memory:1MB",
     url: "https://images.toastduck.com/17eae7e92999da93.jpg",
   },
   {
@@ -92,7 +92,7 @@ const list = [
     model: "6ES75163AN020AB0",
     price: "53579.51",
     showPrice: "26245.78",
-    remark: "Series: S7-1500 | Product type:CPU 1516-3 PN/DP (Standard type) | Total I/O points:Without integratedI/O | Power supply voltage: DC24V | Communication interface：PROFINET IRT (2Port)、 PROFINET RT、PROFIBUS DP",
+    remark: "Series: S7-1500 | Product type:CPU 1516-3 PN/DP (Standard type) | Total I/O points:Without integratedI/O | Power supply voltage: DC24V | Communication interface:PROFINET IRT (2Port)、 PROFINET RT、PROFIBUS DP",
     url: "https://images.toastduck.com/767221bf57edbda9.jpg",
   },
   {
@@ -220,7 +220,7 @@ const list = [
     model: "CPU 1510SP-1 PN 100KB",
     price: "9342.67",
     showPrice: "6080.72",
-    remark: "Series: S7-1500 | Power supply voltage: DC24V | Communication interface：Ethernet,RS485 | Maximum number of expansion modules：- | Maximum number of expansion racks：- | Program memory：100KB | Data memory：750KB",
+    remark: "Series: S7-1500 | Power supply voltage: DC24V | Communication interface:Ethernet,RS485 | Maximum number of expansion modules:- | Maximum number of expansion racks:- | Program memory:100KB | Data memory:750KB",
     url: "https://images.toastduck.com/440abbba8ac1d1f8.jpg",
   },
   {
@@ -252,7 +252,7 @@ const list = [
     model: "6ES75163AP030AB0",
     price: "25184.00",
     showPrice: "30342.17",
-    remark: "Series: S7-1500 | Product type:CPU 1516-3 PN/DP (High-performance type) | Total I/O points:Without integratedI/O | Power supply voltage: DC24V | Communication interface：PROFINET IRT (2Port)、 PROFINET RT、PROFIBUS DP",
+    remark: "Series: S7-1500 | Product type:CPU 1516-3 PN/DP (High-performance type) | Total I/O points:Without integratedI/O | Power supply voltage: DC24V | Communication interface:PROFINET IRT (2Port)、 PROFINET RT、PROFIBUS DP",
     url: "https://images.toastduck.com/ecde4b03d5afcd70.jpg",
   },
   {
@@ -268,7 +268,7 @@ const list = [
     model: "6ES75184AP000AB0",
     price: "124139.38",
     showPrice: "62692.77",
-    remark: "Series: S7-1500 | Power supply voltage: DC24V | Communication interface：ProfiBUS DP/ProfiNET | Maximum number of expansion modules：- | Maximum number of expansion racks：- | Program memory：4MB | Data memory：20MB",
+    remark: "Series: S7-1500 | Power supply voltage: DC24V | Communication interface:ProfiBUS DP/ProfiNET | Maximum number of expansion modules:- | Maximum number of expansion racks:- | Program memory:4MB | Data memory:20MB",
     url: "https://images.toastduck.com/95b70f70109f4895.jpg",
   },
   {
@@ -276,7 +276,7 @@ const list = [
     model: "6ES75111CK010AB0",
     price: "18122.47",
     showPrice: "15492.77",
-    remark: "Series: S7-1500 | Number of analog input channels:5 | Number of analog output channels:2 | Power supply voltage: DC24V | Communication interface：ProfiNet | Maximum number of expansion modules：- | Maximum number of expansion racks：- | Program memory：175KB | Data memory：1MB",
+    remark: "Series: S7-1500 | Number of analog input channels:5 | Number of analog output channels:2 | Power supply voltage: DC24V | Communication interface:ProfiNet | Maximum number of expansion modules:- | Maximum number of expansion racks:- | Program memory:175KB | Data memory:1MB",
     url: "https://images.toastduck.com/07113203206cfb1b.jpg",
   },
   {
@@ -316,7 +316,7 @@ const list = [
     model: "6ES75152TN030AB0",
     price: "40204.92",
     showPrice: "20543.37",
-    remark: "Series: S7-1500 | Product type:CPU 1515T-2 PN (Motion control type) | Total I/O points:Without integratedI/O | Power supply voltage: DC24V | Communication interface：PROFINET IRT , PROFINET RT",
+    remark: "Series: S7-1500 | Product type:CPU 1515T-2 PN (Motion control type) | Total I/O points:Without integratedI/O | Power supply voltage: DC24V | Communication interface:PROFINET IRT , PROFINET RT",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
   {
@@ -324,7 +324,7 @@ const list = [
     model: "6ES75131AL020AB0",
     price: "21746.98",
     showPrice: "12162.65",
-    remark: "Series: S7-1500 | Power supply voltage: DC24V | Communication interface：ProfiNet,ProfiBUS | Maximum number of expansion modules：- | Maximum number of expansion racks：- | Program memory：300KB | Data memory：1.5MB",
+    remark: "Series: S7-1500 | Power supply voltage: DC24V | Communication interface:ProfiNet,ProfiBUS | Maximum number of expansion modules:- | Maximum number of expansion racks:- | Program memory:300KB | Data memory:1.5MB",
     url: "https://images.toastduck.com/071132032092d6a2.jpg",
   },
   {
@@ -340,7 +340,7 @@ const list = [
     model: "6ES75173AP000AB0",
     price: "88476.33",
     showPrice: "53556.63",
-    remark: "Series: S7-1500 | Power supply voltage: DC24V | Communication interface：ProfiBUS DP/ProfiNET | Maximum number of expansion modules：- | Maximum number of expansion racks：- | Program memory：2MB | Data memory：8MB",
+    remark: "Series: S7-1500 | Power supply voltage: DC24V | Communication interface:ProfiBUS DP/ProfiNET | Maximum number of expansion modules:- | Maximum number of expansion racks:- | Program memory:2MB | Data memory:8MB",
     url: "https://images.toastduck.com/43fe214ed3f97bcc.jpg",
   },
   {
@@ -380,7 +380,7 @@ const list = [
     model: "6ES75101SJ010AB0",
     price: "11394.73",
     showPrice: "7669.88",
-    remark: "Series: S7-1500 | Power supply voltage: DC24V | Communication interface：ProfiNet | Maximum number of expansion modules：- | Maximum number of expansion racks：- | Program memory：150KB | Data memory：750KB",
+    remark: "Series: S7-1500 | Power supply voltage: DC24V | Communication interface:ProfiNet | Maximum number of expansion modules:- | Maximum number of expansion racks:- | Program memory:150KB | Data memory:750KB",
     url: "https://images.toastduck.com/07113203208e939f.jpg",
   },
   {
@@ -388,7 +388,7 @@ const list = [
     model: "6ES75121CK010AB0",
     price: "26001.81",
     showPrice: "20485.54",
-    remark: "Series: S7-1500 | Number of analog input channels:5 | Number of analog output channels:3 | Power supply voltage: DC24V | Communication interface：ProfiNet | Maximum number of expansion modules：- | Maximum number of expansion racks：- | Program memory：250KB | Data memory：1MB",
+    remark: "Series: S7-1500 | Number of analog input channels:5 | Number of analog output channels:3 | Power supply voltage: DC24V | Communication interface:ProfiNet | Maximum number of expansion modules:- | Maximum number of expansion racks:- | Program memory:250KB | Data memory:1MB",
     url: "https://images.toastduck.com/06688edaf58d7786.jpg",
   },
   {
@@ -452,7 +452,7 @@ const list = [
     model: "6ES75184FP000AB0",
     price: "152751.74",
     showPrice: "70695.18",
-    remark: "Series: S7-1500 | Power supply voltage: DC24V | Communication interface：PROFINET,PROFIBUS,Ethernet,RS485 | Maximum number of expansion modules：32 | Maximum number of expansion racks：- | Program memory：6MB | Data memory：20MB",
+    remark: "Series: S7-1500 | Power supply voltage: DC24V | Communication interface:PROFINET,PROFIBUS,Ethernet,RS485 | Maximum number of expansion modules:32 | Maximum number of expansion racks:- | Program memory:6MB | Data memory:20MB",
     url: "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png",
   },
 ];

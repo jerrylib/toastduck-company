@@ -4,7 +4,7 @@ const list = [
     model: "CDM3LS-125C/3300 125A 1/3/5",
     price: "830.00",
     showPrice: "285.00",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/5e1ddf1fb8de98c9.jpg",
   },
   {
@@ -12,7 +12,7 @@ const list = [
     model: "CDM3LS-250C/4300B 250A 1/3/5",
     price: "1207.00",
     showPrice: "414.46",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -20,7 +20,7 @@ const list = [
     model: "CDM3LS-160C/4300B 160A 1/3/5",
     price: "1188.00",
     showPrice: "407.94",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -28,7 +28,7 @@ const list = [
     model: "CDM3LS-125C/4300B 125A 1/3/5",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/ef64ad412301ad97.jpg",
   },
   {
@@ -36,7 +36,7 @@ const list = [
     model: "CDM3LS-125C/3300 63A 03/1/3",
     price: "830.00",
     showPrice: "285.00",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 63A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -44,7 +44,7 @@ const list = [
     model: "CDM3LS-400F/4300B 400A 1/3/5",
     price: "2607.00",
     showPrice: "895.18",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -52,7 +52,7 @@ const list = [
     model: "CDM3LS-125C/4300B 63A 1/3/5",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -60,7 +60,7 @@ const list = [
     model: "CDM3LS-250C/3300 250A 1/3/5",
     price: "1086.00",
     showPrice: "372.90",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -68,7 +68,7 @@ const list = [
     model: "CDM3LS-400F/4300B 315A 1/3/5",
     price: "2607.00",
     showPrice: "895.18",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -76,7 +76,7 @@ const list = [
     model: "CDM3LS-630F/4300A 630A 1/3/5delay3",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -84,7 +84,7 @@ const list = [
     model: "CDM3LS-250C/4300B 200A 1/3/5",
     price: "1207.00",
     showPrice: "414.46",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -92,7 +92,7 @@ const list = [
     model: "CDM3LS-125C/3300 100A 1/3/5",
     price: "830.00",
     showPrice: "285.00",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/a129e14f9b754f1d.jpg",
   },
   {
@@ -100,7 +100,7 @@ const list = [
     model: "CDM3LS-630F/3300 500A 1/3/5delay3",
     price: "3858.00",
     showPrice: "1324.75",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -108,7 +108,7 @@ const list = [
     model: "CDM3LS-250C/4300A 200A 1/3/5",
     price: "1202.00",
     showPrice: "412.75",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -116,7 +116,7 @@ const list = [
     model: "CDM3LS-630F/4300B 630A 1/3/5delay3",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -124,7 +124,7 @@ const list = [
     model: "CDM3LS-250C/3300 200A 1/3/5",
     price: "1086.00",
     showPrice: "372.90",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/071132032088cf30.jpg",
   },
   {
@@ -132,7 +132,7 @@ const list = [
     model: "CDM3LS-125C/4300A 63A 1/3/5",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -140,7 +140,7 @@ const list = [
     model: "CDM3LS-160C/4300A 160A 1/3/5",
     price: "1188.00",
     showPrice: "407.94",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -148,7 +148,7 @@ const list = [
     model: "CDM3LS-125C/4300A 100A 03/1/3",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -156,7 +156,7 @@ const list = [
     model: "CDM3LS-125S/4300B 63A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -164,7 +164,7 @@ const list = [
     model: "CDM3LS-250S/3300 250A 1/3/5",
     price: "1150.00",
     showPrice: "394.89",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -172,7 +172,7 @@ const list = [
     model: "CDM3LS-160S/4300A 100A 1/3/5",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -180,7 +180,7 @@ const list = [
     model: "CDM3LS-250C/4300B 225A 1/3/5",
     price: "1207.00",
     showPrice: "414.46",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
     url: "https://images.toastduck.com/b34ccb66dbcc75ad.jpg",
   },
   {
@@ -188,7 +188,7 @@ const list = [
     model: "CDM3LS-125C/4300A 100A 1/3/5",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -196,7 +196,7 @@ const list = [
     model: "CDM3LS-125C/4300A 80A 1/3/5",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/f87439b2e5c73e7f.jpg",
   },
   {
@@ -204,7 +204,7 @@ const list = [
     model: "CDM3LS-125C/4300B 125A 03/1/3",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
     url: "https://images.toastduck.com/137b5ea2fd22151c.jpg",
   },
   {
@@ -212,7 +212,7 @@ const list = [
     model: "CDM3LS-125S/4300A 80A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -220,7 +220,7 @@ const list = [
     model: "CDM3LS-160S/4300B 160A 03/1/3",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -228,7 +228,7 @@ const list = [
     model: "CDM3LS-250C/4300B 160A 1/3/5",
     price: "1207.00",
     showPrice: "414.46",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/aeb5bace8006f998.jpg",
   },
   {
@@ -236,7 +236,7 @@ const list = [
     model: "CDM3LS-160S/4300B 160A 1/3/5",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -244,7 +244,7 @@ const list = [
     model: "CDM3LS-125S/4300B 100A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -252,7 +252,7 @@ const list = [
     model: "CDM3LS-250C/4300A 250A 1/3/5",
     price: "1202.00",
     showPrice: "412.75",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/f742569eaf712559.jpg",
   },
   {
@@ -260,7 +260,7 @@ const list = [
     model: "CDM3LS-250S/4300A 100A 1/3/5",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -268,7 +268,7 @@ const list = [
     model: "CDM3LS-250S/4300A 250A 03/1/3",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -276,7 +276,7 @@ const list = [
     model: "CDM3LS-125F/4300B 100A 1/3/5",
     price: "1592.00",
     showPrice: "546.66",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -284,7 +284,7 @@ const list = [
     model: "CDM3LS-400F/4300B 400A 1/3/5delay1",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -292,7 +292,7 @@ const list = [
     model: "CDM3LS-125C/3300 100A 03/1/3",
     price: "830.00",
     showPrice: "285.00",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
     url: "https://images.toastduck.com/25ac6dcd4ef86d73.jpg",
   },
   {
@@ -300,7 +300,7 @@ const list = [
     model: "CDM3LS-125S/4300A 63A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -308,7 +308,7 @@ const list = [
     model: "CDM3LS-125S/4300B 80A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -316,7 +316,7 @@ const list = [
     model: "CDM3LS-125S/4300A 100A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -324,7 +324,7 @@ const list = [
     model: "CDM3LS-125S/4300B 125A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -332,7 +332,7 @@ const list = [
     model: "CDM3LS-160S/4300A 160A 1/3/5",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -340,7 +340,7 @@ const list = [
     model: "CDM3LS-250S/4300A 200A 03/1/3",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -348,7 +348,7 @@ const list = [
     model: "CDM3LS-400F/4300A 350A 1/3/5",
     price: "2607.00",
     showPrice: "895.18",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -356,7 +356,7 @@ const list = [
     model: "CDM3LS-400F/4300B 350A 1/3/5",
     price: "2607.00",
     showPrice: "895.18",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -364,7 +364,7 @@ const list = [
     model: "CDM3LS-630F/3300 630A 1/3/5delay3",
     price: "3858.00",
     showPrice: "1324.75",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -372,7 +372,7 @@ const list = [
     model: "CDM3LS-125C/4300A 50A 1/3/5",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -380,7 +380,7 @@ const list = [
     model: "CDM3LS-125S/4300A 32A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 32A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -388,7 +388,7 @@ const list = [
     model: "CDM3LS-125S/4300A 100A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -396,7 +396,7 @@ const list = [
     model: "CDM3LS-125S/3300 125A 1/3/5",
     price: "871.00",
     showPrice: "299.08",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -404,7 +404,7 @@ const list = [
     model: "CDM3LS-250S/4300A 250A 1/3/5",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -412,7 +412,7 @@ const list = [
     model: "CDM3LS-400F/4300A 400A 1/3/5delay1",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -420,7 +420,7 @@ const list = [
     model: "CDM3LS-250C/4300B 250A 03/1/3",
     price: "1207.00",
     showPrice: "414.46",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 250A",
     url: "https://images.toastduck.com/071132032094584b.jpg",
   },
   {
@@ -428,7 +428,7 @@ const list = [
     model: "CDM3LS-125F/32002 16A I AC230V 03/1/3",
     price: "1289.00",
     showPrice: "442.61",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 16A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 16A",
     url: "https://images.toastduck.com/c479bb8b472c3924.jpg",
   },
   {
@@ -436,7 +436,7 @@ const list = [
     model: "CDM3LS-125F/32002 16A U AC230V 03/1/3",
     price: "1289.00",
     showPrice: "442.61",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 16A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 16A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -444,7 +444,7 @@ const list = [
     model: "CDM3LS-125F/32002 16A 03/1/3",
     price: "1165.00",
     showPrice: "400.04",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 16A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 16A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -452,7 +452,7 @@ const list = [
     model: "CDM3LS-125F/4300B 16A 1/3/5",
     price: "1592.00",
     showPrice: "546.66",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 16A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 16A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -460,7 +460,7 @@ const list = [
     model: "CDM3LS-125F/4300A 40A 03/1/3",
     price: "1592.00",
     showPrice: "546.66",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 40A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -468,7 +468,7 @@ const list = [
     model: "CDM3LS-125F/4300B 100A 03/1/3",
     price: "1592.00",
     showPrice: "546.66",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -476,7 +476,7 @@ const list = [
     model: "CDM3LS-125F/4300A 100A 1/3/5",
     price: "1592.00",
     showPrice: "546.66",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -484,7 +484,7 @@ const list = [
     model: "CDM3LS-125F/4300B 125A 1/3/5",
     price: "1592.00",
     showPrice: "546.66",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -492,7 +492,7 @@ const list = [
     model: "CDM3LS-125S/4300A 16A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 16A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 16A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -500,7 +500,7 @@ const list = [
     model: "CDM3LS-125S/4300A 16A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 16A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 16A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -508,7 +508,7 @@ const list = [
     model: "CDM3LS-125S/4300B 16A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 16A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 16A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -516,7 +516,7 @@ const list = [
     model: "CDM3LS-125S/4300A 16A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 16A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 16A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -524,7 +524,7 @@ const list = [
     model: "CDM3LS-125S/4300A 16A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 16A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 16A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -532,7 +532,7 @@ const list = [
     model: "CDM3LS-125S/4300A 20A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 20A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 20A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -540,7 +540,7 @@ const list = [
     model: "CDM3LS-125S/4300B 20A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 20A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 20A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -548,7 +548,7 @@ const list = [
     model: "CDM3LS-125S/4300A 20A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 20A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 20A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -556,7 +556,7 @@ const list = [
     model: "CDM3LS-125S/4300B 20A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 20A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 20A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -564,7 +564,7 @@ const list = [
     model: "CDM3LS-125S/3300 20A 1/3/5",
     price: "871.00",
     showPrice: "299.08",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 20A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 20A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -572,7 +572,7 @@ const list = [
     model: "CDM3LS-125S/4340A 25A 1/3/5 AC230V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -580,7 +580,7 @@ const list = [
     model: "CDM3LS-125S/4300A 25A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -588,7 +588,7 @@ const list = [
     model: "CDM3LS-125S/4300A 25A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -596,7 +596,7 @@ const list = [
     model: "CDM3LS-125S/4300A 25A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 25A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -604,7 +604,7 @@ const list = [
     model: "CDM3LS-125S/4300B 25A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -612,7 +612,7 @@ const list = [
     model: "CDM3LS-125S/4300B 25A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 25A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -620,7 +620,7 @@ const list = [
     model: "CDM3LS-125S/4300A 25A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -628,7 +628,7 @@ const list = [
     model: "CDM3LS-125S/4300B 25A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -636,7 +636,7 @@ const list = [
     model: "CDM3LS-125S/3300 25A 1/3/5",
     price: "871.00",
     showPrice: "299.08",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -644,7 +644,7 @@ const list = [
     model: "CDM3LS-125S/4300B 25A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -652,7 +652,7 @@ const list = [
     model: "CDM3LS-125S/4340A 32A 1/3/5 AC230V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -660,7 +660,7 @@ const list = [
     model: "CDM3LS-125S/4300A 32A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -668,7 +668,7 @@ const list = [
     model: "CDM3LS-125S/4300B 32A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -676,7 +676,7 @@ const list = [
     model: "CDM3LS-125S/4300A 32A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -684,7 +684,7 @@ const list = [
     model: "CDM3LS-125S/3300 32A 1/3/5",
     price: "871.00",
     showPrice: "299.08",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -692,7 +692,7 @@ const list = [
     model: "CDM3LS-125S/4340B 32A 1/3/5 DC24V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -700,7 +700,7 @@ const list = [
     model: "CDM3LS-125S/4300A 32A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -708,7 +708,7 @@ const list = [
     model: "CDM3LS-125S/4300B 32A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -716,7 +716,7 @@ const list = [
     model: "CDM3LS-125S/4300B 32A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -724,7 +724,7 @@ const list = [
     model: "CDM3LS-125S/3200 32A 1/3/5",
     price: "871.00",
     showPrice: "299.08",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -732,7 +732,7 @@ const list = [
     model: "CDM3LS-125S/4300B 32A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 32A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -740,7 +740,7 @@ const list = [
     model: "CDM3LS-125S/3300 32A 03/1/3",
     price: "871.00",
     showPrice: "299.08",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 32A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -748,7 +748,7 @@ const list = [
     model: "CDM3LS-125S/4300A 32A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -756,7 +756,7 @@ const list = [
     model: "CDM3LS-125S/4340A 40A 1/3/5 AC230V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -764,7 +764,7 @@ const list = [
     model: "CDM3LS-125S/4300A 40A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -772,7 +772,7 @@ const list = [
     model: "CDM3LS-125S/4300B 40A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -780,7 +780,7 @@ const list = [
     model: "CDM3LS-125S/4300A 40A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -788,7 +788,7 @@ const list = [
     model: "CDM3LS-125S/4300A 40A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 40A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -796,7 +796,7 @@ const list = [
     model: "CDM3LS-125S/4300B 40A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 40A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -804,7 +804,7 @@ const list = [
     model: "CDM3LS-125S/4300A 40A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -812,7 +812,7 @@ const list = [
     model: "CDM3LS-125S/4300A 40A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -820,7 +820,7 @@ const list = [
     model: "CDM3LS-125S/4300B 40A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -828,7 +828,7 @@ const list = [
     model: "CDM3LS-125S/3300 40A 1/3/5",
     price: "871.00",
     showPrice: "299.08",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -836,7 +836,7 @@ const list = [
     model: "CDM3LS-125S/4300B 40A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -844,7 +844,7 @@ const list = [
     model: "CDM3LS-125S/4310A 50A 1/3/5 AC230V",
     price: "1049.00",
     showPrice: "360.20",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -852,7 +852,7 @@ const list = [
     model: "CDM3LS-125S/4300A 50A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -860,7 +860,7 @@ const list = [
     model: "CDM3LS-125S/4300A 50A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -868,7 +868,7 @@ const list = [
     model: "CDM3LS-125S/4300B 50A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -876,7 +876,7 @@ const list = [
     model: "CDM3LS-125S/4300B 50A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 50A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -884,7 +884,7 @@ const list = [
     model: "CDM3LS-125S/4300A 50A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -892,7 +892,7 @@ const list = [
     model: "CDM3LS-125S/4300A 50A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -900,7 +900,7 @@ const list = [
     model: "CDM3LS-125S/4300B 50A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -908,7 +908,7 @@ const list = [
     model: "CDM3LS-125S/4300A 50A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 50A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -916,7 +916,7 @@ const list = [
     model: "CDM3LS-125S/4340A 50A 1/3/5 AC230V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -924,7 +924,7 @@ const list = [
     model: "CDM3LS-125S/4340A 50A 1/3/5 DC24V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -932,7 +932,7 @@ const list = [
     model: "CDM3LS-125S/4300B 50A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -940,7 +940,7 @@ const list = [
     model: "CDM3LS-125S/3300 50A 1/3/5",
     price: "871.00",
     showPrice: "299.08",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -948,7 +948,7 @@ const list = [
     model: "CDM3LS-125S/4340A 63A 1/3/5 AC230V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -956,7 +956,7 @@ const list = [
     model: "CDM3LS-125S/4300A 63A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -964,7 +964,7 @@ const list = [
     model: "CDM3LS-125S/4300B 63A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -972,7 +972,7 @@ const list = [
     model: "CDM3LS-125S/4300A 63A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -980,7 +980,7 @@ const list = [
     model: "CDM3LS-125S/4300A 63A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -988,7 +988,7 @@ const list = [
     model: "CDM3LS-125S/4300B 63A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -996,7 +996,7 @@ const list = [
     model: "CDM3LS-125S/4340A 63A 1/3/5delay1 AC230V",
     price: "1148.00",
     showPrice: "394.20",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1004,7 +1004,7 @@ const list = [
     model: "CDM3LS-125S/4300A 63A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1012,7 +1012,7 @@ const list = [
     model: "CDM3LS-125S/3300 63A 1/3/5",
     price: "871.00",
     showPrice: "299.08",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1020,7 +1020,7 @@ const list = [
     model: "CDM3LS-125S/4300B 63A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1028,7 +1028,7 @@ const list = [
     model: "CDM3LS-125S/4300B 63A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1036,7 +1036,7 @@ const list = [
     model: "CDM3LS-125S/3300 63A 03/1/3",
     price: "871.00",
     showPrice: "299.08",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1044,7 +1044,7 @@ const list = [
     model: "CDM3LS-125S/3300 63A 1/3/5delay1",
     price: "929.00",
     showPrice: "319.00",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1052,7 +1052,7 @@ const list = [
     model: "CDM3LS-125S/4340A 80A 1/3/5 AC230V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1060,7 +1060,7 @@ const list = [
     model: "CDM3LS-125S/4300A 80A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1068,7 +1068,7 @@ const list = [
     model: "CDM3LS-125S/4340A 80A 1/3/5delay1 AC230V",
     price: "1148.00",
     showPrice: "394.20",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1076,7 +1076,7 @@ const list = [
     model: "CDM3LS-125S/4300A 80A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1084,7 +1084,7 @@ const list = [
     model: "CDM3LS-125S/4300A 80A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1092,7 +1092,7 @@ const list = [
     model: "CDM3LS-125S/4300A 80A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1100,7 +1100,7 @@ const list = [
     model: "CDM3LS-125S/4300B 80A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1108,7 +1108,7 @@ const list = [
     model: "CDM3LS-125S/4300B 80A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1116,7 +1116,7 @@ const list = [
     model: "CDM3LS-125S/3300 80A 1/3/5",
     price: "871.00",
     showPrice: "299.08",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1124,7 +1124,7 @@ const list = [
     model: "CDM3LS-125S/4300B 80A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1132,7 +1132,7 @@ const list = [
     model: "CDM3LS-125S/4340A 80A 1/3/5delay2 AC230V",
     price: "1148.00",
     showPrice: "394.20",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1140,7 +1140,7 @@ const list = [
     model: "CDM3LS-125S/4340A 80A 03/1/3 AC230V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1148,7 +1148,7 @@ const list = [
     model: "CDM3LS-125S/4300B 80A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1156,7 +1156,7 @@ const list = [
     model: "CDM3LS-125S/4340A 80A 1/3/5 DC24V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1164,7 +1164,7 @@ const list = [
     model: "CDM3LS-125S/4340A 100A 1/3/5 AC230V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1172,7 +1172,7 @@ const list = [
     model: "CDM3LS-125S/4300B 100A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1180,7 +1180,7 @@ const list = [
     model: "CDM3LS-125S/4300A 100A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1188,7 +1188,7 @@ const list = [
     model: "CDM3LS-125S/4300A 100A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1196,7 +1196,7 @@ const list = [
     model: "CDM3LS-125S/4340A 100A 1/3/5 DC24V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1204,7 +1204,7 @@ const list = [
     model: "CDM3LS-125S/4300B 100A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1212,7 +1212,7 @@ const list = [
     model: "CDM3LS-125S/3300 100A 1/3/5",
     price: "871.00",
     showPrice: "299.08",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1220,7 +1220,7 @@ const list = [
     model: "CDM3LS-125S/4300A 100A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1228,7 +1228,7 @@ const list = [
     model: "CDM3LS-125S/4300B 100A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1236,7 +1236,7 @@ const list = [
     model: "CDM3LS-125S/4300B 100A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1244,7 +1244,7 @@ const list = [
     model: "CDM3LS-125S/3300 100A 03/1/3",
     price: "871.00",
     showPrice: "299.08",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1252,7 +1252,7 @@ const list = [
     model: "CDM3LS-125S/4340A 100A 1/3/5delay2 AC230V",
     price: "1148.00",
     showPrice: "394.20",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1260,7 +1260,7 @@ const list = [
     model: "CDM3LS-125S/4310A 100A 1/3/5delay1 AC230V",
     price: "1107.00",
     showPrice: "380.12",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1268,7 +1268,7 @@ const list = [
     model: "CDM3LS-125S/4300A 100A U AC230V 03/1/3",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1276,7 +1276,7 @@ const list = [
     model: "CDM3LS-125S/4300B 100A U AC230V 03/1/3",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1284,7 +1284,7 @@ const list = [
     model: "CDM3LS-125S/43002B 100A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1292,7 +1292,7 @@ const list = [
     model: "CDM3LS-125S/4300A 100A U AC230V 1/3/5delay2",
     price: "1136.00",
     showPrice: "390.08",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1300,7 +1300,7 @@ const list = [
     model: "CDM3LS-125S/4300A 100A U AC230V 1/3/5delay1",
     price: "1136.00",
     showPrice: "390.08",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1308,7 +1308,7 @@ const list = [
     model: "CDM3LS-125S/4340A 125A 1/3/5 AC230V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1316,7 +1316,7 @@ const list = [
     model: "CDM3LS-125S/4340B 125A 1/3/5 AC230V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1324,7 +1324,7 @@ const list = [
     model: "CDM3LS-125S/4300A 125A 1/3/5",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1332,7 +1332,7 @@ const list = [
     model: "CDM3LS-125S/4300A 125A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1340,7 +1340,7 @@ const list = [
     model: "CDM3LS-125S/4300A 125A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1348,7 +1348,7 @@ const list = [
     model: "CDM3LS-125S/4300A 125A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1356,7 +1356,7 @@ const list = [
     model: "CDM3LS-125S/4300A 125A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1364,7 +1364,7 @@ const list = [
     model: "CDM3LS-125S/4340A 125A 1/3/5delay1 AC230V",
     price: "1148.00",
     showPrice: "394.20",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1372,7 +1372,7 @@ const list = [
     model: "CDM3LS-125S/4300B 125A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1380,7 +1380,7 @@ const list = [
     model: "CDM3LS-125S/4340A 125A 1/3/5delay2 AC230V",
     price: "1148.00",
     showPrice: "394.20",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1388,7 +1388,7 @@ const list = [
     model: "CDM3LS-125S/4310B 125A 1/3/5 AC230V",
     price: "1049.00",
     showPrice: "360.20",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1396,7 +1396,7 @@ const list = [
     model: "CDM3LS-125S/4300B 125A 1/3/5delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1404,7 +1404,7 @@ const list = [
     model: "CDM3LS-125S/4300B 125A U AC230V 1/3/5",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1412,7 +1412,7 @@ const list = [
     model: "CDM3LS-125S/4310A 125A 1/3/5 AC230V",
     price: "1049.00",
     showPrice: "360.20",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1420,7 +1420,7 @@ const list = [
     model: "CDM3LS-125S/4340A 125A 1/3/5 DC24V",
     price: "1090.00",
     showPrice: "374.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1428,7 +1428,7 @@ const list = [
     model: "CDM3LS-125S/4300B 125A 1/3/5delay1",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1436,7 +1436,7 @@ const list = [
     model: "CDM3LS-125S/4300A 125A U AC230V 1/3/5delay1",
     price: "1136.00",
     showPrice: "390.08",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1444,7 +1444,7 @@ const list = [
     model: "CDM3LS-125S/4300A 125A U AC230V 1/3/5delay2",
     price: "1136.00",
     showPrice: "390.08",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1452,7 +1452,7 @@ const list = [
     model: "CDM3LS-125S/4310A 125A 1/3/5 DC24V",
     price: "1049.00",
     showPrice: "360.20",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1460,7 +1460,7 @@ const list = [
     model: "CDM3LS-125S/3300 125A 03/1/3",
     price: "871.00",
     showPrice: "299.08",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1468,7 +1468,7 @@ const list = [
     model: "CDM3LS-160F/4300A 160A 1/3/5",
     price: "1749.00",
     showPrice: "600.57",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1476,7 +1476,7 @@ const list = [
     model: "CDM3LS-160S/4300A 100A U AC230V 1/3/5",
     price: "1355.01",
     showPrice: "465.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1484,7 +1484,7 @@ const list = [
     model: "CDM3LS-160S/43002B 100A 03/1/3",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1492,7 +1492,7 @@ const list = [
     model: "CDM3LS-160S/4300A 100A 03/1/3",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1500,7 +1500,7 @@ const list = [
     model: "CDM3LS-160S/4300A 100A U AC230V 1/3/5delay2",
     price: "1413.00",
     showPrice: "485.19",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1508,7 +1508,7 @@ const list = [
     model: "CDM3LS-160S/4340A 125A 1/3/5 AC230V",
     price: "1366.99",
     showPrice: "469.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1516,7 +1516,7 @@ const list = [
     model: "CDM3LS-160S/4300A 125A 1/3/5",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1524,7 +1524,7 @@ const list = [
     model: "CDM3LS-160S/4300B 125A 1/3/5",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1532,7 +1532,7 @@ const list = [
     model: "CDM3LS-160S/4300A 125A 03/1/3",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1540,7 +1540,7 @@ const list = [
     model: "CDM3LS-160S/4300A 125A U AC230V 1/3/5",
     price: "1355.01",
     showPrice: "465.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1548,7 +1548,7 @@ const list = [
     model: "CDM3LS-160S/4300A 125A 1/3/5delay1",
     price: "1289.00",
     showPrice: "442.61",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1556,7 +1556,7 @@ const list = [
     model: "CDM3LS-160S/3300 125A 1/3/5",
     price: "1085.00",
     showPrice: "372.57",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1564,7 +1564,7 @@ const list = [
     model: "CDM3LS-160S/4300A 125A 1/3/5delay2",
     price: "1289.00",
     showPrice: "442.61",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1572,7 +1572,7 @@ const list = [
     model: "CDM3LS-160S/4340A 140A 1/3/5 AC230V",
     price: "1366.99",
     showPrice: "469.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1580,7 +1580,7 @@ const list = [
     model: "CDM3LS-160S/4300A 140A 1/3/5",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1588,7 +1588,7 @@ const list = [
     model: "CDM3LS-160S/4300A 140A 1/3/5delay1",
     price: "1289.00",
     showPrice: "442.61",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1596,7 +1596,7 @@ const list = [
     model: "CDM3LS-160S/4300A 140A 1/3/5delay2",
     price: "1289.00",
     showPrice: "442.61",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1604,7 +1604,7 @@ const list = [
     model: "CDM3LS-160S/4300B 140A 1/3/5",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1612,7 +1612,7 @@ const list = [
     model: "CDM3LS-160S/4300B 140A U AC230V 1/3/5",
     price: "1355.01",
     showPrice: "465.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1620,7 +1620,7 @@ const list = [
     model: "CDM3LS-160S/3300 140A 03/1/3",
     price: "1085.00",
     showPrice: "372.57",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 140A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 140A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1628,7 +1628,7 @@ const list = [
     model: "CDM3LS-160S/4340A 160A 1/3/5 AC230V",
     price: "1366.99",
     showPrice: "469.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1636,7 +1636,7 @@ const list = [
     model: "CDM3LS-160S/4340A 160A 1/3/5delay2 AC230V",
     price: "1425.00",
     showPrice: "489.31",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1644,7 +1644,7 @@ const list = [
     model: "CDM3LS-160S/4340A 160A 1/3/5 DC24V",
     price: "1366.99",
     showPrice: "469.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1652,7 +1652,7 @@ const list = [
     model: "CDM3LS-160S/4300A 160A 1/3/5delay1",
     price: "1289.00",
     showPrice: "442.61",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1660,7 +1660,7 @@ const list = [
     model: "CDM3LS-160S/3300 160A 1/3/5",
     price: "1085.00",
     showPrice: "372.57",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1668,7 +1668,7 @@ const list = [
     model: "CDM3LS-160S/4340A 160A 1/3/5delay1 AC230V",
     price: "1425.00",
     showPrice: "489.31",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1676,7 +1676,7 @@ const list = [
     model: "CDM3LS-160S/4300A 160A U AC230V 1/3/5",
     price: "1355.01",
     showPrice: "465.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1684,7 +1684,7 @@ const list = [
     model: "CDM3LS-160S/4300A 160A 03/1/3",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1692,7 +1692,7 @@ const list = [
     model: "CDM3LS-160S/4300A 160A 1/3/5delay2",
     price: "1289.00",
     showPrice: "442.61",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1700,7 +1700,7 @@ const list = [
     model: "CDM3LS-160S/4300B 160A U AC230V 1/3/5",
     price: "1355.01",
     showPrice: "465.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1708,7 +1708,7 @@ const list = [
     model: "CDM3LS-160S/4300B 160A 1/3/5delay1",
     price: "1289.00",
     showPrice: "442.61",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1716,7 +1716,7 @@ const list = [
     model: "CDM3LS-160S/4300B 160A 1/3/5delay2",
     price: "1289.00",
     showPrice: "442.61",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1724,7 +1724,7 @@ const list = [
     model: "CDM3LS-160S/3300 160A 03/1/3",
     price: "1085.00",
     showPrice: "372.57",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
     url: "https://images.toastduck.com/c631c7b701fb78a6.jpg",
   },
   {
@@ -1732,7 +1732,7 @@ const list = [
     model: "CDM3LS-250F/4340A 200A 1/3/5delay1 AC230V",
     price: "1997.00",
     showPrice: "685.72",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1740,7 +1740,7 @@ const list = [
     model: "CDM3LS-250F/4300A 200A 1/3/5",
     price: "1803.01",
     showPrice: "619.11",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1748,7 +1748,7 @@ const list = [
     model: "CDM3LS-250F/4300B 200A 1/3/5",
     price: "1803.01",
     showPrice: "619.11",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1756,7 +1756,7 @@ const list = [
     model: "CDM3LS-250F/4300A 250A 1/3/5",
     price: "1803.01",
     showPrice: "619.11",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1764,7 +1764,7 @@ const list = [
     model: "CDM3LS-250F/4300B 250A 1/3/5",
     price: "1803.01",
     showPrice: "619.11",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1772,7 +1772,7 @@ const list = [
     model: "CDM3LS-250S/4300A 125A 1/3/5",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1780,7 +1780,7 @@ const list = [
     model: "CDM3LS-250S/4300B 125A 1/3/5",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1788,7 +1788,7 @@ const list = [
     model: "CDM3LS-250S/4300A 125A 1/3/5delay2",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1796,7 +1796,7 @@ const list = [
     model: "CDM3LS-250S/4300A 125A U AC230V 1/3/5",
     price: "1396.00",
     showPrice: "479.36",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1804,7 +1804,7 @@ const list = [
     model: "CDM3LS-250S/4300B 125A 1/3/5delay1",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1812,7 +1812,7 @@ const list = [
     model: "CDM3LS-250S/4300A 125A U AC230V 1/3/5delay2",
     price: "1454.00",
     showPrice: "499.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1820,7 +1820,7 @@ const list = [
     model: "CDM3LS-250S/4340A 140A 1/3/5delay2 AC230V",
     price: "1466.01",
     showPrice: "503.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1828,7 +1828,7 @@ const list = [
     model: "CDM3LS-250S/4300A 140A 1/3/5delay2",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1836,7 +1836,7 @@ const list = [
     model: "CDM3LS-250S/4340A 160A 1/3/5 AC230V",
     price: "1408.00",
     showPrice: "483.48",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1844,7 +1844,7 @@ const list = [
     model: "CDM3LS-250S/4340A 160A 1/3/5 DC24V",
     price: "1408.00",
     showPrice: "483.48",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1852,7 +1852,7 @@ const list = [
     model: "CDM3LS-250S/4340A 160A 1/3/5delay1 AC230V",
     price: "1466.01",
     showPrice: "503.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1860,7 +1860,7 @@ const list = [
     model: "CDM3LS-250S/4300A 160A 1/3/5",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1868,7 +1868,7 @@ const list = [
     model: "CDM3LS-250S/4300A 160A 1/3/5delay2",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1876,7 +1876,7 @@ const list = [
     model: "CDM3LS-250S/4300B 160A 1/3/5",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1884,7 +1884,7 @@ const list = [
     model: "CDM3LS-250S/3300 160A 1/3/5",
     price: "1150.00",
     showPrice: "394.89",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1892,7 +1892,7 @@ const list = [
     model: "CDM3LS-250S/4300A 160A U AC230V 1/3/5",
     price: "1396.00",
     showPrice: "479.36",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1900,7 +1900,7 @@ const list = [
     model: "CDM3LS-250S/4300A 160A 1/3/5delay1",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1908,7 +1908,7 @@ const list = [
     model: "CDM3LS-250S/4300A 160A 03/1/3",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1916,7 +1916,7 @@ const list = [
     model: "CDM3LS-250S/4300B 160A 03/1/3",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1924,7 +1924,7 @@ const list = [
     model: "CDM3LS-250S/4300B 160A U AC230V 1/3/5",
     price: "1396.00",
     showPrice: "479.36",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1932,7 +1932,7 @@ const list = [
     model: "CDM3LS-250S/4300A 160A U AC230V 1/3/5delay2",
     price: "1454.00",
     showPrice: "499.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1940,7 +1940,7 @@ const list = [
     model: "CDM3LS-250S/3300 160A 03/1/3",
     price: "1150.00",
     showPrice: "394.89",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1948,7 +1948,7 @@ const list = [
     model: "CDM3LS-250S/4300B 160A 1/3/5delay2",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1956,7 +1956,7 @@ const list = [
     model: "CDM3LS-250S/33002 160A 03/1/3",
     price: "1150.00",
     showPrice: "394.89",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1964,7 +1964,7 @@ const list = [
     model: "CDM3LS-250S/4300B 160A 1/3/5delay1",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1972,7 +1972,7 @@ const list = [
     model: "CDM3LS-250S/4300A 160A U AC230V 1/3/5delay1",
     price: "1454.00",
     showPrice: "499.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1980,7 +1980,7 @@ const list = [
     model: "CDM3LS-250S/4340A 180A 1/3/5 AC230V",
     price: "1408.00",
     showPrice: "483.48",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1988,7 +1988,7 @@ const list = [
     model: "CDM3LS-250S/4340A 180A 1/3/5delay2 AC230V",
     price: "1466.01",
     showPrice: "503.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -1996,7 +1996,7 @@ const list = [
     model: "CDM3LS-250S/4340B 180A 1/3/5delay2 AC230V",
     price: "1466.01",
     showPrice: "503.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2004,7 +2004,7 @@ const list = [
     model: "CDM3LS-250S/4300A 180A 1/3/5",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2012,7 +2012,7 @@ const list = [
     model: "CDM3LS-250S/4300A 180A 1/3/5delay2",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2020,7 +2020,7 @@ const list = [
     model: "CDM3LS-250S/4300A 180A 1/3/5delay1",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2028,7 +2028,7 @@ const list = [
     model: "CDM3LS-250S/4300B 180A 1/3/5",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2036,7 +2036,7 @@ const list = [
     model: "CDM3LS-250S/4300A 180A U AC230V 1/3/5",
     price: "1396.00",
     showPrice: "479.36",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2044,7 +2044,7 @@ const list = [
     model: "CDM3LS-250S/4340A 200A 1/3/5 AC230V",
     price: "1408.00",
     showPrice: "483.48",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2052,7 +2052,7 @@ const list = [
     model: "CDM3LS-250S/4310A 200A 1/3/5 AC230V",
     price: "1366.99",
     showPrice: "469.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2060,7 +2060,7 @@ const list = [
     model: "CDM3LS-250S/4340A 200A 1/3/5delay2 AC230V",
     price: "1466.01",
     showPrice: "503.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2068,7 +2068,7 @@ const list = [
     model: "CDM3LS-250S/4340B 200A 1/3/5 AC230V",
     price: "1408.00",
     showPrice: "483.48",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2076,7 +2076,7 @@ const list = [
     model: "CDM3LS-250S/4300A 200A 1/3/5",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2084,7 +2084,7 @@ const list = [
     model: "CDM3LS-250S/4300B 200A 1/3/5",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2092,7 +2092,7 @@ const list = [
     model: "CDM3LS-250S/4300A 200A 1/3/5delay1",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2100,7 +2100,7 @@ const list = [
     model: "CDM3LS-250S/4300A 200A 1/3/5delay2",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2108,7 +2108,7 @@ const list = [
     model: "CDM3LS-250S/4340B 200A 1/3/5delay2 AC230V",
     price: "1466.01",
     showPrice: "503.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2116,7 +2116,7 @@ const list = [
     model: "CDM3LS-250S/3300 200A 1/3/5",
     price: "1150.00",
     showPrice: "394.89",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2124,7 +2124,7 @@ const list = [
     model: "CDM3LS-250S/4340A 200A 1/3/5 DC24V",
     price: "1408.00",
     showPrice: "483.48",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2132,7 +2132,7 @@ const list = [
     model: "CDM3LS-250S/4340A 200A 1/3/5delay1 AC230V",
     price: "1466.01",
     showPrice: "503.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2140,7 +2140,7 @@ const list = [
     model: "CDM3LS-250S/4300A 200A U AC230V 1/3/5",
     price: "1396.00",
     showPrice: "479.36",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2148,7 +2148,7 @@ const list = [
     model: "CDM3LS-250S/4300B 200A 1/3/5delay1",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2156,7 +2156,7 @@ const list = [
     model: "CDM3LS-250S/4300B 200A 1/3/5delay2",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2164,7 +2164,7 @@ const list = [
     model: "CDM3LS-250S/4300A 200A U AC230V 1/3/5delay1",
     price: "1454.00",
     showPrice: "499.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2172,7 +2172,7 @@ const list = [
     model: "CDM3LS-250S/4300B 200A U AC230V 1/3/5",
     price: "1396.00",
     showPrice: "479.36",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2180,7 +2180,7 @@ const list = [
     model: "CDM3LS-250S/4300B 200A 03/1/3",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2188,7 +2188,7 @@ const list = [
     model: "CDM3LS-250S/4300A 200A U AC230V 1/3/5delay2",
     price: "1454.00",
     showPrice: "499.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2196,7 +2196,7 @@ const list = [
     model: "CDM3LS-250S/3300 200A 03/1/3",
     price: "1150.00",
     showPrice: "394.89",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2204,7 +2204,7 @@ const list = [
     model: "CDM3LS-250S/4340A 225A 1/3/5 AC230V",
     price: "1408.00",
     showPrice: "483.48",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2212,7 +2212,7 @@ const list = [
     model: "CDM3LS-250S/4300A 225A 1/3/5",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2220,7 +2220,7 @@ const list = [
     model: "CDM3LS-250S/4300B 225A 1/3/5",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2228,7 +2228,7 @@ const list = [
     model: "CDM3LS-250S/4300A 225A 1/3/5delay2",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2236,7 +2236,7 @@ const list = [
     model: "CDM3LS-250S/4300A 225A 1/3/5delay1",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2244,7 +2244,7 @@ const list = [
     model: "CDM3LS-250S/3300 225A 1/3/5",
     price: "1150.00",
     showPrice: "394.89",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2252,7 +2252,7 @@ const list = [
     model: "CDM3LS-250S/4300A 225A U AC230V 1/3/5",
     price: "1396.00",
     showPrice: "479.36",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2260,7 +2260,7 @@ const list = [
     model: "CDM3LS-250S/4300A 225A 03/1/3",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 225A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2268,7 +2268,7 @@ const list = [
     model: "CDM3LS-250S/4300B 225A 1/3/5delay2",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2276,7 +2276,7 @@ const list = [
     model: "CDM3LS-250S/4300B 225A 1/3/5delay1",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2284,7 +2284,7 @@ const list = [
     model: "CDM3LS-250S/4300B 225A U AC230V 1/3/5",
     price: "1396.00",
     showPrice: "479.36",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2292,7 +2292,7 @@ const list = [
     model: "CDM3LS-250S/4340A 250A 1/3/5 AC230V",
     price: "1408.00",
     showPrice: "483.48",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2300,7 +2300,7 @@ const list = [
     model: "CDM3LS-250S/4310A 250A 1/3/5 AC230V",
     price: "1366.99",
     showPrice: "469.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2308,7 +2308,7 @@ const list = [
     model: "CDM3LS-250S/4340A 250A 1/3/5delay1 AC230V",
     price: "1466.01",
     showPrice: "503.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2316,7 +2316,7 @@ const list = [
     model: "CDM3LS-250S/4340B 250A 1/3/5 AC230V",
     price: "1408.00",
     showPrice: "483.48",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2324,7 +2324,7 @@ const list = [
     model: "CDM3LS-250S/4340A 250A 1/3/5 DC24V",
     price: "1408.00",
     showPrice: "483.48",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2332,7 +2332,7 @@ const list = [
     model: "CDM3LS-250S/4300B 250A 1/3/5",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2340,7 +2340,7 @@ const list = [
     model: "CDM3LS-250S/4300A 250A 1/3/5delay1",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2348,7 +2348,7 @@ const list = [
     model: "CDM3LS-250S/4300A 250A 1/3/5delay2",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2356,7 +2356,7 @@ const list = [
     model: "CDM3LS-250S/4300B 250A 1/3/5delay1",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2364,7 +2364,7 @@ const list = [
     model: "CDM3LS-250S/4300A 250A U AC230V 1/3/5",
     price: "1396.00",
     showPrice: "479.36",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2372,7 +2372,7 @@ const list = [
     model: "CDM3LS-250S/3300 250A 03/1/3",
     price: "1150.00",
     showPrice: "394.89",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2380,7 +2380,7 @@ const list = [
     model: "CDM3LS-250S/4300B 250A U AC230V 1/3/5",
     price: "1396.00",
     showPrice: "479.36",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2388,7 +2388,7 @@ const list = [
     model: "CDM3LS-250S/4300B 250A 1/3/5delay2",
     price: "1330.00",
     showPrice: "456.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2396,7 +2396,7 @@ const list = [
     model: "CDM3LS-250S/4300B 250A 03/1/3",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2404,7 +2404,7 @@ const list = [
     model: "CDM3LS-250S/4200B 250A 1/3/5",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2412,7 +2412,7 @@ const list = [
     model: "CDM3LS-250S/4300A 250A U AC230V 1/3/5delay1",
     price: "1454.00",
     showPrice: "499.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/89e3e837c01f066d.jpg",
   },
   {
@@ -2420,7 +2420,7 @@ const list = [
     model: "CDM3LS-400F/4340A 250A 1/3/5 AC230V",
     price: "2891.00",
     showPrice: "992.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2428,7 +2428,7 @@ const list = [
     model: "CDM3LS-400F/4340A 250A 1/3/5delay2 AC230V",
     price: "2948.99",
     showPrice: "1012.61",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2436,7 +2436,7 @@ const list = [
     model: "CDM3LS-400F/4300A 250A 1/3/5",
     price: "2607.00",
     showPrice: "895.18",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2444,7 +2444,7 @@ const list = [
     model: "CDM3LS-400F/4300A 250A U AC230V 1/3/5",
     price: "2731.00",
     showPrice: "937.76",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2452,7 +2452,7 @@ const list = [
     model: "CDM3LS-400F/3300 250A 1/3/5",
     price: "2300.00",
     showPrice: "789.77",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2460,7 +2460,7 @@ const list = [
     model: "CDM3LS-400F/4300B 250A 1/3/5",
     price: "2607.00",
     showPrice: "895.18",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2468,7 +2468,7 @@ const list = [
     model: "CDM3LS-400F/4300A 250A 1/3/5delay2",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2476,7 +2476,7 @@ const list = [
     model: "CDM3LS-400F/4300A 250A 1/3/5delay1",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2484,7 +2484,7 @@ const list = [
     model: "CDM3LS-400F/4340A 315A 1/3/5 AC230V",
     price: "2891.00",
     showPrice: "992.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2492,7 +2492,7 @@ const list = [
     model: "CDM3LS-400F/4340A 315A 1/3/5delay2 AC230V",
     price: "2948.99",
     showPrice: "1012.61",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2500,7 +2500,7 @@ const list = [
     model: "CDM3LS-400F/4340A 315A 1/3/5 DC24V",
     price: "2891.00",
     showPrice: "992.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2508,7 +2508,7 @@ const list = [
     model: "CDM3LS-400F/4340A 315A 1/3/5delay1 AC230V",
     price: "2948.99",
     showPrice: "1012.61",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2516,7 +2516,7 @@ const list = [
     model: "CDM3LS-400F/4300A 315A 1/3/5",
     price: "2607.00",
     showPrice: "895.18",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2524,7 +2524,7 @@ const list = [
     model: "CDM3LS-400F/4300A 315A U AC230V 1/3/5",
     price: "2731.00",
     showPrice: "937.76",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2532,7 +2532,7 @@ const list = [
     model: "CDM3LS-400F/4300A 315A 1/3/5delay1",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2540,7 +2540,7 @@ const list = [
     model: "CDM3LS-400F/4300A 315A 1/3/5delay2",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2548,7 +2548,7 @@ const list = [
     model: "CDM3LS-400F/3300 315A 1/3/5",
     price: "2300.00",
     showPrice: "789.77",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2556,7 +2556,7 @@ const list = [
     model: "CDM3LS-400F/4300B 315A U AC230V 1/3/5",
     price: "2731.00",
     showPrice: "937.76",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2564,7 +2564,7 @@ const list = [
     model: "CDM3LS-400F/4300A 315A U AC230V 1/3/5delay2",
     price: "2789.00",
     showPrice: "957.67",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2572,7 +2572,7 @@ const list = [
     model: "CDM3LS-400F/4300B 315A 1/3/5delay2",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2580,7 +2580,7 @@ const list = [
     model: "CDM3LS-400F/4300B 315A 1/3/5delay1",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2588,7 +2588,7 @@ const list = [
     model: "CDM3LS-400F/4340A 350A 1/3/5 AC230V",
     price: "2891.00",
     showPrice: "992.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2596,7 +2596,7 @@ const list = [
     model: "CDM3LS-400F/4300A 350A U AC230V 1/3/5",
     price: "2731.00",
     showPrice: "937.76",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2604,7 +2604,7 @@ const list = [
     model: "CDM3LS-400F/4300A 350A 1/3/5delay2",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2612,7 +2612,7 @@ const list = [
     model: "CDM3LS-400F/4300A 350A 1/3/5delay1",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2620,7 +2620,7 @@ const list = [
     model: "CDM3LS-400F/4300B 350A 1/3/5delay2",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2628,7 +2628,7 @@ const list = [
     model: "CDM3LS-400F/3300 350A 1/3/5",
     price: "2300.00",
     showPrice: "789.77",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2636,7 +2636,7 @@ const list = [
     model: "CDM3LS-400F/4300B 350A U AC230V 1/3/5",
     price: "2731.00",
     showPrice: "937.76",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2644,7 +2644,7 @@ const list = [
     model: "CDM3LS-400F/4300B 350A 1/3/5delay1",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 350A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2652,7 +2652,7 @@ const list = [
     model: "CDM3LS-400F/4340A 400A 1/3/5 AC230V",
     price: "2891.00",
     showPrice: "992.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2660,7 +2660,7 @@ const list = [
     model: "CDM3LS-400F/4310A 400A 1/3/5 AC230V",
     price: "2809.00",
     showPrice: "964.54",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2668,7 +2668,7 @@ const list = [
     model: "CDM3LS-400F/4340A 400A 1/3/5delay2 AC230V",
     price: "2948.99",
     showPrice: "1012.61",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2676,7 +2676,7 @@ const list = [
     model: "CDM3LS-400F/4300A 400A 1/3/5",
     price: "2607.00",
     showPrice: "895.18",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2684,7 +2684,7 @@ const list = [
     model: "CDM3LS-400F/4300A 400A 1/3/5delay2",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2692,7 +2692,7 @@ const list = [
     model: "CDM3LS-400F/3300 400A 1/3/5",
     price: "2300.00",
     showPrice: "789.77",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2700,7 +2700,7 @@ const list = [
     model: "CDM3LS-400F/4300A 400A U AC230V 1/3/5",
     price: "2731.00",
     showPrice: "937.76",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2708,7 +2708,7 @@ const list = [
     model: "CDM3LS-400F/4300B 400A 1/3/5delay2",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2716,7 +2716,7 @@ const list = [
     model: "CDM3LS-400F/4300A 400A 3/5/10delay2",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2724,7 +2724,7 @@ const list = [
     model: "CDM3LS-400F/4300A 400A 3/5/10",
     price: "2607.00",
     showPrice: "895.18",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2732,7 +2732,7 @@ const list = [
     model: "CDM3LS-400F/4300A 400A 3/5/10delay1",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2740,7 +2740,7 @@ const list = [
     model: "CDM3LS-400F/4300B 400A 3/5/10",
     price: "2607.00",
     showPrice: "895.18",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2748,7 +2748,7 @@ const list = [
     model: "CDM3LS-400F/3300 400A 1/3/5delay1",
     price: "2358.00",
     showPrice: "809.69",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2756,7 +2756,7 @@ const list = [
     model: "CDM3LS-400F/4300B 400A U AC230V 1/3/5",
     price: "2731.00",
     showPrice: "937.76",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2764,7 +2764,7 @@ const list = [
     model: "CDM3LS-400F/4300A 400A U AC230V 1/3/5delay1",
     price: "2789.00",
     showPrice: "957.67",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2772,7 +2772,7 @@ const list = [
     model: "CDM3LS-400F/4300B 400A 3/5/10delay2",
     price: "2665.00",
     showPrice: "915.10",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2780,7 +2780,7 @@ const list = [
     model: "CDM3LS-400F/4300A 400A U AC230V 1/3/5delay2",
     price: "2789.00",
     showPrice: "957.67",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0e66907f9a8a742d.jpg",
   },
   {
@@ -2788,7 +2788,7 @@ const list = [
     model: "CDM3LS-630F/4300A 400A 1/3/5delay1",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2796,7 +2796,7 @@ const list = [
     model: "CDM3LS-630F/4300A 400A 1/3/5delay3",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 400A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2804,7 +2804,7 @@ const list = [
     model: "CDM3LS-630F/3300 500A 1/3/5delay1",
     price: "3858.00",
     showPrice: "1324.75",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2812,7 +2812,7 @@ const list = [
     model: "CDM3LS-630F/4300A 500A 1/3/5delay1",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2820,7 +2820,7 @@ const list = [
     model: "CDM3LS-630F/4300A 500A 1/3/5delay3",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2828,7 +2828,7 @@ const list = [
     model: "CDM3LS-630F/4300A 500A 3/5/10delay1",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 500A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 500A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2836,7 +2836,7 @@ const list = [
     model: "CDM3LS-630F/4300A 500A 3/5/10delay3",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 500A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 500A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2844,7 +2844,7 @@ const list = [
     model: "CDM3LS-630F/4300A 500A U AC230V 1/3/5delay1",
     price: "5082.01",
     showPrice: "1745.04",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2852,7 +2852,7 @@ const list = [
     model: "CDM3LS-630F/4300A 500A U AC230V 1/3/5delay3",
     price: "5082.01",
     showPrice: "1745.04",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2860,7 +2860,7 @@ const list = [
     model: "CDM3LS-630F/4340A 500A 1/3/5delay1 AC230V",
     price: "5242.00",
     showPrice: "1799.98",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2868,7 +2868,7 @@ const list = [
     model: "CDM3LS-630F/4340A 500A 1/3/5delay3 AC230V",
     price: "5242.00",
     showPrice: "1799.98",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2876,7 +2876,7 @@ const list = [
     model: "CDM3LS-630F/4300B 500A 1/3/5delay1",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2884,7 +2884,7 @@ const list = [
     model: "CDM3LS-630F/4300B 500A 1/3/5delay3",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2892,7 +2892,7 @@ const list = [
     model: "CDM3LS-630F/3300 630A 1/3/5delay1",
     price: "3858.00",
     showPrice: "1324.75",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2900,7 +2900,7 @@ const list = [
     model: "CDM3LS-630F/4300A 630A 1/3/5delay1",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2908,7 +2908,7 @@ const list = [
     model: "CDM3LS-630F/4300A 630A 3/5/10delay1",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2916,7 +2916,7 @@ const list = [
     model: "CDM3LS-630F/4300A 630A 3/5/10delay3",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2924,7 +2924,7 @@ const list = [
     model: "CDM3LS-630F/4300A 630A U AC230V 1/3/5delay1",
     price: "5082.01",
     showPrice: "1745.04",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2932,7 +2932,7 @@ const list = [
     model: "CDM3LS-630F/4300A 630A U AC230V 1/3/5delay3",
     price: "5082.01",
     showPrice: "1745.04",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2940,7 +2940,7 @@ const list = [
     model: "CDM3LS-630F/4310A 630A 1/3/5delay1 AC230V",
     price: "5160.00",
     showPrice: "1771.81",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2948,7 +2948,7 @@ const list = [
     model: "CDM3LS-630F/4310A 630A 1/3/5delay3 AC230V",
     price: "5160.00",
     showPrice: "1771.81",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2956,7 +2956,7 @@ const list = [
     model: "CDM3LS-630F/4340A 630A 1/3/5delay1 AC230V",
     price: "5242.00",
     showPrice: "1799.98",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2964,7 +2964,7 @@ const list = [
     model: "CDM3LS-630F/4340A 630A 1/3/5delay3 AC230V",
     price: "5242.00",
     showPrice: "1799.98",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2972,7 +2972,7 @@ const list = [
     model: "CDM3LS-630F/4300B 630A 1/3/5delay1",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2980,7 +2980,7 @@ const list = [
     model: "CDM3LS-800F/3300 630A 1/3/5delay3",
     price: "4995.00",
     showPrice: "1715.16",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2988,7 +2988,7 @@ const list = [
     model: "CDM3LS-800F/4300A 630A 1/3/5delay1",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -2996,7 +2996,7 @@ const list = [
     model: "CDM3LS-800F/4300A 630A 1/3/5delay3",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3004,7 +3004,7 @@ const list = [
     model: "CDM3LS-800F/4300B 630A 1/3/5delay1",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3012,7 +3012,7 @@ const list = [
     model: "CDM3LS-800F/4300B 630A 1/3/5delay3",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3020,7 +3020,7 @@ const list = [
     model: "CDM3LS-800F/4300A 700A 1/3/5delay3",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 700A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 700A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3028,7 +3028,7 @@ const list = [
     model: "CDM3LS-800F/4300B 700A 1/3/5delay1",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 700A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 700A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3036,7 +3036,7 @@ const list = [
     model: "CDM3LS-800F/4300B 700A 1/3/5delay3",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 700A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 700A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3044,7 +3044,7 @@ const list = [
     model: "CDM3LS-800F/3300 800A 1/3/5delay1",
     price: "4995.00",
     showPrice: "1715.16",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3052,7 +3052,7 @@ const list = [
     model: "CDM3LS-800F/3300 800A 1/3/5delay3",
     price: "4995.00",
     showPrice: "1715.16",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3060,7 +3060,7 @@ const list = [
     model: "CDM3LS-800F/4300A 800A 1/3/5delay1",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3068,7 +3068,7 @@ const list = [
     model: "CDM3LS-800F/4300A 800A 1/3/5delay3",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3076,7 +3076,7 @@ const list = [
     model: "CDM3LS-800F/4300A 800A 3/5/10delay1",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 800A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3084,7 +3084,7 @@ const list = [
     model: "CDM3LS-800F/4300A 800A 3/5/10delay3",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 800A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3092,7 +3092,7 @@ const list = [
     model: "CDM3LS-800F/4300A 800A U AC230V 1/3/5delay1",
     price: "6542.00",
     showPrice: "2246.35",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3100,7 +3100,7 @@ const list = [
     model: "CDM3LS-800F/4300A 800A U AC230V 1/3/5delay3",
     price: "6542.00",
     showPrice: "2246.35",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3108,7 +3108,7 @@ const list = [
     model: "CDM3LS-800F/4310A 800A 1/3/5delay1 AC230V",
     price: "6700.00",
     showPrice: "2300.60",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3116,7 +3116,7 @@ const list = [
     model: "CDM3LS-800F/4310A 800A 1/3/5delay3 AC230V",
     price: "6700.00",
     showPrice: "2300.60",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3124,7 +3124,7 @@ const list = [
     model: "CDM3LS-800F/4340A 800A 1/3/5delay1 AC230V",
     price: "6974.00",
     showPrice: "2394.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3132,7 +3132,7 @@ const list = [
     model: "CDM3LS-800F/4340A 800A 1/3/5delay3 AC230V",
     price: "6974.00",
     showPrice: "2394.69",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3140,7 +3140,7 @@ const list = [
     model: "CDM3LS-800F/4300B 800A 1/3/5delay1",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3148,7 +3148,7 @@ const list = [
     model: "CDM3LS-800F/4300B 800A 1/3/5delay3",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
     url: "https://images.toastduck.com/0f55ba4a07625a86.jpg",
   },
   {
@@ -3156,7 +3156,7 @@ const list = [
     model: "CDM3LS-800F/4300B 800A 3/5/10delay3",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 800A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3164,7 +3164,7 @@ const list = [
     model: "CDM3LS-800F/3300 800A 3/5/10delay3",
     price: "4995.00",
     showPrice: "1715.16",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 800A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3172,7 +3172,7 @@ const list = [
     model: "CDM3LS-800F/4300B 700A 3/5/10delay3",
     price: "6418.00",
     showPrice: "2203.78",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300/500/1000mA | Rated current: 700A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300/500/1000mA | Rated current: 700A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3180,7 +3180,7 @@ const list = [
     model: "CDM3LS-250S/3300 250A 1/3/5delay1",
     price: "1208.00",
     showPrice: "414.81",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/529d8149d4ddcb75.jpg",
   },
   {
@@ -3188,7 +3188,7 @@ const list = [
     model: "CDM3LS-250S/4300B 200A U AC230V 03/1/3",
     price: "1396.00",
     showPrice: "479.36",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3196,7 +3196,7 @@ const list = [
     model: "CDM3LS-250S/3300 160A 1/3/5delay1",
     price: "1208.00",
     showPrice: "414.81",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/a16ad04f2d9a5315.jpg",
   },
   {
@@ -3204,7 +3204,7 @@ const list = [
     model: "CDM3LS-250F/4300B 200A 1/3/5delay1",
     price: "1861.00",
     showPrice: "639.02",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/4499648ee1b0a9c7.jpg",
   },
   {
@@ -3212,7 +3212,7 @@ const list = [
     model: "CDM3LS-250F/4340B 160A 1/3/5delay2 AC230V",
     price: "1997.00",
     showPrice: "685.72",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3220,7 +3220,7 @@ const list = [
     model: "CDM3LS-250F/4300B 160A 1/3/5delay1",
     price: "1861.00",
     showPrice: "639.02",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/800cbf5109e3a352.jpg",
   },
   {
@@ -3228,7 +3228,7 @@ const list = [
     model: "CDM3LS-160S/4300B 125A 03/1/3",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3236,7 +3236,7 @@ const list = [
     model: "CDM3LS-160S/4300B 100A 1/3/5delay1",
     price: "1289.00",
     showPrice: "442.61",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3244,7 +3244,7 @@ const list = [
     model: "CDM3LS-160S/4300B 100A 03/1/3",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3252,7 +3252,7 @@ const list = [
     model: "CDM3LS-160F/4300B 160A 1/3/5delay1",
     price: "1807.01",
     showPrice: "620.48",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3260,7 +3260,7 @@ const list = [
     model: "CDM3LS-125S/4300A 63A U AC230V 1/3/5delay2",
     price: "1136.00",
     showPrice: "390.08",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/b9a8f819d09d2c69.jpg",
   },
   {
@@ -3268,7 +3268,7 @@ const list = [
     model: "CDM3LS-125S/4340A 50A 1/3/5delay1 AC230V",
     price: "1148.00",
     showPrice: "394.20",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3276,7 +3276,7 @@ const list = [
     model: "CDM3LS-125S/4300B 32A U AC230V 03/1/3",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 32A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3284,7 +3284,7 @@ const list = [
     model: "CDM3LS-125F/4300B 125A 1/3/5delay1",
     price: "1650.00",
     showPrice: "566.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3292,7 +3292,7 @@ const list = [
     model: "CDM3LS-125F/4300A 125A 03/1/3",
     price: "1592.00",
     showPrice: "546.66",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
     url: "https://images.toastduck.com/109c65aab27a7a5b.jpg",
   },
   {
@@ -3300,7 +3300,7 @@ const list = [
     model: "CDM3LS-800F/4340A 800A 1/3/5 AC230V",
     price: "6916.00",
     showPrice: "2374.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 800A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3308,7 +3308,7 @@ const list = [
     model: "CDM3LS-630F/4310B 630A U AC230V 1/3/5delay1",
     price: "5284.00",
     showPrice: "1814.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3316,7 +3316,7 @@ const list = [
     model: "CDM3LS-630F/4300B 630A 1/3/5delay2",
     price: "4958.00",
     showPrice: "1702.45",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 630A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3324,7 +3324,7 @@ const list = [
     model: "CDM3LS-630F/4308A 500A U AC230V 1/3/5delay3",
     price: "5164.00",
     showPrice: "1773.18",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 500A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3332,7 +3332,7 @@ const list = [
     model: "CDM3LS-400F/4340B 315A 1/3/5 AC230V",
     price: "2891.00",
     showPrice: "992.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 315A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3340,7 +3340,7 @@ const list = [
     model: "CDM3LS-250S/4340B 250A 1/3/5delay2 AC230V",
     price: "1466.01",
     showPrice: "503.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/842b8b9bd7e65b8a.jpg",
   },
   {
@@ -3348,7 +3348,7 @@ const list = [
     model: "CDM3LS-250S/4318B 250A 1/3/5 AC230V",
     price: "1408.00",
     showPrice: "483.48",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/63eb2f13eb48ab2c.jpg",
   },
   {
@@ -3356,7 +3356,7 @@ const list = [
     model: "CDM3LS-250S/4300A 250A U AC230V 03/1/3",
     price: "1396.00",
     showPrice: "479.36",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3364,7 +3364,7 @@ const list = [
     model: "CDM3LS-250S/43002B 200A 03/1/3",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
     url: "https://images.toastduck.com/1814918268d48a41.jpg",
   },
   {
@@ -3372,7 +3372,7 @@ const list = [
     model: "CDM3LS-250S/4310A 200A 1/3/5delay1 AC230V",
     price: "1425.00",
     showPrice: "489.31",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/10a95a40a4d94821.jpg",
   },
   {
@@ -3380,7 +3380,7 @@ const list = [
     model: "CDM3LS-250S/4300B 180A 03/1/3",
     price: "1272.00",
     showPrice: "436.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 180A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 180A",
     url: "https://images.toastduck.com/1cb85655dc3e22ea.jpg",
   },
   {
@@ -3388,7 +3388,7 @@ const list = [
     model: "CDM3LS-250S/4340B 160A 1/3/5delay2 AC230V",
     price: "1466.01",
     showPrice: "503.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/ac3af9afb3c61769.jpg",
   },
   {
@@ -3396,7 +3396,7 @@ const list = [
     model: "CDM3LS-250F/4300B 250A 1/3/5delay1",
     price: "1861.00",
     showPrice: "639.02",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3404,7 +3404,7 @@ const list = [
     model: "CDM3LS-250F/4300B 200A 03/1/3",
     price: "1803.01",
     showPrice: "619.11",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3412,7 +3412,7 @@ const list = [
     model: "CDM3LS-250F/4300B 180A 03/1/3",
     price: "1803.01",
     showPrice: "619.11",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 180A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 180A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3420,7 +3420,7 @@ const list = [
     model: "CDM3LS-250C/4300B 250A 1/3/5delay2",
     price: "1265.00",
     showPrice: "434.37",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3428,7 +3428,7 @@ const list = [
     model: "CDM3LS-250C/4300B 250A 1/3/5delay1",
     price: "1265.00",
     showPrice: "434.37",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3436,7 +3436,7 @@ const list = [
     model: "CDM3LS-250C/4300A 250A U AC230V 1/3/5",
     price: "1326.00",
     showPrice: "455.31",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3444,7 +3444,7 @@ const list = [
     model: "CDM3LS-250C/4300A 250A 1/3/5delay2",
     price: "1260.00",
     showPrice: "432.65",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/36aebd40a66352db.jpg",
   },
   {
@@ -3452,7 +3452,7 @@ const list = [
     model: "CDM3LS-250C/4300A 250A 1/3/5delay1",
     price: "1260.00",
     showPrice: "432.65",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3460,7 +3460,7 @@ const list = [
     model: "CDM3LS-250C/4300A 250A 03/1/3",
     price: "1202.00",
     showPrice: "412.75",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3468,7 +3468,7 @@ const list = [
     model: "CDM3LS-250C/4300A 225A 1/3/5",
     price: "1202.00",
     showPrice: "412.75",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3476,7 +3476,7 @@ const list = [
     model: "CDM3LS-250C/4300B 200A 1/3/5delay2",
     price: "1265.00",
     showPrice: "434.37",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/80050ee3c1e65a1d.jpg",
   },
   {
@@ -3484,7 +3484,7 @@ const list = [
     model: "CDM3LS-250C/4300B 200A 1/3/5delay1",
     price: "1265.00",
     showPrice: "434.37",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3492,7 +3492,7 @@ const list = [
     model: "CDM3LS-250C/4300B 200A 03/1/3",
     price: "1207.00",
     showPrice: "414.46",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
     url: "https://images.toastduck.com/6ec99a13d91c7530.jpg",
   },
   {
@@ -3500,7 +3500,7 @@ const list = [
     model: "CDM3LS-250C/4340A 200A 1/3/5 AC230V",
     price: "1338.00",
     showPrice: "459.43",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/83050acb0ede62f6.jpg",
   },
   {
@@ -3508,7 +3508,7 @@ const list = [
     model: "CDM3LS-250C/4300A 200A U AC230V 1/3/5",
     price: "1326.00",
     showPrice: "455.31",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3516,7 +3516,7 @@ const list = [
     model: "CDM3LS-250C/4300A 200A 1/3/5delay1",
     price: "1260.00",
     showPrice: "432.65",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/4d0afa88bde85e34.jpg",
   },
   {
@@ -3524,7 +3524,7 @@ const list = [
     model: "CDM3LS-250C/4300A 200A 03/1/3",
     price: "1202.00",
     showPrice: "412.75",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 200A",
     url: "https://images.toastduck.com/c1dbcf4d7737f675.jpg",
   },
   {
@@ -3532,7 +3532,7 @@ const list = [
     model: "CDM3LS-250C/4300B 180A 1/3/5",
     price: "1207.00",
     showPrice: "414.46",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3540,7 +3540,7 @@ const list = [
     model: "CDM3LS-250C/4300A 160A 1/3/5",
     price: "1202.00",
     showPrice: "412.75",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3548,7 +3548,7 @@ const list = [
     model: "CDM3LS-160S/43002B 160A 03/1/3",
     price: "1231.00",
     showPrice: "422.70",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3556,7 +3556,7 @@ const list = [
     model: "CDM3LS-160F/3300 160A 03/1/3",
     price: "1436.00",
     showPrice: "493.10",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3564,7 +3564,7 @@ const list = [
     model: "CDM3LS-160C/4300B 160A 1/3/5delay2",
     price: "1245.99",
     showPrice: "427.84",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3572,7 +3572,7 @@ const list = [
     model: "CDM3LS-160C/4300B 160A 1/3/5delay1",
     price: "1245.99",
     showPrice: "427.84",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3580,7 +3580,7 @@ const list = [
     model: "CDM3LS-160C/4300A 160A U AC230V 1/3/5",
     price: "1312.00",
     showPrice: "450.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3588,7 +3588,7 @@ const list = [
     model: "CDM3LS-160C/4300A 160A 1/3/5delay1",
     price: "1245.99",
     showPrice: "427.84",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3596,7 +3596,7 @@ const list = [
     model: "CDM3LS-160C/4300A 160A 03/1/3",
     price: "1188.00",
     showPrice: "407.94",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3604,7 +3604,7 @@ const list = [
     model: "CDM3LS-160C/3300 160A 1/3/5",
     price: "1043.00",
     showPrice: "358.14",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/acee7c89ebf24e8d.jpg",
   },
   {
@@ -3612,7 +3612,7 @@ const list = [
     model: "CDM3LS-160C/4300B 125A 1/3/5",
     price: "1188.00",
     showPrice: "407.94",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3620,7 +3620,7 @@ const list = [
     model: "CDM3LS-160C/4300A 125A 1/3/5",
     price: "1188.00",
     showPrice: "407.94",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3628,7 +3628,7 @@ const list = [
     model: "CDM3LS-125S/4308B 80A 1/3/5delay2",
     price: "1053.00",
     showPrice: "361.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3636,7 +3636,7 @@ const list = [
     model: "CDM3LS-125S/43002B 80A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 80A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3644,7 +3644,7 @@ const list = [
     model: "CDM3LS-125S/4300A 63A U AC230V 03/1/3",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 63A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3652,7 +3652,7 @@ const list = [
     model: "CDM3LS-125S/4300B 50A U AC230V 03/1/3",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 50A",
     url: "https://images.toastduck.com/5308d1c97808efa1.jpg",
   },
   {
@@ -3660,7 +3660,7 @@ const list = [
     model: "CDM3LS-125S/42002A 50A U AC230V 03/1/3",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 50A",
     url: "https://images.toastduck.com/6669530127201a94.jpg",
   },
   {
@@ -3668,7 +3668,7 @@ const list = [
     model: "CDM3LS-125S/2300C 25A 1/3/5delay1",
     price: "840.00",
     showPrice: "288.43",
-    remark: "Series: CDM3LS | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3676,7 +3676,7 @@ const list = [
     model: "CDM3LS-125S/4300A 16A U AC230V 03/1/3",
     price: "1078.00",
     showPrice: "370.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 16A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 16A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3684,7 +3684,7 @@ const list = [
     model: "CDM3LS-125S/43002B 125A 03/1/3",
     price: "954.00",
     showPrice: "327.59",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3692,7 +3692,7 @@ const list = [
     model: "CDM3LS-125F/4300B 32A 03/1/3",
     price: "1592.00",
     showPrice: "546.66",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 32A",
     url: "https://images.toastduck.com/30546fa605a41bb1.jpg",
   },
   {
@@ -3700,7 +3700,7 @@ const list = [
     model: "CDM3LS-125C/4300B 80A 1/3/5delay1",
     price: "945.00",
     showPrice: "324.49",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/77f0e2f88e5b0306.jpg",
   },
   {
@@ -3708,7 +3708,7 @@ const list = [
     model: "CDM3LS-125C/4300A 80A U AC230V 1/3/5",
     price: "1011.00",
     showPrice: "347.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3716,7 +3716,7 @@ const list = [
     model: "CDM3LS-125C/4300A 80A 03/1/3",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 80A",
     url: "https://images.toastduck.com/44faa4beb6511682.jpg",
   },
   {
@@ -3724,7 +3724,7 @@ const list = [
     model: "CDM3LS-125C/4300B 63A 1/3/5delay2",
     price: "945.00",
     showPrice: "324.49",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3732,7 +3732,7 @@ const list = [
     model: "CDM3LS-125C/4300B 63A 1/3/5delay1",
     price: "945.00",
     showPrice: "324.49",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/cf881c8fd1e7fc50.jpg",
   },
   {
@@ -3740,7 +3740,7 @@ const list = [
     model: "CDM3LS-125C/4300A 63A 03/1/3",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 63A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3748,7 +3748,7 @@ const list = [
     model: "CDM3LS-125C/4300B 50A 1/3/5",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3756,7 +3756,7 @@ const list = [
     model: "CDM3LS-125C/3300 50A 03/1/3",
     price: "830.00",
     showPrice: "285.00",
-    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 3P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 50A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3764,7 +3764,7 @@ const list = [
     model: "CDM3LS-125C/4300A 40A 1/3/5",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3772,7 +3772,7 @@ const list = [
     model: "CDM3LS-125C/4300A 40A 03/1/3",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 40A",
     url: "https://images.toastduck.com/f535f142e87d774a.jpg",
   },
   {
@@ -3780,7 +3780,7 @@ const list = [
     model: "CDM3LS-125C/4300B 32A 1/3/5",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3788,7 +3788,7 @@ const list = [
     model: "CDM3LS-125C/4300B 32A 03/1/3",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 32A",
     url: "https://images.toastduck.com/da752665a19e6308.jpg",
   },
   {
@@ -3796,7 +3796,7 @@ const list = [
     model: "CDM3LS-125C/4300A 32A 1/3/5",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 32A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3804,7 +3804,7 @@ const list = [
     model: "CDM3LS-125C/4300B 25A 1/3/5",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3812,7 +3812,7 @@ const list = [
     model: "CDM3LS-125C/4300A 25A 1/3/5",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3820,7 +3820,7 @@ const list = [
     model: "CDM3LS-125C/4300B 125A 1/3/5delay2",
     price: "945.00",
     showPrice: "324.49",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3828,7 +3828,7 @@ const list = [
     model: "CDM3LS-125C/4300B 125A 1/3/5delay1",
     price: "945.00",
     showPrice: "324.49",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3836,7 +3836,7 @@ const list = [
     model: "CDM3LS-125C/4300A 125A 1/3/5delay1",
     price: "945.00",
     showPrice: "324.49",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/1892e6cfb8503865.jpg",
   },
   {
@@ -3844,7 +3844,7 @@ const list = [
     model: "CDM3LS-125C/4300A 125A 1/3/5",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/37067d4420ed1248.jpg",
   },
   {
@@ -3852,7 +3852,7 @@ const list = [
     model: "CDM3LS-125C/4300A 125A 03/1/3",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
     url: "https://images.toastduck.com/02d5d29fbeccf1cd.jpg",
   },
   {
@@ -3860,7 +3860,7 @@ const list = [
     model: "CDM3LS-125C/4300B 100A 1/3/5delay2",
     price: "945.00",
     showPrice: "324.49",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3868,7 +3868,7 @@ const list = [
     model: "CDM3LS-125C/4300B 100A 1/3/5delay1",
     price: "945.00",
     showPrice: "324.49",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/c6bc8fe5d593c0e9.jpg",
   },
   {
@@ -3876,7 +3876,7 @@ const list = [
     model: "CDM3LS-125C/4300B 100A 03/1/3",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3884,7 +3884,7 @@ const list = [
     model: "CDM3LS-125C/4300A 100A U AC230V 1/3/5",
     price: "1011.00",
     showPrice: "347.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3892,7 +3892,7 @@ const list = [
     model: "CDM3LS-125C/4300A 100A 1/3/5delay1",
     price: "945.00",
     showPrice: "324.49",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3900,7 +3900,7 @@ const list = [
     model: "CDM3LS-125C/4340A 63A U AC230V 1/3/5delay1",
     price: "1205.00",
     showPrice: "413.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/8b25dbc00c6368e4.jpg",
   },
   {
@@ -3908,7 +3908,7 @@ const list = [
     model: "CDM3LS-125C/4340A 25A U AC230V 1/3/5delay1",
     price: "1205.00",
     showPrice: "413.77",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
     url: "https://images.toastduck.com/59246bfeaaf990f2.jpg",
   },
   {
@@ -3916,7 +3916,7 @@ const list = [
     model: "CDM3LS-250S/4340A 180A 03/1/3 AC230V",
     price: "1408.00",
     showPrice: "483.48",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 180A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 180A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3924,7 +3924,7 @@ const list = [
     model: "CDM3LS-160S/4340A 125A 1/3/5delay2 DC24V",
     price: "1425.00",
     showPrice: "489.31",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3932,7 +3932,7 @@ const list = [
     model: "CDM3LS-125S/2300C 50A 1/3/5delay1",
     price: "840.00",
     showPrice: "288.43",
-    remark: "Series: CDM3LS | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 2P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3940,7 +3940,7 @@ const list = [
     model: "CDM3LS-250C/4340A 225A 1/3/5 AC230V",
     price: "1338.00",
     showPrice: "459.43",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3948,7 +3948,7 @@ const list = [
     model: "CDM3LS-250C/4340A 160A 1/3/5 AC230V",
     price: "1338.00",
     showPrice: "459.43",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3956,7 +3956,7 @@ const list = [
     model: "CDM3LS-250C/4340A 125A 1/3/5 AC230V",
     price: "1338.00",
     showPrice: "459.43",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3964,7 +3964,7 @@ const list = [
     model: "CDM3LS-250C/4340A 100A 1/3/5 AC230V",
     price: "1338.00",
     showPrice: "459.43",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3972,7 +3972,7 @@ const list = [
     model: "CDM3LS-125C/4318A 125A 1/3/5 AC230V",
     price: "1023.00",
     showPrice: "351.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3980,7 +3980,7 @@ const list = [
     model: "CDM3LS-160C/4318A 160A 1/3/5 AC230V",
     price: "1324.00",
     showPrice: "454.63",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3988,7 +3988,7 @@ const list = [
     model: "CDM3LS-125C/4300A 125A 1/3/5delay2",
     price: "945.00",
     showPrice: "324.49",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -3996,7 +3996,7 @@ const list = [
     model: "CDM3LS-160S/4340A 100A 1/3/5 AC230V",
     price: "1366.99",
     showPrice: "469.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4004,7 +4004,7 @@ const list = [
     model: "CDM3LS-160C/4340A 160A 1/3/5delay2 AC230V",
     price: "1382.00",
     showPrice: "474.55",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4012,7 +4012,7 @@ const list = [
     model: "CDM3LS-125C/4340A 63A 1/3/5delay2 AC230V",
     price: "1081.00",
     showPrice: "371.19",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4020,7 +4020,7 @@ const list = [
     model: "CDM3LS-125C/4340A 50A 1/3/5delay2 AC230V",
     price: "1081.00",
     showPrice: "371.19",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4028,7 +4028,7 @@ const list = [
     model: "CDM3LS-125C/4340A 40A 1/3/5delay2 AC230V",
     price: "1081.00",
     showPrice: "371.19",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 40A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4036,7 +4036,7 @@ const list = [
     model: "CDM3LS-125C/4340A 125A 1/3/5delay2 AC230V",
     price: "1081.00",
     showPrice: "371.19",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4044,7 +4044,7 @@ const list = [
     model: "CDM3LS-125C/4340A 100A 1/3/5delay2 AC230V",
     price: "1081.00",
     showPrice: "371.19",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4052,7 +4052,7 @@ const list = [
     model: "CDM3LS-125C/4340A 100A U AC230V 1/3/5",
     price: "1147.00",
     showPrice: "393.86",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4060,7 +4060,7 @@ const list = [
     model: "CDM3LS-160C/4340A 140A 1/3/5delay2 AC230V",
     price: "1382.00",
     showPrice: "474.55",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 140A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4068,7 +4068,7 @@ const list = [
     model: "CDM3LS-250F/4340A 250A 1/3/5delay2 AC230V",
     price: "1997.00",
     showPrice: "685.72",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4076,7 +4076,7 @@ const list = [
     model: "CDM3LS-250F/4340A 250A 1/3/5delay1 AC230V",
     price: "1997.00",
     showPrice: "685.72",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4084,7 +4084,7 @@ const list = [
     model: "CDM3LS-160F/4340A 160A 1/3/5delay1 AC230V",
     price: "1943.00",
     showPrice: "667.18",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4092,7 +4092,7 @@ const list = [
     model: "CDM3LS-125C/4340A 125A 1/3/5 AC230V",
     price: "1023.00",
     showPrice: "351.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4100,7 +4100,7 @@ const list = [
     model: "CDM3LS-125C/4340A 80A 1/3/5 AC230V",
     price: "1023.00",
     showPrice: "351.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 80A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4108,7 +4108,7 @@ const list = [
     model: "CDM3LS-125C/4340A 50A 1/3/5 AC230V",
     price: "1023.00",
     showPrice: "351.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4116,7 +4116,7 @@ const list = [
     model: "CDM3LS-125C/43482A 50A 1/3/5 AC230V",
     price: "1064.00",
     showPrice: "365.35",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 50A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4124,7 +4124,7 @@ const list = [
     model: "CDM3LS-125C/4348A 125A 1/3/5 AC230V",
     price: "1064.00",
     showPrice: "365.35",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4132,7 +4132,7 @@ const list = [
     model: "CDM3LS-125C/4348A 25A 1/3/5 AC230V",
     price: "1064.00",
     showPrice: "365.35",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 25A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4140,7 +4140,7 @@ const list = [
     model: "CDM3LS-125C/4340A 100A 1/3/5 DC24V",
     price: "1023.00",
     showPrice: "351.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4148,7 +4148,7 @@ const list = [
     model: "CDM3LS-160C/4348A 160A 1/3/5 AC230V",
     price: "1364.99",
     showPrice: "468.71",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4156,7 +4156,7 @@ const list = [
     model: "CDM3LS-250C/4340B 250A 1/3/5 AC230V",
     price: "1343.01",
     showPrice: "461.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4164,7 +4164,7 @@ const list = [
     model: "CDM3LS-250C/4340B 200A 1/3/5 AC230V",
     price: "1343.01",
     showPrice: "461.16",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4172,7 +4172,7 @@ const list = [
     model: "CDM3LS-125S/4300B 63A U AC230V 300mA delay1",
     price: "1136.00",
     showPrice: "390.08",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300mA | Rated current: 63A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4180,7 +4180,7 @@ const list = [
     model: "CDM3LS-160S/4300B 125A U AC230V 300mA delay1",
     price: "1413.00",
     showPrice: "485.19",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4188,7 +4188,7 @@ const list = [
     model: "CDM3LS-250S/4300B 180A U AC230V 300mA delay1",
     price: "1454.00",
     showPrice: "499.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300mA | Rated current: 180A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300mA | Rated current: 180A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4196,7 +4196,7 @@ const list = [
     model: "CDM3LS-250S/4300B 225A U AC230V 300mA delay1",
     price: "1454.00",
     showPrice: "499.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300mA | Rated current: 225A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4204,7 +4204,7 @@ const list = [
     model: "CDM3LS-160C/4340A 160A 1/3/5 AC230V",
     price: "1324.00",
     showPrice: "454.63",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4212,7 +4212,7 @@ const list = [
     model: "CDM3LS-250F/4340A 200A 1/3/5 AC230V",
     price: "1939.00",
     showPrice: "665.81",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 200A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4220,7 +4220,7 @@ const list = [
     model: "CDM3LS-250F/4340A 225A 1/3/5 AC230V",
     price: "1939.00",
     showPrice: "665.81",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 225A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4228,7 +4228,7 @@ const list = [
     model: "CDM3LS-250F/4340A 250A 1/3/5 AC230V",
     price: "1939.00",
     showPrice: "665.81",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4236,7 +4236,7 @@ const list = [
     model: "CDM3LS-160C/4300A 100A 1/3/5",
     price: "1188.00",
     showPrice: "407.94",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4244,7 +4244,7 @@ const list = [
     model: "CDM3LS-125C/4340A 63A 1/3/5 AC230V",
     price: "1023.00",
     showPrice: "351.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 63A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4252,7 +4252,7 @@ const list = [
     model: "CDM3LS-160C/4300B 100A 03/1/3",
     price: "1188.00",
     showPrice: "407.94",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 100A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4260,7 +4260,7 @@ const list = [
     model: "CDM3LS-125C/4300B 50A 03/1/3",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 50A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4268,7 +4268,7 @@ const list = [
     model: "CDM3LS-125C/4300B 25A 03/1/3",
     price: "887.00",
     showPrice: "304.58",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 25A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 25A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4276,7 +4276,7 @@ const list = [
     model: "CDM3LS-160C/4300B 125A 03/1/3",
     price: "1188.00",
     showPrice: "407.94",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 125A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4284,7 +4284,7 @@ const list = [
     model: "CDM3LS-125C/4348A 32A 03/1/3 AC230V",
     price: "1064.00",
     showPrice: "365.35",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 32A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 32A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4292,7 +4292,7 @@ const list = [
     model: "CDM3LS-125C/4348A 40A 03/1/3 AC230V",
     price: "1064.00",
     showPrice: "365.35",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 40A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4300,7 +4300,7 @@ const list = [
     model: "CDM3LS-250C/4348A 225A 03/1/3 AC230V",
     price: "1379.00",
     showPrice: "473.52",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 225A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 225A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4308,7 +4308,7 @@ const list = [
     model: "CDM3LS-250C/4348A 180A 1/3/5delay1 AC230V",
     price: "1437.00",
     showPrice: "493.43",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 180A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4316,7 +4316,7 @@ const list = [
     model: "CDM3LS-125C/4340A 80A 03/1/3 AC230V",
     price: "1023.00",
     showPrice: "351.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 80A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4324,7 +4324,7 @@ const list = [
     model: "CDM3LS-160C/4340A 160A 03/1/3 AC230V",
     price: "1324.00",
     showPrice: "454.63",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 30/100/300mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4332,7 +4332,7 @@ const list = [
     model: "CDM3LS-250S/4340A 250A 1/3/5delay2 AC230V",
     price: "1466.01",
     showPrice: "503.40",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/300/500mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4340,7 +4340,7 @@ const list = [
     model: "CDM3LS-125S/43002B 40A 300mA delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300mA | Rated current: 40A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300mA | Rated current: 40A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4348,7 +4348,7 @@ const list = [
     model: "CDM3LS-125S/43002B 50A 300mA delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300mA | Rated current: 50A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300mA | Rated current: 50A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4356,7 +4356,7 @@ const list = [
     model: "CDM3LS-125S/43002B 80A 300mA delay2",
     price: "1012.01",
     showPrice: "347.51",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300mA | Rated current: 80A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300mA | Rated current: 80A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4364,7 +4364,7 @@ const list = [
     model: "CDM3LS-250S/4300B 160A U AC230V 300mA delay2",
     price: "1454.00",
     showPrice: "499.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300mA | Rated current: 160A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300mA | Rated current: 160A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
   {
@@ -4372,7 +4372,7 @@ const list = [
     model: "CDM3LS-250S/4300B 250A U AC230V 300mA delay2",
     price: "1454.00",
     showPrice: "499.28",
-    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 300mA | Rated current: 250A",
+    remark: "Series: CDM3LS | Number of poles: 4P | Rated ultimate breaking capacity: 35kA | Trip unit type: - | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 300mA | Rated current: 250A",
     url: "https://images.toastduck.com/07113203205804ff.jpg",
   },
 ];

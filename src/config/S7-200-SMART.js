@@ -180,7 +180,7 @@ const list = [
     model: "6ES72881ST600AA1",
     price: "1714.00",
     showPrice: "2065.06",
-    remark: "Series: S7-200 SMART | Power supply voltage: DC24V | Total I/O points:60 | Number of digital input points:36 | Number of digital output points:24 | Communication interface：Ethernet,RS485",
+    remark: "Series: S7-200 SMART | Power supply voltage: DC24V | Total I/O points:60 | Number of digital input points:36 | Number of digital output points:24 | Communication interface:Ethernet,RS485",
     url: "https://images.toastduck.com/071132032047bc87.jpg",
   },
   {
@@ -244,7 +244,7 @@ const list = [
     model: "S7-200 SMART CPU CR40s",
     price: "2129.86",
     showPrice: "872.29",
-    remark: "Series: S7-200 SMART | Power supply voltage: AC85-264V | Total I/O points:40 | Number of digital input points:24 | Number of digital output points:16 | Number of analog input channels:- | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:- | Analog output type:- | Communication interface：RS485",
+    remark: "Series: S7-200 SMART | Power supply voltage: AC85-264V | Total I/O points:40 | Number of digital input points:24 | Number of digital output points:16 | Number of analog input channels:- | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:- | Analog output type:- | Communication interface:RS485",
     url: "https://images.toastduck.com/f41ea8b628a132d1.jpg",
   },
   {
@@ -292,7 +292,7 @@ const list = [
     model: "6ES72881CR600AA0",
     price: "3500.78",
     showPrice: "1404.82",
-    remark: "Series: S7-200 SMART | Power supply voltage: AC220V | Total I/O points:60 | Number of digital input points:36 | Number of digital output points:24 | Number of analog input channels:- | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:- | Analog output type:- | Communication interface：Ethernet,RS485",
+    remark: "Series: S7-200 SMART | Power supply voltage: AC220V | Total I/O points:60 | Number of digital input points:36 | Number of digital output points:24 | Number of analog input channels:- | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:- | Analog output type:- | Communication interface:Ethernet,RS485",
     url: "https://images.toastduck.com/11763ea90780b33d.jpg",
   },
   {
@@ -300,7 +300,7 @@ const list = [
     model: "S7-200 SMART CPU CR20s",
     price: "1430.64",
     showPrice: "587.95",
-    remark: "Series: S7-200 SMART | Power supply voltage: AC85-264V | Total I/O points:20 | Number of digital input points:12 | Number of digital output points:8 | Number of analog input channels:- | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:- | Analog output type:- | Communication interface：RS485",
+    remark: "Series: S7-200 SMART | Power supply voltage: AC85-264V | Total I/O points:20 | Number of digital input points:12 | Number of digital output points:8 | Number of analog input channels:- | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:- | Analog output type:- | Communication interface:RS485",
     url: "https://images.toastduck.com/6e0c8cb11d16aad0.jpg",
   },
   {
@@ -308,7 +308,7 @@ const list = [
     model: "S7-200 SMART CPU CR30s",
     price: "1812.45",
     showPrice: "742.17",
-    remark: "Series: S7-200 SMART | Power supply voltage: AC85-264V | Total I/O points:30 | Number of digital input points:18 | Number of digital output points:12 | Number of analog input channels:- | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:- | Analog output type:- | Communication interface：RS485",
+    remark: "Series: S7-200 SMART | Power supply voltage: AC85-264V | Total I/O points:30 | Number of digital input points:18 | Number of digital output points:12 | Number of analog input channels:- | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:- | Analog output type:- | Communication interface:RS485",
     url: "https://images.toastduck.com/37de11bf6022a5f4.jpg",
   },
   {
@@ -316,7 +316,7 @@ const list = [
     model: "6ES72881CR400AA0",
     price: "2597.10",
     showPrice: "1063.86",
-    remark: "Series: S7-200 SMART | Power supply voltage: AC220V | Total I/O points:40 | Number of digital input points:24 | Number of digital output points:16 | Number of analog input channels:- | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:- | Analog output type:- | Communication interface：Ethernet,RS485",
+    remark: "Series: S7-200 SMART | Power supply voltage: AC220V | Total I/O points:40 | Number of digital input points:24 | Number of digital output points:16 | Number of analog input channels:- | Number of analog output channels:- | Digital input voltage:DC24V | Digital output type:Relay | Analog input type:- | Analog output type:- | Communication interface:Ethernet,RS485",
     url: "https://images.toastduck.com/319e76a0f9de96da.jpg",
   },
 ];

@@ -4,7 +4,7 @@ const list = [
     model: "VigiEZD630E 630A 4P4T",
     price: "10040.78",
     showPrice: "7984.23",
-    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 630A",
+    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 630A",
     url: "https://images.toastduck.com/c5648f6156e44fff.jpg",
   },
   {
@@ -12,7 +12,7 @@ const list = [
     model: "VigiEZD630E 500A 4P3T",
     price: "8333.82",
     showPrice: "6626.89",
-    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 500A",
+    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 500A",
     url: "https://images.toastduck.com/c5648f6156e44fff.jpg",
   },
   {
@@ -20,7 +20,7 @@ const list = [
     model: "VigiEZD630E 500A 3P3T",
     price: "8013.30",
     showPrice: "6372.02",
-    remark: "Series: EZD | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 500A",
+    remark: "Series: EZD | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 500A",
     url: "https://images.toastduck.com/c8fa2b83a2a9a20c.jpg",
   },
   {
@@ -28,7 +28,7 @@ const list = [
     model: "VigiEZD630E 600A 3P3T",
     price: "8013.30",
     showPrice: "6372.02",
-    remark: "Series: EZD | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 600A",
+    remark: "Series: EZD | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 600A",
     url: "https://images.toastduck.com/b1b40d26189cb4ac.jpg",
   },
   {
@@ -36,7 +36,7 @@ const list = [
     model: "VigiEZD630E 400A 4P3T",
     price: "8333.82",
     showPrice: "6626.89",
-    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 400A",
+    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 400A",
     url: "https://images.toastduck.com/3a39e2eb86289090.jpg",
   },
   {
@@ -44,7 +44,7 @@ const list = [
     model: "VigiEZD630E 600A 4P3T",
     price: "8333.82",
     showPrice: "6626.89",
-    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 600A",
+    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 600A",
     url: "https://images.toastduck.com/c5648f6156e44fff.jpg",
   },
   {
@@ -52,7 +52,7 @@ const list = [
     model: "VigiEZD630E 400A 4P3T Alarm",
     price: "8509.98",
     showPrice: "6766.98",
-    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/200/500/1000mA | Rated current: 400A",
+    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/200/500/1000mA | Rated current: 400A",
     url: "https://images.toastduck.com/3a39e2eb86289090.jpg",
   },
   {
@@ -60,7 +60,7 @@ const list = [
     model: "VigiEZD630E 500A 4P3T Alarm",
     price: "8509.98",
     showPrice: "6766.98",
-    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/200/500/1000mA | Rated current: 500A",
+    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/200/500/1000mA | Rated current: 500A",
     url: "https://images.toastduck.com/3a39e2eb86289090.jpg",
   },
   {
@@ -68,7 +68,7 @@ const list = [
     model: "VigiEZD630E 600A 4P3T Alarm",
     price: "8509.98",
     showPrice: "6766.98",
-    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/200/500/1000mA | Rated current: 600A",
+    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/200/500/1000mA | Rated current: 600A",
     url: "https://images.toastduck.com/3a39e2eb86289090.jpg",
   },
   {
@@ -76,7 +76,7 @@ const list = [
     model: "VigiEZD630M 500A 4P3T",
     price: "9087.90",
     showPrice: "7226.52",
-    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 500A",
+    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 500A",
     url: "https://images.toastduck.com/3a39e2eb86289090.jpg",
   },
   {
@@ -84,7 +84,7 @@ const list = [
     model: "VigiEZD630M 600A 4P3T Alarm",
     price: "9354.87",
     showPrice: "7438.81",
-    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/200/500/1000mA | Rated current: 600A",
+    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/200/500/1000mA | Rated current: 600A",
     url: "https://images.toastduck.com/3a39e2eb86289090.jpg",
   },
   {
@@ -92,7 +92,7 @@ const list = [
     model: "VigiEZD630E 630A 3P3T",
     price: "9654.56",
     showPrice: "7677.12",
-    remark: "Series: EZD | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 630A",
+    remark: "Series: EZD | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 630A",
     url: "https://images.toastduck.com/37ef46730aa5f3e5.jpg",
   },
   {
@@ -100,7 +100,7 @@ const list = [
     model: "VigiEZD630E 630A 4P4T Alarm",
     price: "10252.96",
     showPrice: "8152.95",
-    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 100/200/500/1000mA | Rated current: 630A",
+    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 36kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 100/200/500/1000mA | Rated current: 630A",
     url: "https://images.toastduck.com/3a39e2eb86289090.jpg",
   },
   {
@@ -108,7 +108,7 @@ const list = [
     model: "VigiEZD630M 630A 3P3T",
     price: "10625.68",
     showPrice: "8449.34",
-    remark: "Series: EZD | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 630A",
+    remark: "Series: EZD | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 630A",
     url: "https://images.toastduck.com/c8fa2b83a2a9a20c.jpg",
   },
   {
@@ -116,7 +116,7 @@ const list = [
     model: "VigiEZD630M 630A 4P4T",
     price: "10949.29",
     showPrice: "8706.66",
-    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: TMD | Installation method：Fixed type | Operation method：Direct operation | Wiring method：Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 630A",
+    remark: "Series: EZD | Number of poles: 4P | Rated ultimate breaking capacity: 50kA | Trip unit type: TMD | Installation method:Fixed type | Operation method:Direct operation | Wiring method:Front wiring | Residual operating current: 0.3/1/3/10/30A | Rated current: 630A",
     url: "https://images.toastduck.com/3a39e2eb86289090.jpg",
   },
 ];
