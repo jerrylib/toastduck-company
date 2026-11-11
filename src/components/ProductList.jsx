@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import PRODUCTS from "../config/products";
 import { PRODUCT_CATALOG } from "../config/product-catalog";
+import ProductPageNotice from "./ProductPageNotice";
 
 const ProductList = () => {
   const brands = [
@@ -35,6 +36,9 @@ const ProductList = () => {
   return (
     <section className="section-lg bg-default mt-[30px]">
       <div className="container mx-auto px-4">
+        {/* New product page notice */}
+        <ProductPageNotice />
+
         {/* Tabs */}
         <div className="flex justify-center gap-2 md:gap-4 mb-8">
           {brands.map((brand) => (

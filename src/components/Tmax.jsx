@@ -1,6 +1,7 @@
 import { useMemo, useEffect, useState } from "react";
 import { useParams, Link, useSearchParams } from "react-router-dom";
 import PRODUCTS from "../config/products";
+import ProductPageNotice from "./ProductPageNotice";
 
 const PAGE_SIZE = 20;
 
@@ -148,6 +149,9 @@ const Tmax = () => {
   return (
     <section className="section-lg bg-default mt-[30px]">
       <div className="container mx-auto px-4">
+        {/* New product page notice */}
+        <ProductPageNotice />
+
         {/* Header：Back 按钮靠左，搜索框居中，同一行 */}
         <div className="relative mb-4 flex items-center justify-center">
           <Link
