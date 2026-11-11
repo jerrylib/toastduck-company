@@ -1,10 +1,5 @@
 import React from "react";
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  useNavigate,
-} from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import {
   Preloader,
   Header,
@@ -21,11 +16,17 @@ import "./App.css";
 
 import { HashRedirect } from "./HashRedirect";
 
+// Main site home page. This project is served from company.toastduck.com,
+// while the marketing home lives on www.toastduck.com — so the Products
+// button jumps to the external page instead of an in-app route.
+const MAIN_SITE_HOME_URL = "https://www.toastduck.com/products";
+
 function ProductsButton() {
-  const navigate = useNavigate();
   return (
     <button
-      onClick={() => navigate("/products")}
+      onClick={() => {
+        window.location.href = MAIN_SITE_HOME_URL;
+      }}
       className="ui-to-top-products"
       aria-label="Go to Products"
     >
