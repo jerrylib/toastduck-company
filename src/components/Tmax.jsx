@@ -252,8 +252,17 @@ const Tmax = () => {
                         />
                       </button>
                     </td>
-                    <td className="px-3 py-1.5 text-xs md:text-sm text-gray-600 font-mono whitespace-nowrap">
-                      {item.orderId}
+                    <td className="px-3 py-1.5 text-xs md:text-sm font-mono whitespace-nowrap">
+                      <a
+                        target="__blank"
+                        href={`https://www.toastduck.com/cn/products/${encodeURIComponent(
+                          item.orderId
+                        )}`}
+                        className="text-sky-700 hover:text-sky-900 hover:underline"
+                        title={item.orderId}
+                      >
+                        {item.orderId}
+                      </a>
                     </td>
                     <td className="px-3 py-1.5 text-xs md:text-sm font-semibold text-gray-800 whitespace-nowrap">
                       {item.model}
