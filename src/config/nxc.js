@@ -904,7 +904,7 @@ const list = [
     price: "179.01",
     showPrice: "179.01",
     remark:
-      "Series: NXC | Coil voltage: AC220V | Frequency:50/60Hz | Rated current: 25A | Number of poles: 3极 | Main contact type:3NO | Auxiliary contacts:1NO+1NC",
+      "Series: NXC | Coil voltage: AC220V | Frequency:50/60Hz | Rated current: 25A | Number of poles: 3P | Main contact type:3NO | Auxiliary contacts:1NO+1NC",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/405422/35/6991/29503/69bb66b4F0a15b9cd/0711320320b6710a.jpg.avif",
   },
   {
@@ -1098,7 +1098,7 @@ const list = [
   },
   {
     orderId: "T710010100000761",
-    model: "NXC-09M10 24V 50/60Hz（Not for export）",
+    model: "NXC-09M10 24V 50/60Hz (Not for export)",
     price: "109.27",
     showPrice: "109.27",
     remark: "Series: NXC",

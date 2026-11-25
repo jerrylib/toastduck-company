@@ -236,7 +236,7 @@ const list = [
         "orderId": "710053300010589",
         "model": "NXM-63H/33002 32A",
         "price": "365.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -276,7 +276,7 @@ const list = [
         "orderId": "710053300000134",
         "model": "NXM-160H/3300 125A",
         "price": "693.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A | Rated current: 125A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A | Rated current: 125A",
         "url": "https://images.toastduck.com/071132032070d06c.jpg"
     },
     {
@@ -324,7 +324,7 @@ const list = [
         "orderId": "710053300011251",
         "model": "NXM-160S/3300 140A",
         "price": "600.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A | Rated current: 140A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A | Rated current: 140A",
         "url": "https://images.toastduck.com/07113203209ca1bc.jpg"
     },
     {
@@ -356,7 +356,7 @@ const list = [
         "orderId": "710053300011720",
         "model": "NXM-250S/32002 250A",
         "price": "659.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 2A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -364,7 +364,7 @@ const list = [
         "orderId": "710053300000151",
         "model": "NXM-125S/4300B 40A",
         "price": "553.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A",
         "url": "https://images.toastduck.com/07113203200c5732.jpg"
     },
     {
@@ -372,7 +372,7 @@ const list = [
         "orderId": "710053300000315",
         "model": "NXM-63S/4300B 50A",
         "price": "423.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A",
         "url": "https://images.toastduck.com/0711320320bee2b0.jpg"
     },
     {
@@ -388,7 +388,7 @@ const list = [
         "orderId": "710053300010676",
         "model": "NXM-63S/2300 63A",
         "price": "266.00",
-        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 63A",
+        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 63A",
         "url": "https://images.toastduck.com/0711320320f4437d.jpg"
     },
     {
@@ -444,7 +444,7 @@ const list = [
         "orderId": "710053300010675",
         "model": "NXM-63S/2300 50A",
         "price": "266.00",
-        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 50A",
+        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 50A",
         "url": "https://images.toastduck.com/0711320320f4437d.jpg"
     },
     {
@@ -484,7 +484,7 @@ const list = [
         "orderId": "710053300004787",
         "model": "NXM-250S/3340 250A AC230V",
         "price": "795.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 250A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 250A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -492,7 +492,7 @@ const list = [
         "orderId": "710053300010625",
         "model": "NXM-160S/4300B 100A",
         "price": "808.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A",
         "url": "https://images.toastduck.com/0711320320007ba4.jpg"
     },
     {
@@ -500,7 +500,7 @@ const list = [
         "orderId": "710053300010592",
         "model": "NXM-63H/33002 63A",
         "price": "365.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -556,7 +556,7 @@ const list = [
         "orderId": "710053300008995",
         "model": "NXM-63S/4310B 63A AC230V",
         "price": "518.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S级 | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S class | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A",
         "url": "https://images.toastduck.com/0711320320bee2b0.jpg"
     },
     {
@@ -564,7 +564,7 @@ const list = [
         "orderId": "710053300007808",
         "model": "NXM-63S/3300 16A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 16A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 16A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -596,7 +596,7 @@ const list = [
         "orderId": "710053300000138",
         "model": "NXM-250H/3300 180A",
         "price": "757.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 180A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 180A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -628,7 +628,7 @@ const list = [
         "orderId": "710053300008202",
         "model": "NXM-125S/32002 100A",
         "price": "406.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 2A",
         "url": "https://images.toastduck.com/07113203207a5c68.jpg"
     },
     {
@@ -692,7 +692,7 @@ const list = [
         "orderId": "710053300008177",
         "model": "NXM-63S/32002 50A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -700,7 +700,7 @@ const list = [
         "orderId": "710053300007514",
         "model": "NXM-250S/2300 250A",
         "price": "508.00",
-        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 250A",
+        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 250A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -708,7 +708,7 @@ const list = [
         "orderId": "710053300008192",
         "model": "NXM-125S/3200 125A",
         "price": "406.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 125A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 125A",
         "url": "https://images.toastduck.com/0711320320fd903f.jpg"
     },
     {
@@ -724,7 +724,7 @@ const list = [
         "orderId": "710053300007185",
         "model": "NXM-125S/33002 63A",
         "price": "406.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 2A",
         "url": "https://images.toastduck.com/07113203207a5c68.jpg"
     },
     {
@@ -732,7 +732,7 @@ const list = [
         "orderId": "710053300008181",
         "model": "NXM-63S/33002 20A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -748,7 +748,7 @@ const list = [
         "orderId": "710053300008164",
         "model": "NXM-63S/3200 16A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 16A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 16A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -772,7 +772,7 @@ const list = [
         "orderId": "710053300010687",
         "model": "NXM-125S/2300 125A",
         "price": "355.00",
-        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 125A",
+        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 125A",
         "url": "https://images.toastduck.com/0711320320d9bc37.jpg"
     },
     {
@@ -788,7 +788,7 @@ const list = [
         "orderId": "710053300004113",
         "model": "NXM-125S/3310 100A AC230V",
         "price": "501.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 100A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 100A",
         "url": "https://images.toastduck.com/07113203207a5c68.jpg"
     },
     {
@@ -796,7 +796,7 @@ const list = [
         "orderId": "710053300000189",
         "model": "NXM-250H/4300B 250A",
         "price": "1013.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A",
         "url": "https://images.toastduck.com/0711320320257240.jpg"
     },
     {
@@ -804,7 +804,7 @@ const list = [
         "orderId": "710053300008176",
         "model": "NXM-63S/32002 40A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -820,7 +820,7 @@ const list = [
         "orderId": "710053300000007",
         "model": "NXM-160H/4300B 160A",
         "price": "927.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A",
         "url": "https://images.toastduck.com/0711320320d93dbc.jpg"
     },
     {
@@ -828,7 +828,7 @@ const list = [
         "orderId": "710053300000002",
         "model": "NXM-160S/2300 160A",
         "price": "427.00",
-        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A | Rated current: 160A",
+        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A | Rated current: 160A",
         "url": "https://images.toastduck.com/07113203209ca1bc.jpg"
     },
     {
@@ -868,7 +868,7 @@ const list = [
         "orderId": "710053300008166",
         "model": "NXM-63S/3200 25A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 25A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 25A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -884,7 +884,7 @@ const list = [
         "orderId": "710053300008170",
         "model": "NXM-63S/3200 63A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 63A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 63A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -900,7 +900,7 @@ const list = [
         "orderId": "710053300007512",
         "model": "NXM-250S/2300 200A",
         "price": "508.00",
-        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 200A",
+        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 200A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -924,7 +924,7 @@ const list = [
         "orderId": "710053300000092",
         "model": "NXM-400H/3300 315A",
         "price": "1733.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A | Rated current: 315A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A | Rated current: 315A",
         "url": "https://images.toastduck.com/07113203204b6659.jpg"
     },
     {
@@ -932,7 +932,7 @@ const list = [
         "orderId": "710053300000029",
         "model": "NXM-630S/3300 400A",
         "price": "2234.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 630A | Rated current: 400A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 630A | Rated current: 400A",
         "url": "https://images.toastduck.com/071132032071223e.jpg"
     },
     {
@@ -948,7 +948,7 @@ const list = [
         "orderId": "710053300000061",
         "model": "NXM-800H/3300 800A",
         "price": "3431.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 800A | Rated current: 800A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 800A | Rated current: 800A",
         "url": "https://images.toastduck.com/0711320320db2943.jpg"
     },
     {
@@ -964,7 +964,7 @@ const list = [
         "orderId": "710053300000130",
         "model": "NXM-125H/3300 63A",
         "price": "453.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 63A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 63A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -1004,7 +1004,7 @@ const list = [
         "orderId": "710053300008168",
         "model": "NXM-63S/3200 40A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 40A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 40A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -1060,7 +1060,7 @@ const list = [
         "orderId": "710053300008175",
         "model": "NXM-63S/32002 32A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -1068,7 +1068,7 @@ const list = [
         "orderId": "710053300008201",
         "model": "NXM-125S/32002 80A",
         "price": "406.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 2A",
         "url": "https://images.toastduck.com/07113203207a5c68.jpg"
     },
     {
@@ -1076,7 +1076,7 @@ const list = [
         "orderId": "710053300000093",
         "model": "NXM-400H/3300 350A",
         "price": "1733.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A | Rated current: 350A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A | Rated current: 350A",
         "url": "https://images.toastduck.com/07113203204b6659.jpg"
     },
     {
@@ -1084,7 +1084,7 @@ const list = [
         "orderId": "710053300000023",
         "model": "NXM-630H/3300 400A",
         "price": "2468.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 630A | Rated current: 400A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 630A | Rated current: 400A",
         "url": "https://images.toastduck.com/071132032071223e.jpg"
     },
     {
@@ -1092,7 +1092,7 @@ const list = [
         "orderId": "710053300000205",
         "model": "NXM-400S/4300B 320A",
         "price": "2117.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A",
         "url": "https://images.toastduck.com/0711320320d3ddb9.jpg"
     },
     {
@@ -1124,7 +1124,7 @@ const list = [
         "orderId": "710053300007189",
         "model": "NXM-250S/33002 160A",
         "price": "659.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 2A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -1132,7 +1132,7 @@ const list = [
         "orderId": "710053300008189",
         "model": "NXM-125S/3200 63A",
         "price": "406.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 63A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 63A",
         "url": "https://images.toastduck.com/0711320320fd903f.jpg"
     },
     {
@@ -1140,7 +1140,7 @@ const list = [
         "orderId": "710053300008190",
         "model": "NXM-125S/3200 80A",
         "price": "406.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 80A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 80A",
         "url": "https://images.toastduck.com/0711320320fd903f.jpg"
     },
     {
@@ -1172,7 +1172,7 @@ const list = [
         "orderId": "710053300008174",
         "model": "NXM-63S/32002 25A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -1180,7 +1180,7 @@ const list = [
         "orderId": "710053300000162",
         "model": "NXM-250H/4300B 225A",
         "price": "1013.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A",
         "url": "https://images.toastduck.com/0711320320257240.jpg"
     },
     {
@@ -1196,7 +1196,7 @@ const list = [
         "orderId": "710053300000128",
         "model": "NXM-125H/3300 25A",
         "price": "453.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 25A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 25A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -1244,7 +1244,7 @@ const list = [
         "orderId": "710053300000165",
         "model": "NXM-125H/3300 50A",
         "price": "453.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 50A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 50A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -1252,7 +1252,7 @@ const list = [
         "orderId": "710053300000139",
         "model": "NXM-250H/3300 225A",
         "price": "757.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 225A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 225A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -1276,7 +1276,7 @@ const list = [
         "orderId": "710053300007192",
         "model": "NXM-250S/33002 225A",
         "price": "659.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 2A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -1284,7 +1284,7 @@ const list = [
         "orderId": "710053300007820",
         "model": "NXM-125S/3300 16A",
         "price": "406.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 16A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 16A",
         "url": "https://images.toastduck.com/07113203202480a8.jpg"
     },
     {
@@ -1292,7 +1292,7 @@ const list = [
         "orderId": "710053300008188",
         "model": "NXM-125S/3200 50A",
         "price": "406.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 50A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 50A",
         "url": "https://images.toastduck.com/0711320320fd903f.jpg"
     },
     {
@@ -1300,7 +1300,7 @@ const list = [
         "orderId": "710053300004802",
         "model": "NXM-400S/3340 320A AC230V",
         "price": "1737.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A | Rated current: 320A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A | Rated current: 320A",
         "url": "https://images.toastduck.com/07113203204b6659.jpg"
     },
     {
@@ -1308,7 +1308,7 @@ const list = [
         "orderId": "710053300008165",
         "model": "NXM-63S/3200 20A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 20A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 20A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -1316,7 +1316,7 @@ const list = [
         "orderId": "710053300008171",
         "model": "NXM-63S/32002 10A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -1324,7 +1324,7 @@ const list = [
         "orderId": "710053300008209",
         "model": "NXM-250S/3200 180A",
         "price": "659.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 180A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 180A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -1332,7 +1332,7 @@ const list = [
         "orderId": "710053300005480",
         "model": "NXM-400S/3318 315A AC230V",
         "price": "1737.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A | Rated current: 315A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A | Rated current: 315A",
         "url": "https://images.toastduck.com/07113203204b6659.jpg"
     },
     {
@@ -1348,7 +1348,7 @@ const list = [
         "orderId": "710053300002319",
         "model": "NXM-400S/3328 315A",
         "price": "1617.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A | Rated current: 315A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A | Rated current: 315A",
         "url": "https://images.toastduck.com/07113203204b6659.jpg"
     },
     {
@@ -1364,7 +1364,7 @@ const list = [
         "orderId": "710053300003540",
         "model": "NXM-250SP/3300 200A AC230V",
         "price": "2253.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Plug-in type | Wiring method:Front wiring | Frame current: 250A | Rated current: 200A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Plug-in type | Wiring method:Front wiring | Frame current: 250A | Rated current: 200A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -1380,7 +1380,7 @@ const list = [
         "orderId": "710053300004772",
         "model": "NXM-125S/3340 63A AC230V",
         "price": "542.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 63A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 63A",
         "url": "https://images.toastduck.com/07113203207a5c68.jpg"
     },
     {
@@ -1388,7 +1388,7 @@ const list = [
         "orderId": "710053300000791",
         "model": "NXM-160H/3310 160A DC24V",
         "price": "788.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A | Rated current: 160A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A | Rated current: 160A",
         "url": "https://images.toastduck.com/071132032070d06c.jpg"
     },
     {
@@ -1396,7 +1396,7 @@ const list = [
         "orderId": "710053300004106",
         "model": "NXM-125H/3310 125A AC230V",
         "price": "548.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 125A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 125A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -1428,7 +1428,7 @@ const list = [
         "orderId": "710053300003336",
         "model": "NXM-250SZ/4300B 200A",
         "price": "1090.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Draw-out type | Wiring method:Front wiring | Frame current: 250A | Rated current: 200A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Draw-out type | Wiring method:Front wiring | Frame current: 250A | Rated current: 200A",
         "url": "https://images.toastduck.com/0711320320257240.jpg"
     },
     {
@@ -1436,7 +1436,7 @@ const list = [
         "orderId": "710053300004784",
         "model": "NXM-250S/3340 180A AC230V",
         "price": "795.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 180A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 180A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -1468,7 +1468,7 @@ const list = [
         "orderId": "710053300008577",
         "model": "NXM-63S/3340 40A AC230V",
         "price": "458.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 40A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 40A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -1476,7 +1476,7 @@ const list = [
         "orderId": "710053300004782",
         "model": "NXM-250H/3340 250A AC230V",
         "price": "893.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 250A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 250A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -1492,7 +1492,7 @@ const list = [
         "orderId": "710053300004766",
         "model": "NXM-125S/3340 100A AC230V",
         "price": "542.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 100A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 100A",
         "url": "https://images.toastduck.com/07113203207a5c68.jpg"
     },
     {
@@ -1540,7 +1540,7 @@ const list = [
         "orderId": "710053300003589",
         "model": "NXM-630SP/3300 630A AC230V",
         "price": "5130.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Plug-in type | Wiring method:Front wiring | Frame current: 630A | Rated current: 630A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Plug-in type | Wiring method:Front wiring | Frame current: 630A | Rated current: 630A",
         "url": "https://images.toastduck.com/071132032071223e.jpg"
     },
     {
@@ -1548,7 +1548,7 @@ const list = [
         "orderId": "710053300004302",
         "model": "NXM-630S/3310 630A AC230V",
         "price": "2436.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 630A | Rated current: 630A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 630A | Rated current: 630A",
         "url": "https://images.toastduck.com/071132032071223e.jpg"
     },
     {
@@ -1580,7 +1580,7 @@ const list = [
         "orderId": "710053300008169",
         "model": "NXM-63S/3200 50A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 50A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 50A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -1588,7 +1588,7 @@ const list = [
         "orderId": "710053300008172",
         "model": "NXM-63S/32002 16A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -1604,7 +1604,7 @@ const list = [
         "orderId": "710053300011253",
         "model": "NXM-160S/3340 100A AC230V",
         "price": "736.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A | Rated current: 100A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A | Rated current: 100A",
         "url": "https://images.toastduck.com/07113203209ca1bc.jpg"
     },
     {
@@ -1620,7 +1620,7 @@ const list = [
         "orderId": "710053300011741",
         "model": "NXM-400S/3200 350A",
         "price": "1453.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A | Rated current: 350A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A | Rated current: 350A",
         "url": "https://images.toastduck.com/07113203204b6659.jpg"
     },
     {
@@ -1628,7 +1628,7 @@ const list = [
         "orderId": "710053300011759",
         "model": "NXM-630S/32002 630A",
         "price": "2234.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 630A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 630A | Rated current: 2A",
         "url": "https://images.toastduck.com/071132032071223e.jpg"
     },
     {
@@ -1636,7 +1636,7 @@ const list = [
         "orderId": "710053300008179",
         "model": "NXM-63S/33002 10A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -1660,7 +1660,7 @@ const list = [
         "orderId": "710053300004152",
         "model": "NXM-125S/4310B 125A AC230V",
         "price": "648.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A",
         "url": "https://images.toastduck.com/0711320320f7d5db.jpg"
     },
     {
@@ -1868,7 +1868,7 @@ const list = [
         "orderId": "710053300003389",
         "model": "NXM-800SZ/3300 800A",
         "price": "3497.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Draw-out type | Wiring method:Front wiring | Frame current: 800A | Rated current: 800A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Draw-out type | Wiring method:Front wiring | Frame current: 800A | Rated current: 800A",
         "url": "https://images.toastduck.com/071132032080574d.jpg"
     },
     {
@@ -1892,7 +1892,7 @@ const list = [
         "orderId": "710053300010608",
         "model": "NXM-125H/33002 63A",
         "price": "453.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 2A",
         "url": "https://images.toastduck.com/0711320320f7d5db.jpg"
     },
     {
@@ -1924,7 +1924,7 @@ const list = [
         "orderId": "710053300010674",
         "model": "NXM-63S/2300 40A",
         "price": "266.00",
-        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 40A",
+        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 40A",
         "url": "https://images.toastduck.com/0711320320f4437d.jpg"
     },
     {
@@ -1932,7 +1932,7 @@ const list = [
         "orderId": "710053300008210",
         "model": "NXM-250S/3200 200A",
         "price": "659.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 200A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 200A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -1940,7 +1940,7 @@ const list = [
         "orderId": "710053300008212",
         "model": "NXM-250S/3200 250A",
         "price": "659.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 250A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 250A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -1972,7 +1972,7 @@ const list = [
         "orderId": "710053300003512",
         "model": "NXM-125SP/4300B 100A AC230V",
         "price": "2073.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Plug-in type | Wiring method:Front wiring | Frame current: 125A | Rated current: 100A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Plug-in type | Wiring method:Front wiring | Frame current: 125A | Rated current: 100A",
         "url": "https://images.toastduck.com/0711320320129bcb.jpg"
     },
     {
@@ -1988,7 +1988,7 @@ const list = [
         "orderId": "710053300000164",
         "model": "NXM-125H/3300 32A",
         "price": "453.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 32A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 32A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -2004,7 +2004,7 @@ const list = [
         "orderId": "710053300004114",
         "model": "NXM-125S/3310 125A AC230V",
         "price": "501.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 125A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 125A",
         "url": "https://images.toastduck.com/07113203207a5c68.jpg"
     },
     {
@@ -2028,7 +2028,7 @@ const list = [
         "orderId": "710053300008578",
         "model": "NXM-63S/3340 50A AC230V",
         "price": "458.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 50A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 50A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -2036,7 +2036,7 @@ const list = [
         "orderId": "710053300008579",
         "model": "NXM-63S/3340 63A AC230V",
         "price": "458.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 63A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 63A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -2044,7 +2044,7 @@ const list = [
         "orderId": "710053300000077",
         "model": "NXM-1600S/3300T 1000A",
         "price": "9041.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 1600A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 1600A",
         "url": "https://images.toastduck.com/0711320320f81138.jpg"
     },
     {
@@ -2052,7 +2052,7 @@ const list = [
         "orderId": "710053300008173",
         "model": "NXM-63S/32002 20A",
         "price": "322.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: - | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 2A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -2060,7 +2060,7 @@ const list = [
         "orderId": "710053300008482",
         "model": "NXM-63S/3310 50A AC230V",
         "price": "417.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 50A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 50A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -2084,7 +2084,7 @@ const list = [
         "orderId": "710053300000085",
         "model": "NXM-1600H/3300T 1600A",
         "price": "9759.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 1600A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 1600A",
         "url": "https://images.toastduck.com/0711320320f81138.jpg"
     },
     {
@@ -2092,7 +2092,7 @@ const list = [
         "orderId": "710053300000137",
         "model": "NXM-250H/3300 160A",
         "price": "757.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 160A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A | Rated current: 160A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -2116,7 +2116,7 @@ const list = [
         "orderId": "710053300000159",
         "model": "NXM-250S/4300B 180A",
         "price": "891.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A",
         "url": "https://images.toastduck.com/0711320320257240.jpg"
     },
     {
@@ -2132,7 +2132,7 @@ const list = [
         "orderId": "710053300000146",
         "model": "NXM-125H/4300B 80A",
         "price": "612.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A",
         "url": "https://images.toastduck.com/0711320320bee2b0.jpg"
     },
     {
@@ -2140,7 +2140,7 @@ const list = [
         "orderId": "710053300000148",
         "model": "NXM-125H/4300B 125A",
         "price": "612.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A",
         "url": "https://images.toastduck.com/0711320320bee2b0.jpg"
     },
     {
@@ -2148,7 +2148,7 @@ const list = [
         "orderId": "710053300000057",
         "model": "NXM-800S/4300B 700A",
         "price": "4596.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 800A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 800A",
         "url": "https://images.toastduck.com/0711320320a1ee8c.jpg"
     },
     {
@@ -2172,7 +2172,7 @@ const list = [
         "orderId": "710053300000215",
         "model": "NXM-250H/4300B 200A",
         "price": "1013.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A",
         "url": "https://images.toastduck.com/0711320320257240.jpg"
     },
     {
@@ -2188,7 +2188,7 @@ const list = [
         "orderId": "710053300000147",
         "model": "NXM-125H/4300B 100A",
         "price": "612.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A",
         "url": "https://images.toastduck.com/0711320320bee2b0.jpg"
     },
     {
@@ -2196,7 +2196,7 @@ const list = [
         "orderId": "710053300000204",
         "model": "NXM-400H/3300 320A",
         "price": "1733.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A | Rated current: 320A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A | Rated current: 320A",
         "url": "https://images.toastduck.com/07113203204b6659.jpg"
     },
     {
@@ -2204,7 +2204,7 @@ const list = [
         "orderId": "710053300000161",
         "model": "NXM-250H/4300B 180A",
         "price": "1013.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A",
         "url": "https://images.toastduck.com/0711320320257240.jpg"
     },
     {
@@ -2212,7 +2212,7 @@ const list = [
         "orderId": "710053300000142",
         "model": "NXM-125H/4300B 32A",
         "price": "612.00",
-        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A",
+        "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A",
         "url": "https://images.toastduck.com/0711320320bee2b0.jpg"
     },
     {
@@ -2220,7 +2220,7 @@ const list = [
         "orderId": "710053300000280",
         "model": "NXM-400H/3200G 350A",
         "price": "2110.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A",
         "url": "https://images.toastduck.com/07113203204b6659.jpg"
     },
     {
@@ -2228,7 +2228,7 @@ const list = [
         "orderId": "710053300000278",
         "model": "NXM-400H/3200G 315A",
         "price": "2110.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 400A",
         "url": "https://images.toastduck.com/07113203204b6659.jpg"
     },
     {
@@ -2236,7 +2236,7 @@ const list = [
         "orderId": "710053300000264",
         "model": "NXM-250H/3200G 200A",
         "price": "990.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -2244,7 +2244,7 @@ const list = [
         "orderId": "710053300000262",
         "model": "NXM-250H/3200G 160A",
         "price": "990.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 250A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -2252,7 +2252,7 @@ const list = [
         "orderId": "710053300000251",
         "model": "NXM-160H/3200G 63A",
         "price": "926.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 160A",
         "url": "https://images.toastduck.com/07113203209ca1bc.jpg"
     },
     {
@@ -2260,7 +2260,7 @@ const list = [
         "orderId": "710053300000053",
         "model": "NXM-800S/3300 630A",
         "price": "3133.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 800A | Rated current: 630A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 800A | Rated current: 630A",
         "url": "https://images.toastduck.com/0711320320db2943.jpg"
     },
     {
@@ -2324,7 +2324,7 @@ const list = [
         "orderId": "710053300000129",
         "model": "NXM-125H/3300 40A",
         "price": "453.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 40A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: H class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 125A | Rated current: 40A",
         "url": "https://images.toastduck.com/0711320320041274.jpg"
     },
     {
@@ -2332,7 +2332,7 @@ const list = [
         "orderId": "710053300000054",
         "model": "NXM-800S/3300 700A",
         "price": "3133.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 800A | Rated current: 700A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 800A | Rated current: 700A",
         "url": "https://images.toastduck.com/0711320320db2943.jpg"
     },
     {
@@ -2354,9 +2354,9 @@ const list = [
     {
         "showPrice": "99.35",
         "orderId": "710053300010671",
-        "model": "NXM-63S/2300 20A备",
+        "model": "NXM-63S/2300 20A spare",
         "price": "266.00",
-        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 20A",
+        "remark": "Series: NXM | Number of poles: 2P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 63A | Rated current: 20A",
         "url": "https://images.toastduck.com/0711320320092ba5.jpg"
     },
     {
@@ -2370,17 +2370,17 @@ const list = [
     {
         "showPrice": "737.65",
         "orderId": "T710053300006853-T3",
-        "model": "特NXM-125SP/3320 125A AC230V",
+        "model": "Special NXM-125SP/3320 125A AC230V",
         "price": "1975.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Plug-in type | Operation method:Manual operation | Wiring method:Front wiring | Frame current: 125A | Rated current: 125A | Rated voltage:AC400V",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Plug-in type | Operation method:Manual operation | Wiring method:Front wiring | Frame current: 125A | Rated current: 125A | Rated voltage:AC400V",
         "url": "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png"
     },
     {
         "showPrice": "861.65",
         "orderId": "T710053300006917-T1",
-        "model": "特NXM-250SP/3320 200A AC230V",
+        "model": "Special NXM-250SP/3320 200A AC230V",
         "price": "2307.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Plug-in type | Operation method:Manual operation | Wiring method:Front wiring | Frame current: 250A | Rated current: 200A | Rated voltage:AC400V",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Plug-in type | Operation method:Manual operation | Wiring method:Front wiring | Frame current: 250A | Rated current: 200A | Rated voltage:AC400V",
         "url": "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png"
     },
     {
@@ -2388,7 +2388,7 @@ const list = [
         "orderId": "710053300003331",
         "model": "NXM-250SZ/3300 200A",
         "price": "858.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Draw-out type | Wiring method:Front wiring | Frame current: 250A | Rated current: 200A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Draw-out type | Wiring method:Front wiring | Frame current: 250A | Rated current: 200A",
         "url": "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png"
     },
     {
@@ -2396,7 +2396,7 @@ const list = [
         "orderId": "710053300003365",
         "model": "NXM-400SZ/3300 320A",
         "price": "1735.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Draw-out type | Wiring method:Front wiring | Frame current: 400A | Rated current: 320A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Draw-out type | Wiring method:Front wiring | Frame current: 400A | Rated current: 320A",
         "url": "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png"
     },
     {
@@ -2404,7 +2404,7 @@ const list = [
         "orderId": "710053300004809",
         "model": "NXM-630S/3340 500A AC230V",
         "price": "2518.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 630A | Rated current: 500A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 630A | Rated current: 500A",
         "url": "https://images.toastduck.com/0711320320103f87.jpg"
     },
     {
@@ -2444,7 +2444,7 @@ const list = [
         "orderId": "T710053300006917-T3",
         "model": "NXM-250SP/3320 250A AC230V",
         "price": "2307.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Plug-in type | Wiring method:Front wiring | Frame current: 250A | Rated current: 250A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Plug-in type | Wiring method:Front wiring | Frame current: 250A | Rated current: 250A",
         "url": "https://images.toastduck.com/07113203205209de.jpg"
     },
     {
@@ -2492,13 +2492,13 @@ const list = [
         "orderId": "T710053300008152-T1",
         "model": "NXM-630S/32002 500A",
         "price": "2280.00",
-        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S级 | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 630A | Rated current: 2A",
+        "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: S class | Trip unit type: Thermal-magnetic | Installation method:Fixed type | Wiring method:Front wiring | Frame current: 630A | Rated current: 2A",
         "url": "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png"
     },
     {
         "showPrice": "206.54",
         "orderId": "710053300011241",
-        "model": "NXM-125S/4200B 100A备",
+        "model": "NXM-125S/4200B 100A spare",
         "price": "553.00",
         "remark": "Series: NXM | Number of poles: 4P | Rated ultimate breaking capacity: 25kA | Trip unit type: Electromagnetic | Installation method:Fixed type | Operation method:Manual | Wiring method:Front wiring | Frame current: 125A | Rated current: 100A | Rated voltage:AC400V",
         "url": "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png"
@@ -2538,7 +2538,7 @@ const list = [
     {
         "showPrice": "250.99",
         "orderId": "T710053300008127-T1",
-        "model": "特 NXM-250S/3200 140A",
+        "model": "Special NXM-250S/3200 140A",
         "price": "672.00",
         "remark": "Series: NXM | Number of poles: 3P | Rated ultimate breaking capacity: 36kA | Trip unit type: Electromagnetic | Installation method:Fixed type | Operation method:Direct handle operation | Wiring method:Front wiring | Frame current: 250A | Rated voltage:230/240,400/415,500,690V",
         "url": "https://images.toastduck.com/default-01KPA529T747DE7ZV6D72A56TX.png"

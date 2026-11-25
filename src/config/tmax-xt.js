@@ -3917,7 +3917,7 @@ const tmax = [
     price: "26598.26",
     showPrice: "26598.26",
     remark:
-      "Series: Tmax XT | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method:Current protection，Remote control | Operation method:Manual molded case circuit breaker | Wiring method:Front terminal wiring | Frame current: 1600A | Rated current: 1600A",
+      "Series: Tmax XT | Number of poles: 3P | Rated ultimate breaking capacity: 50kA | Trip unit type: Electronic | Installation method:Current protection, Remote control | Operation method:Manual molded case circuit breaker | Wiring method:Front terminal wiring | Frame current: 1600A | Rated current: 1600A",
     url: "https://img20.360buyimg.com/vc/s280x280_jfs/t1/397761/27/5885/26048/699fab7bF87d9239a/0711320320979574.jpg.avif",
   },
   {

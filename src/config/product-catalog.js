@@ -55,6 +55,7 @@ export const PRODUCT_CATALOG = {
   ],
   Schneider: [
     { model: "EZD", type: "Molded case circuit breaker" },
+    { model: "GV2", type: "Motor circuit breaker" },
     { model: "CVS", type: "Molded case circuit breaker" },
     { model: "LC1D", type: "AC contactor" },
     { model: "ATV12", type: "VFD" },
@@ -78,9 +79,10 @@ export const PRODUCT_CATALOG = {
     { model: "S7-1500", type: "PLC" },
     { model: "PLC-1500", type: "PLC" },
     { model: "3TS", type: "Contactor" },
+    { model: "3RT5", type: "Contactor" },
+    { model: "3RT6", type: "Contactor" },
     { model: "3RT20", type: "Power Contactor" },
-    { model: "3RT6" },
-    // { model: 'S7-200 SMART G2', type: 'PLC' },
+    { model: "3RT25", type: "Power Contactor" },
     { model: "HMI", type: "touchscreen" },
   ],
   Panasonic: [

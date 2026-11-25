@@ -1,6 +1,3 @@
-import { diffAndMergeLists } from "./../utils/difference";
-import TargetList from "./a-target";
-
 import Tmax from "./tmax";
 import TmaxXT from "./tmax-xt";
 import CVS from "./csv";
@@ -69,8 +66,14 @@ import NXC from './nxc'
 import CM3L from './CM3L'
 import DZ15LE from './DZ15LE'
 import EZD from './EZD'
+import GV2 from './GV2'
+import threert25 from './three-RT25'
+import threert5 from './three-RT5'
 
 const obj = {
+  '3RT25': threert25,
+  '3RT5': threert5,
+  GV2,
   EZD,
   DZ15LE,
   CM3L,
@@ -141,13 +144,13 @@ const obj = {
   "S7-400": s7400,
 };
 
-// 统计总共多少产品条目
+// Count total product entries
 // console.log(
 //   "items=",
 //   Object.values(obj).reduce((rs, items) => rs + items.length, 0),
 // );
 
-// 统计新旧列表差异
+// Compare old and new lists
 // console.log(
 //   "diff:",
 //   diffAndMergeLists({

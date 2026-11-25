@@ -1216,7 +1216,7 @@ const list = [
   },
   {
     orderId: "CDM1800M8003TP",
-    model: "CDM1-800M/3300 800A带6块Copper busbar",
+    model: "CDM1-800M/3300 800A with 6 copper busbars",
     price: "5311.99",
     showPrice: "5311.99",
     remark:
@@ -2557,7 +2557,7 @@ const list = [
   },
   {
     orderId: "CDM1225M2254210MDZ",
-    model: "CDM1-250M/42102 225A DC24VScrew3公分长",
+    model: "CDM1-250M/42102 225A DC24V Screw 3cm length",
     price: "1276",
     showPrice: "1276",
     remark:
@@ -6427,7 +6427,7 @@ const list = [
   },
   {
     orderId: "CDM1225L2003PPCX15",
-    model: "CDM1-250L/3310F 200A Prepaid Wire length1.5米",
+    model: "CDM1-250L/3310F 200A Prepaid Wire length 1.5m",
     price: "981",
     showPrice: "981",
     remark:
@@ -6598,7 +6598,7 @@ const list = [
   },
   {
     orderId: "CDM1100L1003PPCX15",
-    model: "CDM1-125L/3310F 100A Prepaid Wire length1.5米",
+    model: "CDM1-125L/3310F 100A Prepaid Wire length 1.5m",
     price: "669.01",
     showPrice: "669.01",
     remark:
@@ -6742,7 +6742,7 @@ const list = [
   },
   {
     orderId: "CDM1225L1003PPCX15",
-    model: "CDM1-250L/3310F 100A Prepaid Wire length1.5米",
+    model: "CDM1-250L/3310F 100A Prepaid Wire length 1.5m",
     price: "981",
     showPrice: "981",
     remark:
