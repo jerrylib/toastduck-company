@@ -92,7 +92,7 @@ const list = [
     model: "6ES75163AN020AB0",
     price: "53579.51",
     showPrice: "26245.78",
-    remark: "Series: S7-1500 | Product type:CPU 1516-3 PN/DP (Standard type) | Total I/O points:Without integratedI/O | Power supply voltage: DC24V | Communication interface:PROFINET IRT (2Port)、 PROFINET RT、PROFIBUS DP",
+    remark: "Series: S7-1500 | Product type:CPU 1516-3 PN/DP (Standard type) | Total I/O points:Without integratedI/O | Power supply voltage: DC24V | Communication interface:PROFINET IRT (2Port),  PROFINET RT, PROFIBUS DP",
     url: "https://images.toastduck.com/767221bf57edbda9.jpg",
   },
   {
@@ -236,7 +236,7 @@ const list = [
     model: "6ES75411AB010AB0",
     price: "5474.00",
     showPrice: "6595.18",
-    remark: "Series: S7-1500 | Product type:Communication module | Communication type:RS422/485 | Interface type:RS422/485 | Maximum transmission speed:250kbit/s | Number of interfaces:8个 | Dimensions:35mm*147mm*127mm",
+    remark: "Series: S7-1500 | Product type:Communication module | Communication type:RS422/485 | Interface type:RS422/485 | Maximum transmission speed:250kbit/s | Number of interfaces:8 | Dimensions:35mm*147mm*127mm",
     url: "https://images.toastduck.com/071132032003a26b.jpg",
   },
   {
@@ -252,7 +252,7 @@ const list = [
     model: "6ES75163AP030AB0",
     price: "25184.00",
     showPrice: "30342.17",
-    remark: "Series: S7-1500 | Product type:CPU 1516-3 PN/DP (High-performance type) | Total I/O points:Without integratedI/O | Power supply voltage: DC24V | Communication interface:PROFINET IRT (2Port)、 PROFINET RT、PROFIBUS DP",
+    remark: "Series: S7-1500 | Product type:CPU 1516-3 PN/DP (High-performance type) | Total I/O points:Without integratedI/O | Power supply voltage: DC24V | Communication interface:PROFINET IRT (2Port),  PROFINET RT, PROFIBUS DP",
     url: "https://images.toastduck.com/ecde4b03d5afcd70.jpg",
   },
   {

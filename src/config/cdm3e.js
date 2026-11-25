@@ -113,7 +113,7 @@ const list = [
   },
   {
     orderId: "M3E400M4003328P7I",
-    model: "CDM3E-400M 3328 400A Electric operationAC230V 过报AC",
+    model: "CDM3E-400M 3328 400A Electric operationAC230V overload alarm AC",
     price: "6489",
     showPrice: "6489",
     remark:
@@ -177,7 +177,7 @@ const list = [
   },
   {
     orderId: "M3E125M125C300S2",
-    model: "CDM3E-125M 4300C 125A 3遥AC230V",
+    model: "CDM3E-125M 4300C 125A 3-telemetry AC230V",
     price: "3498.01",
     showPrice: "3498.01",
     remark:
@@ -185,7 +185,7 @@ const list = [
   },
   {
     orderId: "M3E250M2503320S2",
-    model: "CDM3E-250M 3320 250A 3遥AC230V",
+    model: "CDM3E-250M 3320 250A 3-telemetry AC230V",
     price: "3227",
     showPrice: "3227",
     remark:
@@ -233,7 +233,7 @@ const list = [
   },
   {
     orderId: "M3E400M400C318AN",
-    model: "CDM3E-400M 4318C 400A Shunt tripAC230V 过报DC24V",
+    model: "CDM3E-400M 4318C 400A Shunt tripAC230V overload alarm DC24V",
     price: "4110",
     showPrice: "4110",
     remark:
@@ -241,7 +241,7 @@ const list = [
   },
   {
     orderId: "M3E630M6303328P7I",
-    model: "CDM3E-630M 3328 630A Electric operationAC230V 过报AC",
+    model: "CDM3E-630M 3328 630A Electric operationAC230V overload alarm AC",
     price: "7075",
     showPrice: "7075",
     remark:
@@ -353,7 +353,7 @@ const list = [
   },
   {
     orderId: "M3E125M1253320S2",
-    model: "CDM3E-125M 3320 125A 3遥AC230V",
+    model: "CDM3E-125M 3320 125A 3-telemetry AC230V",
     price: "3044.01",
     showPrice: "3044.01",
     remark:
@@ -393,7 +393,7 @@ const list = [
   },
   {
     orderId: "M3E125M0633320S2",
-    model: "CDM3E-125M 3320 63A 3遥AC230V",
+    model: "CDM3E-125M 3320 63A 3-telemetry AC230V",
     price: "3044.01",
     showPrice: "3044.01",
     remark:
@@ -449,7 +449,7 @@ const list = [
   },
   {
     orderId: "M3E630M630C300I",
-    model: "CDM3E-630M 4300C 630A 过报AC",
+    model: "CDM3E-630M 4300C 630A overload alarm AC",
     price: "4949",
     showPrice: "4949",
     remark:
@@ -537,7 +537,7 @@ const list = [
   },
   {
     orderId: "M3E630M6303320S2",
-    model: "CDM3E-630M 3320 630A 3遥AC230V",
+    model: "CDM3E-630M 3320 630A 3-telemetry AC230V",
     price: "4960",
     showPrice: "4960",
     remark:
@@ -553,7 +553,7 @@ const list = [
   },
   {
     orderId: "M3E400M4003368I",
-    model: "CDM3E-400M 3368 400A 过报AC",
+    model: "CDM3E-400M 3368 400A overload alarm AC",
     price: "3675",
     showPrice: "3675",
     remark:
@@ -593,7 +593,7 @@ const list = [
   },
   {
     orderId: "M3E250M2503310AS2",
-    model: "CDM3E-250M 3310 250A Shunt trip/3遥AC230V",
+    model: "CDM3E-250M 3310 250A Shunt trip/3-telemetry AC230V",
     price: "3281",
     showPrice: "3281",
     remark:
