@@ -8,6 +8,8 @@ const Team = () => {
       position: "CEO, Founder",
       socialLinks: [
         { icon: "fa-facebook", href: "https://www.facebook.com/profile.php?id=61572340576005" },
+        { icon: "fa-facebook", href: "https://www.facebook.com/profile.php?id=61596202294752" },
+        { icon: "fa-facebook", href: "https://www.facebook.com/profile.php?id=61594751227438" },
         ...socialLinks,
       ],
     },
