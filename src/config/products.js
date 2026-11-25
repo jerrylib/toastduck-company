@@ -49,11 +49,11 @@ import MHM from "./mhm";
 import MINASA6 from "./minis-a6";
 import NXB63 from "./nxb-63";
 import NB1_63 from "./nb1-63";
-import NB1_63DC from "./nb1-63dc";
+import NB1_63DC from "./NB1-63DC";
 import NB7 from "./nb7";
 import NXB125 from "./nxb-125";
 import nb1_63h from "./nb1-63h";
-import S200 from "./s200";
+import S200 from "./S200";
 import SH200 from "./sh200";
 import S200MDC from "./s200mdc";
 import S200MUC from "./s200muc";
@@ -68,7 +68,7 @@ import DZ15LE from './DZ15LE'
 import EZD from './EZD'
 import GV2 from './GV2'
 import threert25 from './three-RT25'
-import threert5 from './three-RT5'
+import threert5 from './three-rt5'
 
 const obj = {
   '3RT25': threert25,
