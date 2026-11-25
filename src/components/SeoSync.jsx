@@ -5,6 +5,7 @@ import {
   PRODUCTS_INDEX_SEO,
   SITE_URL,
 } from "../config/product-seo";
+import { PC_PARTS_INDEX_SEO } from "../config/pc-parts-catalog";
 
 const HOME_SEO = {
   url: `${SITE_URL}/`,
@@ -78,6 +79,10 @@ export default function SeoSync() {
     }
     if (location.pathname.startsWith("/news")) {
       applySEO(NEWS_SEO);
+      return;
+    }
+    if (location.pathname.replace(/\/+$/, "") === "/pc-parts") {
+      applySEO(PC_PARTS_INDEX_SEO);
       return;
     }
     // default: home

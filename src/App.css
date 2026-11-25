@@ -2,11 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Floating side buttons (right edge). Vertical offsets are spaced 5px apart:
+   back-to-top arrow / PC parts (bottom row) → Products → WhatsApp #2 → WhatsApp #1 */
 @layer components {
   .ui-to-top-products {
     position: fixed;
     right: 40px;
-    bottom: 100px;
+    bottom: 150px;
     width: 50px;
     height: 50px;
     display: flex;
@@ -36,16 +38,78 @@
     }
   }
 
-  .ui-to-top-whatsapp {
+  /* PC parts shortcut. Sits in a second column to the LEFT of the back-to-top
+     arrow (public/css/style.css: .ui-to-top), which otherwise covers this slot
+     once the page is scrolled down. */
+  .ui-to-top-pcparts {
     position: fixed;
     right: 40px;
-    bottom: 155px;
+    bottom: 95px;
     width: 50px;
     height: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
     z-index: 20;
+    transition: 0.3s all ease;
+    color: #fff;
+    background: oklch(76.8% 0.233 130.85);
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+  }
+
+  .ui-to-top-pcparts:hover {
+    color: #fff;
+    background: oklch(44% 0.15 290);
+  }
+
+  .ui-to-top-pcparts:focus {
+    outline: 0;
+  }
+
+  /* On narrow screens the back-to-top arrow moves to right 15 / bottom 65,
+     so step the PC parts button one slot to its left. */
+  @media (max-width: 575.98px) {
+    .ui-to-top-pcparts {
+      right: 70px;
+      bottom: 65px;
+    }
+  }
+
+  /* WhatsApp rows: the wrapper holds the fixed position so the contact name
+     label can sit to the left of the round icon button. */
+  .ui-whatsapp {
+    position: fixed;
+    right: 40px;
+    bottom: 205px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 8px;
+    z-index: 20;
+  }
+
+  .ui-whatsapp-name {
+    padding: 4px 10px;
+    font-size: 13px;
+    line-height: 1.2;
+    font-weight: 600;
+    white-space: nowrap;
+    color: #0b3b23;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 9999px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.18);
+    pointer-events: none;
+  }
+
+  .ui-to-top-whatsapp {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
     transition: 0.3s all ease;
     color: #fff;
     background: rgb(33, 192, 99);
@@ -64,7 +128,7 @@
   }
 
   @media (max-width: 575.98px) {
-    .ui-to-top-whatsapp {
+    .ui-whatsapp {
       right: 15px;
     }
   }

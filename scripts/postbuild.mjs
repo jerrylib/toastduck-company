@@ -10,6 +10,7 @@ import {
   getProductSEO,
   PRODUCTS_INDEX_SEO,
 } from "../src/config/product-seo.js";
+import { PC_PARTS_INDEX_SEO } from "../src/config/pc-parts-catalog.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const distDir = join(__dirname, "..", "dist");
@@ -275,6 +276,7 @@ function buildSitemap(productRoutes, newsRoutes) {
   urls.push({ loc: `${SITE_URL}/`, priority: "0.8", changefreq: "weekly" });
   urls.push({ loc: `${SITE_URL}/news`, priority: "0.6", changefreq: "daily" });
   urls.push({ loc: `${SITE_URL}/products`, priority: "0.7", changefreq: "weekly" });
+  urls.push({ loc: `${SITE_URL}/pc-parts`, priority: "0.7", changefreq: "weekly" });
   for (const r of productRoutes) {
     urls.push({ loc: r.url, priority: "0.8", changefreq: "weekly" });
   }
@@ -322,6 +324,10 @@ async function main() {
   // /products index page
   const productsIndexHtml = renderPage(template, PRODUCTS_INDEX_SEO);
   writeHtml("products/index.html", productsIndexHtml);
+
+  // /pc-parts index page
+  const pcPartsIndexHtml = renderPage(template, PC_PARTS_INDEX_SEO);
+  writeHtml("pc-parts/index.html", pcPartsIndexHtml);
 
   // /products/:type pages (static body + Product schema)
   for (const route of productRoutes) {
@@ -382,7 +388,7 @@ async function main() {
   const sitemap = buildSitemap(productRoutes, newsRoutes);
   writeFileSync(join(distDir, "sitemap.xml"), sitemap, "utf-8");
   console.log(
-    `  wrote sitemap.xml (${productRoutes.length + 3 + newsRoutes.length} URLs)`,
+    `  wrote sitemap.xml (${productRoutes.length + 4 + newsRoutes.length} URLs)`,
   );
 
   console.log("Post-build SEO prerender complete.");
