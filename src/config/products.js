@@ -12,7 +12,7 @@ import DZ15 from "./dz15";
 import DZ20 from "./dz20";
 import NM1 from "./NM1";
 import NXB63G from "./NXB-63G";
-import NXMS from "./nxms";
+import NXMS from "./NXMS";
 import NXM from "./NXM";
 import CDM1 from "./cdm1";
 import CDM1L from "./CDM1L";
