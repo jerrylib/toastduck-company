@@ -34,20 +34,22 @@ const formatPrice = (price, showPrice) => {
   );
 };
 
-// 模糊匹配：在 orderId / model / specification（remark 按 | 分割）中查找关键词
+// 模糊匹配：keyword 可用空格分隔多个关键词（AND 关系，全部命中才算匹配）。
+// 单个关键词在 orderId / model / specification（remark 按 | 分割）任一字段中命中即可。
 const matchesKeyword = (item, keyword) => {
-  if (!keyword) return true;
-  const kw = keyword.toLowerCase();
-  const orderId = (item.orderId || "").toLowerCase();
-  const model = (item.model || "").toLowerCase();
-  const spec = (item.remark || "")
-    .split("|")
-    .map((line) => line.trim())
-    .join(" ")
-    .toLowerCase();
-  return (
-    orderId.includes(kw) || model.includes(kw) || spec.includes(kw)
-  );
+  const terms = (keyword || "").toLowerCase().split(/\s+/).filter(Boolean);
+  if (terms.length === 0) return true;
+
+  const haystacks = [
+    item.orderId || "",
+    item.model || "",
+    (item.remark || "")
+      .split("|")
+      .map((line) => line.trim())
+      .join(" "),
+  ].map((text) => text.toLowerCase());
+
+  return terms.every((term) => haystacks.some((text) => text.includes(term)));
 };
 
 const Tmax = () => {
