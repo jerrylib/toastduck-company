@@ -1,20 +1,20 @@
-import Tmax from "./tmax";
-import TmaxXT from "./tmax-xt";
-import CVS from "./csv";
-import Formula from "./formula";
+import Tmax from "./Tmax";
+import TmaxXT from "./TmaxXT";
+import CVS from "./CVS";
+import Formula from "./Formula";
 import TmaxDC from "./tmax-dc";
 import FormulaM from "./formula-m";
 import LC1D from "./LC1D";
 import threeTS from "./three-ts";
 import threeRT20 from "./three-rt20";
 import threeRT6 from "./three-rt6";
-import DZ15 from "./dz15";
-import DZ20 from "./dz20";
+import DZ15 from "./DZ15";
+import DZ20 from "./DZ20";
 import NM1 from "./NM1";
 import NXB63G from "./NXB-63G";
 import NXMS from "./NXMS";
 import NXM from "./NXM";
-import CDM1 from "./cdm1";
+import CDM1 from "./CDM1";
 import CDM1L from "./CDM1L";
 import CDM3S from "./cdm3s";
 import CDM3LS from "./CDM3LS";
@@ -69,8 +69,14 @@ import EZD from './EZD'
 import GV2 from './GV2'
 import threert25 from './three-RT25'
 import threert5 from './three-rt5'
+import CDM10 from './CDM10'
+import NS from './NS'
+import NSX from './NSX'
 
 const obj = {
+  NS,
+  NSX,
+  CDM10,
   '3RT25': threert25,
   '3RT5': threert5,
   GV2,
@@ -117,9 +123,11 @@ const obj = {
   ACS550: acs550,
   Tmax,
   "Tmax XT": TmaxXT,
+  TmaxXT,
   CVS,
   Formula,
   "Tmax DC": TmaxDC,
+  TmaxDC,
   "Formula M": FormulaM,
   LC1D,
   "3TS": threeTS,
