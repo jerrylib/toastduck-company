@@ -8,11 +8,15 @@
 
 export const PC_PARTS_CATALOG = {
   "Brand-new & Original": [
-    { model: "RAM", type: "NVMe SSD" },
+    { model: "RAM", type: "DDR5" },
+    { model: "RAM", type: "DDR4: 2133/2400/2666/3200Mhz" },
+    { model: "SSD", type: "SSD SATA" },
+    { model: "CPU", type: "Intel Core i3/i5/i7/i9" },
+    { model: "AMD", type: "AMD Ryzen 3/5/7/9" },
+    { model: "Graphics Card", type: "" },
+    { model: "CPU cooling fan", type: "" },
   ],
-  "Used": [
-     { model: "RAM", type: "NVMe SSD" },
-  ],
+  Used: [{ model: "RAM", type: "NVMe SSD" }],
 };
 
 export const PC_PARTS_INDEX_SEO = {
