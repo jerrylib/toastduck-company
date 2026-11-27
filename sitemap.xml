@@ -133,6 +133,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://company.toastduck.com/products/CDM10</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://company.toastduck.com/products/CDM3S</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -163,13 +169,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://company.toastduck.com/products/Tmax%20XT</loc>
+    <loc>https://company.toastduck.com/products/TmaxXT</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://company.toastduck.com/products/Tmax%20DC</loc>
+    <loc>https://company.toastduck.com/products/TmaxDC</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -278,6 +284,18 @@
   </url>
   <url>
     <loc>https://company.toastduck.com/products/CVS</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://company.toastduck.com/products/NS</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://company.toastduck.com/products/NSX</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
